@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+<atom:link href="https://onefooter.show/rss.xml" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+
+<generator>Stuff &amp; Nonsense</generator>
+<title>One Footer in the Grave</title>
+<description>With one foot in the door of their retirement home for senior web designers, Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington get together once a month to distract eachother from everyday life and work. The show’s funny and frivolous and the chaps have a genuinely unique chemistry which will entertain you if you work on the web and even if you don’t.</description>
+
+<copyright>2021–Now: Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</copyright>
+
+<language>en</language>
+
+<pubDate>Fri, 31 November 2025 12:00:00 +0000</pubDate>
+<lastBuildDate>Fri, 31 November 2025 12:00:00 +0000</lastBuildDate>
+
+<image>
+<link>https://onefooter.show</link>
+<title>One Footer in the Grave</title>
+<url>https://onefooter.show/img/artwork.png</url>
+</image>
+
+<link>https://onefooter.show</link>
+
+<itunes:type>episodic</itunes:type>
+<itunes:summary>With one foot in the door of their retirement home for senior web designers, Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington get together once a month to distract eachother from everyday life and work. The show’s funny and frivolous and the chaps have a genuinely unique chemistry which will entertain you if you work on the web and even if you don’t.</itunes:summary>
+<itunes:author>Paul Boag, Andy Clarke, and Marcus Lillington, Jon Hicks</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://onefooter.show/img/artwork.png"/>
+<itunes:new-feed-url>https://onefooter.show/rss.xml</itunes:new-feed-url>
+<itunes:keywords>comedy, design, film and tv, talk</itunes:keywords>
+<itunes:owner>
+<itunes:name>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:name>
+<itunes:email>andy.clarke@stuffandnonsense.co.uk</itunes:email>
+</itunes:owner>
+<itunes:category text="Comedy">
+<itunes:category text="Improv"/>
+</itunes:category>
+<itunes:category text="Technology"/>
+<itunes:category text="Arts">
+<itunes:category text="Design"/>
+</itunes:category>
+
+<item>
+<guid isPermaLink="false">3c892ab9-3e1c-4463-8e33-642c004fd12e</guid>
+<title>The dot of shame</title>
+<description><![CDATA[Andy, Jon, Marcus, and Paul are back for another episode. They talk about Jon&#8217;s move back to working at home and their tips for doing it without losing your mind. But before that, Andy makes an apology and Marcus mentions the dot of shame.]]></description>
+<pubDate>Thu, 30 October 2025 12:00:00 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-018.html</link>
+<enclosure length="31897080" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-018.mp3"/>
+<itunes:title>The dot of shame</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:43:55</itunes:duration>
+<itunes:summary>Andy, Jon, Marcus, and Paul are back for another episode. They talk about Jon&#8217;s move back to working at home and their tips for doing it without losing your mind. But before that, Andy makes an apology and Marcus mentions the dot of shame.</itunes:summary>
+<itunes:subtitle>Andy, Jon, Marcus, and Paul are back for another episode. They talk about Jon&#8217;s move back to working at home and their tips for doing it without losing your mind. But before that, Andy makes an apology and Marcus mentions the dot of shame.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>18</itunes:episode>
+</item>
+
+<item>
+<guid isPermaLink="false">3c892ab9-3e1c-4463-8e33-642c004fd12d</guid>
+<title>A possible logo emergency</title>
+<description><![CDATA[Andy, Jon, Marcus, and Paul are back for another silly episode. They talk about Paul’s new caravan, Andy’s semi-retirement, and Marcus giving up beer. But the episode is interrupted in a dramatic fashion when Jon is involved in a serious logo emergency. If you haven’t listened for a while, this one’s a belter!]]></description>
+<pubDate>Tue, 12 August 2025 12:00:00 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-017.html</link>
+<enclosure length="35746170" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-017.mp3"/>
+<itunes:title>A possible logo emergency</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:48:04</itunes:duration>
+<itunes:summary>Andy, Jon, Marcus, and Paul are back for another silly episode. They talk about Paul’s new caravan, Andy’s semi-retirement, and Marcus giving up beer. But the episode is interrupted in a dramatic fashion when Jon is involved in a serious logo emergency. If you haven’t listened for a while, this one’s a belter!</itunes:summary>
+<itunes:subtitle>Andy, Jon, Marcus, and Paul are back for another silly episode. They talk about Paul’s new caravan, Andy’s semi-retirement, and Marcus giving up beer. But the episode is interrupted in a dramatic fashion when Jon is involved in a serious logo emergency. If you haven’t listened for a while, this one’s a belter!</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>17</itunes:episode>
+</item>
+
+<item>
+<guid isPermaLink="false">3c892ab9-3e1c-4463-8e33-642c004fd11c</guid>
+<title>Contorted in a Nissan Qashqai</title>
+<description><![CDATA[Back after their summer break, the four chaps decide whether each other’s improbable stories are a lie or the truth. Jon talks about his new car, Andy brings up his gout, and neither are at all cross about Paul and Marcus restarting the Boagworld podcast. This episode of One Footer in the Grave is appropriately sponsored by Allopurinol, the gout medication for when your big toe hurts like a b@stard.
+]]></description>
+<pubDate>Wed, 16 Oct 2024 11:53:15 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-016.html</link>
+<enclosure length="34882252" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-016.mp3"/>
+<itunes:title>Contorted in a Nissan Qashqai</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:48:04</itunes:duration>
+<itunes:summary>Back after their summer break, the four chaps decide whether each other’s improbable stories are a lie or the truth. Jon talks about his new car, Andy brings up his gout, and neither are at all cross about Paul and Marcus restarting the Boagworld podcast. This episode of One Footer in the Grave is appropriately sponsored by Allopurinol, the gout medication for when your big toe hurts like a b@stard.</itunes:summary>
+<itunes:subtitle>Back after their summer break, the four chaps decide whether each other’s improbable stories are a lie or the truth. Jon talks about his new car, Andy brings up his gout, and neither are at all cross about Paul and Marcus restarting the Boagworld podcast. This episode of One Footer in the Grave is appropriately sponsored by Allopurinol, the gout medication for when your big toe hurts like a b@stard.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>16</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">156f6acd-12ac-4122-97ff-09f8a8afd414</guid>
+<title>Vote for me or the baby gets it</title>
+<description><![CDATA[It’s UK General Election time and the chaps have gathered to discuss it, but without mentioning politics. What would their top policies be if they were running for office? What do they think of novelty candidates like Count Binface? Plus, why are political party websites so terrible? Andy tells his story about being in the audience for BBC Question Time and the strange tale of designing for an intergalactic space warrior.
+]]></description>
+<pubDate>Tue, 2 Jul 2024 09:57:24 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-015.html</link>
+<enclosure length="40254632" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-015.mp3"/>
+<itunes:title>Vote for me or the baby gets it</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:55:42</itunes:duration>
+<itunes:summary>It’s UK General Election time and the chaps have gathered to discuss it, but without mentioning politics. What would their top policies be if they were running for office? What do they think of novelty candidates like Count Binface? Plus, why are political party websites so terrible? Andy tells his story about being in the audience for BBC Question Time and the strange tale of designing for an intergalactic space warrior.</itunes:summary>
+<itunes:subtitle>It’s UK General Election time and the chaps have gathered to discuss it, but without mentioning politics. What would their top policies be if they were running for office? What do they think of novelty candidates like Count Binface? Plus, why are political party websites so terrible? Andy tells his story about being in the audience for BBC Question Time and the strange tale of designing for an intergalactic space warrior.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>15</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">6561eedd-080b-4a70-87aa-37ee9197c432</guid>
+<title>Scarlett Johansson is in the room</title>
+<description><![CDATA[>Andy, Jon, Marcus, and Paul are back—sooner than expected—for another fun-packed episode. They talk about who’s voice they’d each like as an AI companion, Apple,Apple’s new iPads and why devices are now so thin that they crack when Andy sits on them. Then, inevitably, they discuss what they think about the new Dr Who.
+]]></description>
+<pubDate>Fri, 24 May 2024 16:16:27 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-014.html</link>
+<enclosure length="39126769" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-014.mp3"/>
+<itunes:title>Scarlett Johansson is in the room</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:54:08</itunes:duration>
+<itunes:summary>&gt;Andy, Jon, Marcus, and Paul are back—sooner than expected—for another fun-packed episode. They talk about who’s voice they’d each like as an AI companion, Apple,Apple’s new iPads and why devices are now so thin that they crack when Andy sits on them. Then, inevitably, they discuss what they think about the new Dr Who.</itunes:summary>
+<itunes:subtitle>&gt;Andy, Jon, Marcus, and Paul are back—sooner than expected—for another fun-packed episode. They talk about who’s voice they’d each like as an AI companion, Apple,Apple’s new iPads and why devices are now so thin that they crack when Andy sits on them. Then, inevitably, they discuss what they think about the new Dr Who.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>14</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">99574140-c67d-4e35-81a8-24d3f3df5091</guid>
+<title>Votre saucisse est très plastique</title>
+<description><![CDATA[The nerds of a feather are back for another episode. They talk about whether social media is now either dead or useless for promoting our work and whether old-fashioned email is replacing it. Paul explains his monthly newsletter strategy and how, for him, it’s replaced social media. Then, the boys discuss what they should do next, as they’ve (obviously) reached the pinnacle of their careers.
+]]></description>
+<pubDate>Wed, 24 Apr 2024 11:20:11 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-013.html</link>
+<enclosure length="37278837" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-013.mp3"/>
+<itunes:title>Votre saucisse est très plastique</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:51:34</itunes:duration>
+<itunes:summary>The nerds of a feather are back for another episode. They talk about whether social media is now either dead or useless for promoting our work and whether old-fashioned email is replacing it. Paul explains his monthly newsletter strategy and how, for him, it’s replaced social media. Then, the boys discuss what they should do next, as they’ve (obviously) reached the pinnacle of their careers.</itunes:summary>
+<itunes:subtitle>The nerds of a feather are back for another episode. They talk about whether social media is now either dead or useless for promoting our work and whether old-fashioned email is replacing it. Paul explains his monthly newsletter strategy and how, for him, it’s replaced social media. Then, the boys discuss what they should do next, as they’ve (obviously) reached the pinnacle of their careers.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>13</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">0a5e8974-8f8a-423b-8da2-462394d9cf21</guid>
+<title>Roasted Chestnuts with the Dreamtime Electric Blanket</title>
+<description><![CDATA[<p>The intention was that this would be our Festive episode. We get there eventually, but only once we've finished discussing:</p><ul><li>Andy's new Dreamtime Electric Blanket, the sponsor of the show</li><li>The new Dr Who - What do think? Were they right to change Davros? </li><li>Andy's shock DNA test results means he's not who he thought he was.</li><li>Marcus's intense suffering at earning lots of money.</li><li>Jon's <a href="https://mastodon.social/deck/tags/FestiveSandwichReviews">Festive Sandwich Reviews </a></li></ul><p>Fact check footnote: </p><ul><li>Jon mistakenly pronounces 'Ncuti' as 'Chooty' rather than 'Shooty')</li><li>It was Jo Grant (not Sarah Jane) that was in The Green Death, but it wasn't her first story (that was Terror of the Autons)</li></ul>
+]]></description>
+<pubDate>Tue, 12 Dec 2023 13:53:35 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-012.html</link>
+<content:encoded><![CDATA[<p>The intention was that this would be our Festive episode. We get there eventually, but only once we've finished discussing:</p><ul><li>Andy's new Dreamtime Electric Blanket, the sponsor of the show</li><li>The new Dr Who - What do think? Were they right to change Davros? </li><li>Andy's shock DNA test results means he's not who he thought he was.</li><li>Marcus's intense suffering at earning lots of money.</li><li>Jon's <a href="https://mastodon.social/deck/tags/FestiveSandwichReviews">Festive Sandwich Reviews </a></li></ul><p>Fact check footnote: </p><ul><li>Jon mistakenly pronounces 'Ncuti' as 'Chooty' rather than 'Shooty')</li><li>It was Jo Grant (not Sarah Jane) that was in The Green Death, but it wasn't her first story (that was Terror of the Autons)</li></ul>
+]]></content:encoded>
+<enclosure length="38862828" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-012.mp3"/>
+<itunes:title>Roasted Chestnuts with the Dreamtime Electric Blanket</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:53:46</itunes:duration>
+<itunes:summary>The intention was that this would be our Festive episode. Like the doddering old farts that we are, we get there eventually, but only once we&apos;ve finished discussing Andy&apos;s fancy new blanket.</itunes:summary>
+<itunes:subtitle>The intention was that this would be our Festive episode. Like the doddering old farts that we are, we get there eventually, but only once we&apos;ve finished discussing Andy&apos;s fancy new blanket.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>12</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">a971d571-1c23-463a-94cb-7dcb3fa0b0d0</guid>
+<title>A thing for Bouvier des Flandres</title>
+<description><![CDATA[In this delayed-release episode (recorded in May 2023), the chaps talk about Paul and Andy's joint seven week adventure in Recreation Vehicles around the United States of America earlier in the year. Did they fight or fall out? Or did they get along just fine in a way that doesn't make very entertaining listening?  Paul also gets to witness a 'Malarkey Regeneration' first hand!
+]]></description>
+<pubDate>Mon, 6 Nov 2023 19:39:10 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-011.html</link>
+<enclosure length="33126651" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-011.mp3"/>
+<itunes:title>A thing for Bouvier des Flandres</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:45:48</itunes:duration>
+<itunes:summary>In this delayed-release episode (recorded in May 2023), the chaps talk about Paul and Andy&apos;s joint seven week adventure in Recreation Vehicles around the United States of America earlier in the year. Did they fight or fall out? Or did they get along just fine in a way that doesn&apos;t make very entertaining listening?  Paul also gets to witness a &apos;Malarkey Regeneration&apos; first hand!</itunes:summary>
+<itunes:subtitle>In this delayed-release episode (recorded in May 2023), the chaps talk about Paul and Andy&apos;s joint seven week adventure in Recreation Vehicles around the United States of America earlier in the year. Did they fight or fall out? Or did they get along just fine in a way that doesn&apos;t make very entertaining listening?  Paul also gets to witness a &apos;Malarkey Regeneration&apos; first hand!</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>11</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">153358a9-3e1a-4a83-8e82-b8727038ce0a</guid>
+<title>AI talks to my wife</title>
+<description><![CDATA[It’s a new year, the year of artificial things. In this episode, the four chaps talk about artificial intelligence and artificial hips. Andy has a (painful) bone to pick with Paul but all he got in response was an AI-written apology. Finally, the talk Mastodon and why it’s better than Twitter.
+]]></description>
+<pubDate>Thu, 23 Feb 2023 21:35:47 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Jon Hicks, Andy Clarke, Marcus Lillington, Paul Boag)</author>
+<link>https://onefooter.show/episode-010.html</link>
+<enclosure length="42486847" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-010.mp3"/>
+<itunes:title>AI talks to my wife</itunes:title>
+<itunes:author>Jon Hicks, Andy Clarke, Marcus Lillington, Paul Boag</itunes:author>
+<itunes:duration>00:58:48</itunes:duration>
+<itunes:summary>It’s a new year, the year of artificial things. In this episode, the four chaps talk about artificial intelligence and artificial hips. Andy has a (painful) bone to pick with Paul but all he got in response was an AI-written apology. Finally, the talk Mastodon and why it’s better than Twitter.</itunes:summary>
+<itunes:subtitle>It’s a new year, the year of artificial things. In this episode, the four chaps talk about artificial intelligence and artificial hips. Andy has a (painful) bone to pick with Paul but all he got in response was an AI-written apology. Finally, the talk Mastodon and why it’s better than Twitter.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>10</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">1603115c-9a7e-420d-b100-99dd51e32b49</guid>
+<title>Tebbit was a monster</title>
+<description><![CDATA[After a fabulous summer of fun, the four fellas are back with an extra-long episode. Even though it’s only October, they talk about Christmas and Andy’s plan to escape to Costa Rica. The chaps discuss which celebrity we’d elect to parliament and which cabinet position we’d want most. Then, they talk about whether ghosts exist or Andy was just drunk. (This episode was recorded before Liz Catasussrophe was beaten by a lettuce.)
+]]></description>
+<pubDate>Thu, 27 Oct 2022 21:36:31 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Jon Hicks, Andy Clarke, Marcus Lillington)</author>
+<link>https://onefooter.show/episode-009.html</link>
+<enclosure length="43451550" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-009.mp3"/>
+<itunes:title>Tebbit was a monster</itunes:title>
+<itunes:author>Paul Boag, Jon Hicks, Andy Clarke, Marcus Lillington</itunes:author>
+<itunes:duration>01:00:20</itunes:duration>
+<itunes:summary>After a fabulous summer of fun, the four fellas are back with an extra-long episode. Even though it’s only October, they talk about Christmas and Andy’s plan to escape to Costa Rica. The chaps discuss which celebrity we’d elect to parliament and which cabinet position we’d want most. Then, they talk about whether ghosts exist or Andy was just drunk. (This episode was recorded before Liz Catasussrophe was beaten by a lettuce.)</itunes:summary>
+<itunes:subtitle>After a fabulous summer of fun, the four fellas are back with an extra-long episode. Even though it’s only October, they talk about Christmas and Andy’s plan to escape to Costa Rica. The chaps discuss which celebrity we’d elect to parliament and which cabinet position we’d want most. Then, they talk about whether ghosts exist or Andy was just drunk. (This episode was recorded before Liz Catasussrophe was beaten by a lettuce.)</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>9</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">636f1e06-adad-406c-92ff-a20c198d1f59</guid>
+<title>Norfolk an’ chance</title>
+<description><![CDATA[<ul><li><a href="https://www.postcardmodels.co.uk/shop/p/hampstead-shops-n-scale-1148">Postcard Models</a></li><li><a href="https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01116-luminor-marina-platinumtech---44mm.html">Panerai Luminor Marina</a></li><li><a href="https://www.iwc.com/gb/en/watch-collections/pilot-watches/iw501001-big-pilots-watch.html">IWC Big Pilot</a></li><li><a href="https://www.uboatwatch.com/product/capsoil-doppiotempo-dlc/ ">U-BOAT CAPSOIL</a></li></ul>
+]]></description>
+<pubDate>Sun, 10 Jul 2022 21:09:52 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-008.html</link>
+<content:encoded><![CDATA[<ul><li><a href="https://www.postcardmodels.co.uk/shop/p/hampstead-shops-n-scale-1148">Postcard Models</a></li><li><a href="https://www.panerai.com/gb/en/collections/watch-collection/luminor/pam01116-luminor-marina-platinumtech---44mm.html">Panerai Luminor Marina</a></li><li><a href="https://www.iwc.com/gb/en/watch-collections/pilot-watches/iw501001-big-pilots-watch.html">IWC Big Pilot</a></li><li><a href="https://www.uboatwatch.com/product/capsoil-doppiotempo-dlc/ ">U-BOAT CAPSOIL</a></li></ul>
+]]></content:encoded>
+<enclosure length="36731416" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-008.mp3"/>
+<itunes:title>Norfolk an’ chance</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:51:00</itunes:duration>
+<itunes:summary>In this new episode, Andy bought a watch which isn’t as expensive as the divorce he narrowly avoided after. Jon sadly missed his bird nerd holiday but bought himself a camera. Paul’s wife crushed his expensive headphones so he bought new ones. The chaps then talk about the things they buy which give them joy and what they’d do if or when they retire.</itunes:summary>
+<itunes:subtitle>In this new episode, Andy bought a watch which isn’t as expensive as the divorce he narrowly avoided after. Jon sadly missed his bird nerd holiday but bought himself a camera. Paul’s wife crushed his expensive headphones so he bought new ones. The chaps then talk about the things they buy which give them joy and what they’d do if or when they retire.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>8</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">beb35e75-8eae-43db-8f0a-96ee7fa3a1f5</guid>
+<title>Soggy looking swamp</title>
+<description><![CDATA[In this new episode, Andy, Jon, Paul, and Marcus discuss the first stage of Paul’s latest motorhome and midlife crisis. They talk about what they like to do when they’re not working and wrap things up by suggesting what Andy should do for his hobby.
+]]></description>
+<pubDate>Tue, 26 Apr 2022 19:35:47 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-007.html</link>
+<enclosure length="35851328" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-007.mp3"/>
+<itunes:title>Soggy looking swamp</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:49:35</itunes:duration>
+<itunes:summary>In this new episode, Andy, Jon, Paul, and Marcus discuss the first stage of Paul’s latest motorhome and midlife crisis. They talk about what they like to do when they’re not working and wrap things up by suggesting what Andy should do for his hobby.</itunes:summary>
+<itunes:subtitle>In this new episode, Andy, Jon, Paul, and Marcus discuss the first stage of Paul’s latest motorhome and midlife crisis. They talk about what they like to do when they’re not working and wrap things up by suggesting what Andy should do for his hobby.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>7</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">104c3644-1e0a-499c-8dfb-98ad849cabb6</guid>
+<title>Savoy cabbage and the kalettes</title>
+<description><![CDATA[It’s a new year and a new episode where the chaps make excuses about why they haven’t recorded recently. They discuss Paul’s impetuous decision, which vegetables can go to hell and why plenty of people we know are leaving freelancing and taking proper jobs.
+]]></description>
+<pubDate>Tue, 1 Mar 2022 19:57:15 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-006.html</link>
+<enclosure length="55193447" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-006.mp3"/>
+<itunes:title>Savoy cabbage and the kalettes</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:57:23</itunes:duration>
+<itunes:summary>It’s a new year and a new episode where the chaps make excuses about why they haven’t recorded recently. They discuss Paul’s impetuous decision, which vegetables can go to hell and why plenty of people we know are leaving freelancing and taking proper jobs.</itunes:summary>
+<itunes:subtitle>It’s a new year and a new episode where the chaps make excuses about why they haven’t recorded recently. They discuss Paul’s impetuous decision, which vegetables can go to hell and why plenty of people we know are leaving freelancing and taking proper jobs.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>6</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">36557a14-b14a-4289-87a0-bfe3cf738f6b</guid>
+<title>Mary’s gone blind. Again</title>
+<description><![CDATA[In this new episode, Andy, Jon, Paul, and Marcus discuss their summers and how it felt to leave Brexit Island behind. They talk about how it feels when kids leave home and then (sometimes) move back. Then, they wrap things up by admitting to their TV watching guilty pleasures.
+]]></description>
+<pubDate>Tue, 16 Nov 2021 12:48:28 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-005.html</link>
+<enclosure length="36255246" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-005.mp3"/>
+<itunes:title>Mary’s gone blind. Again</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:49:58</itunes:duration>
+<itunes:summary>In this new episode, Andy, Jon, Paul, and Marcus discuss their summers and how it felt to leave Brexit Island behind. They talk about how it feels when kids leave home and then (sometimes) move back. Then, they wrap things up by admitting to their TV watching guilty pleasures.</itunes:summary>
+<itunes:subtitle>In this new episode, Andy, Jon, Paul, and Marcus discuss their summers and how it felt to leave Brexit Island behind. They talk about how it feels when kids leave home and then (sometimes) move back. Then, they wrap things up by admitting to their TV watching guilty pleasures.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>5</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">62019a45-8e53-49f8-b8d2-3d88ff2cccba</guid>
+<title>Wrapped in disappointment</title>
+<description><![CDATA[<ul><li><a href="https://oldestsweetshop.co.uk/products/sweet-peanuts">Sweet peanuts</a></li><li><a href="https://www.youtube.com/watch?v=1NjTWvl8x-U">The Butterfield Diet Plan</a></li><li><a href="https://www.yorkvision.co.uk/archived/my-week-on-the-butterfield-diet-plan/14/01/2014">Man tries The Butterfield Diet for real</a></li><li><a href="https://en.wikipedia.org/wiki/Raleigh_Chopper">Raleigh Chopper bike</a></li><li><a href="https://en.wikipedia.org/wiki/Raleigh_Grifter">Raleigh Grifter</a></li></ul>
+]]></description>
+<pubDate>Mon, 16 Aug 2021 08:15:00 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Marcus Lillington, Paul Boag, Jon Hicks, Andy Clarke)</author>
+<link>https://onefooter.show/episode-004.html</link>
+<content:encoded><![CDATA[<ul><li><a href="https://oldestsweetshop.co.uk/products/sweet-peanuts">Sweet peanuts</a></li><li><a href="https://www.youtube.com/watch?v=1NjTWvl8x-U">The Butterfield Diet Plan</a></li><li><a href="https://www.yorkvision.co.uk/archived/my-week-on-the-butterfield-diet-plan/14/01/2014">Man tries The Butterfield Diet for real</a></li><li><a href="https://en.wikipedia.org/wiki/Raleigh_Chopper">Raleigh Chopper bike</a></li><li><a href="https://en.wikipedia.org/wiki/Raleigh_Grifter">Raleigh Grifter</a></li></ul>
+]]></content:encoded>
+<enclosure length="46506797" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-004.mp3"/>
+<itunes:title>Wrapped in disappointment</itunes:title>
+<itunes:author>Marcus Lillington, Paul Boag, Jon Hicks, Andy Clarke</itunes:author>
+<itunes:duration>00:48:17</itunes:duration>
+<itunes:summary>In this new episode, find out why Paul wouldn’t let Andy eat fish and chips. Andy moans about the sad fact that sweet peanuts aren’t what they used to be. The chaps discuss what they add to peanut butter—banana, jam, Marmite, or even mayonnaise—to make their deliciously nutty combinations. They talk about electric cycling and why the classic ’70s Chopper would make the perfect electric bike today. Finally, the chaps reveal which celebrity autographs they collected as part of Andy’s challenge from last month.</itunes:summary>
+<itunes:subtitle>In this new episode, find out why Paul wouldn’t let Andy eat fish and chips. Andy moans about the sad fact that sweet peanuts aren’t what they used to be. The chaps discuss what they add to peanut butter—banana, jam, Marmite, or even mayonnaise—to make their deliciously nutty combinations. They talk about electric cycling and why the classic ’70s Chopper would make the perfect electric bike today. Finally, the chaps reveal which celebrity autographs they collected as part of Andy’s challenge from last month.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>4</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">339c0036-dd3a-413f-936d-a4032538dbb5</guid>
+<title>Per calendar month</title>
+<description><![CDATA[<ul><li><a href="https://www.instagram.com/p/BzHDf4mptdY">Andy’s beard bleaching failure</a></li><li><a href="https://www.bbc.co.uk/programmes/b006v5kb">Homes under the hammer</a></li><li><a href="https://www.youtube.com/watch?v=uuPm1Qfdc8wh">Homes under the hammer set to eerie music</a></li></ul>
+]]></description>
+<pubDate>Tue, 6 Jul 2021 12:55:54 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Andy Clarke, Marcus Lillington, Jon Hicks, Paul Boag)</author>
+<link>https://onefooter.show/episode-003.html</link>
+<content:encoded><![CDATA[<ul><li><a href="https://www.instagram.com/p/BzHDf4mptdY">Andy’s beard bleaching failure</a></li><li><a href="https://www.bbc.co.uk/programmes/b006v5kb">Homes under the hammer</a></li><li><a href="https://www.youtube.com/watch?v=uuPm1Qfdc8wh">Homes under the hammer set to eerie music</a></li></ul>
+]]></content:encoded>
+<enclosure length="44938615" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-003.mp3"/>
+<itunes:title>Per calendar month</itunes:title>
+<itunes:author>Andy Clarke, Marcus Lillington, Jon Hicks, Paul Boag</itunes:author>
+<itunes:duration>00:46:39</itunes:duration>
+<itunes:summary>In the new episode, find out which of the four chaps thinks they’re the most productive and who likes to nap in the afternoon. They talk about signs of getting old, cosmetic surgery, and whether their bladders are mighty enough to sit through Avengers Endgame. Plus, you can find out who tackled Andy’s challenge from last episode.</itunes:summary>
+<itunes:subtitle>In the new episode, find out which of the four chaps thinks they’re the most productive and who likes to nap in the afternoon. They talk about signs of getting old, cosmetic surgery, and whether their bladders are mighty enough to sit through Avengers Endgame. Plus, you can find out who tackled Andy’s challenge from last episode.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>3</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">ee752cd7-4aa5-4308-bb59-c95ec56a15e0</guid>
+<title>Segwaytastic</title>
+<description><![CDATA[<ul><li><a href="https://world.hey.com/jason/changes-at-basecamp-7f32afc5">Changes at Basecamp</a></li><li><a href="https://world.hey.com/dhh/basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69">Basecamp's new etiquette regarding societal politics at work</a></li><li><a href="https://janeyang.org/2021/04/27/an-open-letter-to-jason-and-david/">Jane Yang’s open letter to Basecamp</a></li><li><a href="https://www.bbc.co.uk/showsandtours/take-part/bargain-hunt">Bargain Hunt</a></li><li><a href="https://www.channel4.com/4viewers/take-part/changing-rooms">Changing Rooms</a></li><li><a href="https://www.itv.com/beontv/articles/loveisland7">Love Island</a></li><li><a href="https://www.channel4.com/4viewers/naked-attraction">Naked Attraction</a></li></ul>
+]]></description>
+<pubDate>Fri, 30 Apr 2021 16:38:09 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-002.html</link>
+<content:encoded><![CDATA[<ul><li><a href="https://world.hey.com/jason/changes-at-basecamp-7f32afc5">Changes at Basecamp</a></li><li><a href="https://world.hey.com/dhh/basecamp-s-new-etiquette-regarding-societal-politics-at-work-b44bef69">Basecamp's new etiquette regarding societal politics at work</a></li><li><a href="https://janeyang.org/2021/04/27/an-open-letter-to-jason-and-david/">Jane Yang’s open letter to Basecamp</a></li><li><a href="https://www.bbc.co.uk/showsandtours/take-part/bargain-hunt">Bargain Hunt</a></li><li><a href="https://www.channel4.com/4viewers/take-part/changing-rooms">Changing Rooms</a></li><li><a href="https://www.itv.com/beontv/articles/loveisland7">Love Island</a></li><li><a href="https://www.channel4.com/4viewers/naked-attraction">Naked Attraction</a></li></ul>
+]]></content:encoded>
+<enclosure length="46250589" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-002.mp3"/>
+<itunes:title>Segwaytastic</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>00:48:01</itunes:duration>
+<itunes:summary>In the new episode, the four chaps get topical and talk about the Basecamp founders’ controversial decision to not allow political discussions in company channels. But, don’t worry, it’s not all serious, as you can find out if they succeeded in Andy’s challenge or if, in fact, they’d been bothered to try.</itunes:summary>
+<itunes:subtitle>In the new episode, the four chaps get topical and talk about the Basecamp founders’ controversial decision to not allow political discussions in company channels. But, don’t worry, it’s not all serious, as you can find out if they succeeded in Andy’s challenge or if, in fact, they’d been bothered to try.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>2</itunes:episode>
+</item>
+
+
+<item>
+<guid isPermaLink="false">7299daac-4ada-4814-b18d-ad5328b4a62d</guid>
+<title>Here to see some potatoes</title>
+<description><![CDATA[<p>In the first episode of their brand new show, the four chaps talk about getting back to travelling, planning imaginary trips until they can, and Paul’s plans for a year-long America road trip.</p>
+]]></description>
+<pubDate>Wed, 7 Apr 2021 20:11:00 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Jon Hicks, Paul Boag, Andy Clarke, Marcus Lillington)</author>
+<link>https://onefooter.show/episode-001.html</link>
+<content:encoded><![CDATA[<p>In the first episode of their brand new show, the four chaps talk about getting back to travelling, planning imaginary trips until they can, and Paul’s plans for a year-long America road trip.</p>
+]]></content:encoded>
+<enclosure length="47737055" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-001.mp3"/>
+<itunes:title>Here to see some potatoes</itunes:title>
+<itunes:author>Jon Hicks, Paul Boag, Andy Clarke, Marcus Lillington</itunes:author>
+<itunes:duration>00:49:37</itunes:duration>
+<itunes:summary>In the first episode of their brand new show, the four chaps talk about getting back to travelling, planning imaginary trips until they can, and Paul’s plans for a year-long America road trip.</itunes:summary>
+<itunes:subtitle>In the first episode of their brand new show, the four chaps talk about getting back to travelling, planning imaginary trips until they can, and Paul’s plans for a year-long America road trip.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>1</itunes:episode>
+</item>
+</channel>
+</rss>

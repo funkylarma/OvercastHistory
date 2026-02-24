@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/worklog-shawn-hickman" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Worklog with Shawn Hickman</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/worklog-shawn-hickman</itunes:new-feed-url>
+    <description>Building an indie app business is a journey full of challenges, insights, and lessons learned. Worklog is a behind-the-scenes look at my experience designing, developing, and growing Sofa, an iOS app that helps you be more intentional with your downtime.
+
+I’m Shawn Hickman—a designer, developer, and indie app creator—sharing my process, what I’m working on, and the hard (and fun) parts of running a solo business. Whether it’s app development, YouTube, marketing, or unexpected lessons along the way, Worklog is an open journal of everything that goes into turning an idea into a sustainable indie business.
+
+If you’re an indie maker, aspiring developer, or just curious about the process, tune in—and don’t hesitate to reach out! 👋
+
+https://www.shawnhickman.me/worklog-podcast/</description>
+    <copyright>© 2025 Astrio, LLC</copyright>
+    <podcast:guid>14dfcdf5-96cd-5126-a022-a88c427887bf</podcast:guid>
+    <podcast:locked owner="shawnphickman@gmail.com">no</podcast:locked>
+    <language>en</language>
+    <pubDate>Sat, 12 Apr 2025 13:36:11 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:57:10 -0500</lastBuildDate>
+    <link>https://www.shawnhickman.me/worklog-podcast/</link>
+    <image>
+      <url>https://img.transistor.fm/oETOWKAimS8rbRu4ox_lw9Iycyrtsnn6kJkLABKTolg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjRj/NmFjNzU4ZjgyYmE3/OTY1ZjA1ZTZlNGZk/ZjhhNC5qcGc.jpg</url>
+      <title>Worklog with Shawn Hickman</title>
+      <link>https://www.shawnhickman.me/worklog-podcast/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Shawn Hickman</itunes:author>
+    <itunes:image href="https://img.transistor.fm/oETOWKAimS8rbRu4ox_lw9Iycyrtsnn6kJkLABKTolg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjRj/NmFjNzU4ZjgyYmE3/OTY1ZjA1ZTZlNGZk/ZjhhNC5qcGc.jpg"/>
+    <itunes:summary>Building an indie app business is a journey full of challenges, insights, and lessons learned. Worklog is a behind-the-scenes look at my experience designing, developing, and growing Sofa, an iOS app that helps you be more intentional with your downtime.
+
+I’m Shawn Hickman—a designer, developer, and indie app creator—sharing my process, what I’m working on, and the hard (and fun) parts of running a solo business. Whether it’s app development, YouTube, marketing, or unexpected lessons along the way, Worklog is an open journal of everything that goes into turning an idea into a sustainable indie business.
+
+If you’re an indie maker, aspiring developer, or just curious about the process, tune in—and don’t hesitate to reach out! 👋
+
+https://www.shawnhickman.me/worklog-podcast/</itunes:summary>
+    <itunes:subtitle>Building an indie app business is a journey full of challenges, insights, and lessons learned.</itunes:subtitle>
+    <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Shawn Hickman</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The Day Nintendo Crashed Sofa's Podcast Player Launch</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>The Day Nintendo Crashed Sofa's Podcast Player Launch</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b5944521-df05-4e9e-a6c2-14c8ead5eb24</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/04/the-day-nintendo-crashed-sofas-podcast-player-launch/</link>
+      <description>
+        <![CDATA[<p>In this episode of Worklog, I talk about the launch of Sofa's new podcast player. Specifically, the marketing work I did before the launch, how the launch day/week went, and what I've been working on after the launch.</p><p><br></p><p>📺 <a href="https://youtu.be/DW3OuM_yqJk">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>0:46 Small Talk</p><p>1:05 CommunityKit</p><p>5:58 Framous</p><p>8:03 Camera Talk</p><p>15:32 Not Just a Goof</p><p>17:30 Podcast Player Launch</p><p>19:48 Making Videos</p><p>21:45 Website Updates</p><p>25:01 Podcast Ecosystem</p><p>29:45 Podcast Button Builder</p><p>35:07 Dealing with Bugs</p><p>36:33 API Server</p><p>38:11 Launch Day/Week</p><p>43:34 Post Launch</p><p>50:06 What's Next</p><p>55:30 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://communitykit.social/">CommunityKit</a></li><li><a href="https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519?mt=12">Framous: Screenshot Frames</a></li><li><a href="https://www.disneyplus.com/browse/entity-ee506117-fe67-4c54-a42f-4f937e82ed91">Watch Not Just a Goof</a></li><li><a href="https://youtu.be/aRA_4V9pyR0">The 5 Best Things in Sofa’s New Podcast Player</a></li><li><a href="https://youtu.be/jBN-6pBBIcI">A Full Walkthrough of Sofa’s New Podcast Player</a></li><li><a href="https://www.sofahq.com/podcast-player">Sofa Podcast Player</a></li><li><a href="https://sofahq.com/subscribe/itunes1796436120">Subscribe to Worklog with Shawn Hickman</a></li><li><a href="https://www.sofahq.com/podcast-button-builder">Podcast Button Builder</a></li><li><a href="https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer">Installer Newsletter</a></li><li><a href="https://9to5mac.com/2025/04/05/sofa-downtime-organizer-app/">Indie App Spotlight: 'Sofa' keeps you organized during your downtime</a></li><li><a href="https://512pixels.net/2025/04/sofa-gains-podcast-playback/">Sofa Gains Podcast Playback</a></li><li><a href="https://www.sofahq.com/roadmap">Sofa Roadmap</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(00:46) - Small Talk</li>
+<li>(01:05) - CommunityKit</li>
+<li>(05:58) - Framous</li>
+<li>(08:03) - Camera Talk</li>
+<li>(15:32) - Not Just a Goof</li>
+<li>(17:30) - Podcast Player Launch</li>
+<li>(19:48) - Making Videos</li>
+<li>(21:45) - Website Updates</li>
+<li>(25:01) - Podcast Ecosystem</li>
+<li>(29:45) - Podcast Button Builder</li>
+<li>(35:07) - Dealing with Bugs</li>
+<li>(36:33) - API Server</li>
+<li>(38:11) - Launch Day/Week</li>
+<li>(43:34) - Post Launch</li>
+<li>(50:06) - What's Next</li>
+<li>(55:30) - Outro</li>
+</ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Worklog, I talk about the launch of Sofa's new podcast player. Specifically, the marketing work I did before the launch, how the launch day/week went, and what I've been working on after the launch.</p><p><br></p><p>📺 <a href="https://youtu.be/DW3OuM_yqJk">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>0:46 Small Talk</p><p>1:05 CommunityKit</p><p>5:58 Framous</p><p>8:03 Camera Talk</p><p>15:32 Not Just a Goof</p><p>17:30 Podcast Player Launch</p><p>19:48 Making Videos</p><p>21:45 Website Updates</p><p>25:01 Podcast Ecosystem</p><p>29:45 Podcast Button Builder</p><p>35:07 Dealing with Bugs</p><p>36:33 API Server</p><p>38:11 Launch Day/Week</p><p>43:34 Post Launch</p><p>50:06 What's Next</p><p>55:30 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://communitykit.social/">CommunityKit</a></li><li><a href="https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519?mt=12">Framous: Screenshot Frames</a></li><li><a href="https://www.disneyplus.com/browse/entity-ee506117-fe67-4c54-a42f-4f937e82ed91">Watch Not Just a Goof</a></li><li><a href="https://youtu.be/aRA_4V9pyR0">The 5 Best Things in Sofa’s New Podcast Player</a></li><li><a href="https://youtu.be/jBN-6pBBIcI">A Full Walkthrough of Sofa’s New Podcast Player</a></li><li><a href="https://www.sofahq.com/podcast-player">Sofa Podcast Player</a></li><li><a href="https://sofahq.com/subscribe/itunes1796436120">Subscribe to Worklog with Shawn Hickman</a></li><li><a href="https://www.sofahq.com/podcast-button-builder">Podcast Button Builder</a></li><li><a href="https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer">Installer Newsletter</a></li><li><a href="https://9to5mac.com/2025/04/05/sofa-downtime-organizer-app/">Indie App Spotlight: 'Sofa' keeps you organized during your downtime</a></li><li><a href="https://512pixels.net/2025/04/sofa-gains-podcast-playback/">Sofa Gains Podcast Playback</a></li><li><a href="https://www.sofahq.com/roadmap">Sofa Roadmap</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(00:46) - Small Talk</li>
+<li>(01:05) - CommunityKit</li>
+<li>(05:58) - Framous</li>
+<li>(08:03) - Camera Talk</li>
+<li>(15:32) - Not Just a Goof</li>
+<li>(17:30) - Podcast Player Launch</li>
+<li>(19:48) - Making Videos</li>
+<li>(21:45) - Website Updates</li>
+<li>(25:01) - Podcast Ecosystem</li>
+<li>(29:45) - Podcast Button Builder</li>
+<li>(35:07) - Dealing with Bugs</li>
+<li>(36:33) - API Server</li>
+<li>(38:11) - Launch Day/Week</li>
+<li>(43:34) - Post Launch</li>
+<li>(50:06) - What's Next</li>
+<li>(55:30) - Outro</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Sat, 12 Apr 2025 13:36:11 -0400</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/6de5747b/864e6775.mp3" length="27126035" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>3385</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Worklog, I talk about the launch of Sofa's new podcast player. Specifically, the marketing work I did before the launch, how the launch day/week went, and what I've been working on after the launch.</p><p><br></p><p>📺 <a href="https://youtu.be/DW3OuM_yqJk">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>0:46 Small Talk</p><p>1:05 CommunityKit</p><p>5:58 Framous</p><p>8:03 Camera Talk</p><p>15:32 Not Just a Goof</p><p>17:30 Podcast Player Launch</p><p>19:48 Making Videos</p><p>21:45 Website Updates</p><p>25:01 Podcast Ecosystem</p><p>29:45 Podcast Button Builder</p><p>35:07 Dealing with Bugs</p><p>36:33 API Server</p><p>38:11 Launch Day/Week</p><p>43:34 Post Launch</p><p>50:06 What's Next</p><p>55:30 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://communitykit.social/">CommunityKit</a></li><li><a href="https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519?mt=12">Framous: Screenshot Frames</a></li><li><a href="https://www.disneyplus.com/browse/entity-ee506117-fe67-4c54-a42f-4f937e82ed91">Watch Not Just a Goof</a></li><li><a href="https://youtu.be/aRA_4V9pyR0">The 5 Best Things in Sofa’s New Podcast Player</a></li><li><a href="https://youtu.be/jBN-6pBBIcI">A Full Walkthrough of Sofa’s New Podcast Player</a></li><li><a href="https://www.sofahq.com/podcast-player">Sofa Podcast Player</a></li><li><a href="https://sofahq.com/subscribe/itunes1796436120">Subscribe to Worklog with Shawn Hickman</a></li><li><a href="https://www.sofahq.com/podcast-button-builder">Podcast Button Builder</a></li><li><a href="https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer">Installer Newsletter</a></li><li><a href="https://9to5mac.com/2025/04/05/sofa-downtime-organizer-app/">Indie App Spotlight: 'Sofa' keeps you organized during your downtime</a></li><li><a href="https://512pixels.net/2025/04/sofa-gains-podcast-playback/">Sofa Gains Podcast Playback</a></li><li><a href="https://www.sofahq.com/roadmap">Sofa Roadmap</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(00:46) - Small Talk</li>
+<li>(01:05) - CommunityKit</li>
+<li>(05:58) - Framous</li>
+<li>(08:03) - Camera Talk</li>
+<li>(15:32) - Not Just a Goof</li>
+<li>(17:30) - Podcast Player Launch</li>
+<li>(19:48) - Making Videos</li>
+<li>(21:45) - Website Updates</li>
+<li>(25:01) - Podcast Ecosystem</li>
+<li>(29:45) - Podcast Button Builder</li>
+<li>(35:07) - Dealing with Bugs</li>
+<li>(36:33) - API Server</li>
+<li>(38:11) - Launch Day/Week</li>
+<li>(43:34) - Post Launch</li>
+<li>(50:06) - What's Next</li>
+<li>(55:30) - Outro</li>
+</ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/6de5747b/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>The Final Push: App Launch, Marketing Prep, and iOS 19 Rumors</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>The Final Push: App Launch, Marketing Prep, and iOS 19 Rumors</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8b9fc80c-a949-419b-b25e-acddee5894d6</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/03/the-final-push-app-launch-marketing-prep-and-ios-19-rumors/</link>
+      <description>
+        <![CDATA[<p>In this episode of Worklog, I chat about some exciting Apple rumors for iOS 19, dig into the home stretch of launching my new podcast player (including solving tricky audio issues with ChatGPT Deep Research), and share behind-the-scenes marketing prep, from creating landing pages to capturing relatable photos of podcast listening in everyday life.</p><p><br></p><p>📺 <a href="https://youtu.be/8vpS3_axQ_M">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>2:15 iOS 19 Rumors</p><p>7:59 Airpods 4</p><p>9:28 DJI Action 5 Pro</p><p>11:58 Severance</p><p>12:23 What I’ve been working on</p><p>31:11 Marketing prep</p><p>39:39 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://www.macrumors.com/2025/03/16/ios-19-big-design-changes/">iOS 19 to Have Some of the 'Biggest' Design Changes in iPhone's History</a></li><li><a href="https://www.youtube.com/watch?v=urTfEEsGHds">Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation</a></li><li><a href="https://www.dji.com/osmo-action-5-pro">Osmo Action 5 Pro - Be All In - DJI</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(02:15) - iOS 19 Rumors</li>
+<li>(07:59) - Airpods 4</li>
+<li>(09:28) - DJI Action 5 Pro</li>
+<li>(11:58) - Severance</li>
+<li>(12:23) - What I’ve been working on</li>
+<li>(31:11) - Marketing prep</li>
+<li>(39:39) - Outro</li>
+</ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Worklog, I chat about some exciting Apple rumors for iOS 19, dig into the home stretch of launching my new podcast player (including solving tricky audio issues with ChatGPT Deep Research), and share behind-the-scenes marketing prep, from creating landing pages to capturing relatable photos of podcast listening in everyday life.</p><p><br></p><p>📺 <a href="https://youtu.be/8vpS3_axQ_M">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>2:15 iOS 19 Rumors</p><p>7:59 Airpods 4</p><p>9:28 DJI Action 5 Pro</p><p>11:58 Severance</p><p>12:23 What I’ve been working on</p><p>31:11 Marketing prep</p><p>39:39 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://www.macrumors.com/2025/03/16/ios-19-big-design-changes/">iOS 19 to Have Some of the 'Biggest' Design Changes in iPhone's History</a></li><li><a href="https://www.youtube.com/watch?v=urTfEEsGHds">Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation</a></li><li><a href="https://www.dji.com/osmo-action-5-pro">Osmo Action 5 Pro - Be All In - DJI</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(02:15) - iOS 19 Rumors</li>
+<li>(07:59) - Airpods 4</li>
+<li>(09:28) - DJI Action 5 Pro</li>
+<li>(11:58) - Severance</li>
+<li>(12:23) - What I’ve been working on</li>
+<li>(31:11) - Marketing prep</li>
+<li>(39:39) - Outro</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Thu, 20 Mar 2025 21:22:23 -0400</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/b00b0504/9890755e.mp3" length="19456634" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>2426</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Worklog, I chat about some exciting Apple rumors for iOS 19, dig into the home stretch of launching my new podcast player (including solving tricky audio issues with ChatGPT Deep Research), and share behind-the-scenes marketing prep, from creating landing pages to capturing relatable photos of podcast listening in everyday life.</p><p><br></p><p>📺 <a href="https://youtu.be/8vpS3_axQ_M">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>2:15 iOS 19 Rumors</p><p>7:59 Airpods 4</p><p>9:28 DJI Action 5 Pro</p><p>11:58 Severance</p><p>12:23 What I’ve been working on</p><p>31:11 Marketing prep</p><p>39:39 Outro</p><p><br></p><p><strong>Things Mentioned</strong></p><ul><li><a href="https://www.macrumors.com/2025/03/16/ios-19-big-design-changes/">iOS 19 to Have Some of the 'Biggest' Design Changes in iPhone's History</a></li><li><a href="https://www.youtube.com/watch?v=urTfEEsGHds">Someday, by Spike Jonze | AirPods 4 with Active Noise Cancellation</a></li><li><a href="https://www.dji.com/osmo-action-5-pro">Osmo Action 5 Pro - Be All In - DJI</a></li></ul><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(02:15) - iOS 19 Rumors</li>
+<li>(07:59) - Airpods 4</li>
+<li>(09:28) - DJI Action 5 Pro</li>
+<li>(11:58) - Severance</li>
+<li>(12:23) - What I’ve been working on</li>
+<li>(31:11) - Marketing prep</li>
+<li>(39:39) - Outro</li>
+</ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/b00b0504/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Deadlines, Launch Mode, and Knowing When to Ship</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>Deadlines, Launch Mode, and Knowing When to Ship</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7f122ab7-8dc2-4d04-9a33-2bf1fa3bb8f5</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/03/deadlines-launch-mode-and-knowing-when-to-ship/</link>
+      <description>
+        <![CDATA[<p>In this episode of Worklog, I introduce my new podcast, where I share the journey of building Sofa, an app designed to help you be intentional with your downtime. I talk about why I'm branching into podcasts—both to better understand the podcasting experience I'm building into Sofa and to give listeners another way to enjoy my content. I also share updates on recent Sofa developments like CarPlay, Widgets, Shortcuts, and performance improvements. Lastly, I dive into "Launch Mode," explaining my strategy around deadlines, prioritizing tasks, and managing my workload leading up to a launch.</p><p><br></p><p>📺 <a href="https://youtu.be/a9CUaByQh90">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>1:24 Small talk</p><p>7:34 Worklog Podcast</p><p>21:19 What I’ve been working on</p><p>40:30 Launch Mode</p><p>58:48 Outro</p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(01:24) - Small Talk</li>
+<li>(07:34) - Worklog Podcast</li>
+<li>(21:19) - What I’ve been working on</li>
+<li>(40:30) - Launch Mode</li>
+<li>(58:48) - Outro</li>
+</ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Worklog, I introduce my new podcast, where I share the journey of building Sofa, an app designed to help you be intentional with your downtime. I talk about why I'm branching into podcasts—both to better understand the podcasting experience I'm building into Sofa and to give listeners another way to enjoy my content. I also share updates on recent Sofa developments like CarPlay, Widgets, Shortcuts, and performance improvements. Lastly, I dive into "Launch Mode," explaining my strategy around deadlines, prioritizing tasks, and managing my workload leading up to a launch.</p><p><br></p><p>📺 <a href="https://youtu.be/a9CUaByQh90">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>1:24 Small talk</p><p>7:34 Worklog Podcast</p><p>21:19 What I’ve been working on</p><p>40:30 Launch Mode</p><p>58:48 Outro</p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(01:24) - Small Talk</li>
+<li>(07:34) - Worklog Podcast</li>
+<li>(21:19) - What I’ve been working on</li>
+<li>(40:30) - Launch Mode</li>
+<li>(58:48) - Outro</li>
+</ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Mar 2025 14:51:13 -0400</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/d21a78e3/6c4df7c7.mp3" length="28702244" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>3582</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Worklog, I introduce my new podcast, where I share the journey of building Sofa, an app designed to help you be intentional with your downtime. I talk about why I'm branching into podcasts—both to better understand the podcasting experience I'm building into Sofa and to give listeners another way to enjoy my content. I also share updates on recent Sofa developments like CarPlay, Widgets, Shortcuts, and performance improvements. Lastly, I dive into "Launch Mode," explaining my strategy around deadlines, prioritizing tasks, and managing my workload leading up to a launch.</p><p><br></p><p>📺 <a href="https://youtu.be/a9CUaByQh90">Watch on YouTube</a></p><p><br></p><p><strong>Chapters</strong></p><p>0:00 Intro</p><p>1:24 Small talk</p><p>7:34 Worklog Podcast</p><p>21:19 What I’ve been working on</p><p>40:30 Launch Mode</p><p>58:48 Outro</p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><br></p><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><br></p><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>
+<ul><li>(00:00) - Intro</li>
+<li>(01:24) - Small Talk</li>
+<li>(07:34) - Worklog Podcast</li>
+<li>(21:19) - What I’ve been working on</li>
+<li>(40:30) - Launch Mode</li>
+<li>(58:48) - Outro</li>
+</ul>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/d21a78e3/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>When to Remove Features from Your App</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>When to Remove Features from Your App</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1337b9f2-3441-4c2e-b192-687f54d64cc1</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/02/when-to-remove-features-from-your-app/</link>
+      <description>
+        <![CDATA[<p>In this conversation, Shawn Hickman discusses the often-overlooked aspect of app development: the removal of features. He emphasizes that sometimes it's more beneficial to remove features rather than continuously add new ones. Through personal experiences and examples, he outlines the reasons for feature removal, including when features aren't working as expected, are broken, or when the product has evolved. He also shares best practices for effectively communicating these changes to users and managing feedback.</p><p><br></p><p><strong>Chapters</strong><br></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this conversation, Shawn Hickman discusses the often-overlooked aspect of app development: the removal of features. He emphasizes that sometimes it's more beneficial to remove features rather than continuously add new ones. Through personal experiences and examples, he outlines the reasons for feature removal, including when features aren't working as expected, are broken, or when the product has evolved. He also shares best practices for effectively communicating these changes to users and managing feedback.</p><p><br></p><p><strong>Chapters</strong><br></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 14 Feb 2025 12:29:39 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/1cfd5660/c5fd5caf.mp3" length="12746411" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>1588</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this conversation, Shawn Hickman discusses the often-overlooked aspect of app development: the removal of features. He emphasizes that sometimes it's more beneficial to remove features rather than continuously add new ones. Through personal experiences and examples, he outlines the reasons for feature removal, including when features aren't working as expected, are broken, or when the product has evolved. He also shares best practices for effectively communicating these changes to users and managing feedback.</p><p><br></p><p><strong>Chapters</strong><br></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/1cfd5660/transcript.txt" type="text/plain"/>
+    </item>
+    <item>
+      <title>Should You Offer a Free Trial? Here’s Why I Said “No” for My App</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Should You Offer a Free Trial? Here’s Why I Said “No” for My App</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c64d54ec-292d-4df6-9d35-184349b0c478</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/01/should-you-offer-a-free-trial-heres/</link>
+      <description>
+        <![CDATA[<p>In this video, I’m sharing why I don’t offer a free trial for my app, Sofa.</p><p>When I first launched the Super Sofa subscription, I struggled with decisions around pricing and whether or not to offer a free trial. Most advice said, “You should offer a free trial because that’s what everyone does.” But that never sat right with me.</p><p>Now, after a few years of running a subscription app without a free trial, I’ve gained clarity on why I don’t do it — and why Sofa’s freemium model works better without one.</p><p>I’m not against free trials! They can work great for certain products. But for Sofa, it doesn’t make sense. In this video, I’ll walk through my thought process and explain why.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:15) - A little context</li>
+<li>(02:05) - Camera car mount</li>
+<li>(03:11) - In the car</li>
+<li>(03:45) - Purpose of free trials</li>
+<li>(05:16) - Sofa is a freemium product</li>
+<li>(09:02) - What I've learned about Sofa</li>
+<li>(13:09) - Some advice</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this video, I’m sharing why I don’t offer a free trial for my app, Sofa.</p><p>When I first launched the Super Sofa subscription, I struggled with decisions around pricing and whether or not to offer a free trial. Most advice said, “You should offer a free trial because that’s what everyone does.” But that never sat right with me.</p><p>Now, after a few years of running a subscription app without a free trial, I’ve gained clarity on why I don’t do it — and why Sofa’s freemium model works better without one.</p><p>I’m not against free trials! They can work great for certain products. But for Sofa, it doesn’t make sense. In this video, I’ll walk through my thought process and explain why.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:15) - A little context</li>
+<li>(02:05) - Camera car mount</li>
+<li>(03:11) - In the car</li>
+<li>(03:45) - Purpose of free trials</li>
+<li>(05:16) - Sofa is a freemium product</li>
+<li>(09:02) - What I've learned about Sofa</li>
+<li>(13:09) - Some advice</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 30 Jan 2025 10:11:00 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/205cc27a/3adf281f.mp3" length="7264714" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>902</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this video, I’m sharing why I don’t offer a free trial for my app, Sofa.</p><p>When I first launched the Super Sofa subscription, I struggled with decisions around pricing and whether or not to offer a free trial. Most advice said, “You should offer a free trial because that’s what everyone does.” But that never sat right with me.</p><p>Now, after a few years of running a subscription app without a free trial, I’ve gained clarity on why I don’t do it — and why Sofa’s freemium model works better without one.</p><p>I’m not against free trials! They can work great for certain products. But for Sofa, it doesn’t make sense. In this video, I’ll walk through my thought process and explain why.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:15) - A little context</li>
+<li>(02:05) - Camera car mount</li>
+<li>(03:11) - In the car</li>
+<li>(03:45) - Purpose of free trials</li>
+<li>(05:16) - Sofa is a freemium product</li>
+<li>(09:02) - What I've learned about Sofa</li>
+<li>(13:09) - Some advice</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/205cc27a/transcript.txt" type="text/plain"/>
+      <podcast:chapters url="https://share.transistor.fm/s/205cc27a/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Making an App Is Easy (Well, at First!)</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Making an App Is Easy (Well, at First!)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">15011b26-24ba-451c-a3dc-ab37fe084885</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/01/making-an-app-is-easy-well-at-first/</link>
+      <description>
+        <![CDATA[<p>In this video, I dive into the realities of building an app: why starting is the easy (and fun) part, and why the real challenge lies in growing and maintaining it over time.</p><p>I’ll talk about the excitement of launching a new project, the hurdles you’ll face when life gets busy or progress feels slow, and how setting the right expectations can make all the difference. I’ll share tips on building sustainable systems, celebrating small wins, and staying motivated when you hit technical, emotional, or mental roadblocks.</p><p>Whether you’re creating your first app or struggling to keep going, this video is here to remind you to enjoy the process and keep moving forward.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:32) - Starting is easy</li>
+<li>(03:19) - Setting expectations</li>
+<li>(04:20) - Patience</li>
+<li>(05:17) - Work nights</li>
+<li>(08:26) - You're going to hit walls</li>
+<li>(09:45) - Celebrate the wins</li>
+<li>(12:05) - Supportive people</li>
+<li>(13:31) - Have fun</li>
+<li>(14:52) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this video, I dive into the realities of building an app: why starting is the easy (and fun) part, and why the real challenge lies in growing and maintaining it over time.</p><p>I’ll talk about the excitement of launching a new project, the hurdles you’ll face when life gets busy or progress feels slow, and how setting the right expectations can make all the difference. I’ll share tips on building sustainable systems, celebrating small wins, and staying motivated when you hit technical, emotional, or mental roadblocks.</p><p>Whether you’re creating your first app or struggling to keep going, this video is here to remind you to enjoy the process and keep moving forward.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:32) - Starting is easy</li>
+<li>(03:19) - Setting expectations</li>
+<li>(04:20) - Patience</li>
+<li>(05:17) - Work nights</li>
+<li>(08:26) - You're going to hit walls</li>
+<li>(09:45) - Celebrate the wins</li>
+<li>(12:05) - Supportive people</li>
+<li>(13:31) - Have fun</li>
+<li>(14:52) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 16 Jan 2025 10:01:00 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/adafe7fb/3e6084ed.mp3" length="7523843" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>934</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this video, I dive into the realities of building an app: why starting is the easy (and fun) part, and why the real challenge lies in growing and maintaining it over time.</p><p>I’ll talk about the excitement of launching a new project, the hurdles you’ll face when life gets busy or progress feels slow, and how setting the right expectations can make all the difference. I’ll share tips on building sustainable systems, celebrating small wins, and staying motivated when you hit technical, emotional, or mental roadblocks.</p><p>Whether you’re creating your first app or struggling to keep going, this video is here to remind you to enjoy the process and keep moving forward.</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(00:32) - Starting is easy</li>
+<li>(03:19) - Setting expectations</li>
+<li>(04:20) - Patience</li>
+<li>(05:17) - Work nights</li>
+<li>(08:26) - You're going to hit walls</li>
+<li>(09:45) - Celebrate the wins</li>
+<li>(12:05) - Supportive people</li>
+<li>(13:31) - Have fun</li>
+<li>(14:52) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/adafe7fb/transcript.txt" type="text/plain"/>
+      <podcast:chapters url="https://share.transistor.fm/s/adafe7fb/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>What I learned spending $30,000 marketing my indie app</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>What I learned spending $30,000 marketing my indie app</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">2dd0e0b7-a85f-4dc1-8b5e-c6d6f66b2a7e</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/01/what-i-learned-spending-30-000-marketing-my-app-as-an-indie-developer/</link>
+      <description>
+        <![CDATA[<p>In this video, I share the lessons I’ve learned after investing $30,000 into marketing my app over the past three years. For an indie app developer, it’s a significant amount, and I dive into why I chose to spend it, where it went, and what came out of it.</p><p>I discuss the challenges of getting attention in today’s competitive market and why I decided to focus on sponsoring podcasts and YouTube channels in the Apple and tech world. I also explain my goals for this marketing effort—building brand awareness rather than immediate conversions—and the results I’ve seen, including increased sales, recognition from Apple, and turning this into my full-time job.</p><p>If you’re an indie developer or just curious about the business side of app development, this is for you!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:41) - Why spend money for marketing?</li>
+<li>(03:54) - Where did I market?</li>
+<li>(04:30) - Why I chose those channels</li>
+<li>(08:17) - My goals</li>
+<li>(12:23) - The results</li>
+<li>(18:06) - Some advice</li>
+<li>(19:55) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this video, I share the lessons I’ve learned after investing $30,000 into marketing my app over the past three years. For an indie app developer, it’s a significant amount, and I dive into why I chose to spend it, where it went, and what came out of it.</p><p>I discuss the challenges of getting attention in today’s competitive market and why I decided to focus on sponsoring podcasts and YouTube channels in the Apple and tech world. I also explain my goals for this marketing effort—building brand awareness rather than immediate conversions—and the results I’ve seen, including increased sales, recognition from Apple, and turning this into my full-time job.</p><p>If you’re an indie developer or just curious about the business side of app development, this is for you!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:41) - Why spend money for marketing?</li>
+<li>(03:54) - Where did I market?</li>
+<li>(04:30) - Why I chose those channels</li>
+<li>(08:17) - My goals</li>
+<li>(12:23) - The results</li>
+<li>(18:06) - Some advice</li>
+<li>(19:55) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 09 Jan 2025 09:45:00 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/7e725d65/43c8630a.mp3" length="9798872" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>1219</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this video, I share the lessons I’ve learned after investing $30,000 into marketing my app over the past three years. For an indie app developer, it’s a significant amount, and I dive into why I chose to spend it, where it went, and what came out of it.</p><p>I discuss the challenges of getting attention in today’s competitive market and why I decided to focus on sponsoring podcasts and YouTube channels in the Apple and tech world. I also explain my goals for this marketing effort—building brand awareness rather than immediate conversions—and the results I’ve seen, including increased sales, recognition from Apple, and turning this into my full-time job.</p><p>If you’re an indie developer or just curious about the business side of app development, this is for you!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:41) - Why spend money for marketing?</li>
+<li>(03:54) - Where did I market?</li>
+<li>(04:30) - Why I chose those channels</li>
+<li>(08:17) - My goals</li>
+<li>(12:23) - The results</li>
+<li>(18:06) - Some advice</li>
+<li>(19:55) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/7e725d65/transcript.txt" type="text/plain"/>
+      <podcast:chapters url="https://share.transistor.fm/s/7e725d65/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Marketing an Indie App When You’re Starting with Zero Budget</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Marketing an Indie App When You’re Starting with Zero Budget</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5609c69e-1071-4850-b0be-021ef0436266</guid>
+      <link>https://www.shawnhickman.me/worklog/2025/01/marketing-an-indie-app-when-youre-starting-with-zero-budget/</link>
+      <description>
+        <![CDATA[<p>In this video, I answer a great question I got on YouTube: How did you approach marketing in the beginning of making an app?</p><p>I’ll share what I did when starting out, how my approach evolved over time, and what I’d do differently if I could go back. Whether you’re just starting your indie app journey or looking to improve your marketing strategy, I hope this video gives you some helpful insights!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:32) - What I did in the beginning</li>
+<li>(06:17) - How it evolved</li>
+<li>(10:16) - What I would do differently</li>
+<li>(14:15) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:<br>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this video, I answer a great question I got on YouTube: How did you approach marketing in the beginning of making an app?</p><p>I’ll share what I did when starting out, how my approach evolved over time, and what I’d do differently if I could go back. Whether you’re just starting your indie app journey or looking to improve your marketing strategy, I hope this video gives you some helpful insights!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:32) - What I did in the beginning</li>
+<li>(06:17) - How it evolved</li>
+<li>(10:16) - What I would do differently</li>
+<li>(14:15) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:<br>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 02 Jan 2025 23:24:00 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/96aa384d/e85a8c68.mp3" length="7140012" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>887</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this video, I answer a great question I got on YouTube: How did you approach marketing in the beginning of making an app?</p><p>I’ll share what I did when starting out, how my approach evolved over time, and what I’d do differently if I could go back. Whether you’re just starting your indie app journey or looking to improve your marketing strategy, I hope this video gives you some helpful insights!</p><p>📺 <a href="https://www.youtube.com/@shawn.hickman">Watch on YouTube</a></p><p><strong>Chapters</strong><br></p><ul><li>(00:00) - Intro</li>
+<li>(01:32) - What I did in the beginning</li>
+<li>(06:17) - How it evolved</li>
+<li>(10:16) - What I would do differently</li>
+<li>(14:15) - Outro</li>
+</ul><br><strong>Links</strong><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:<br>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/96aa384d/transcript.txt" type="text/plain"/>
+      <podcast:chapters url="https://share.transistor.fm/s/96aa384d/chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Should Indie Developers Start with One App or Multiple Apps?</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Should Indie Developers Start with One App or Multiple Apps?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fc1a60ec-4bf9-4fe2-9951-735493b3ffd1</guid>
+      <link>https://www.shawnhickman.me/worklog/2024/12/should-indie-developers-start-with-one-app-or-multiple-apps/</link>
+      <description>
+        <![CDATA[<p>When starting out as an indie app developer, should you make one app or multiple apps? While there are many way to answer that question, I think focusing on one app is a better approach when starting out.</p><p><a href="https://www.youtube.com/@shawn.hickman"><strong>Watch on YouTube</strong></a></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>When starting out as an indie app developer, should you make one app or multiple apps? While there are many way to answer that question, I think focusing on one app is a better approach when starting out.</p><p><a href="https://www.youtube.com/@shawn.hickman"><strong>Watch on YouTube</strong></a></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 31 Dec 2024 09:22:00 -0500</pubDate>
+      <author>Shawn Hickman</author>
+      <enclosure url="https://media.transistor.fm/138d34de/d4cd5a1a.mp3" length="2970368" type="audio/mpeg"/>
+      <itunes:author>Shawn Hickman</itunes:author>
+      <itunes:duration>366</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>When starting out as an indie app developer, should you make one app or multiple apps? While there are many way to answer that question, I think focusing on one app is a better approach when starting out.</p><p><a href="https://www.youtube.com/@shawn.hickman"><strong>Watch on YouTube</strong></a></p><p><br></p><p><strong>Links</strong></p><ul><li><a href="https://sofahq.com/">Sofa's Website</a></li><li><a href="https://itunes.apple.com/app/id1276554886">Download Sofa from the App Store</a></li><li><a href="https://www.shawnhickman.me/worklog-podcast">Worklog Podcast Website</a></li><li><a href="https://www.shawnhickman.me/">Shawn's Blog</a></li><li><a href="https://www.hickman.studio/shop">Notion and spreadsheet templates</a></li></ul><p><strong>Follow Me</strong></p><ul><li><a href="https://www.youtube.com/@shawn.hickman">YouTube</a></li><li><a href="https://www.threads.net/@shawnhickman">Threads</a></li><li><a href="https://www.instagram.com/shawnhickman/">Instagram</a></li><li><a href="https://bsky.app/profile/shawnhickman.me">Bluesky</a></li></ul><p><strong>Share Feedback</strong></p><p>Have feedback? Send me an email:</p><p>hey@shawnhickman.me</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Indie app business, Subscription apps, App monetization, Solo entrepreneurship, iOS app development, Mobile app development, Indie iOS developer</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:transcript url="https://share.transistor.fm/s/138d34de/transcript.txt" type="text/plain"/>
+    </item>
+  </channel>
+</rss>

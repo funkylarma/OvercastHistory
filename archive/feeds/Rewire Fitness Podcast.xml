@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1135451.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Rewire Fitness Podcast</title>
+
+  <lastBuildDate>Sat, 19 Jul 2025 05:14:00 -0400</lastBuildDate>
+  <link>https://rewirefitness.buzzsprout.com</link>
+  <language>en-us</language>
+  <copyright>© 2025 Rewire Fitness Podcast</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>b0e43350-7f72-536c-ba9c-395ab7d1f0a3</podcast:guid>
+  <itunes:author>Rewire Fitness</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[Dedicated to helping athletes at all levels unlock their ultimate performance by improving mental toughness, sharp decision making, and mind/body recovery.   The Rewire team interviews leading scientists, coaches, athletes, and experts in the fields of neuroscience, sports science, psychology, strength and conditioning, wellness and beyond. Join our community of athletes on Strava, social, and via our weekly newsletter to find out more about brain training for athletes.]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>Rewire Fitness</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/a9lfg1bmq4ibv7wlbolp7lko6obj?.jpg</url>
+     <title>Rewire Fitness Podcast</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/a9lfg1bmq4ibv7wlbolp7lko6obj?.jpg" />
+  <itunes:category text="Health &amp; Fitness" />
+  <itunes:category text="Sports" />
+  <itunes:category text="Science" />
+</channel>
+</rss>

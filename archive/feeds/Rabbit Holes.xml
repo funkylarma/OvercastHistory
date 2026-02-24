@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/rabbit-holes" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Rabbit Holes</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/rabbit-holes</itunes:new-feed-url>
+    <description>Welcome to Rabbit Holes, a podcast presented by Escape Collective. Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.
+
+Escape Collective is member-funded. If you like this podcast, please consider supporting us by becoming a member: https://escapecollective.com/member/</description>
+    <copyright>Copyright 2022 All rights reserved.</copyright>
+    <podcast:guid>c34e64c0-8db0-5e95-bacc-286aa2957ee8</podcast:guid>
+    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <itunes:applepodcastsverify>be485130-2f8d-11f0-a4a0-93a13dc15545</itunes:applepodcastsverify>
+    <podcast:trailer pubdate="Thu, 01 May 2025 21:14:18 -0700" url="https://media.transistor.fm/05fc48c6/51b3c2db.mp3" length="2337765" type="audio/mpeg">Trailer: Who shot Greg LeMond?</podcast:trailer>
+    <language>en</language>
+    <pubDate>Sun, 30 Nov 2025 17:56:08 -0800</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 17:57:01 -0800</lastBuildDate>
+    <link>https://escapecollective.com/</link>
+    <image>
+      <url>https://img.transistor.fm/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg</url>
+      <title>Rabbit Holes</title>
+      <link>https://escapecollective.com/</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Sports News"/>
+    </itunes:category>
+    <itunes:category text="News"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Escape Collective</itunes:author>
+    <itunes:image href="https://img.transistor.fm/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg"/>
+    <itunes:summary>Welcome to Rabbit Holes, a podcast presented by Escape Collective. Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.
+
+Escape Collective is member-funded. If you like this podcast, please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
+    <itunes:subtitle>Welcome to Rabbit Holes, a podcast presented by Escape Collective.</itunes:subtitle>
+    <itunes:keywords>Escape Collective, cycling, investigative, bikes, pro cycling, bike tech, road bikes, cycling history, deep dive, rabbit holes, storytelling, narrative</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Escape Collective</itunes:name>
+      <itunes:email>info@escapecollective.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>What's it like buying a bike on AliExpress?</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>What's it like buying a bike on AliExpress?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b5f4388e-c465-46ce-b98d-84da08c21759</guid>
+      <link>https://share.transistor.fm/s/3b404cab</link>
+      <description>
+        <![CDATA[<p>Welcome back to the Rabbit Holes podcast! This episode is an audio version of one of Iain's investigations – a journey into the vast bike industry ecosystem that is AliExpress. </p><p>What's it like buying a bike from the platform? How do you know if you'll end up with something good? And, is it possible to end up with something you'll actually want to ride at the end of it all? We get our credit card out and go shopping ... and it's fair to say, it's a pretty bumpy ride. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/join. Sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome back to the Rabbit Holes podcast! This episode is an audio version of one of Iain's investigations – a journey into the vast bike industry ecosystem that is AliExpress. </p><p>What's it like buying a bike from the platform? How do you know if you'll end up with something good? And, is it possible to end up with something you'll actually want to ride at the end of it all? We get our credit card out and go shopping ... and it's fair to say, it's a pretty bumpy ride. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/join. Sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 30 Nov 2025 17:56:05 -0800</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/3b404cab/2e62ff2a.mp3" length="47614932" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1978</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome back to the Rabbit Holes podcast! This episode is an audio version of one of Iain's investigations – a journey into the vast bike industry ecosystem that is AliExpress. </p><p>What's it like buying a bike from the platform? How do you know if you'll end up with something good? And, is it possible to end up with something you'll actually want to ride at the end of it all? We get our credit card out and go shopping ... and it's fair to say, it's a pretty bumpy ride. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/join. Sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>AliExpress, ecommerce, Chinese bike industry, Investigations, bike tech, cycling, cycling industry</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Beginner's Guide to the Pro Cycling, Tour de France edition</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Beginner's Guide to the Pro Cycling, Tour de France edition</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">629b3046-11a7-4169-8a80-81a2daab7a5f</guid>
+      <link>https://share.transistor.fm/s/58f192b9</link>
+      <description>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered.  </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered.  </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Jul 2025 13:50:04 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/58f192b9/aab698a1.mp3" length="35973316" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1495</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered.  </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Escape Collective, cycling, investigative, bikes, pro cycling, bike tech, road bikes, cycling history, deep dive, rabbit holes, storytelling, narrative</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The beginner's guide to pro cycling</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>The beginner's guide to pro cycling</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">edae70f2-d1dc-4a49-bf7a-3b811f321ebc</guid>
+      <link>https://share.transistor.fm/s/9cc10540</link>
+      <description>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 03 Jul 2025 11:37:10 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9cc10540/89232a54.mp3" length="78012796" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>Escape Collective, cycling, investigative, bikes, pro cycling, bike tech, road bikes, cycling history, deep dive, rabbit holes, storytelling, narrative</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Who shot Greg LeMond? </title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Who shot Greg LeMond? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">364cde95-a2df-4861-a427-a85b61127af1</guid>
+      <link>https://share.transistor.fm/s/7084fdda</link>
+      <description>
+        <![CDATA[<p>Welcome to the first episode of Rabbit Holes, presented by <a href="https://escapecollective.com/member">Escape Collective</a>. </p><p>In the arc of a life – especially one as rich and eventful as Greg LeMond's - certain stories get lost to the grander narrative. But in 1987, the bigger story was still unwritten. That year – soon after he'd won his first Tour de France, in the prime of his career – Greg LeMond was shot, and almost died.</p><p>A Grand Tour champion, violence, drugs, intrigue, rehabilitation, and redemption: this is that story.</p><p>Production and sound design by Will and Stuart at Redbricks Media. Music from EpidemicSound. Thanks to Chris Marshall-Bell.</p><p>Escape Collective is an entirely independent and member-funded publication, and this content is only possible through the support of our members. To subscribe, go to <a href="http://www.escapecollective.com/join">www.escapecollective.com/join</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the first episode of Rabbit Holes, presented by <a href="https://escapecollective.com/member">Escape Collective</a>. </p><p>In the arc of a life – especially one as rich and eventful as Greg LeMond's - certain stories get lost to the grander narrative. But in 1987, the bigger story was still unwritten. That year – soon after he'd won his first Tour de France, in the prime of his career – Greg LeMond was shot, and almost died.</p><p>A Grand Tour champion, violence, drugs, intrigue, rehabilitation, and redemption: this is that story.</p><p>Production and sound design by Will and Stuart at Redbricks Media. Music from EpidemicSound. Thanks to Chris Marshall-Bell.</p><p>Escape Collective is an entirely independent and member-funded publication, and this content is only possible through the support of our members. To subscribe, go to <a href="http://www.escapecollective.com/join">www.escapecollective.com/join</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 02 May 2025 09:08:10 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7084fdda/8c8785cf.mp3" length="109055432" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4543</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to the first episode of Rabbit Holes, presented by <a href="https://escapecollective.com/member">Escape Collective</a>. </p><p>In the arc of a life – especially one as rich and eventful as Greg LeMond's - certain stories get lost to the grander narrative. But in 1987, the bigger story was still unwritten. That year – soon after he'd won his first Tour de France, in the prime of his career – Greg LeMond was shot, and almost died.</p><p>A Grand Tour champion, violence, drugs, intrigue, rehabilitation, and redemption: this is that story.</p><p>Production and sound design by Will and Stuart at Redbricks Media. Music from EpidemicSound. Thanks to Chris Marshall-Bell.</p><p>Escape Collective is an entirely independent and member-funded publication, and this content is only possible through the support of our members. To subscribe, go to <a href="http://www.escapecollective.com/join">www.escapecollective.com/join</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Escape Collective, cycling, investigative, bikes, pro cycling, bike tech, road bikes, cycling history, deep dive, rabbit holes, storytelling, narrative</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Trailer: Who shot Greg LeMond?</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Trailer: Who shot Greg LeMond?</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">438f99b1-8466-4ba4-9c21-d32b822a8098</guid>
+      <link>https://share.transistor.fm/s/05fc48c6</link>
+      <description>
+        <![CDATA[<p>Welcome to Rabbit Holes, a new podcast presented by Escape Collective.  </p><p>Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to Rabbit Holes, a new podcast presented by Escape Collective.  </p><p>Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Thu, 01 May 2025 21:14:18 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/05fc48c6/51b3c2db.mp3" length="2337765" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>88</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to Rabbit Holes, a new podcast presented by Escape Collective.  </p><p>Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.</p><p>Escape Collective is entirely member-funded. If you like this podcast, please consider supporting us by becoming a member: <a href="https://escapecollective.com/member/">https://escapecollective.com/member/</a></p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>Escape Collective, cycling, investigative, bikes, pro cycling, bike tech, road bikes, cycling history, deep dive, rabbit holes, storytelling, narrative</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

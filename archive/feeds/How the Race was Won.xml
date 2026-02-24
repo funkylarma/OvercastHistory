@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/pretty-serious-bike-racing-podcast" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>How the Race was Won</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/pretty-serious-bike-racing-podcast</itunes:new-feed-url>
+    <description>How the Race was Won is back for 2025. This year, we have evolved from being solely a podcast to being a post-race video show that you can watch live over on YouTube, although of course you can still just listen to the show in podcast form if you'd prefer. In any case, we will once again be bringing you the same analysis you love, taking a closer look into the key moments of key races and the how and the why behind tactics and results. 
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</description>
+    <copyright>Escape Collective 2022</copyright>
+    <podcast:guid>c621e3f6-3db6-5594-9a65-844e257a2615</podcast:guid>
+    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <itunes:applepodcastsverify>a8d7dc10-3093-11f0-a8bd-75b588fc0c67</itunes:applepodcastsverify>
+    <podcast:trailer pubdate="Mon, 29 May 2023 11:48:44 -0600" url="https://media.transistor.fm/f1f71ad9/37dd7116.mp3" length="56137979" type="audio/mpeg">The Giro's thrilling finale</podcast:trailer>
+    <language>en</language>
+    <pubDate>Sun, 23 Nov 2025 22:52:33 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 19:52:39 -0700</lastBuildDate>
+    <link>https://escapecollective.com</link>
+    <image>
+      <url>https://img.transistor.fm/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg</url>
+      <title>How the Race was Won</title>
+      <link>https://escapecollective.com</link>
+    </image>
+    <itunes:category text="Sports"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Escape Collective</itunes:author>
+    <itunes:image href="https://img.transistor.fm/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg"/>
+    <itunes:summary>How the Race was Won is back for 2025. This year, we have evolved from being solely a podcast to being a post-race video show that you can watch live over on YouTube, although of course you can still just listen to the show in podcast form if you'd prefer. In any case, we will once again be bringing you the same analysis you love, taking a closer look into the key moments of key races and the how and the why behind tactics and results. 
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
+    <itunes:subtitle>How the Race was Won is back for 2025.</itunes:subtitle>
+    <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Caley Fretz</itunes:name>
+      <itunes:email>info@escapecollective.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Keep calm and make history at Il Lombardia</title>
+      <itunes:episode>85</itunes:episode>
+      <podcast:episode>85</podcast:episode>
+      <itunes:title>Keep calm and make history at Il Lombardia</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">359fb53f-369e-468b-89d7-4e9c29b98199</guid>
+      <link>https://share.transistor.fm/s/74372bc1</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final Monument of the season, Il Lombardia.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final Monument of the season, Il Lombardia.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 11 Oct 2025 13:23:52 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/74372bc1/0d3ccede.mp3" length="38695795" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1609</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final Monument of the season, Il Lombardia.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Could UAE have done anything differently at the Vuelta?</title>
+      <itunes:episode>84</itunes:episode>
+      <podcast:episode>84</podcast:episode>
+      <itunes:title>Could UAE have done anything differently at the Vuelta?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dea04b7b-e8e3-4790-92f5-6d304bbb02b0</guid>
+      <link>https://share.transistor.fm/s/9e32c823</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage and discuss the bigger storylines of the third week of the Vuelta a España.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage and discuss the bigger storylines of the third week of the Vuelta a España.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 13 Sep 2025 16:09:58 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9e32c823/49d99c64.mp3" length="47469380" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1974</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage and discuss the bigger storylines of the third week of the Vuelta a España.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>We have a race on our hands at the Vuelta</title>
+      <itunes:episode>83</itunes:episode>
+      <podcast:episode>83</podcast:episode>
+      <itunes:title>We have a race on our hands at the Vuelta</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">020084a8-6482-4c09-9525-83ca894ca95a</guid>
+      <link>https://share.transistor.fm/s/1a84e9c4</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 13 of the Vuelta a España and the rest of the second week so far.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 13 of the Vuelta a España and the rest of the second week so far.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 05 Sep 2025 16:46:29 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1a84e9c4/69d62b95.mp3" length="47752354" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1986</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 13 of the Vuelta a España and the rest of the second week so far.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>There may be a Lidl problem with your team's Vuelta strategy</title>
+      <itunes:episode>82</itunes:episode>
+      <podcast:episode>82</podcast:episode>
+      <itunes:title>There may be a Lidl problem with your team's Vuelta strategy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ff06fb09-b922-48f8-9a29-5b06804d1869</guid>
+      <link>https://share.transistor.fm/s/45b81986</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 9 of the Vuelta a España and take a broader look at all the action from the first week of the race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 9 of the Vuelta a España and take a broader look at all the action from the first week of the race.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 31 Aug 2025 20:39:11 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/45b81986/8ac3dc4b.mp3" length="55157687" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2295</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down stage 9 of the Vuelta a España and take a broader look at all the action from the first week of the race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The battle for yellow is over</title>
+      <itunes:episode>81</itunes:episode>
+      <podcast:episode>81</podcast:episode>
+      <itunes:title>The battle for yellow is over</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">77616f8c-ec82-4cbd-916d-8668fbe51945</guid>
+      <link>https://share.transistor.fm/s/39db0cc4</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the last mountain stage of the 2025 Tour de France and take a broader view of the GC battle in the final week.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the last mountain stage of the 2025 Tour de France and take a broader view of the GC battle in the final week.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 25 Jul 2025 20:07:21 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/39db0cc4/378c44e9.mp3" length="50475782" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2100</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the last mountain stage of the 2025 Tour de France and take a broader view of the GC battle in the final week.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Cooked in the Pyrenees</title>
+      <itunes:episode>80</itunes:episode>
+      <podcast:episode>80</podcast:episode>
+      <itunes:title>Cooked in the Pyrenees</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">043e3c33-8761-4c2b-9a74-41f4e144bbd5</guid>
+      <link>https://share.transistor.fm/s/d03a78ec</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the second week of the 2025 Tour de France, where three back-to-back days in the Pyrenees cooked everyone.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the second week of the 2025 Tour de France, where three back-to-back days in the Pyrenees cooked everyone.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 19 Jul 2025 21:25:05 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/d03a78ec/eb0297c7.mp3" length="43837633" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1823</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the second week of the 2025 Tour de France, where three back-to-back days in the Pyrenees cooked everyone.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The kitchen sink and the first 'week' of the Tour de France</title>
+      <itunes:episode>79</itunes:episode>
+      <podcast:episode>79</podcast:episode>
+      <itunes:title>The kitchen sink and the first 'week' of the Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6b011225-ae49-41b4-95c0-77a10e3f93c7</guid>
+      <link>https://share.transistor.fm/s/454a1e9d</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first 10 stages of the Tour de France, which culminated in a mountain stage where Visma-Lease a Bike tried pretty much everything to pressure Tadej Pogačar.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first 10 stages of the Tour de France, which culminated in a mountain stage where Visma-Lease a Bike tried pretty much everything to pressure Tadej Pogačar.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Jul 2025 19:19:12 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/454a1e9d/c55f8069.mp3" length="50785640" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2113</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first 10 stages of the Tour de France, which culminated in a mountain stage where Visma-Lease a Bike tried pretty much everything to pressure Tadej Pogačar.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A remarkable end to a remarkable Giro</title>
+      <itunes:episode>78</itunes:episode>
+      <podcast:episode>78</podcast:episode>
+      <itunes:title>A remarkable end to a remarkable Giro</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fd629909-3ca8-44db-8ee5-b7548af5dc7b</guid>
+      <link>https://share.transistor.fm/s/9bd79b2b</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage of the Giro d'Italia, where Simon Yates turned the race on its head.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage of the Giro d'Italia, where Simon Yates turned the race on its head.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 31 May 2025 11:36:02 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9bd79b2b/73d61464.mp3" length="40659134" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1691</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final mountain stage of the Giro d'Italia, where Simon Yates turned the race on its head.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>This is what it takes for UAE to make the Giro interesting</title>
+      <itunes:episode>77</itunes:episode>
+      <podcast:episode>77</podcast:episode>
+      <itunes:title>This is what it takes for UAE to make the Giro interesting</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9af6561b-f913-46f7-a1ca-15ef4bfe46af</guid>
+      <link>https://share.transistor.fm/s/a1ef18e2</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the GC battle two weeks into the Giro d'Italia, after a stage 15 that saw some changes in the standings ... and the narrative, too.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the GC battle two weeks into the Giro d'Italia, after a stage 15 that saw some changes in the standings ... and the narrative, too.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 26 May 2025 02:17:20 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a1ef18e2/2d415655.mp3" length="35217279" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the GC battle two weeks into the Giro d'Italia, after a stage 15 that saw some changes in the standings ... and the narrative, too.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Mischief, mayhem, gravel at the Giro d'Italia</title>
+      <itunes:episode>76</itunes:episode>
+      <podcast:episode>76</podcast:episode>
+      <itunes:title>Mischief, mayhem, gravel at the Giro d'Italia</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ae9ea95c-fdaf-40a3-a460-b7e858183672</guid>
+      <link>https://share.transistor.fm/s/7902797c</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the dramatic ninth stage and the rest of the key points from the first "week" of the 2025 Giro d'Italia.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the dramatic ninth stage and the rest of the key points from the first "week" of the 2025 Giro d'Italia.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 19 May 2025 15:40:45 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7902797c/3836a4da.mp3" length="46149918" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1920</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the dramatic ninth stage and the rest of the key points from the first "week" of the 2025 Giro d'Italia.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Could this Liège meeting have been an email?</title>
+      <itunes:episode>75</itunes:episode>
+      <podcast:episode>75</podcast:episode>
+      <itunes:title>Could this Liège meeting have been an email?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9197229c-a2bc-42b7-bbc6-93251d3d820e</guid>
+      <link>https://share.transistor.fm/s/c7666401</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano take a closer look at Liège-Bastogne-Liège, where there was more to break down than you might expect for a race won so convincingly.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano take a closer look at Liège-Bastogne-Liège, where there was more to break down than you might expect for a race won so convincingly.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 27 Apr 2025 12:26:09 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c7666401/003e30f6.mp3" length="35813279" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1489</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano take a closer look at Liège-Bastogne-Liège, where there was more to break down than you might expect for a race won so convincingly.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>It ain't over till it's over at the Amstel Gold Race</title>
+      <itunes:episode>74</itunes:episode>
+      <podcast:episode>74</podcast:episode>
+      <itunes:title>It ain't over till it's over at the Amstel Gold Race</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7a61a961-8b3a-4943-bdb8-4ad7bcb50e9b</guid>
+      <link>https://share.transistor.fm/s/1033fc7e</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's Amstel Gold Race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's Amstel Gold Race.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 20 Apr 2025 15:01:55 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1033fc7e/d0ade6ad.mp3" length="37796627" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1572</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's Amstel Gold Race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Racing Roubaix is different from chasing Strava KOMs</title>
+      <itunes:episode>73</itunes:episode>
+      <podcast:episode>73</podcast:episode>
+      <itunes:title>Racing Roubaix is different from chasing Strava KOMs</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">af550033-6a7a-4c5a-a529-094068108107</guid>
+      <link>https://share.transistor.fm/s/04086a5e</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's race at Paris-Roubaix.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's race at Paris-Roubaix.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Apr 2025 03:06:35 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/04086a5e/49797442.mp3" length="43346559" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1803</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the men's race at Paris-Roubaix.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>It wasn't for lack of trying at the Tour of Flanders</title>
+      <itunes:episode>72</itunes:episode>
+      <podcast:episode>72</podcast:episode>
+      <itunes:title>It wasn't for lack of trying at the Tour of Flanders</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">78ab382f-f76e-47da-ac32-9503405b43bf</guid>
+      <link>https://share.transistor.fm/s/2d616be6</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the men's Tour of Flanders, where rivals threw everything at the pre-race favorite.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the men's Tour of Flanders, where rivals threw everything at the pre-race favorite.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 06 Apr 2025 17:20:06 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2d616be6/b36366dc.mp3" length="43318043" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1802</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the men's Tour of Flanders, where rivals threw everything at the pre-race favorite.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Is this just what racing is now?</title>
+      <itunes:episode>71</itunes:episode>
+      <podcast:episode>71</podcast:episode>
+      <itunes:title>Is this just what racing is now?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">eae88bd6-ee5c-4df2-a90c-96e1e8ab88fb</guid>
+      <link>https://share.transistor.fm/s/4882ed4c</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the men's Gent-Wevelgem and draw some conclusions from the other races after a very busy weekend.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the men's Gent-Wevelgem and draw some conclusions from the other races after a very busy weekend.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 30 Mar 2025 14:02:02 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/4882ed4c/415e7340.mp3" length="44166471" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1838</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the men's Gent-Wevelgem and draw some conclusions from the other races after a very busy weekend.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>That was a lot of work to finish third at San Remo</title>
+      <itunes:episode>70</itunes:episode>
+      <podcast:episode>70</podcast:episode>
+      <itunes:title>That was a lot of work to finish third at San Remo</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">15de3a0e-6d79-439a-8b17-cf726cdbb515</guid>
+      <link>https://share.transistor.fm/s/1653855d</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Milan-San Remo, where Tadej Pogačar tried his darnedest to drop Mathieu van der Poel – to no avail.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Milan-San Remo, where Tadej Pogačar tried his darnedest to drop Mathieu van der Poel – to no avail.</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 22 Mar 2025 14:51:10 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1653855d/c162aed3.mp3" length="49929396" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2078</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Milan-San Remo, where Tadej Pogačar tried his darnedest to drop Mathieu van der Poel – to no avail.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Visma masters the art of war</title>
+      <itunes:episode>69</itunes:episode>
+      <podcast:episode>69</podcast:episode>
+      <itunes:title>Visma masters the art of war</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0c670ead-e459-44ee-ba8f-abcf2c04383d</guid>
+      <link>https://share.transistor.fm/s/6b7386a8</link>
+      <description>
+        <![CDATA[<p>It's a double dose of bike racing analysis this week as Dane Cash and Cosmo Catalano break down the action at Paris-Nice *and* Tirreno-Adriatico.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>It's a double dose of bike racing analysis this week as Dane Cash and Cosmo Catalano break down the action at Paris-Nice *and* Tirreno-Adriatico.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 16 Mar 2025 15:35:14 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6b7386a8/b172a78b.mp3" length="61268541" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2550</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>It's a double dose of bike racing analysis this week as Dane Cash and Cosmo Catalano break down the action at Paris-Nice *and* Tirreno-Adriatico.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Achievement unlocked at Strade Bianche</title>
+      <itunes:episode>68</itunes:episode>
+      <podcast:episode>68</podcast:episode>
+      <itunes:title>Achievement unlocked at Strade Bianche</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7b8a3b62-d7a2-4025-bce6-7780231efd9c</guid>
+      <link>https://share.transistor.fm/s/566c6c5b</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Strade Bianche, which featured some dramatic moments and a more intriguing battle than we might have expected ...</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Strade Bianche, which featured some dramatic moments and a more intriguing battle than we might have expected ...</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 08 Mar 2025 13:06:55 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/566c6c5b/aca4fb8b.mp3" length="52374901" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2180</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down Strade Bianche, which featured some dramatic moments and a more intriguing battle than we might have expected ...</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Maybe they should call it Group 1 Syndrome</title>
+      <itunes:episode>67</itunes:episode>
+      <podcast:episode>67</podcast:episode>
+      <itunes:title>Maybe they should call it Group 1 Syndrome</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dd499160-483f-4a8f-aff9-122d267b31dd</guid>
+      <link>https://share.transistor.fm/s/1bf51a73</link>
+      <description>
+        <![CDATA[<p>How the Race was Won returns with a breakdown of the Omloop (Het) Nieuwsblad. Dane Cash and Cosmo Catalano talk tactics, surprises, blunders, and more in the first podcast of the season ... which is a lot more than a podcast this year. You can still listen to the show here on the podcast feed if you prefer, but How the Race was Won is now broadcasting live on video after all the big races. To get the full show, head on over to the <a href="https://www.youtube.com/watch?v=9PKT_GCjeF0">Escape Collective YouTube channel</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>How the Race was Won returns with a breakdown of the Omloop (Het) Nieuwsblad. Dane Cash and Cosmo Catalano talk tactics, surprises, blunders, and more in the first podcast of the season ... which is a lot more than a podcast this year. You can still listen to the show here on the podcast feed if you prefer, but How the Race was Won is now broadcasting live on video after all the big races. To get the full show, head on over to the <a href="https://www.youtube.com/watch?v=9PKT_GCjeF0">Escape Collective YouTube channel</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Mar 2025 18:36:11 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1bf51a73/8194d0f9.mp3" length="61217367" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2548</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>How the Race was Won returns with a breakdown of the Omloop (Het) Nieuwsblad. Dane Cash and Cosmo Catalano talk tactics, surprises, blunders, and more in the first podcast of the season ... which is a lot more than a podcast this year. You can still listen to the show here on the podcast feed if you prefer, but How the Race was Won is now broadcasting live on video after all the big races. To get the full show, head on over to the <a href="https://www.youtube.com/watch?v=9PKT_GCjeF0">Escape Collective YouTube channel</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Guangxi and a season wrap</title>
+      <itunes:episode>66</itunes:episode>
+      <podcast:episode>66</podcast:episode>
+      <itunes:title>Guangxi and a season wrap</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">601c39d6-8a48-4dee-9a9d-1e602bb9ae34</guid>
+      <link>https://share.transistor.fm/s/eb5a6627</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano talk Tour of Guangxi and then look back at the season that was, pondering who the unheralded riders of the year were and more.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano talk Tour of Guangxi and then look back at the season that was, pondering who the unheralded riders of the year were and more.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Oct 2024 14:36:58 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/eb5a6627/292fdc94.mp3" length="42435835" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano talk Tour of Guangxi and then look back at the season that was, pondering who the unheralded riders of the year were and more.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A dominant showing amid the falling leaves</title>
+      <itunes:episode>65</itunes:episode>
+      <podcast:episode>65</podcast:episode>
+      <itunes:title>A dominant showing amid the falling leaves</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f7cdf702-aeea-4845-9e94-4b3d01a477a0</guid>
+      <link>https://share.transistor.fm/s/8a823301</link>
+      <description>
+        <![CDATA[<p>Il Lombardia gave Dane Cash and Cosmo Catalano yet another dominant performance to discuss, and this time, they doubt whether anyone else could have done anything at all to stop the world's best rider from claiming his fourth straight win in the race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Il Lombardia gave Dane Cash and Cosmo Catalano yet another dominant performance to discuss, and this time, they doubt whether anyone else could have done anything at all to stop the world's best rider from claiming his fourth straight win in the race.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Oct 2024 11:33:17 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/8a823301/33450b3e.mp3" length="48078924" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2001</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Il Lombardia gave Dane Cash and Cosmo Catalano yet another dominant performance to discuss, and this time, they doubt whether anyone else could have done anything at all to stop the world's best rider from claiming his fourth straight win in the race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Rainbows defended, rainbows earned</title>
+      <itunes:episode>64</itunes:episode>
+      <podcast:episode>64</podcast:episode>
+      <itunes:title>Rainbows defended, rainbows earned</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fb8423c9-c045-41f5-b3b3-04913bb96688</guid>
+      <link>https://share.transistor.fm/s/3ae679e2</link>
+      <description>
+        <![CDATA[<p>In this episode of How the Race Was Won, Dane Cash and Cosmo Catalano break down the thrilling action from the 2024 UCI Road World Championships in Zurich, Switzerland. </p><p>The men's elite race was dominated by an (un?)expected 100km solo breakaway from Tadej Pogačar, who secured his third major win of the year and completed the coveted Triple Crown of Giro/Tour/Worlds. Dane and Cosmo analyze Pogačar's bold strategy, the chaotic chase behind him, and the impressive teamwork displayed by the small Slovenian squad. They also discuss the performances of other favorites like Remco Evenepoel, highlighting the lack of coordination in the chase group that ultimately led to Pogačar's victory.</p><p>In the women's elite race, Lotte Kopecky successfully defended her title, showcasing her resilience by recovering from being dropped late in the race and winning in a sprint finish. The podcast concludes with a look ahead to Il Lombardia, where Pogačar will defend his title wearing the newly acquired rainbow jersey.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of How the Race Was Won, Dane Cash and Cosmo Catalano break down the thrilling action from the 2024 UCI Road World Championships in Zurich, Switzerland. </p><p>The men's elite race was dominated by an (un?)expected 100km solo breakaway from Tadej Pogačar, who secured his third major win of the year and completed the coveted Triple Crown of Giro/Tour/Worlds. Dane and Cosmo analyze Pogačar's bold strategy, the chaotic chase behind him, and the impressive teamwork displayed by the small Slovenian squad. They also discuss the performances of other favorites like Remco Evenepoel, highlighting the lack of coordination in the chase group that ultimately led to Pogačar's victory.</p><p>In the women's elite race, Lotte Kopecky successfully defended her title, showcasing her resilience by recovering from being dropped late in the race and winning in a sprint finish. The podcast concludes with a look ahead to Il Lombardia, where Pogačar will defend his title wearing the newly acquired rainbow jersey.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 30 Sep 2024 11:23:34 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/3ae679e2/23fa0ec9.mp3" length="45003773" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1873</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of How the Race Was Won, Dane Cash and Cosmo Catalano break down the thrilling action from the 2024 UCI Road World Championships in Zurich, Switzerland. </p><p>The men's elite race was dominated by an (un?)expected 100km solo breakaway from Tadej Pogačar, who secured his third major win of the year and completed the coveted Triple Crown of Giro/Tour/Worlds. Dane and Cosmo analyze Pogačar's bold strategy, the chaotic chase behind him, and the impressive teamwork displayed by the small Slovenian squad. They also discuss the performances of other favorites like Remco Evenepoel, highlighting the lack of coordination in the chase group that ultimately led to Pogačar's victory.</p><p>In the women's elite race, Lotte Kopecky successfully defended her title, showcasing her resilience by recovering from being dropped late in the race and winning in a sprint finish. The podcast concludes with a look ahead to Il Lombardia, where Pogačar will defend his title wearing the newly acquired rainbow jersey.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>TTs and what ifs</title>
+      <itunes:episode>63</itunes:episode>
+      <podcast:episode>63</podcast:episode>
+      <itunes:title>TTs and what ifs</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a1c0aa59-7a27-4fab-a025-180cbd47e183</guid>
+      <link>https://share.transistor.fm/s/7877aa40</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the men's time trial at Zurich Worlds, answer some listener questions, and look ahead to what's coming.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the men's time trial at Zurich Worlds, answer some listener questions, and look ahead to what's coming.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 23 Sep 2024 09:30:07 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7877aa40/8ad90615.mp3" length="74509990" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3102</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the men's time trial at Zurich Worlds, answer some listener questions, and look ahead to what's coming.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>O Canada</title>
+      <itunes:episode>62</itunes:episode>
+      <podcast:episode>62</podcast:episode>
+      <itunes:title>O Canada</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">59a4e79d-1f3e-4391-a3f8-f20a6d179a86</guid>
+      <link>https://share.transistor.fm/s/5a31327c</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the Grands Prix Cyclistes de Québec et de Montréal.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the Grands Prix Cyclistes de Québec et de Montréal.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 16 Sep 2024 11:05:01 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/5a31327c/e1fa16a0.mp3" length="49198652" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2047</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down all the action from the Grands Prix Cyclistes de Québec et de Montréal.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Just like Red Bull drew it up</title>
+      <itunes:episode>61</itunes:episode>
+      <podcast:episode>61</podcast:episode>
+      <itunes:title>Just like Red Bull drew it up</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3781e5e1-899e-4747-ab08-80816fda893f</guid>
+      <link>https://share.transistor.fm/s/0d5f8ddd</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the final week of the Vuelta a España, which gave us some entertaining stage battles and, thanks to largely to Ben O'Connor's persistence, an intriguing fight for red.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the final week of the Vuelta a España, which gave us some entertaining stage battles and, thanks to largely to Ben O'Connor's persistence, an intriguing fight for red.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 09 Sep 2024 11:48:54 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0d5f8ddd/85c43821.mp3" length="57443959" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2391</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the final week of the Vuelta a España, which gave us some entertaining stage battles and, thanks to largely to Ben O'Connor's persistence, an intriguing fight for red.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Mountains, mountains, and more mountains at the Vuelta</title>
+      <itunes:episode>60</itunes:episode>
+      <podcast:episode>60</podcast:episode>
+      <itunes:title>Mountains, mountains, and more mountains at the Vuelta</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">fe2e08d7-7575-457d-9b21-df74ff9d31ca</guid>
+      <link>https://share.transistor.fm/s/09f346f6</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the GC fight at the Vuelta a España and also discuss the brilliant breakaway battles of the second week before talking Renewi Tour and looking ahead to the Vuelta finale.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the GC fight at the Vuelta a España and also discuss the brilliant breakaway battles of the second week before talking Renewi Tour and looking ahead to the Vuelta finale.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 02 Sep 2024 11:11:46 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/09f346f6/8a58ffd5.mp3" length="53476152" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2226</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the GC fight at the Vuelta a España and also discuss the brilliant breakaway battles of the second week before talking Renewi Tour and looking ahead to the Vuelta finale.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Vibe shifts at the Vuelta</title>
+      <itunes:episode>59</itunes:episode>
+      <podcast:episode>59</podcast:episode>
+      <itunes:title>Vibe shifts at the Vuelta</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">594b8f75-b913-43df-a258-43c5d9acb938</guid>
+      <link>https://share.transistor.fm/s/2a6402c8</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first nine days of the Vuelta a España, where the vibes have been constantly shifting and where the GC looks wide open after some intriguing days in Andalusia.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first nine days of the Vuelta a España, where the vibes have been constantly shifting and where the GC looks wide open after some intriguing days in Andalusia.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 26 Aug 2024 10:23:30 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2a6402c8/35f20d31.mp3" length="59215676" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2465</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first nine days of the Vuelta a España, where the vibes have been constantly shifting and where the GC looks wide open after some intriguing days in Andalusia.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Grand Tours galore and Poland too</title>
+      <itunes:episode>58</itunes:episode>
+      <podcast:episode>58</podcast:episode>
+      <itunes:title>Grand Tours galore and Poland too</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d257d164-c114-4305-ba08-e68d28a4d6af</guid>
+      <link>https://share.transistor.fm/s/2c3a944e</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano have plenty to discuss on this week's How the Race was Won. Could SDWorx have done more for Demi Vollering at the Tour de France Femmes? Does Kasia Niewiadoma deserve more credit for what she did right? Is Kaden Groves faster than we thought? And will Jonas Vingegaard feel a bit better now that he has won a WorldTour stage race this summer?</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano have plenty to discuss on this week's How the Race was Won. Could SDWorx have done more for Demi Vollering at the Tour de France Femmes? Does Kasia Niewiadoma deserve more credit for what she did right? Is Kaden Groves faster than we thought? And will Jonas Vingegaard feel a bit better now that he has won a WorldTour stage race this summer?</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Aug 2024 11:20:56 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2c3a944e/a20e1694.mp3" length="54901085" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2285</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano have plenty to discuss on this week's How the Race was Won. Could SDWorx have done more for Demi Vollering at the Tour de France Femmes? Does Kasia Niewiadoma deserve more credit for what she did right? Is Kaden Groves faster than we thought? And will Jonas Vingegaard feel a bit better now that he has won a WorldTour stage race this summer?</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A long-awaited win at San Sebastián and a look ahead to the TDFF</title>
+      <itunes:episode>57</itunes:episode>
+      <podcast:episode>57</podcast:episode>
+      <itunes:title>A long-awaited win at San Sebastián and a look ahead to the TDFF</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5f33f51e-16b4-4f6e-a451-951a8d99b546</guid>
+      <link>https://share.transistor.fm/s/2fd70e0e</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the Donostia San Sebastián Klasikoa, where a rider took his first WorldTour win in four years, and then Abby Mickey delivers a dispatch from the Grand Départ of the Tour de France Femmes.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the Donostia San Sebastián Klasikoa, where a rider took his first WorldTour win in four years, and then Abby Mickey delivers a dispatch from the Grand Départ of the Tour de France Femmes.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 12 Aug 2024 08:19:15 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2fd70e0e/f6d66a2e.mp3" length="55754222" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2321</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the Donostia San Sebastián Klasikoa, where a rider took his first WorldTour win in four years, and then Abby Mickey delivers a dispatch from the Grand Départ of the Tour de France Femmes.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Olympic Road Races were what we love about cycling</title>
+      <itunes:episode>56</itunes:episode>
+      <podcast:episode>56</podcast:episode>
+      <itunes:title>The Olympic Road Races were what we love about cycling</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">5c485a1b-4a81-4f08-85c4-af46394f9921</guid>
+      <link>https://share.transistor.fm/s/fb2bdd25</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the men's and women's road races at the Paris Olympics, which were so much more than exercise contests.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the men's and women's road races at the Paris Olympics, which were so much more than exercise contests.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 05 Aug 2024 09:46:27 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/fb2bdd25/c7f86d0b.mp3" length="59736949" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2487</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the men's and women's road races at the Paris Olympics, which were so much more than exercise contests.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>ITTs and Q&amp;As</title>
+      <itunes:episode>55</itunes:episode>
+      <podcast:episode>55</podcast:episode>
+      <itunes:title>ITTs and Q&amp;As</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1743ee01-5740-4d25-8270-5c7dc1a58d29</guid>
+      <link>https://share.transistor.fm/s/86c2f812</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the time trial events at the Paris Olympics, answer some listener questions, and look ahead to the upcoming Olympic road race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the time trial events at the Paris Olympics, answer some listener questions, and look ahead to the upcoming Olympic road race.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 Jul 2024 14:12:30 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/86c2f812/eeed7458.mp3" length="75942064" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3162</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the time trial events at the Paris Olympics, answer some listener questions, and look ahead to the upcoming Olympic road race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The winners and losers of the Tour de France</title>
+      <itunes:episode>54</itunes:episode>
+      <podcast:episode>54</podcast:episode>
+      <itunes:title>The winners and losers of the Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">54bd7bfe-9e04-498d-97fe-d1c2a29ac39f</guid>
+      <link>https://share.transistor.fm/s/2f51621c</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the final week of the 2024 Tour and draw some wider conclusions about who delivered and who came up short in the race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the final week of the 2024 Tour and draw some wider conclusions about who delivered and who came up short in the race.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 Jul 2024 13:38:36 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2f51621c/9fdb3dbc.mp3" length="74176496" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3089</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the final week of the 2024 Tour and draw some wider conclusions about who delivered and who came up short in the race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Nothing is inevitable</title>
+      <itunes:episode>53</itunes:episode>
+      <podcast:episode>53</podcast:episode>
+      <itunes:title>Nothing is inevitable</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e9bf50d1-29d5-48e9-9794-14a5a9c5e0ba</guid>
+      <link>https://share.transistor.fm/s/d2ca4403</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the second week of the 2024 Tour de France, where the stage battles kept us constantly entertained and the vibes were constantly shifting.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the second week of the 2024 Tour de France, where the stage battles kept us constantly entertained and the vibes were constantly shifting.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 15 Jul 2024 11:56:39 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/d2ca4403/a613f655.mp3" length="75599193" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3148</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the second week of the 2024 Tour de France, where the stage battles kept us constantly entertained and the vibes were constantly shifting.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>It's all still to play for at the Tour de France</title>
+      <itunes:episode>52</itunes:episode>
+      <podcast:episode>52</podcast:episode>
+      <itunes:title>It's all still to play for at the Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0f4873ae-04a0-4599-84a4-a066f2f8bfee</guid>
+      <link>https://share.transistor.fm/s/1ddd6a13</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first week of the 2024 Tour de France.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first week of the 2024 Tour de France.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 Jul 2024 09:58:59 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1ddd6a13/46b63cb8.mp3" length="69767796" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2905</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first week of the 2024 Tour de France.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How the Race was Won: Storylines aplenty to kick off Le Tour</title>
+      <itunes:episode>51</itunes:episode>
+      <podcast:episode>51</podcast:episode>
+      <itunes:title>How the Race was Won: Storylines aplenty to kick off Le Tour</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">633fd300-99a9-45b8-8a3e-914c1b223c71</guid>
+      <link>https://share.transistor.fm/s/d99d7aa1</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the first three stages of the 2024 Tour de France, where two Frenchmen took unexpected wins before an intriguing sprint showdown.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the first three stages of the 2024 Tour de France, where two Frenchmen took unexpected wins before an intriguing sprint showdown.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Jul 2024 15:45:03 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/d99d7aa1/19dbe027.mp3" length="59202816" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2465</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss the first three stages of the 2024 Tour de France, where two Frenchmen took unexpected wins before an intriguing sprint showdown.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Previewing the Tour de France route</title>
+      <itunes:episode>50</itunes:episode>
+      <podcast:episode>50</podcast:episode>
+      <itunes:title>Previewing the Tour de France route</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">800ca3c2-3a3f-46ee-a57a-352d02786b7f</guid>
+      <link>https://share.transistor.fm/s/ad7e467c</link>
+      <description>
+        <![CDATA[<p>Rather than looking back at the racing over the past week, this time, Dane Cash and Cosmo Catalano look ahead to the upcoming Tour de France, previewing all 21 stages of the route.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Rather than looking back at the racing over the past week, this time, Dane Cash and Cosmo Catalano look ahead to the upcoming Tour de France, previewing all 21 stages of the route.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Jun 2024 10:53:20 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/ad7e467c/7f6b32b8.mp3" length="71063207" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2959</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Rather than looking back at the racing over the past week, this time, Dane Cash and Cosmo Catalano look ahead to the upcoming Tour de France, previewing all 21 stages of the route.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>One team to rule them all at the Tour de Suisse</title>
+      <itunes:episode>49</itunes:episode>
+      <podcast:episode>49</podcast:episode>
+      <itunes:title>One team to rule them all at the Tour de Suisse</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4ce7ccd0-05b1-46d3-a5ca-016f0decd017</guid>
+      <link>https://share.transistor.fm/s/81a0ab6e</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the Tour de Suisse, where Adam Yates, João Almeida, and UAE Team Emirates dominated the competition in a show of force ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the Tour de Suisse, where Adam Yates, João Almeida, and UAE Team Emirates dominated the competition in a show of force ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Jun 2024 15:01:19 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/81a0ab6e/3593ab40.mp3" length="58048187" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2417</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the Tour de Suisse, where Adam Yates, João Almeida, and UAE Team Emirates dominated the competition in a show of force ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A nail-biting Dauphiné</title>
+      <itunes:episode>48</itunes:episode>
+      <podcast:episode>48</podcast:episode>
+      <itunes:title>A nail-biting Dauphiné</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7d1b50f7-3b96-45d8-8dc0-8e34da04e1bf</guid>
+      <link>https://share.transistor.fm/s/06ed7de4</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the 2024 Critérium du Dauphiné, where Primož Roglič narrowly held off Matteo Jorgensen to win the overall title, and discuss what it all means ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the 2024 Critérium du Dauphiné, where Primož Roglič narrowly held off Matteo Jorgensen to win the overall title, and discuss what it all means ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Jun 2024 10:50:35 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/06ed7de4/38fbdb9d.mp3" length="63208282" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2632</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down the 2024 Critérium du Dauphiné, where Primož Roglič narrowly held off Matteo Jorgensen to win the overall title, and discuss what it all means ahead of the Tour de France.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Dauphiné underway and more</title>
+      <itunes:episode>47</itunes:episode>
+      <podcast:episode>47</podcast:episode>
+      <itunes:title>The Dauphiné underway and more</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d9ebb804-ea64-4879-be33-d6df8f92ce03</guid>
+      <link>https://share.transistor.fm/s/06a06989</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first two stages of the Critérium du Dauphiné, field some questions in a Q&amp;A session, and look at what's next on the bike racing docket.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first two stages of the Critérium du Dauphiné, field some questions in a Q&amp;A session, and look at what's next on the bike racing docket.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Jun 2024 14:20:07 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/06a06989/8ec10770.mp3" length="50147823" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2088</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the first two stages of the Critérium du Dauphiné, field some questions in a Q&amp;A session, and look at what's next on the bike racing docket.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Last call for Giro takes</title>
+      <itunes:episode>46</itunes:episode>
+      <podcast:episode>46</podcast:episode>
+      <itunes:title>Last call for Giro takes</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9e03ec4a-f410-4788-aab7-172f493b70d3</guid>
+      <link>https://share.transistor.fm/s/c933b850</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final week of the 2024 Giro d'Italia and discuss some of the bigger takeaways from the race as a whole.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final week of the 2024 Giro d'Italia and discuss some of the bigger takeaways from the race as a whole.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 27 May 2024 11:44:01 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c933b850/da2470ab.mp3" length="60595305" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2523</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the final week of the 2024 Giro d'Italia and discuss some of the bigger takeaways from the race as a whole.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Wholesome goodness at the Giro</title>
+      <itunes:episode>45</itunes:episode>
+      <podcast:episode>45</podcast:episode>
+      <itunes:title>Wholesome goodness at the Giro</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">73c6c670-16c6-42f6-b507-c081f970a2b5</guid>
+      <link>https://share.transistor.fm/s/4e3cf2f3</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the wholesome breakaway wins, the clear sprint leader, the shifting meta, and the dominant GC rider at the Giro d'Italia.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the wholesome breakaway wins, the clear sprint leader, the shifting meta, and the dominant GC rider at the Giro d'Italia.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 20 May 2024 13:36:36 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/4e3cf2f3/ddf4615a.mp3" length="63329007" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2637</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss the wholesome breakaway wins, the clear sprint leader, the shifting meta, and the dominant GC rider at the Giro d'Italia.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The aura comes to the Giro</title>
+      <itunes:episode>44</itunes:episode>
+      <podcast:episode>44</podcast:episode>
+      <itunes:title>The aura comes to the Giro</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e976ea14-fed0-4f4f-9caa-aeea87b62eb0</guid>
+      <link>https://share.transistor.fm/s/de73d2ee</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano tackle the talking points of the Giro so far, where Tadej Pogačar and his aura of invincibility have taken control of the GC, but where plenty of stage battles have provided intrigue.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano tackle the talking points of the Giro so far, where Tadej Pogačar and his aura of invincibility have taken control of the GC, but where plenty of stage battles have provided intrigue.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 13 May 2024 11:28:41 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/de73d2ee/8aab050a.mp3" length="57914889" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2412</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano tackle the talking points of the Giro so far, where Tadej Pogačar and his aura of invincibility have taken control of the GC, but where plenty of stage battles have provided intrigue.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Giro is underway</title>
+      <itunes:episode>43</itunes:episode>
+      <podcast:episode>43</podcast:episode>
+      <itunes:title>The Giro is underway</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">35709626-862a-4f85-a682-e307ff1e924c</guid>
+      <link>https://share.transistor.fm/s/5996f997</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first few stages of the 2024 Giro d'Italia and also discuss the Vuelta España Femenina, a bit of Eschborn-Frankfurt, and what's coming up at the Giro.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/join</a> to support this show and everything else on our podcast network.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first few stages of the 2024 Giro d'Italia and also discuss the Vuelta España Femenina, a bit of Eschborn-Frankfurt, and what's coming up at the Giro.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/join</a> to support this show and everything else on our podcast network.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 06 May 2024 08:31:57 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/5996f997/da02c1de.mp3" length="71742893" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2988</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano break down the action from the first few stages of the 2024 Giro d'Italia and also discuss the Vuelta España Femenina, a bit of Eschborn-Frankfurt, and what's coming up at the Giro.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/join</a> to support this show and everything else on our podcast network.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Tour de Romandie</title>
+      <itunes:episode>42</itunes:episode>
+      <podcast:episode>42</podcast:episode>
+      <itunes:title>The Tour de Romandie</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b2bb43ac-cadc-40f8-8436-02e9fd5ff347</guid>
+      <link>https://share.transistor.fm/s/72f4f03c</link>
+      <description>
+        <![CDATA[<p>On this week's How the Race was Won pod, Dane Cash and Cosmo Catalano break down the Tour de Romandie, where the Ineos Grenadiers put on a familiar show and where Decathlon-AG2R showed us that they are a sprinting team after all.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On this week's How the Race was Won pod, Dane Cash and Cosmo Catalano break down the Tour de Romandie, where the Ineos Grenadiers put on a familiar show and where Decathlon-AG2R showed us that they are a sprinting team after all.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 Apr 2024 14:58:13 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/72f4f03c/90b75954.mp3" length="60537389" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2521</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On this week's How the Race was Won pod, Dane Cash and Cosmo Catalano break down the Tour de Romandie, where the Ineos Grenadiers put on a familiar show and where Decathlon-AG2R showed us that they are a sprinting team after all.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Liège-Bastogne-Liège</title>
+      <itunes:episode>41</itunes:episode>
+      <podcast:episode>41</podcast:episode>
+      <itunes:title>Liège-Bastogne-Liège</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a1e6256f-d981-41b7-bfaa-e8ba6acce000</guid>
+      <link>https://share.transistor.fm/s/b3289fb7</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss La Flèche Wallonne, where the weather made for a more interesting men's race than we often get while the women's race ended with a long-awaited win, and Liège-Bastogne-Liège, where one rider's dominance made for a less intriguing finish than we might have hoped on the men's side while the women kept it suspenseful to the very end.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss La Flèche Wallonne, where the weather made for a more interesting men's race than we often get while the women's race ended with a long-awaited win, and Liège-Bastogne-Liège, where one rider's dominance made for a less intriguing finish than we might have hoped on the men's side while the women kept it suspenseful to the very end.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 Apr 2024 13:06:19 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/b3289fb7/8c000d0c.mp3" length="52875651" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2191</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash discuss La Flèche Wallonne, where the weather made for a more interesting men's race than we often get while the women's race ended with a long-awaited win, and Liège-Bastogne-Liège, where one rider's dominance made for a less intriguing finish than we might have hoped on the men's side while the women kept it suspenseful to the very end.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Amstel Gold Race</title>
+      <itunes:episode>40</itunes:episode>
+      <podcast:episode>40</podcast:episode>
+      <itunes:title>The Amstel Gold Race</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">03b51aa8-11af-429d-bc27-307d4fde10bc</guid>
+      <link>https://share.transistor.fm/s/8c5b056d</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss just exactly how the men's Amstel Gold Race was won, and how the riders who finished both first and second did lots of things right, whereas the rider whose shadow loomed large at the start only finished 22nd.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss just exactly how the men's Amstel Gold Race was won, and how the riders who finished both first and second did lots of things right, whereas the rider whose shadow loomed large at the start only finished 22nd.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 15 Apr 2024 11:55:26 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/8c5b056d/3b8fee4f.mp3" length="47580401" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1981</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano discuss just exactly how the men's Amstel Gold Race was won, and how the riders who finished both first and second did lots of things right, whereas the rider whose shadow loomed large at the start only finished 22nd.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Paris-Roubaix and a bit of the Basque Country too</title>
+      <itunes:episode>39</itunes:episode>
+      <podcast:episode>39</podcast:episode>
+      <itunes:title>Paris-Roubaix and a bit of the Basque Country too</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">414eb5b9-a5a9-486d-892a-7e1d3cb6214b</guid>
+      <link>https://share.transistor.fm/s/ab41ad88</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down Mathieu van der Poel's dominant display (again) on the cobbles, his team's spectacular showing to support him, and the battle for the podium at Paris-Roubaix, and also the crash-marred Itzulia Basque Country.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down Mathieu van der Poel's dominant display (again) on the cobbles, his team's spectacular showing to support him, and the battle for the podium at Paris-Roubaix, and also the crash-marred Itzulia Basque Country.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 Apr 2024 20:19:07 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/ab41ad88/6176b7db.mp3" length="64204547" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2667</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down Mathieu van der Poel's dominant display (again) on the cobbles, his team's spectacular showing to support him, and the battle for the podium at Paris-Roubaix, and also the crash-marred Itzulia Basque Country.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Tour of Flanders</title>
+      <itunes:episode>38</itunes:episode>
+      <podcast:episode>38</podcast:episode>
+      <itunes:title>The Tour of Flanders</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">70d52241-60d4-4e96-991c-796f990e7429</guid>
+      <link>https://share.transistor.fm/s/bb2d7409</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down a grueling edition of the Tour of Flanders and ponder whether anyone in the peloton could have done anything to challenge a dominant Mathieu van der Poel.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down a grueling edition of the Tour of Flanders and ponder whether anyone in the peloton could have done anything to challenge a dominant Mathieu van der Poel.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Apr 2024 09:15:57 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/bb2d7409/50d0c7b7.mp3" length="68780164" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2863</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash break down a grueling edition of the Tour of Flanders and ponder whether anyone in the peloton could have done anything to challenge a dominant Mathieu van der Poel.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>E3, Gent-Wevelgem, and Catalunya, oh my!</title>
+      <itunes:episode>37</itunes:episode>
+      <podcast:episode>37</podcast:episode>
+      <itunes:title>E3, Gent-Wevelgem, and Catalunya, oh my!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9e92e15f-3377-4c36-b565-96c6130486e8</guid>
+      <link>https://share.transistor.fm/s/871d50e7</link>
+      <description>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash have plenty to talk about after a week that was absolutely jam-packed with racing. The E3 Saxo Classic, Gent-Wevelgem, and the Volta a Catalunya all get the How the Race was Won treatment as the Tour of Flanders looms.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash have plenty to talk about after a week that was absolutely jam-packed with racing. The E3 Saxo Classic, Gent-Wevelgem, and the Volta a Catalunya all get the How the Race was Won treatment as the Tour of Flanders looms.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 25 Mar 2024 10:52:32 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/871d50e7/b8e382d3.mp3" length="76638552" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3191</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cosmo Catalano and Dane Cash have plenty to talk about after a week that was absolutely jam-packed with racing. The E3 Saxo Classic, Gent-Wevelgem, and the Volta a Catalunya all get the How the Race was Won treatment as the Tour of Flanders looms.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Debating Milan-San Remo</title>
+      <itunes:episode>36</itunes:episode>
+      <podcast:episode>36</podcast:episode>
+      <itunes:title>Debating Milan-San Remo</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e68116e8-b81d-48e9-b87c-16b782001789</guid>
+      <link>https://share.transistor.fm/s/a1af3bda</link>
+      <description>
+        <![CDATA[<p>Caley Fretz joins Dane Cash and Cosmo Catalano to break down all the storylines from Milan-San Remo: Jasper Philipsen as a bona fide Classics contender, Mathieu van der Poel as an MVP teammate, whether Michael Matthews could have closed the door in the sprint, whether UAE could or should have done anything differently, and more.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz joins Dane Cash and Cosmo Catalano to break down all the storylines from Milan-San Remo: Jasper Philipsen as a bona fide Classics contender, Mathieu van der Poel as an MVP teammate, whether Michael Matthews could have closed the door in the sprint, whether UAE could or should have done anything differently, and more.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 18 Mar 2024 13:53:36 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a1af3bda/bfff887a.mp3" length="85622983" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3565</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz joins Dane Cash and Cosmo Catalano to break down all the storylines from Milan-San Remo: Jasper Philipsen as a bona fide Classics contender, Mathieu van der Poel as an MVP teammate, whether Michael Matthews could have closed the door in the sprint, whether UAE could or should have done anything differently, and more.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Paris-Nice and Tirreno-Adriatico</title>
+      <itunes:episode>35</itunes:episode>
+      <podcast:episode>35</podcast:episode>
+      <itunes:title>Paris-Nice and Tirreno-Adriatico</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a9c6b0b9-4ad6-472f-a92a-65e4a2464551</guid>
+      <link>https://share.transistor.fm/s/6eee392c</link>
+      <description>
+        <![CDATA[<p>On this week's How the Race was Won podcast, Cosmo Catalano and Dane Cash discuss the surprising Paris-Nice podium, Primož Roglič's early season form, Jonas Vingegaard's dominance, and new developments in the Republic of Sprinters after Tirreno-Adriatico.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On this week's How the Race was Won podcast, Cosmo Catalano and Dane Cash discuss the surprising Paris-Nice podium, Primož Roglič's early season form, Jonas Vingegaard's dominance, and new developments in the Republic of Sprinters after Tirreno-Adriatico.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 11 Mar 2024 12:16:46 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6eee392c/1df5f9a3.mp3" length="72250301" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3008</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On this week's How the Race was Won podcast, Cosmo Catalano and Dane Cash discuss the surprising Paris-Nice podium, Primož Roglič's early season form, Jonas Vingegaard's dominance, and new developments in the Republic of Sprinters after Tirreno-Adriatico.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A called shot at Strade Bianche</title>
+      <itunes:episode>34</itunes:episode>
+      <podcast:episode>34</podcast:episode>
+      <itunes:title>A called shot at Strade Bianche</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dd2f1bf9-4253-40b3-83dc-1fca84a20cbe</guid>
+      <link>https://share.transistor.fm/s/199330f0</link>
+      <description>
+        <![CDATA[<p>This week on the How the Race was Won Podcast, Cosmo Catalano and Dane Cash break down the action at Strade Bianche. Could the race have been won any other way? Was the winner playing mind games with his rivals?</p><p>Plus, the podcast discusses what's on tap for this week at Paris-Nice and Tirreno-Adriatico.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This week on the How the Race was Won Podcast, Cosmo Catalano and Dane Cash break down the action at Strade Bianche. Could the race have been won any other way? Was the winner playing mind games with his rivals?</p><p>Plus, the podcast discusses what's on tap for this week at Paris-Nice and Tirreno-Adriatico.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 04 Mar 2024 11:43:33 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/199330f0/067cd58d.mp3" length="59250831" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2466</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This week on the How the Race was Won Podcast, Cosmo Catalano and Dane Cash break down the action at Strade Bianche. Could the race have been won any other way? Was the winner playing mind games with his rivals?</p><p>Plus, the podcast discusses what's on tap for this week at Paris-Nice and Tirreno-Adriatico.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Opening Weekend</title>
+      <itunes:episode>33</itunes:episode>
+      <podcast:episode>33</podcast:episode>
+      <itunes:title>Opening Weekend</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">052ec173-dd18-47aa-9571-390eacb1d707</guid>
+      <link>https://share.transistor.fm/s/aeacaefe</link>
+      <description>
+        <![CDATA[<p>If you, like us, have spent the past four months nurturing a pent-up need to be pretty serious, your wait is over. After a long hiatus during the offseason – and even through the first few weeks of this year, with apologies to the Tour Down Under! – Cosmo Catalano and Dane Cash are back with a weekly show to break down all of the racing action that took place over the past week.</p><p>The podcast's aim has always been to be Pretty Serious about bike racing, and that isn't changing, but the *name* is. Since its inception, the podcast has focused on telling listeners about how events were concluded in the triumph of this or that rider, but this year, Cosmo and Dane are just going all-in on telling you How the Race was Won.</p><p>Each week, you can expect Cosmo and Dane, and occasionally other voices too, to take a closer look at the moments that defined racing over the previous few days (focusing mostly on men's racing with Wheel Talk the following day focusing on the women's racing), to highlight which riders maybe deserve a bit more heralding and which might have been a bit too heralded, and to look ahead to broader storylines. Sometimes, the podcast will even attempt to venture into sports talk radio territory.</p><p>This week on How the Race was Won, the crew breaks down Jan Tratnik's win at the Omloop Het Nieuwsblad, who deserves a bit more credit for their performance in the race, Visma's general dominance across the weekend, and what it all means.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>If you, like us, have spent the past four months nurturing a pent-up need to be pretty serious, your wait is over. After a long hiatus during the offseason – and even through the first few weeks of this year, with apologies to the Tour Down Under! – Cosmo Catalano and Dane Cash are back with a weekly show to break down all of the racing action that took place over the past week.</p><p>The podcast's aim has always been to be Pretty Serious about bike racing, and that isn't changing, but the *name* is. Since its inception, the podcast has focused on telling listeners about how events were concluded in the triumph of this or that rider, but this year, Cosmo and Dane are just going all-in on telling you How the Race was Won.</p><p>Each week, you can expect Cosmo and Dane, and occasionally other voices too, to take a closer look at the moments that defined racing over the previous few days (focusing mostly on men's racing with Wheel Talk the following day focusing on the women's racing), to highlight which riders maybe deserve a bit more heralding and which might have been a bit too heralded, and to look ahead to broader storylines. Sometimes, the podcast will even attempt to venture into sports talk radio territory.</p><p>This week on How the Race was Won, the crew breaks down Jan Tratnik's win at the Omloop Het Nieuwsblad, who deserves a bit more credit for their performance in the race, Visma's general dominance across the weekend, and what it all means.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 26 Feb 2024 11:30:56 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/aeacaefe/23059db5.mp3" length="75886866" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3159</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>If you, like us, have spent the past four months nurturing a pent-up need to be pretty serious, your wait is over. After a long hiatus during the offseason – and even through the first few weeks of this year, with apologies to the Tour Down Under! – Cosmo Catalano and Dane Cash are back with a weekly show to break down all of the racing action that took place over the past week.</p><p>The podcast's aim has always been to be Pretty Serious about bike racing, and that isn't changing, but the *name* is. Since its inception, the podcast has focused on telling listeners about how events were concluded in the triumph of this or that rider, but this year, Cosmo and Dane are just going all-in on telling you How the Race was Won.</p><p>Each week, you can expect Cosmo and Dane, and occasionally other voices too, to take a closer look at the moments that defined racing over the previous few days (focusing mostly on men's racing with Wheel Talk the following day focusing on the women's racing), to highlight which riders maybe deserve a bit more heralding and which might have been a bit too heralded, and to look ahead to broader storylines. Sometimes, the podcast will even attempt to venture into sports talk radio territory.</p><p>This week on How the Race was Won, the crew breaks down Jan Tratnik's win at the Omloop Het Nieuwsblad, who deserves a bit more credit for their performance in the race, Visma's general dominance across the weekend, and what it all means.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Closing the book on the 2023 season</title>
+      <itunes:episode>32</itunes:episode>
+      <podcast:episode>32</podcast:episode>
+      <itunes:title>Closing the book on the 2023 season</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d1e27d5c-fe45-4de4-aed8-1984f6f3e2d8</guid>
+      <link>https://share.transistor.fm/s/cc2f830c</link>
+      <description>
+        <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to wrap up the 2023 road racing campaign. The crew talks Guangxi and Chongming Island, and ponders some of the broader questions of the season.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to wrap up the 2023 road racing campaign. The crew talks Guangxi and Chongming Island, and ponders some of the broader questions of the season.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 24 Oct 2023 02:23:26 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/cc2f830c/260017f9.mp3" length="61827418" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/PYocKMJ7c8Utig9KwpoNVy5NlHaIfxcnc3ePxEPpDa8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NjEzODEv/MTY5ODEzNTgxMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>2556</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to wrap up the 2023 road racing campaign. The crew talks Guangxi and Chongming Island, and ponders some of the broader questions of the season.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>He won another one?</title>
+      <itunes:episode>31</itunes:episode>
+      <podcast:episode>31</podcast:episode>
+      <itunes:title>He won another one?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6524aac26465330012ec421f</guid>
+      <link>https://share.transistor.fm/s/b4865cca</link>
+      <description>
+        <![CDATA[Cosmo Catalano and Dane Cash discuss Tadej Pogačar's second Monument of the season and third straight victory at Il Lombardia, as well as talking gravel, Paris-Tours, and MTB World Cups.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Cosmo Catalano and Dane Cash discuss Tadej Pogačar's second Monument of the season and third straight victory at Il Lombardia, as well as talking gravel, Paris-Tours, and MTB World Cups.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 09 Oct 2023 19:37:06 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/b4865cca/6947f897.mp3" length="38742084" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2422</itunes:duration>
+      <itunes:summary>Cosmo Catalano and Dane Cash discuss Tadej Pogačar's second Monument of the season and third straight victory at Il Lombardia, as well as talking gravel, Paris-Tours, and MTB World Cups. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Cosmo Catalano and Dane Cash discuss Tadej Pogačar's second Monument of the season and third straight victory at Il Lombardia, as well as talking gravel, Paris-Tours, and MTB World Cups. Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Overachievers and underachievers, Lombardia looming</title>
+      <itunes:episode>30</itunes:episode>
+      <podcast:episode>30</podcast:episode>
+      <itunes:title>Overachievers and underachievers, Lombardia looming</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">651b56e3f8852f00115aa7b4</guid>
+      <link>https://share.transistor.fm/s/a3a313db</link>
+      <description>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the highlights of this past weekend's racing, field questions from Escape Collective members, and look ahead at Il Lombardia.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the highlights of this past weekend's racing, field questions from Escape Collective members, and look ahead at Il Lombardia.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 02 Oct 2023 17:59:45 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a3a313db/cc6433dd.mp3" length="51150938" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3197</itunes:duration>
+      <itunes:summary>Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the highlights of this past weekend's racing, field questions from Escape Collective members, and look ahead at Il Lombardia. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the highlights of this past weekend's racing, field questions from Escape Collective members, and look ahead at Il Lombardia. Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>When is a teammate not a teammate?</title>
+      <itunes:episode>29</itunes:episode>
+      <podcast:episode>29</podcast:episode>
+      <itunes:title>When is a teammate not a teammate?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6511e0161e565800110d5c27</guid>
+      <link>https://share.transistor.fm/s/0732154b</link>
+      <description>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the entertaining road race action from the European Continental Championships as well as the 2023 Grand Tour season as a whole.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the entertaining road race action from the European Continental Championships as well as the 2023 Grand Tour season as a whole.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 25 Sep 2023 13:47:17 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0732154b/ce4ba35b.mp3" length="47154379" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2948</itunes:duration>
+      <itunes:summary>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the entertaining road race action from the European Continental Championships as well as the 2023 Grand Tour season as a whole. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the entertaining road race action from the European Continental Championships as well as the 2023 Grand Tour season as a whole. Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A thrilling final week of Grand Tour racing</title>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:title>A thrilling final week of Grand Tour racing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6508c504262db400110fca85</guid>
+      <link>https://share.transistor.fm/s/e05d6891</link>
+      <description>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the dramatic final week of the Vuelta a España, the race in general, and the Human Fly, and also to take a closer look at the women's Tour de Romandie.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the dramatic final week of the Vuelta a España, the race in general, and the Human Fly, and also to take a closer look at the women's Tour de Romandie.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 18 Sep 2023 15:45:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/e05d6891/367190fe.mp3" length="46272503" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2892</itunes:duration>
+      <itunes:summary>Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the dramatic final week of the Vuelta a España, the race in general, and the Human Fly, and also to take a closer look at the women's Tour de Romandie. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Abby Mickey joins Dane Cash and Cosmo Catalano to discuss the dramatic final week of the Vuelta a España, the race in general, and the Human Fly, and also to take a closer look at the women's Tour de Romandie. Hosted on Acast. See acast.com/privacy for mo</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Into the last week of the season's final Grand Tour</title>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:title>Into the last week of the season's final Grand Tour</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64ff5b6e4e4e30001118d766</guid>
+      <link>https://share.transistor.fm/s/a955c329</link>
+      <description>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano amid a busy slate of September racing. The crew talks Vuelta, the SIMAC Ladies Tour, and Canadian GPs, which means plenty of discussion of Evenepoel and Kuss, SD Worx and sprints, and uphill surges in North America.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano amid a busy slate of September racing. The crew talks Vuelta, the SIMAC Ladies Tour, and Canadian GPs, which means plenty of discussion of Evenepoel and Kuss, SD Worx and sprints, and uphill surges in North America.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 11 Sep 2023 12:24:46 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a955c329/84725edc.mp3" length="54825218" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3427</itunes:duration>
+      <itunes:summary>Abby Mickey joins Dane Cash and Cosmo Catalano amid a busy slate of September racing. The crew talks Vuelta, the SIMAC Ladies Tour, and Canadian GPs, which means plenty of discussion of Evenepoel and Kuss, SD Worx and sprints, and uphill surges in North America. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Abby Mickey joins Dane Cash and Cosmo Catalano amid a busy slate of September racing. The crew talks Vuelta, the SIMAC Ladies Tour, and Canadian GPs, which means plenty of discussion of Evenepoel and Kuss, SD Worx and sprints, and uphill surges in North A</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>The Vuelta always keeps it interesting</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>The Vuelta always keeps it interesting</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64f6536ddb70ff00115c1990</guid>
+      <link>https://share.transistor.fm/s/ad23e738</link>
+      <description>
+        <![CDATA[Jonny Long joins Dane Cash and Cosmo Catalano after nine days of racing at the Vuelta a España. The crew discusses the battle between Remco Evenepoel and Jumbo-Visma, smart moves and questionable decisions, and what's next. Also, the podcast looks at two different approaches to a sprint in Plouay.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Jonny Long joins Dane Cash and Cosmo Catalano after nine days of racing at the Vuelta a España. The crew discusses the battle between Remco Evenepoel and Jumbo-Visma, smart moves and questionable decisions, and what's next. Also, the podcast looks at two different approaches to a sprint in Plouay.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 04 Sep 2023 16:00:13 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/ad23e738/24bb8e1c.mp3" length="37549267" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2347</itunes:duration>
+      <itunes:summary>Jonny Long joins Dane Cash and Cosmo Catalano after nine days of racing at the Vuelta a España. The crew discusses the battle between Remco Evenepoel and Jumbo-Visma, smart moves and questionable decisions, and what's next. Also, the podcast looks at two different approaches to a sprint in Plouay. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Jonny Long joins Dane Cash and Cosmo Catalano after nine days of racing at the Vuelta a España. The crew discusses the battle between Remco Evenepoel and Jumbo-Visma, smart moves and questionable decisions, and what's next. Also, the podcast looks at two </itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Plenty of drama to kick off the Vuelta</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>Plenty of drama to kick off the Vuelta</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64ed26dbba55d20011e6b06c</guid>
+      <link>https://share.transistor.fm/s/df0adad6</link>
+      <description>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the many talking points in the early goings of the Vuelta a España, a strong showing by Annemiek van Vleuten and a gutsy performance by Cecilie Uttrup Ludwig at the Tour of Scandinavia, and more.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the many talking points in the early goings of the Vuelta a España, a strong showing by Annemiek van Vleuten and a gutsy performance by Cecilie Uttrup Ludwig at the Tour of Scandinavia, and more.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 28 Aug 2023 16:59:39 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/df0adad6/d36c9dd8.mp3" length="38652679" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2416</itunes:duration>
+      <itunes:summary>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the many talking points in the early goings of the Vuelta a España, a strong showing by Annemiek van Vleuten and a gutsy performance by Cecilie Uttrup Ludwig at the Tour of Scandinavia, and more. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss the many talking points in the early goings of the Vuelta a España, a strong showing by Annemiek van Vleuten and a gutsy performance by Cecilie Uttrup Ludwig at the Tour of Scandinavia, and more. H</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Can anyone beat Vingegaard and Roglič at the Vuelta?</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>Can anyone beat Vingegaard and Roglič at the Vuelta?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64e3aa7fddadb000124812be</guid>
+      <link>https://share.transistor.fm/s/589af8f9</link>
+      <description>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to cover some interesting talking points after an intriguing finale at the Bemer Cyclassics and then to preview the route and favorites for the Vuelta a España and the Tour of Scandinavia.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Abby Mickey joins Dane Cash and Cosmo Catalano to cover some interesting talking points after an intriguing finale at the Bemer Cyclassics and then to preview the route and favorites for the Vuelta a España and the Tour of Scandinavia.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Aug 2023 12:18:39 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/589af8f9/d3c22024.mp3" length="45500968" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2844</itunes:duration>
+      <itunes:summary>Abby Mickey joins Dane Cash and Cosmo Catalano to cover some interesting talking points after an intriguing finale at the Bemer Cyclassics and then to preview the route and favorites for the Vuelta a España and the Tour of Scandinavia. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Abby Mickey joins Dane Cash and Cosmo Catalano to cover some interesting talking points after an intriguing finale at the Bemer Cyclassics and then to preview the route and favorites for the Vuelta a España and the Tour of Scandinavia. Hosted on Acast. Se</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Super Worlds comes to a close</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>Super Worlds comes to a close</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64dabc6f49c8ba0011908289</guid>
+      <link>https://share.transistor.fm/s/fa3c66db</link>
+      <description>
+        <![CDATA[Ruth Edwards and Kit Nicholson join Dane Cash and Cosmo Catalano to break down the action from the time trials and the women's road race at Glasgow Worlds.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Ruth Edwards and Kit Nicholson join Dane Cash and Cosmo Catalano to break down the action from the time trials and the women's road race at Glasgow Worlds.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Aug 2023 17:44:46 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/fa3c66db/87fb5b60.mp3" length="39466428" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2467</itunes:duration>
+      <itunes:summary>Ruth Edwards and Kit Nicholson join Dane Cash and Cosmo Catalano to break down the action from the time trials and the women's road race at Glasgow Worlds. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Edwards and Kit Nicholson join Dane Cash and Cosmo Catalano to break down the action from the time trials and the women's road race at Glasgow Worlds. Hosted on Acast. See acast.com/privacy for more information.</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>A thrilling men's road race at Glasgow Worlds</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>A thrilling men's road race at Glasgow Worlds</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64d16bea6653ff0011d768e5</guid>
+      <link>https://share.transistor.fm/s/8a9988b8</link>
+      <description>
+        <![CDATA[Caley Fretz joins Dane Cash and Cosmo Catalano after a memorable battle for the rainbow jersey. The podcast crew discusses the unique and interesting race route, the differences that define Mathieu van der Poel and Wout van Aert, whether anyone could have done anything tactically to change the outcome of the race, and more.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Caley Fretz joins Dane Cash and Cosmo Catalano after a memorable battle for the rainbow jersey. The podcast crew discusses the unique and interesting race route, the differences that define Mathieu van der Poel and Wout van Aert, whether anyone could have done anything tactically to change the outcome of the race, and more.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 07 Aug 2023 16:10:49 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/8a9988b8/58032027.mp3" length="58276984" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3643</itunes:duration>
+      <itunes:summary>Caley Fretz joins Dane Cash and Cosmo Catalano after a memorable battle for the rainbow jersey. The podcast crew discusses the unique and interesting race route, the differences that define Mathieu van der Poel and Wout van Aert, whether anyone could have done anything tactically to change the outcome of the race, and more. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Caley Fretz joins Dane Cash and Cosmo Catalano after a memorable battle for the rainbow jersey. The podcast crew discusses the unique and interesting race route, the differences that define Mathieu van der Poel and Wout van Aert, whether anyone could have</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Talking Tour de France Femmes and San Sebastián</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>Talking Tour de France Femmes and San Sebastián</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64c8016b6e09090011a563e1</guid>
+      <link>https://share.transistor.fm/s/0ef0fdcd</link>
+      <description>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss a very busy week of racing at a thoroughly entertaining Tour de France Femmes, as well as the action from the Clásica San Sebastián and just a little bit of the Tour of Poland too.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Ruth Winder joins Dane Cash and Cosmo Catalano to discuss a very busy week of racing at a thoroughly entertaining Tour de France Femmes, as well as the action from the Clásica San Sebastián and just a little bit of the Tour of Poland too.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 31 Jul 2023 12:46:03 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0ef0fdcd/91093df0.mp3" length="42971887" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2686</itunes:duration>
+      <itunes:summary>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss a very busy week of racing at a thoroughly entertaining Tour de France Femmes, as well as the action from the Clásica San Sebastián and just a little bit of the Tour of Poland too. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder joins Dane Cash and Cosmo Catalano to discuss a very busy week of racing at a thoroughly entertaining Tour de France Femmes, as well as the action from the Clásica San Sebastián and just a little bit of the Tour of Poland too. Hosted on Acast.</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Tour takeaways aplenty</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>Tour takeaways aplenty</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64bf180e67281500119278b7</guid>
+      <link>https://share.transistor.fm/s/9e074abe</link>
+      <description>
+        <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to talk takeaways from the final week of the men's Tour de France, which the whole crew agrees was a great one. What did we learn about Jonas Vingegaard and Tadej Pogačar? Who deserves a bit more credit for their racing than maybe they've been getting so far?</p><br><p>Then, it's on to talking about the Tour de France Femmes, which has already featured some interesting storylines across the first two stages.</p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to talk takeaways from the final week of the men's Tour de France, which the whole crew agrees was a great one. What did we learn about Jonas Vingegaard and Tadej Pogačar? Who deserves a bit more credit for their racing than maybe they've been getting so far?</p><br><p>Then, it's on to talking about the Tour de France Femmes, which has already featured some interesting storylines across the first two stages.</p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Jul 2023 18:32:13 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9e074abe/6be3137c.mp3" length="39208533" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2451</itunes:duration>
+      <itunes:summary>Ruth Winder joins Dane Cash and Cosmo Catalano to talk takeaways from the final week of the men's Tour de France, which the whole crew agrees was a great one. What did we learn about Jonas Vingegaard and Tadej Pogačar? Who deserves a bit more credit for their racing than maybe they've been getting so far?Then, it's on to talking about the Tour de France Femmes, which has already featured some interesting storylines across the first two stages. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder joins Dane Cash and Cosmo Catalano to talk takeaways from the final week of the men's Tour de France, which the whole crew agrees was a great one. What did we learn about Jonas Vingegaard and Tadej Pogačar? Who deserves a bit more credit for t</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>How is the Tour still this close?</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>How is the Tour still this close?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64b5b84559542d00112c6641</guid>
+      <link>https://share.transistor.fm/s/42aaba94</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano are joined by Abby Mickey to talk:</p><p><br></p><ul><li>Favorite moments from week two of the men's Tour de France</li><li>Under-the-radar performances</li><li>What to expect in the final week</li><li>What's coming up at the Tour de France Femmes</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano are joined by Abby Mickey to talk:</p><p><br></p><ul><li>Favorite moments from week two of the men's Tour de France</li><li>Under-the-radar performances</li><li>What to expect in the final week</li><li>What's coming up at the Tour de France Femmes</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Jul 2023 15:53:08 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/42aaba94/83597954.mp3" length="46963787" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2936</itunes:duration>
+      <itunes:summary>Dane Cash and Cosmo Catalano are joined by Abby Mickey to talk:Favorite moments from week two of the men's Tour de FranceUnder-the-radar performancesWhat to expect in the final weekWhat's coming up at the Tour de France Femmes Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Dane Cash and Cosmo Catalano are joined by Abby Mickey to talk:Favorite moments from week two of the men's Tour de FranceUnder-the-radar performancesWhat to expect in the final weekWhat's coming up at the Tour de France Femmes Hosted on Acast. See acast.c</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Tour Daily: Getting Pretty Serious on the first rest day</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>Tour Daily: Getting Pretty Serious on the first rest day</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64ac63d965e9c30011ab6c90</guid>
+      <link>https://share.transistor.fm/s/927a40fa</link>
+      <description>
+        <![CDATA[Dane Cash and Cosmo Catalano are joined by Ronan Mc Laughlin on the Tour's first rest day to talk about all the racing action so far at the Tour de France, takeaways from the Giro Donne, and what's coming up in the "second week" of the Tour. It's time to get Pretty Serious about Bike Racing!<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Dane Cash and Cosmo Catalano are joined by Ronan Mc Laughlin on the Tour's first rest day to talk about all the racing action so far at the Tour de France, takeaways from the Giro Donne, and what's coming up in the "second week" of the Tour. It's time to get Pretty Serious about Bike Racing!<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Jul 2023 14:02:32 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/927a40fa/d81747c6.mp3" length="50991288" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3187</itunes:duration>
+      <itunes:summary>Dane Cash and Cosmo Catalano are joined by Ronan Mc Laughlin on the Tour's first rest day to talk about all the racing action so far at the Tour de France, takeaways from the Giro Donne, and what's coming up in the "second week" of the Tour. It's time to get Pretty Serious about Bike Racing! Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Dane Cash and Cosmo Catalano are joined by Ronan Mc Laughlin on the Tour's first rest day to talk about all the racing action so far at the Tour de France, takeaways from the Giro Donne, and what's coming up in the "second week" of the Tour. It's time to </itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>An in-depth look at the contenders for the 2023 Tour</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>An in-depth look at the contenders for the 2023 Tour</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6499e83905c5ef0011e64e36</guid>
+      <link>https://share.transistor.fm/s/c65d546a</link>
+      <description>
+        <![CDATA[With the Tour de France less than a week away, the Pretty Serious Bike Racing Podcast is here to take a closer look at all the big names set to contend this year. The crew takes on the Vingegaard vs. Pogačar debate, names some outsiders, and sizes up the stagehunters for the upcoming Grand Tour.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[With the Tour de France less than a week away, the Pretty Serious Bike Racing Podcast is here to take a closer look at all the big names set to contend this year. The crew takes on the Vingegaard vs. Pogačar debate, names some outsiders, and sizes up the stagehunters for the upcoming Grand Tour.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 26 Jun 2023 13:34:17 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c65d546a/0e35bcba.mp3" length="47872469" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2992</itunes:duration>
+      <itunes:summary>With the Tour de France less than a week away, the Pretty Serious Bike Racing Podcast is here to take a closer look at all the big names set to contend this year. The crew takes on the Vingegaard vs. Pogačar debate, names some outsiders, and sizes up the stagehunters for the upcoming Grand Tour. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>With the Tour de France less than a week away, the Pretty Serious Bike Racing Podcast is here to take a closer look at all the big names set to contend this year. The crew takes on the Vingegaard vs. Pogačar debate, names some outsiders, and sizes up the </itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Gino Mäder and the Tour de Suisse</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>Gino Mäder and the Tour de Suisse</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6490c1445c21a900124b98f7</guid>
+      <link>https://share.transistor.fm/s/6d1a7fcd</link>
+      <description>
+        <![CDATA[On this week's Pretty Serious Bike Racing Podcast, we remember Gino Mäder, who tragically lost his life at the Tour de Suisse. We also discuss the race, where Mattias Skjelmose took a surprise GC win on the men's side and where SD Worx has been continuing their run of success at the women's event.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[On this week's Pretty Serious Bike Racing Podcast, we remember Gino Mäder, who tragically lost his life at the Tour de Suisse. We also discuss the race, where Mattias Skjelmose took a surprise GC win on the men's side and where SD Worx has been continuing their run of success at the women's event.<br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Jun 2023 14:57:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6d1a7fcd/2433b2e5.mp3" length="38900101" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2432</itunes:duration>
+      <itunes:summary>On this week's Pretty Serious Bike Racing Podcast, we remember Gino Mäder, who tragically lost his life at the Tour de Suisse. We also discuss the race, where Mattias Skjelmose took a surprise GC win on the men's side and where SD Worx has been continuing their run of success at the women's event. Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>On this week's Pretty Serious Bike Racing Podcast, we remember Gino Mäder, who tragically lost his life at the Tour de Suisse. We also discuss the race, where Mattias Skjelmose took a surprise GC win on the men's side and where SD Worx has been continuing</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Dauphiné done and dusted, Suisse starts</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>Dauphiné done and dusted, Suisse starts</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648776bd4f3c100011a9737c</guid>
+      <link>https://share.transistor.fm/s/945f52f6</link>
+      <description>
+        <![CDATA[<p><br></p><p>On this week's Pretty Serious Bike Racing Podcast, Ruth Winder joins Dane Cash and Cosmo Catalano to discuss:</p><ul><li>Vingegaard doing what he needed to do at the Critérium du Dauphiné</li><li>How mostly everyone else didn't really even attempt to take him on on the climbs</li><li>Whether Van Aert and Pidcock could challenge Evenepoel at the Suisse?</li><li>What the heck happened at the Tour des Pyrénées?</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><br></p><p>On this week's Pretty Serious Bike Racing Podcast, Ruth Winder joins Dane Cash and Cosmo Catalano to discuss:</p><ul><li>Vingegaard doing what he needed to do at the Critérium du Dauphiné</li><li>How mostly everyone else didn't really even attempt to take him on on the climbs</li><li>Whether Van Aert and Pidcock could challenge Evenepoel at the Suisse?</li><li>What the heck happened at the Tour des Pyrénées?</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 12 Jun 2023 13:49:17 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/945f52f6/260abab6.mp3" length="39103659" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2444</itunes:duration>
+      <itunes:summary>On this week's Pretty Serious Bike Racing Podcast, Ruth Winder joins Dane Cash and Cosmo Catalano to discuss:Vingegaard doing what he needed to do at the Critérium du DauphinéHow mostly everyone else didn't really even attempt to take him on on the climbsWhether Van Aert and Pidcock could challenge Evenepoel at the Suisse?What the heck happened at the Tour des Pyrénées? Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>On this week's Pretty Serious Bike Racing Podcast, Ruth Winder joins Dane Cash and Cosmo Catalano to discuss:Vingegaard doing what he needed to do at the Critérium du DauphinéHow mostly everyone else didn't really even attempt to take him on on the climbs</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>The Dauphiné is underway</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>The Dauphiné is underway</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">647e648c036937001130ef7b</guid>
+      <link>https://share.transistor.fm/s/4012bf91</link>
+      <description>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to...<ul><li>Break down the action so far at the Critérium du Dauphiné</li><li>Look ahead to the brewing GC battle in the Tour's biggest tune-up race</li><li>Discuss the evolution of rules and regulations in gravel racing as seen at Unbound</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to...<ul><li>Break down the action so far at the Critérium du Dauphiné</li><li>Look ahead to the brewing GC battle in the Tour's biggest tune-up race</li><li>Discuss the evolution of rules and regulations in gravel racing as seen at Unbound</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 05 Jun 2023 16:41:15 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/4012bf91/364d6e7c.mp3" length="48625575" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3040</itunes:duration>
+      <itunes:summary>This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to...Break down the action so far at the Critérium du DauphinéLook ahead to the brewing GC battle in the Tour's biggest tune-up raceDiscuss the evolution of rules and regulations in gravel racing as seen at Unbound Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to...Break down the action so far at the Critérium du DauphinéLook ahead to the brewing GC battle in the Tour's biggest tune-up raceDiscuss the evolution o</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Giro's thrilling finale</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>The Giro's thrilling finale</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">6474e57c0b87a30010674525</guid>
+      <link>https://share.transistor.fm/s/f1f71ad9</link>
+      <description>
+        <![CDATA[On the heels of a thrilling finale at the 2023 Giro d'Italia as well as a weekend of racing on British roads at the RideLondon Classique, Kit Nicholson joined Dane Cash and Cosmo Catalano for the Pretty Serious Bike Racing Podcast to cover the action. The crew talks:<ul><li>Roglič's winning tactics when it all mattered at the Giro</li><li>The unheralded riders of the race</li><li>The moments that made the Giro</li><li>Charlotte Kool establishing herself in sprinting's top tier</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[On the heels of a thrilling finale at the 2023 Giro d'Italia as well as a weekend of racing on British roads at the RideLondon Classique, Kit Nicholson joined Dane Cash and Cosmo Catalano for the Pretty Serious Bike Racing Podcast to cover the action. The crew talks:<ul><li>Roglič's winning tactics when it all mattered at the Giro</li><li>The unheralded riders of the race</li><li>The moments that made the Giro</li><li>Charlotte Kool establishing herself in sprinting's top tier</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 29 May 2023 11:48:44 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/f1f71ad9/37dd7116.mp3" length="56137979" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3509</itunes:duration>
+      <itunes:summary>On the heels of a thrilling finale at the 2023 Giro d'Italia as well as a weekend of racing on British roads at the RideLondon Classique, Kit Nicholson joined Dane Cash and Cosmo Catalano for the Pretty Serious Bike Racing Podcast to cover the action. The crew talks:Roglič's winning tactics when it all mattered at the GiroThe unheralded riders of the raceThe moments that made the GiroCharlotte Kool establishing herself in sprinting's top tier Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>On the heels of a thrilling finale at the 2023 Giro d'Italia as well as a weekend of racing on British roads at the RideLondon Classique, Kit Nicholson joined Dane Cash and Cosmo Catalano for the Pretty Serious Bike Racing Podcast to cover the action. The</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Breakaway action at the Giro and wrapping up Burgos</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>Breakaway action at the Giro and wrapping up Burgos</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">646bbf5cfb1d93001159e165</guid>
+      <link>https://share.transistor.fm/s/84e5c682</link>
+      <description>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Dane Cash and Cosmo Catalano are joined by Abby Mickey and Kit Nicholson to talk:<ul><li>Demi Vollering's convincing GC win in Burgos</li><li>Chloe Dygert's impressive climbing performance</li><li>Thrilling breakaway action at the Giro</li><li>Giro GC hopefuls mostly keeping their powder dry so far...</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Dane Cash and Cosmo Catalano are joined by Abby Mickey and Kit Nicholson to talk:<ul><li>Demi Vollering's convincing GC win in Burgos</li><li>Chloe Dygert's impressive climbing performance</li><li>Thrilling breakaway action at the Giro</li><li>Giro GC hopefuls mostly keeping their powder dry so far...</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 May 2023 13:15:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/84e5c682/e5356d68.mp3" length="54490014" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3406</itunes:duration>
+      <itunes:summary>This week on the Pretty Serious Bike Racing Podcast, Dane Cash and Cosmo Catalano are joined by Abby Mickey and Kit Nicholson to talk:Demi Vollering's convincing GC win in BurgosChloe Dygert's impressive climbing performanceThrilling breakaway action at the GiroGiro GC hopefuls mostly keeping their powder dry so far... Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>This week on the Pretty Serious Bike Racing Podcast, Dane Cash and Cosmo Catalano are joined by Abby Mickey and Kit Nicholson to talk:Demi Vollering's convincing GC win in BurgosChloe Dygert's impressive climbing performanceThrilling breakaway action at t</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A Giro in flux and Reusser's rise</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>A Giro in flux and Reusser's rise</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6462719310dbac0011c49098</guid>
+      <link>https://share.transistor.fm/s/a7fcf2d5</link>
+      <description>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joined Dane Cash and Cosmo Catalano to talk:<ul><li>Remco Evenepoel's Giro d'Italia departure</li><li>The Ineos Grenadiers vs. Jumbo-Visma battle</li><li>The many climbs to come</li><li>Marlen Reusser's emergence at SD Worx</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joined Dane Cash and Cosmo Catalano to talk:<ul><li>Remco Evenepoel's Giro d'Italia departure</li><li>The Ineos Grenadiers vs. Jumbo-Visma battle</li><li>The many climbs to come</li><li>Marlen Reusser's emergence at SD Worx</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 15 May 2023 11:53:22 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a7fcf2d5/73c09dfc.mp3" length="41241090" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2578</itunes:duration>
+      <itunes:summary>This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joined Dane Cash and Cosmo Catalano to talk:Remco Evenepoel's Giro d'Italia departureThe Ineos Grenadiers vs. Jumbo-Visma battleThe many climbs to comeMarlen Reusser's emergence at SD Worx Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>This week on the Pretty Serious Bike Racing Podcast, Abby Mickey joined Dane Cash and Cosmo Catalano to talk:Remco Evenepoel's Giro d'Italia departureThe Ineos Grenadiers vs. Jumbo-Visma battleThe many climbs to comeMarlen Reusser's emergence at SD Worx H</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The start of the Giro and the finale of the Vuelta Femenina</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>The start of the Giro and the finale of the Vuelta Femenina</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64591eacfd4982001171714e</guid>
+      <link>https://share.transistor.fm/s/974c6cb5</link>
+      <description>
+        <![CDATA[<p>Grand Tour season is in full swing, and the Pretty Serious crew is here to break down the action. Ruth Winder and Caley Fretz join Dane Cash and Cosmo Catalano this week to talk:</p><p><br></p><ul><li>Overperformers and underperformers from the Giro's opening TT</li><li>A changing of the guard for the sprinters?</li><li>Controversy with the timing of a key move and decisions made by officials at the Vuelta Femenina</li><li>A thrilling conclusion to the race</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Grand Tour season is in full swing, and the Pretty Serious crew is here to break down the action. Ruth Winder and Caley Fretz join Dane Cash and Cosmo Catalano this week to talk:</p><p><br></p><ul><li>Overperformers and underperformers from the Giro's opening TT</li><li>A changing of the guard for the sprinters?</li><li>Controversy with the timing of a key move and decisions made by officials at the Vuelta Femenina</li><li>A thrilling conclusion to the race</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 May 2023 10:09:15 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/974c6cb5/78378aff.mp3" length="45517283" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2845</itunes:duration>
+      <itunes:summary>Grand Tour season is in full swing, and the Pretty Serious crew is here to break down the action. Ruth Winder and Caley Fretz join Dane Cash and Cosmo Catalano this week to talk:Overperformers and underperformers from the Giro's opening TTA changing of the guard for the sprinters?Controversy with the timing of a key move and decisions made by officials at the Vuelta FemeninaA thrilling conclusion to the race Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Grand Tour season is in full swing, and the Pretty Serious crew is here to break down the action. Ruth Winder and Caley Fretz join Dane Cash and Cosmo Catalano this week to talk:Overperformers and underperformers from the Giro's opening TTA changing of th</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Resurgences at Romandie and the arrival of the Vuelta Femenina</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>Resurgences at Romandie and the arrival of the Vuelta Femenina</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64507b2173085400114ded83</guid>
+      <link>https://share.transistor.fm/s/6372a539</link>
+      <description>
+        <![CDATA[In this week's episode of the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to talk:<ul><li>A big week for both Brits and Colombians at the Tour de Romandie</li><li>Matteo Jorgensen's versatility</li><li>Ally Wollaston's emergence</li><li>What to expect at the Vuelta Femenina</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In this week's episode of the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to talk:<ul><li>A big week for both Brits and Colombians at the Tour de Romandie</li><li>Matteo Jorgensen's versatility</li><li>Ally Wollaston's emergence</li><li>What to expect at the Vuelta Femenina</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 01 May 2023 20:53:21 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6372a539/81b3e1f9.mp3" length="41688782" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2606</itunes:duration>
+      <itunes:summary>In this week's episode of the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to talk:A big week for both Brits and Colombians at the Tour de RomandieMatteo Jorgensen's versatilityAlly Wollaston's emergenceWhat to expect at the Vuelta Femenina Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>In this week's episode of the Pretty Serious Bike Racing Podcast, Abby Mickey joins Dane Cash and Cosmo Catalano to talk:A big week for both Brits and Colombians at the Tour de RomandieMatteo Jorgensen's versatilityAlly Wollaston's emergenceWhat to expect</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Liège-Bastogne-Liège</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Liège-Bastogne-Liège</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6446e3d9c9ba5a0011abb983</guid>
+      <link>https://share.transistor.fm/s/a4ac3070</link>
+      <description>
+        <![CDATA[Ruth Winder and Kit Nicholson join Dane Cash and Cosmo Catalano to talk...<ul><li>Vollering's dominance in Liège</li><li>Trek-Segafredo's solid effort</li><li>Soudal-QuickStep's lead-out to Evenepoel's move on La Redoute</li><li>Pogačar's absence</li><li>The upcoming Tour de Romandie</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Ruth Winder and Kit Nicholson join Dane Cash and Cosmo Catalano to talk...<ul><li>Vollering's dominance in Liège</li><li>Trek-Segafredo's solid effort</li><li>Soudal-QuickStep's lead-out to Evenepoel's move on La Redoute</li><li>Pogačar's absence</li><li>The upcoming Tour de Romandie</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Apr 2023 14:17:28 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a4ac3070/a99b0ae4.mp3" length="42012198" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2626</itunes:duration>
+      <itunes:summary>Ruth Winder and Kit Nicholson join Dane Cash and Cosmo Catalano to talk...Vollering's dominance in LiègeTrek-Segafredo's solid effortSoudal-QuickStep's lead-out to Evenepoel's move on La RedoutePogačar's absenceThe upcoming Tour de Romandie Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder and Kit Nicholson join Dane Cash and Cosmo Catalano to talk...Vollering's dominance in LiègeTrek-Segafredo's solid effortSoudal-QuickStep's lead-out to Evenepoel's move on La RedoutePogačar's absenceThe upcoming Tour de Romandie Hosted on Acas</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Pretty Serious Bike Racing: The Amstel Gold Race</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>Pretty Serious Bike Racing: The Amstel Gold Race</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">643d98794c61dd00112c5715</guid>
+      <link>https://share.transistor.fm/s/9278640f</link>
+      <description>
+        <![CDATA[<p>Ruth Winder and Caley Fretz joined Dane Cash and Cosmo Catalano this week to talk...</p><p><br></p><ul><li>SD Worx bouncing back after Paris-Roubaix with a dominant Amstel Gold Race</li><li>Tadej Pogačar being untouchable, again</li><li>Race vehicles and drafting</li><li>Ardennes action ahead</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ruth Winder and Caley Fretz joined Dane Cash and Cosmo Catalano this week to talk...</p><p><br></p><ul><li>SD Worx bouncing back after Paris-Roubaix with a dominant Amstel Gold Race</li><li>Tadej Pogačar being untouchable, again</li><li>Race vehicles and drafting</li><li>Ardennes action ahead</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Apr 2023 15:05:17 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9278640f/0de1ebbd.mp3" length="52844084" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3303</itunes:duration>
+      <itunes:summary>Ruth Winder and Caley Fretz joined Dane Cash and Cosmo Catalano this week to talk...SD Worx bouncing back after Paris-Roubaix with a dominant Amstel Gold RaceTadej Pogačar being untouchable, againRace vehicles and draftingArdennes action ahead Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Ruth Winder and Caley Fretz joined Dane Cash and Cosmo Catalano this week to talk...SD Worx bouncing back after Paris-Roubaix with a dominant Amstel Gold RaceTadej Pogačar being untouchable, againRace vehicles and draftingArdennes action ahead Hosted on A</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Paris-Roubaix</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Paris-Roubaix</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64345b3f038a1200112ec181</guid>
+      <link>https://share.transistor.fm/s/a79b9581</link>
+      <description>
+        <![CDATA[Abby Mickey and Kit Nicholson join Dane Cash and Cosmo Catalano to cover...<ul><li>Alison Jackson's stunning win from the breakaway</li><li>An unusual misstep for SD Worx </li><li>Mathieu van der Poel and Alpecin-Deceuninck bossing the pavé</li><li>The chaos of the cobbles derailing Jumbo-Visma</li><li>Jonas Vingegaard's statement performance at the Itzulia Basque Country</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[Abby Mickey and Kit Nicholson join Dane Cash and Cosmo Catalano to cover...<ul><li>Alison Jackson's stunning win from the breakaway</li><li>An unusual misstep for SD Worx </li><li>Mathieu van der Poel and Alpecin-Deceuninck bossing the pavé</li><li>The chaos of the cobbles derailing Jumbo-Visma</li><li>Jonas Vingegaard's statement performance at the Itzulia Basque Country</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 10 Apr 2023 12:53:50 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a79b9581/45f3df7b.mp3" length="53646914" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:summary>Abby Mickey and Kit Nicholson join Dane Cash and Cosmo Catalano to cover...Alison Jackson's stunning win from the breakawayAn unusual misstep for SD Worx Mathieu van der Poel and Alpecin-Deceuninck bossing the pavéThe chaos of the cobbles derailing Jumbo-VismaJonas Vingegaard's statement performance at the Itzulia Basque Country Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>Abby Mickey and Kit Nicholson join Dane Cash and Cosmo Catalano to cover...Alison Jackson's stunning win from the breakawayAn unusual misstep for SD Worx Mathieu van der Poel and Alpecin-Deceuninck bossing the pavéThe chaos of the cobbles derailing Jumbo-</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>The Tour of Flanders</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>The Tour of Flanders</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">642af867fe70630011b9d98f</guid>
+      <link>https://share.transistor.fm/s/06b0c85a</link>
+      <description>
+        <![CDATA[After a Tour of Flanders for the ages, Ruth Winder joins Cosmo Catalano and Dane Cash to cover:<ul><li>Tadej Pogačar's brilliance</li><li>How will Jumbo-Visma's Classics campaign be remembered?</li><li>SD Worx continuously living up to expectations</li><li>Could anyone have done anything differently on Sunday?</li><li>What's next at the Tour of the Basque Country and Paris-Roubaix</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[After a Tour of Flanders for the ages, Ruth Winder joins Cosmo Catalano and Dane Cash to cover:<ul><li>Tadej Pogačar's brilliance</li><li>How will Jumbo-Visma's Classics campaign be remembered?</li><li>SD Worx continuously living up to expectations</li><li>Could anyone have done anything differently on Sunday?</li><li>What's next at the Tour of the Basque Country and Paris-Roubaix</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Apr 2023 10:01:43 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/06b0c85a/6ffdebbc.mp3" length="46873063" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2930</itunes:duration>
+      <itunes:summary>After a Tour of Flanders for the ages, Ruth Winder joins Cosmo Catalano and Dane Cash to cover:Tadej Pogačar's brillianceHow will Jumbo-Visma's Classics campaign be remembered?SD Worx continuously living up to expectationsCould anyone have done anything differently on Sunday?What's next at the Tour of the Basque Country and Paris-Roubaix Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>After a Tour of Flanders for the ages, Ruth Winder joins Cosmo Catalano and Dane Cash to cover:Tadej Pogačar's brillianceHow will Jumbo-Visma's Classics campaign be remembered?SD Worx continuously living up to expectationsCould anyone have done anything d</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>E3, Gent-Wevelgem, and Catalunya</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>E3, Gent-Wevelgem, and Catalunya</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6422728e2ab31c00115fa92e</guid>
+      <link>https://share.transistor.fm/s/3a9f9ea7</link>
+      <description>
+        <![CDATA[We’re getting into the thick of the Classics campaign now, and the Pretty Serious crew is here to break down all the racing. Abby Mickey and Kit Nicholson join Dane Cash to talk:<ul><li>Van Aert making a statement at E3</li><li>Jumbo-Visma dominating the men’s Gent-Wevelgem</li><li>Reusser’s solo triumph at the women’s Gent-Wevelgem</li><li>Roglic’s quiet brilliance and Evenepoel’s tactics at the Volta a Catalunya</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[We’re getting into the thick of the Classics campaign now, and the Pretty Serious crew is here to break down all the racing. Abby Mickey and Kit Nicholson join Dane Cash to talk:<ul><li>Van Aert making a statement at E3</li><li>Jumbo-Visma dominating the men’s Gent-Wevelgem</li><li>Reusser’s solo triumph at the women’s Gent-Wevelgem</li><li>Roglic’s quiet brilliance and Evenepoel’s tactics at the Volta a Catalunya</li></ul><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 27 Mar 2023 22:52:30 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/3a9f9ea7/961a9fa9.mp3" length="64076287" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4005</itunes:duration>
+      <itunes:summary>We’re getting into the thick of the Classics campaign now, and the Pretty Serious crew is here to break down all the racing. Abby Mickey and Kit Nicholson join Dane Cash to talk:Van Aert making a statement at E3Jumbo-Visma dominating the men’s Gent-WevelgemReusser’s solo triumph at the women’s Gent-WevelgemRoglic’s quiet brilliance and Evenepoel’s tactics at the Volta a Catalunya Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>We’re getting into the thick of the Classics campaign now, and the Pretty Serious crew is here to break down all the racing. Abby Mickey and Kit Nicholson join Dane Cash to talk:Van Aert making a statement at E3Jumbo-Visma dominating the men’s Gent-Wevelg</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>Milan-San Remo and the Trofeo Alfredo Binda</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Milan-San Remo and the Trofeo Alfredo Binda</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64189f11d0743100114caff8</guid>
+      <link>https://share.transistor.fm/s/0e591b8e</link>
+      <description>
+        <![CDATA[<p>One-day racing is really heating up! In episode three of the PSBRP, Ronan Mc Laughlin and Ruth Winder join Dane Cash and Cosmo Catalano to cover...</p><ul><li>Mathieu van der Poel’s Milan-San Remo brilliance</li><li>Trek-Segafredo's dominance at the Trofeo Alfredo Binda</li><li>A very busy week to come that includes the Volta a Catalunya and a bunch of big races in Belgium</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>One-day racing is really heating up! In episode three of the PSBRP, Ronan Mc Laughlin and Ruth Winder join Dane Cash and Cosmo Catalano to cover...</p><ul><li>Mathieu van der Poel’s Milan-San Remo brilliance</li><li>Trek-Segafredo's dominance at the Trofeo Alfredo Binda</li><li>A very busy week to come that includes the Volta a Catalunya and a bunch of big races in Belgium</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 20 Mar 2023 12:00:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0e591b8e/87dea229.mp3" length="53198921" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3325</itunes:duration>
+      <itunes:summary>One-day racing is really heating up! In episode three of the PSBRP, Ronan Mc Laughlin and Ruth Winder join Dane Cash and Cosmo Catalano to cover...Mathieu van der Poel’s Milan-San Remo brillianceTrek-Segafredo's dominance at the Trofeo Alfredo BindaA very busy week to come that includes the Volta a Catalunya and a bunch of big races in Belgium Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>One-day racing is really heating up! In episode three of the PSBRP, Ronan Mc Laughlin and Ruth Winder join Dane Cash and Cosmo Catalano to cover...Mathieu van der Poel’s Milan-San Remo brillianceTrek-Segafredo's dominance at the Trofeo Alfredo BindaA very</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Paris-Nice, Tirreno, and Drenthe</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Paris-Nice, Tirreno, and Drenthe</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">640f54baaad08a00113b772e</guid>
+      <link>https://share.transistor.fm/s/0f387b01</link>
+      <description>
+        <![CDATA[<p>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...</p><ul><li>Tadej Pogačar's Paris-Nice dominance</li><li>Primož Roglič's return to form at Tirreno-Adriatico</li><li>Lorena Wiebes and another big win for SD Worx at the Ronde van Drenthe</li><li>The fast-approaching Milan-San Remo and Trofeo Alfredo Binda</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...</p><ul><li>Tadej Pogačar's Paris-Nice dominance</li><li>Primož Roglič's return to form at Tirreno-Adriatico</li><li>Lorena Wiebes and another big win for SD Worx at the Ronde van Drenthe</li><li>The fast-approaching Milan-San Remo and Trofeo Alfredo Binda</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 13 Mar 2023 10:52:09 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0f387b01/909f5de5.mp3" length="64011504" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/o7JN6r7MZQRPuoi_tmY9TFETFeWN19EBh5qFx3L8_kQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjQv/MTY5Nzc0NzIyNS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>4001</itunes:duration>
+      <itunes:summary>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...Tadej Pogačar's Paris-Nice dominancePrimož Roglič's return to form at Tirreno-AdriaticoLorena Wiebes and another big win for SD Worx at the Ronde van DrentheThe fast-approaching Milan-San Remo and Trofeo Alfredo Binda Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...Tadej Pogačar's Paris-Nice dominancePrimož Roglič's return to form at Tirr</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Getting serious after Strade Bianche</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Getting serious after Strade Bianche</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">640652f562d67f00116a4c6d</guid>
+      <link>https://share.transistor.fm/s/00c6ea0e</link>
+      <description>
+        <![CDATA[<p>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first episode of the show, Dane Cash, Cosmo Catalano, Caley Fretz, and Ruth Winder cover...</p><ul><li>The tactics, the drama, the horse on the course, the heralded and the unheralded, and so much more from Strade Bianche</li><li>The early returns from the action at Paris-Nice</li><li>A busy week of racing ahead that includes Tirreno-Adriatico and the Ronde van Drenthe</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first episode of the show, Dane Cash, Cosmo Catalano, Caley Fretz, and Ruth Winder cover...</p><ul><li>The tactics, the drama, the horse on the course, the heralded and the unheralded, and so much more from Strade Bianche</li><li>The early returns from the action at Paris-Nice</li><li>A busy week of racing ahead that includes Tirreno-Adriatico and the Ronde van Drenthe</li></ul><p><br></p><br><p> Hosted on Acast. See <a rel="noopener noreferrer" href="https://acast.com/privacy">acast.com/privacy</a> for more information.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 06 Mar 2023 13:54:12 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/00c6ea0e/35a9370c.mp3" length="62831613" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/CyL2mEuGiNqLCm7HBoT_4LGPoiSMTb1gombRqt1p_KQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjMv/MTY5Nzc0NzIwMi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:duration>3927</itunes:duration>
+      <itunes:summary>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first episode of the show, Dane Cash, Cosmo Catalano, Caley Fretz, and Ruth Winder cover...The tactics, the drama, the horse on the course, the heralded and the unheralded, and so much more from Strade BiancheThe early returns from the action at Paris-NiceA busy week of racing ahead that includes Tirreno-Adriatico and the Ronde van Drenthe Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
+      <itunes:subtitle>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first</itunes:subtitle>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

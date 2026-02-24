@@ -1,0 +1,1307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+  <channel>
+    <atom:link href="https://rss.libsyn.com/shows/34357/destinations/81636.xml" rel="self" type="application/rss+xml"/>
+    <title>Official PlayStation Podcast</title>
+    <pubDate>Fri, 13 Feb 2026 18:27:47 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 18:27:47 +0000</lastBuildDate>
+    <generator>Libsyn RSSgen 1.0</generator>
+    <link>https://blog.playstation.com</link>
+    <language>en</language>
+    <copyright><![CDATA[]]></copyright>
+    <docs>https://blog.playstation.com</docs>
+    <itunes:summary><![CDATA[Get exclusive first details on next week's PSN game lineup from the staff of the official PlayStation.Blog, and stick around for PlayStation news, answers to questions from the PlayStation community, and plenty of nerdy game talk. Join us!]]></itunes:summary>
+    <image>
+      <url>https://static.libsyn.com/p/assets/0/9/4/d/094d726d555ceb96/PlayStationPodcast.jpg</url>
+      <title>Official PlayStation Podcast</title>
+      <link><![CDATA[https://blog.playstation.com]]></link>
+    </image>
+    <itunes:author>PlayStation</itunes:author>
+		<itunes:category text="Leisure">
+  <itunes:category text="Video Games" />
+</itunes:category>
+<itunes:category text="Technology" />
+    <itunes:image href="https://static.libsyn.com/p/assets/0/9/4/d/094d726d555ceb96/PlayStationPodcast.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Sid Shuman</itunes:name>
+      <itunes:email>sid.shuman@sony.com</itunes:email>
+    </itunes:owner>
+    <description><![CDATA[Get exclusive first details on next week's PSN game lineup from the staff of the official PlayStation.Blog, and stick around for PlayStation news, answers to questions from the PlayStation community, and plenty of nerdy game talk. Join us!]]></description>
+    
+    <itunes:type>episodic</itunes:type>
+    
+
+    <itunes:keywords />
+
+    
+
+    
+    <podcast:locked owner="sid.shuman@sony.com">no</podcast:locked>
+    
+    
+    
+    
+    
+    <item>
+      <title>Episode 534: State of Sparta</title>
+      <itunes:title>Episode 534: State of Sparta</itunes:title>
+      <pubDate>Fri, 13 Feb 2026 18:17:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e4cb7550-c34b-41aa-a508-a38fbd1d19ba]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-534-state-of-sparta]]></link>
+      <description><![CDATA[<p>Hey, everybody! Brett, Kristen, and O'Dell are back this week to talk about this week's State of Play, along with all the exciting announcements that came with it. To celebrate the surprise launch of God of War Sons of Sparta, we have a special interview with developer Mega Cat Studios: Game Director Zack Manko and Founder/CEO James Deighan.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Brett, Kristen, and O'Dell are back this week to talk about this week's State of Play, along with all the exciting announcements that came with it. To celebrate the surprise launch of God of War Sons of Sparta, we have a special interview with developer Mega Cat Studios: Game Director Zack Manko and Founder/CEO James Deighan.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_534_.mp3?dest-id=81636" length="98252093" type="audio/mpeg" />
+      <itunes:duration>51:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 533: John Carpentry 101</title>
+      <itunes:title>Episode 533: John Carpentry 101</itunes:title>
+      <pubDate>Fri, 06 Feb 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[570faad7-3fea-4230-a24f-aa971f67c156]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-533-john-carpentry-101]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Tim, Brett, and O'Dell are back this week to talk about the newest game announced this week, Horizon Hunters Gathering, take a look at what's new in MLB The Show 26, and go down the rabbit hole of games based on 80s action.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Tim, Brett, and O'Dell are back this week to talk about the newest game announced this week, Horizon Hunters Gathering, take a look at what's new in MLB The Show 26, and go down the rabbit hole of games based on 80s action.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_533.mp3?dest-id=81636" length="74714303" type="audio/mpeg" />
+      <itunes:duration>38:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 532: Refreshed, Rejuvenated</title>
+      <itunes:title>Episode 532: Refreshed, Rejuvenated</itunes:title>
+      <pubDate>Fri, 23 Jan 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[7e7ddcca-da0f-4311-abdb-7f22dc04338f]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-532-refreshed-rejuvenated]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Kristen, and O'Dell are back this week to talk about the new Marathon DualSense and all the new info surrounding the title, a look at how remakes and remasters have brought many respected classics to the forefront, and our current gaming adventures.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Kristen, and O'Dell are back this week to talk about the new Marathon DualSense and all the new info surrounding the title, a look at how remakes and remasters have brought many respected classics to the forefront, and our current gaming adventures.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_532.mp3?dest-id=81636" length="72051067" type="audio/mpeg" />
+      <itunes:duration>37:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode  531: Dispatching The New Year</title>
+      <itunes:title>Episode  531: Dispatching The New Year</itunes:title>
+      <pubDate>Fri, 09 Jan 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[167a624a-af4a-49cb-842c-caa2f38c09df]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-531-dispatching-the-new-year]]></link>
+      <description><![CDATA[<p>Hey, everybody! Tim, Kristen, and O'Dell are back this week to finish discussing our top games of 2025, take a look at the new Hyperpop Collection, and look forward to another great year of gaming.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Tim, Kristen, and O'Dell are back this week to finish discussing our top games of 2025, take a look at the new Hyperpop Collection, and look forward to another great year of gaming.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_531.mp3?dest-id=81636" length="63728664" type="audio/mpeg" />
+      <itunes:duration>33:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 530: Wrapped With a Bow</title>
+      <itunes:title>Episode 530: Wrapped With a Bow</itunes:title>
+      <pubDate>Fri, 19 Dec 2025 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[ee643711-397e-414a-aaf1-c693668c1bcb]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-530-wrapped-with-a-bow]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Kristen, and Brett are back this week to discuss their top games of 2025, both in terms of hours played and the ones they can't stop thinking about. This episode also includes a spoiler-filled Ghost of Yōtei interview with Sucker Punch Creative Directors Jason Connell and Nate Fox.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Kristen, and Brett are back this week to discuss their top games of 2025, both in terms of hours played and the ones they can't stop thinking about. This episode also includes a spoiler-filled Ghost of Yōtei interview with Sucker Punch Creative Directors Jason Connell and Nate Fox.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_530.mp3?dest-id=81636" length="123837884" type="audio/mpeg" />
+      <itunes:duration>01:04:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 529: Sumptuous Victuals</title>
+      <itunes:title>Episode 529: Sumptuous Victuals</itunes:title>
+      <pubDate>Sat, 06 Dec 2025 22:46:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[85dabb0e-22bf-4679-af50-d5800bcef1cc]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-529-sumptuous-victuals]]></link>
+      <description><![CDATA[<p>Hey, y'all! Sid, Tim, Brett, and Kristen are back this week after the Thanksgiving holiday, and diving right into Arc Raiders and Ghost of Yōtei NG+.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, y'all! Sid, Tim, Brett, and Kristen are back this week after the Thanksgiving holiday, and diving right into Arc Raiders and Ghost of Yōtei NG+.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_529_Sumptuous_Victuals.mp3?dest-id=81636" length="64776904" type="audio/mpeg" />
+      <itunes:duration>44:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 528: Raiders of the lost Arc</title>
+      <itunes:title>Episode 528: Raiders of the lost Arc</itunes:title>
+      <pubDate>Fri, 14 Nov 2025 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[72723621-1d01-42d9-97b9-884385c95de4]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-528-raiders-of-the-lost-arc]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Tim, and Kristen are back this week to discuss this week's State of Play Japan, which focuses on the Japanese and Asian markets, the thrill of going topside in Arc Raiders, and all the games the team has been playing and looking forward to.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Tim, and Kristen are back this week to discuss this week's State of Play Japan, which focuses on the Japanese and Asian markets, the thrill of going topside in Arc Raiders, and all the games the team has been playing and looking forward to.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_528.mp3?dest-id=81636" length="113185775" type="audio/mpeg" />
+      <itunes:duration>58:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 527: Pod x Pit</title>
+      <itunes:title>Episode 527: Pod x Pit</itunes:title>
+      <pubDate>Fri, 31 Oct 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[34295449-94ef-4a9a-9dfd-a74e658f81b0]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-527-pod-x-pit]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Tim, and Brett are back this week to talk about the new indie darling Ball x Pit, the long journey to a Death Stranding 2 platinum, Silent Hill f, and the Battlefield series' first battle royale foray.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Tim, and Brett are back this week to talk about the new indie darling Ball x Pit, the long journey to a Death Stranding 2 platinum, Silent Hill f, and the Battlefield series' first battle royale foray.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_527.mp3?dest-id=81636" length="66439547" type="audio/mpeg" />
+      <itunes:duration>34:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 526: Lost in the Game Sauce</title>
+      <itunes:title>Episode 526: Lost in the Game Sauce</itunes:title>
+      <pubDate>Fri, 17 Oct 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[67d3af53-4d21-41f2-8581-c1f5588f2009]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-526-lost-in-the-game-sauce]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen and I are back this week to talk about some of our favorite armor builds in Ghost of Yōtei, our favorite original in-universe games within video games, and the current titles holding our attention. </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen and I are back this week to talk about some of our favorite armor builds in Ghost of Yōtei, our favorite original in-universe games within video games, and the current titles holding our attention. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_526.mp3?dest-id=81636" length="85175822" type="audio/mpeg" />
+      <itunes:duration>44:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 525: Ghost Season</title>
+      <itunes:title>Episode 525: Ghost Season</itunes:title>
+      <pubDate>Fri, 03 Oct 2025 13:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e1a0d3da-bea0-406b-9f3f-2edefeb7fdf2]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-525-ghost-season]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen and O'Dell are back this week to celebrate the launch of Ghost of Yōtei, discuss upcoming releases, and share the latest news. This episode also includes an interview with Erika Ishii, voice of Atsu from Ghost of Yōtei. </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen and O'Dell are back this week to celebrate the launch of Ghost of Yōtei, discuss upcoming releases, and share the latest news. This episode also includes an interview with Erika Ishii, voice of Atsu from Ghost of Yōtei. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_525.mp3?dest-id=81636" length="107338526" type="audio/mpeg" />
+      <itunes:duration>55:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 524: Stately Steps</title>
+      <itunes:title>Episode 524: Stately Steps</itunes:title>
+      <pubDate>Fri, 26 Sep 2025 15:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[7cb6ff7b-d00d-497b-b805-d8fbcb55eccf]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-524-state-of-yay]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid and O'Dell are back this week to discuss the new upcoming Ghost of Yōtei merch, TGS, and recapping this week's State of Play. This episode also includes an interview with Gabe Cuzzillo, one of the three developers of the PS5 title Baby Steps.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid and O'Dell are back this week to discuss the new upcoming Ghost of Yōtei merch, TGS, and recapping this week's State of Play. This episode also includes an interview with Gabe Cuzzillo, one of the three developers of the PS5 title Baby Steps.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_524.mp3?dest-id=81636" length="115759568" type="audio/mpeg" />
+      <itunes:duration>01:00:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 523: Memory Cards</title>
+      <itunes:title>Episode 523: Memory Cards</itunes:title>
+      <pubDate>Fri, 12 Sep 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e8012d93-2090-4d30-a70b-9d16895e998c]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-523-memory-cards]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Tim, and Brett are back this week to discuss the release of Borderlands 4, indie hit Hollow Knight: Silksong, and 30 years of PlayStation memories. </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Tim, and Brett are back this week to discuss the release of Borderlands 4, indie hit Hollow Knight: Silksong, and 30 years of PlayStation memories. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_523.mp3?dest-id=81636" length="79530029" type="audio/mpeg" />
+      <itunes:duration>41:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 522: Silence, Snakes, and Swords</title>
+      <itunes:title>Episode 522: Silence, Snakes, and Swords</itunes:title>
+      <pubDate>Fri, 29 Aug 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[84075ccd-6775-4748-b40c-e776bab43cbd]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-522-silent-snakes-and-swords]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen, Tim, and O'Dell are back this week to discuss taking up the mantle of Big Boss in Metal Gear Solid Delta: Snake Eater, soul surfing in Sword of the Sea, the biggest news stories of the week, and more.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen, Tim, and O'Dell are back this week to discuss taking up the mantle of Big Boss in Metal Gear Solid Delta: Snake Eater, soul surfing in Sword of the Sea, the biggest news stories of the week, and more.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Ep_522.mp3?dest-id=81636" length="57570242" type="audio/mpeg" />
+      <itunes:duration>39:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 521: Meet Space</title>
+      <itunes:title>Episode 521: Meet Space</itunes:title>
+      <pubDate>Fri, 15 Aug 2025 17:17:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[997caf65-c537-44c1-aff1-af38f19a4831]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-521-meet-space]]></link>
+      <description><![CDATA[<p>Hey friends! This week Tim, Brett, and Sid are back with exciting PlayStation Plus Game Catalog news for August, some early Battlefield 6 thoughts, and ideas for gaming-themed tattoos.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey friends! This week Tim, Brett, and Sid are back with exciting PlayStation Plus Game Catalog news for August, some early Battlefield 6 thoughts, and ideas for gaming-themed tattoos.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_521_Meat_Space.mp3?dest-id=81636" length="53013024" type="audio/mpeg" />
+      <itunes:duration>36:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 520: Four on the Floor</title>
+      <itunes:title>Episode 520: Four on the Floor</itunes:title>
+      <pubDate>Fri, 08 Aug 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[da92980d-e6c9-4aee-9d32-116b00eccd38]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-520-four-on-the-floor]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen, Tim, Brett, and Sid are back this week to discuss Heretic + Hexen remastered by Nightdive Studios, the multiplayer reveal for Battlefield 6, and much more.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen, Tim, Brett, and Sid are back this week to discuss Heretic + Hexen remastered by Nightdive Studios, the multiplayer reveal for Battlefield 6, and much more.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/ep-520.mp3?dest-id=81636" length="76930739" type="audio/mpeg" />
+      <itunes:duration>53:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 519: Ghost in the Canvas</title>
+      <itunes:title>Episode 519: Ghost in the Canvas</itunes:title>
+      <pubDate>Fri, 18 Jul 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[a113de78-b58d-4ee5-a92b-056aae7f4b85]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-519-ghost-in-the-canvas]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen, Tim, and O'Dell are back this week to discuss the Ghost of Yōtei State of Play that featured an in-depth look at gameplay, the moral ramifications of Clair Obscur: Expedition 33's ending, and our current gaming adventures.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen, Tim, and O'Dell are back this week to discuss the Ghost of Yōtei State of Play that featured an in-depth look at gameplay, the moral ramifications of Clair Obscur: Expedition 33's ending, and our current gaming adventures.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_519_.mp3?dest-id=81636" length="50258882" type="audio/mpeg" />
+      <itunes:duration>34:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 518: Expedition Connection</title>
+      <itunes:title>Episode 518: Expedition Connection</itunes:title>
+      <pubDate>Fri, 04 Jul 2025 16:01:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[4f22371a-8c13-44cf-bae9-f5c1f67e3fd3]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-518-expedition-connection]]></link>
+      <description><![CDATA[<p>Hey, everybody! Kristen and O'Dell are back this week to discuss the adventures of making deliveries in Death Stranding 2: On the Beach, the range of emotions kindled by Clair Obscur: Expedition 33, and some of our favorite PlayStation merch.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Kristen and O'Dell are back this week to discuss the adventures of making deliveries in Death Stranding 2: On the Beach, the range of emotions kindled by Clair Obscur: Expedition 33, and some of our favorite PlayStation merch.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_518_.mp3?dest-id=81636" length="58179000" type="audio/mpeg" />
+      <itunes:duration>40:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 517: Shocking Developments</title>
+      <itunes:title>Episode 517: Shocking Developments</itunes:title>
+      <pubDate>Fri, 20 Jun 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9bc989d1-773e-4692-aca6-f2af4c099ca5]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-517-shocking-developments]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid and Tim are back this week to discuss the foundation System Shock 2 laid for gaming generations to come, recap what the team saw at Summer Game Fest, and their latest gaming adventures.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid and Tim are back this week to discuss the foundation System Shock 2 laid for gaming generations to come, recap what the team saw at Summer Game Fest, and their latest gaming adventures.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_517.mp3?dest-id=81636" length="76437338" type="audio/mpeg" />
+      <itunes:duration>53:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 516: All Aboard the Nightreign</title>
+      <itunes:title>Episode 516: All Aboard the Nightreign</itunes:title>
+      <pubDate>Fri, 06 Jun 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f7e68d3f-8596-4067-a35d-9a9617506330]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-516-all-aboard-the-nightreign]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid and Tim are back this week to discuss trying to survive the long nights of Elden Ring Nightreign and celebrate the 30th State of Play while going over their favorite reveals.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid and Tim are back this week to discuss trying to survive the long nights of Elden Ring Nightreign and celebrate the 30th State of Play while going over their favorite reveals.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_516.mp3?dest-id=81636" length="59175206" type="audio/mpeg" />
+      <itunes:duration>41:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 515: Long Live Super Mirth</title>
+      <itunes:title>Episode 515: Long Live Super Mirth</itunes:title>
+      <pubDate>Fri, 23 May 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[aa761c96-2bea-4e53-becc-bcc455a4125d]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-515-justice-for-super-earth]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Brett, and O'Dell are back this week to discuss the latest news and what games currently have them locked in. This episode also includes interviews with Arrowhead Game Studios Production Director Alex Bolle and Design Director Niklas Malmborg.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Brett, and O'Dell are back this week to discuss the latest news and what games currently have them locked in. This episode also includes interviews with Arrowhead Game Studios Production Director Alex Bolle and Design Director Niklas Malmborg.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Ep_515.mp3?dest-id=81636" length="73227411" type="audio/mpeg" />
+      <itunes:duration>50:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 514: 33 and a Third</title>
+      <itunes:title>Episode 514: 33 and a Third</itunes:title>
+      <pubDate>Fri, 09 May 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[720cdc96-fa84-460f-aa83-9f02d8475772]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-514-33-and-a-third]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Tim, and O'Dell are back this week to discuss the new Grand Theft Auto VI trailer, explore how Clair Obscur: Expedition 33 innovates on the turn-based RPG formula, and the ways Doom: The Dark Ages goes medieval.  </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Tim, and O'Dell are back this week to discuss the new Grand Theft Auto VI trailer, explore how Clair Obscur: Expedition 33 innovates on the turn-based RPG formula, and the ways Doom: The Dark Ages goes medieval. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Ep_514_.mp3?dest-id=81636" length="49438219" type="audio/mpeg" />
+      <itunes:duration>34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 513: Doomed Days</title>
+      <itunes:title>Episode 513: Doomed Days</itunes:title>
+      <pubDate>Fri, 25 Apr 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b552ce71-8d42-4af1-a098-972907b9fead]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-513-doomed-days]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Brett, and Tim are back this week to discuss the release date reveal and new trailer for Ghost of Yōtei. This episode also includes interviews with Doom: The Dark Ages Director Hugo Martin and Days Gone Remastered Creative and Product Lead Kevin McAllister.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Brett, and Tim are back this week to discuss the release date reveal and new trailer for Ghost of Yōtei. This episode also includes interviews with Doom: The Dark Ages Director Hugo Martin and Days Gone Remastered Creative and Product Lead Kevin McAllister.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_513.mp3?dest-id=81636" length="112675027" type="audio/mpeg" />
+      <itunes:duration>01:18:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 512: True Blue</title>
+      <itunes:title>Episode 512: True Blue</itunes:title>
+      <pubDate>Fri, 11 Apr 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e05aff2b-9560-4db4-915e-2cd1e37f04fc]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-512]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Kristen, Tim, and I are back this week to discuss Days Gone Remastered and the new hit indie game Blue Prince. We also get Tim's top five most-played PlayStation games and discover what new titles everyone has been checking out.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Kristen, Tim, and I are back this week to discuss Days Gone Remastered and the new hit indie game Blue Prince. We also get Tim's top five most-played PlayStation games and discover what new titles everyone has been checking out.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_512.mp3?dest-id=81636" length="61635940" type="audio/mpeg" />
+      <itunes:duration>42:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 511: High Five</title>
+      <itunes:title>Episode 511: High Five</itunes:title>
+      <pubDate>Fri, 28 Mar 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[c834338a-a179-45c2-bf01-bc579b195c13]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-511-high-five]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, Kristen, Brett, and O'Dell are back this week to discuss the new take on Pac-Man Shadow Labyrinth, the wonders of hand-tracking in PlayStation VR2, what it's like to learn how to walk in Baby Steps, and their most played games on PlayStation. </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, Kristen, Brett, and O'Dell are back this week to discuss the new take on Pac-Man Shadow Labyrinth, the wonders of hand-tracking in PlayStation VR2, what it's like to learn how to walk in Baby Steps, and their most played games on PlayStation. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Ep_511_.mp3?dest-id=81636" length="53397338" type="audio/mpeg" />
+      <itunes:duration>37:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 510: Cereal Monsters</title>
+      <itunes:title>Episode 510: Cereal Monsters</itunes:title>
+      <pubDate>Fri, 14 Mar 2025 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[3ad689d8-1072-4ce6-afa7-0403889388ac]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-510-cereal-monsters]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, O'Dell, Tim, and Brett are back this week to discuss MLB The Show 25 early access, including an interview with San Diego Studio Gameplay Director Chris Gill. The crew also swaps Monster Hunter Wilds stories and highlights this week's news.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, O'Dell, Tim, and Brett are back this week to discuss MLB The Show 25 early access, including an interview with San Diego Studio Gameplay Director Chris Gill. The crew also swaps Monster Hunter Wilds stories and highlights this week's news.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Podcast_Episode_510_v2.mp3?dest-id=81636" length="91954073" type="audio/mpeg" />
+      <itunes:duration>01:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 509: Here Be Monsters</title>
+      <itunes:title>Episode 509: Here Be Monsters</itunes:title>
+      <pubDate>Fri, 28 Feb 2025 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[32885134-27a1-4027-874d-ac0ffd41da6b]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-509-here-be-monsters]]></link>
+      <description><![CDATA[<p>Hey, everybody! Sid, O'Dell, Kristen, and Brett discuss some of the newest releases, including Monster Hunter Wilds and Lost Records: Bloom & Rage - Tape 1, and break down the official LEGO Horizon Adventures playset.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Sid, O'Dell, Kristen, and Brett discuss some of the newest releases, including Monster Hunter Wilds and Lost Records: Bloom & Rage - Tape 1, and break down the official LEGO Horizon Adventures playset.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_509.mp3?dest-id=81636" length="48582448" type="audio/mpeg" />
+      <itunes:duration>33:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 508: Come Back Stronger</title>
+      <itunes:title>Episode 508: Come Back Stronger</itunes:title>
+      <pubDate>Fri, 14 Feb 2025 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[14cd13df-1b30-4e56-9672-2b9cb9af8d87]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-508-come-back-stronger]]></link>
+      <description><![CDATA[<p>Hey, everybody! Tim and Kristen discuss all the big news for this week's State of Play, including Saros, the upcoming new game from Housemarque, and some of their other favorite moments from the show.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Tim and Kristen discuss all the big news for this week's State of Play, including Saros, the upcoming new game from Housemarque, and some of their other favorite moments from the show.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_508.mp3?dest-id=81636" length="46549285" type="audio/mpeg" />
+      <itunes:duration>32:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 507: Rogue Metaphor</title>
+      <itunes:title>Episode 507: Rogue Metaphor</itunes:title>
+      <pubDate>Fri, 31 Jan 2025 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[a5ec4da0-331b-44c9-a66a-e456f8525c49]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-507-rogue-metaphor]]></link>
+      <description><![CDATA[<p>Howdy, folks! This week the crew sits down to talk about this week's news. This week, Tim and Kristen discuss their playthroughs of Dynasty Warriors: Origins, Alien: Rogue Incursion, and Metaphor: ReFantazio.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy, folks! This week the crew sits down to talk about this week's news. This week, Tim and Kristen discuss their playthroughs of Dynasty Warriors: Origins, Alien: Rogue Incursion, and Metaphor: ReFantazio.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_507_.mp3?dest-id=81636" length="53967852" type="audio/mpeg" />
+      <itunes:duration>37:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 506: Marvelous Start</title>
+      <itunes:title>Episode 506: Marvelous Start</itunes:title>
+      <pubDate>Fri, 17 Jan 2025 16:26:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[0e328949-88e6-49e3-8cd9-c62dacf6bbc0]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-506-marvelous-start]]></link>
+      <description><![CDATA[<p>Howdy, folks! This week, the crew returns for the first show of 2025! Topics of discussion include Marvel Rivals and retro classics Final Fantasy 5 and the Contra series. Plus, Brett joins to close out the PlayStation 30th Anniversary discussion by sharing his favorite PS5 and PS VR2 games.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy, folks! This week, the crew returns for the first show of 2025! Topics of discussion include Marvel Rivals and retro classics Final Fantasy 5 and the Contra series. Plus, Brett joins to close out the PlayStation 30th Anniversary discussion by sharing his favorite PS5 and PS VR2 games.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_506.mp3?dest-id=81636" length="55038037" type="audio/mpeg" />
+      <itunes:duration>38:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 505: Cheers to 2024</title>
+      <itunes:title>Episode 505: Cheers to 2024</itunes:title>
+      <pubDate>Fri, 20 Dec 2024 17:08:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b6602f0c-a539-4ebd-a8fd-1bd5c58f4c23]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-505-cheers-to-2024]]></link>
+      <description><![CDATA[<p dir="ltr">Hello folks! This week, the crew shares their favorite games of the year in the final show of 2024. Plus, Kristen returns to share her top games from past PlayStation console generations to celebrate the 30th anniversary.</p> <p dir="ltr"> </p> <p dir="ltr">Thank you to all the developers who made this such a special year in gaming and to all the listeners for coming along for the ride. Here's to a great year in gaming for 2025!</p> <p> </p>]]></description>
+      
+      <content:encoded><![CDATA[<p dir="ltr">Hello folks! This week, the crew shares their favorite games of the year in the final show of 2024. Plus, Kristen returns to share her top games from past PlayStation console generations to celebrate the 30th anniversary.</p> <p dir="ltr"> </p> <p dir="ltr">Thank you to all the developers who made this such a special year in gaming and to all the listeners for coming along for the ride. Here's to a great year in gaming for 2025!</p> <p> </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_505.mp3?dest-id=81636" length="66558037" type="audio/mpeg" />
+      <itunes:duration>46:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 504: Celebrating 30 Years of PlayStation (Part 4)</title>
+      <itunes:title>Episode 504: Celebrating 30 Years of PlayStation (Part 4)</itunes:title>
+      <pubDate>Fri, 13 Dec 2024 18:03:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[246f59bd-4f26-45f4-a221-fd3c266a6531]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-504-celebrating-30-years-of-playstation-part-4]]></link>
+      <description><![CDATA[<p>Hey gang! This week, Final Fantasy creator Hironobu Sakaguchi stops by to discuss his latest game, Fantasian Neo Dimension. Plus, the PlayStation 30th anniversary celebration continues as the crew shares their favorite games on PS5 and PS VR2. Through the end of the year, we'll continue featuring picks from listeners and developers (and Kristen will return to share her top PlayStation games from the past 30 years).</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey gang! This week, Final Fantasy creator Hironobu Sakaguchi stops by to discuss his latest game, Fantasian Neo Dimension. Plus, the PlayStation 30th anniversary celebration continues as the crew shares their favorite games on PS5 and PS VR2. Through the end of the year, we'll continue featuring picks from listeners and developers (and Kristen will return to share her top PlayStation games from the past 30 years).</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_504.mp3?dest-id=81636" length="92379764" type="audio/mpeg" />
+      <itunes:duration>01:04:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 503: Celebrating 30 Years of PlayStation (Part 3)</title>
+      <itunes:title>Episode 503: Celebrating 30 Years of PlayStation (Part 3)</itunes:title>
+      <pubDate>Fri, 06 Dec 2024 18:04:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[77d6a145-1be0-485c-a449-deb4067dfd76]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-503-celebrating-30-years-of-playstation-part-3]]></link>
+      <description><![CDATA[<p>Howdy folks! The PlayStation 30th anniversary celebration continues this week as the crew hears from listeners and developers about their favorite PlayStation games of all time. Plus, the crew dives into their favorite games on PS Vita, PS4, and PS VR. We'll continue to feature listeners and developers (and name our personal top picks for PS5 and PS VR2 games!) through the end of the year.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy folks! The PlayStation 30th anniversary celebration continues this week as the crew hears from listeners and developers about their favorite PlayStation games of all time. Plus, the crew dives into their favorite games on PS Vita, PS4, and PS VR. We'll continue to feature listeners and developers (and name our personal top picks for PS5 and PS VR2 games!) through the end of the year.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_503_.mp3?dest-id=81636" length="83950036" type="audio/mpeg" />
+      <itunes:duration>58:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 502: All Good Things</title>
+      <itunes:title>Episode 502: All Good Things</itunes:title>
+      <pubDate>Tue, 26 Nov 2024 23:29:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f86f697d-98fd-4782-b761-26c3e1c483db]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-502-all-good-things]]></link>
+      <description><![CDATA[<p dir="ltr">Howdy folks! Friend of the podcast Shuhei Yoshida joins us to recap some of his biggest moments across 31 years of PlayStation, including his role as Head of Indies Initiative and his work with PlayStation Studios. Shu celebrates the highlights of his illustrious PlayStation career and discusses his favorite games of each PlayStation console generation. </p> <p><strong> </strong></p> <p dir="ltr">Plus, the team continues to feature listener and developer opinions on their favorite PlayStation memories. We'll continue to feature listeners and developers (and name our favorite PS Vita, PS4, and PS VR games!) leading up to PlayStation's 30th anniversary on December 3.</p> <p> </p>]]></description>
+      
+      <content:encoded><![CDATA[<p dir="ltr">Howdy folks! Friend of the podcast Shuhei Yoshida joins us to recap some of his biggest moments across 31 years of PlayStation, including his role as Head of Indies Initiative and his work with PlayStation Studios. Shu celebrates the highlights of his illustrious PlayStation career and discusses his favorite games of each PlayStation console generation. </p> <p> </p> <p dir="ltr">Plus, the team continues to feature listener and developer opinions on their favorite PlayStation memories. We'll continue to feature listeners and developers (and name our favorite PS Vita, PS4, and PS VR games!) leading up to PlayStation's 30th anniversary on December 3.</p> <p> </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_502_-_Final.mp3?dest-id=81636" length="123944251" type="audio/mpeg" />
+      <itunes:duration>01:26:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 501: Celebrating 30 Years of PlayStation (Part 2)</title>
+      <itunes:title>Episode 501: Celebrating 30 Years of PlayStation (Part 2)</itunes:title>
+      <pubDate>Fri, 22 Nov 2024 16:46:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[124829a7-cdc6-4ea5-907b-b586e6556882]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-501-celebrating-30-years-of-playstation-part-2]]></link>
+      <description><![CDATA[<p>What's up, gang! The festivities for PlayStation's 30th anniversary continue this week as the crew hears from listeners and developers about their favorite PlayStation games of all time. Plus, the crew dives into their favorite games on PSP and PS3. We'll continue to feature listeners and developers leading up to PlayStation's 30th anniversary on December 3 and beyond.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>What's up, gang! The festivities for PlayStation's 30th anniversary continue this week as the crew hears from listeners and developers about their favorite PlayStation games of all time. Plus, the crew dives into their favorite games on PSP and PS3. We'll continue to feature listeners and developers leading up to PlayStation's 30th anniversary on December 3 and beyond.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_501.mp3?dest-id=81636" length="89924672" type="audio/mpeg" />
+      <itunes:duration>01:02:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 500: Celebrating 30 Years of PlayStation (Part 1)</title>
+      <itunes:title>Episode 500: Celebrating 30 Years of PlayStation (Part 1)</itunes:title>
+      <pubDate>Fri, 15 Nov 2024 18:26:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[a4c0f62e-cc13-403b-9f2f-13abd3766a30]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-500-celebrating-30-years-of-playstation-part-1]]></link>
+      <description><![CDATA[<p dir="ltr">Hey y'all, Episode 500 is finally here! Thank you to all the loyal listeners for making this momentous episode possible. Can you believe the show started back in 2011? Whether you've been with us for the entire run or are a new listener, we appreciate you.</p> <p><strong> </strong></p> <p dir="ltr">This week, the crew hears from listeners and developers about some of their favorite PlayStation games and memories. The podcast crew also dives into their favorite games on the original PlayStation and PlayStation 2. But the celebration doesn't end here! We'll continue to feature listeners and developers leading up to PlayStation's 30th anniversary on December 3.</p> <p> </p>]]></description>
+      
+      <content:encoded><![CDATA[<p dir="ltr">Hey y'all, Episode 500 is finally here! Thank you to all the loyal listeners for making this momentous episode possible. Can you believe the show started back in 2011? Whether you've been with us for the entire run or are a new listener, we appreciate you.</p> <p> </p> <p dir="ltr">This week, the crew hears from listeners and developers about some of their favorite PlayStation games and memories. The podcast crew also dives into their favorite games on the original PlayStation and PlayStation 2. But the celebration doesn't end here! We'll continue to feature listeners and developers leading up to PlayStation's 30th anniversary on December 3.</p> <p> </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_500.mp3?dest-id=81636" length="87993074" type="audio/mpeg" />
+      <itunes:duration>01:01:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 499: Facehuggin' Fun</title>
+      <itunes:title>Episode 499: Facehuggin&#39; Fun</itunes:title>
+      <pubDate>Fri, 01 Nov 2024 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[fdf9f5fa-953e-4eb3-99b4-e6c5a503b2f9]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-499-facehuggin-fun]]></link>
+      <description><![CDATA[<p>Hey folks! This week the gang returns for a quick episode to discuss the news and upcoming releases. Plus, we get into hands-on impressions of the eerily immersive PS VR2 game Alien: Rogue Incursion coming in December.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey folks! This week the gang returns for a quick episode to discuss the news and upcoming releases. Plus, we get into hands-on impressions of the eerily immersive PS VR2 game Alien: Rogue Incursion coming in December.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_499_-_11124_10.05_AM.mp3?dest-id=81636" length="38988404" type="audio/mpeg" />
+      <itunes:duration>27:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 498: Voice of the Veilguard</title>
+      <itunes:title>Episode 498: Voice of the Veilguard</itunes:title>
+      <pubDate>Fri, 25 Oct 2024 16:33:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[0fd85078-8ef9-4ae9-8762-dd156e38c127]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-498-voice-of-the-veilguard]]></link>
+      <description><![CDATA[<p>Hey folks! This week the team got to sit down with Bioware Game Director Corinne Busche and Creative Director John Epler to talk Dragon Age: The Veilguard. We also discuss the newly released Dragon Ball: Sparking Zero and Fear the Spotlight.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey folks! This week the team got to sit down with Bioware Game Director Corinne Busche and Creative Director John Epler to talk Dragon Age: The Veilguard. We also discuss the newly released Dragon Ball: Sparking Zero and Fear the Spotlight.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_498_-_102524_9.58_AM.mp3?dest-id=81636" length="102760617" type="audio/mpeg" />
+      <itunes:duration>01:11:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 497: Aim-Down-Sights on October Frights</title>
+      <itunes:title>Episode 497: Aim-Down-Sights on October Frights</itunes:title>
+      <pubDate>Fri, 18 Oct 2024 16:18:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e4d697a6-8354-47a7-a6ea-93c26a8c2ee1]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-497-aim-down-sights-on-october-frights]]></link>
+      <description><![CDATA[<p>Howdy, y'all! This week we got to sit down with Treyarch Associate Creative Director Miles Leslie to discuss Call of Duty: Black Ops 6. Plus, the team continues the spooky game spiel by diving into Until Dawn, Silent Hill 2, and more.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy, y'all! This week we got to sit down with Treyarch Associate Creative Director Miles Leslie to discuss Call of Duty: Black Ops 6. Plus, the team continues the spooky game spiel by diving into Until Dawn, Silent Hill 2, and more.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_497.mp3?dest-id=81636" length="93628626" type="audio/mpeg" />
+      <itunes:duration>01:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 496: Welcome to Silent Hill (2)</title>
+      <itunes:title>Episode 496: Welcome to Silent Hill (2)</itunes:title>
+      <pubDate>Fri, 11 Oct 2024 16:13:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[061f7494-22a7-43e4-926f-26927bd2aef6]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-496-welcome-to-silent-hill-2]]></link>
+      <description><![CDATA[<p>Hey folks! We've got a full house for this week's pod, with the team talking news, next week's releases, and all the spooktacular games we've been playing this month, including Until Dawn and Silent Hill 2.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey folks! We've got a full house for this week's pod, with the team talking news, next week's releases, and all the spooktacular games we've been playing this month, including Until Dawn and Silent Hill 2.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_496_-_101124_9.45_AM.mp3?dest-id=81636" length="70409949" type="audio/mpeg" />
+      <itunes:duration>48:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 495: Play Date</title>
+      <itunes:title>Episode 495: Play Date</itunes:title>
+      <pubDate>Fri, 27 Sep 2024 16:42:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[973be1da-3510-4526-8cd2-45de6606d6ba]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-495-play-date]]></link>
+      <description><![CDATA[<p>Hello listeners, we've got a bunch to unpack! This week, the PlayStation Podcast team dives into some of the hottest reveals coming out of this week's news-packed State of Play. Plus, Sid discusses his recent hands-on experience with PS5 Pro launching on November 7.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hello listeners, we've got a bunch to unpack! This week, the PlayStation Podcast team dives into some of the hottest reveals coming out of this week's news-packed State of Play. Plus, Sid discusses his recent hands-on experience with PS5 Pro launching on November 7.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_495.mp3?dest-id=81636" length="60459176" type="audio/mpeg" />
+      <itunes:duration>41:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 494: Bot Thoughts</title>
+      <itunes:title>Episode 494: Bot Thoughts</itunes:title>
+      <pubDate>Fri, 13 Sep 2024 16:46:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[fd904ed6-a5b3-40dd-96cd-f58f1a81920f]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-494-bot-thoughts]]></link>
+      <description><![CDATA[<p>Howdy folks! The PlayStation Podcast gang returns to continue the discussion on Astro Bot, including segments with and without spoilers. The team also talks Animal Well and A Short Hike.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy folks! The PlayStation Podcast gang returns to continue the discussion on Astro Bot, including segments with and without spoilers. The team also talks Animal Well and A Short Hike.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_494.mp3?dest-id=81636" length="70766677" type="audio/mpeg" />
+      <itunes:duration>49:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 493: The Joy of Astro Bot</title>
+      <itunes:title>Episode 493: The Joy of Astro Bot</itunes:title>
+      <pubDate>Fri, 06 Sep 2024 14:42:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9b456240-8c3d-41ac-bdbc-23b14f15ab4b]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-493-the-joy-of-astro-bot]]></link>
+      <description><![CDATA[<p>Hey folks! This week the podcast crew got to sit down with Team Asobi Creative Director Nicolas Doucet and SIE Studio Business Group CEO Hermen Hulst to talk all things Astro Bot. Plus, we discuss a few games we've been playing including Star Wars Outlaws, Doom + Doom II, and of course sweet Astro Bot.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey folks! This week the podcast crew got to sit down with Team Asobi Creative Director Nicolas Doucet and SIE Studio Business Group CEO Hermen Hulst to talk all things Astro Bot. Plus, we discuss a few games we've been playing including Star Wars Outlaws, Doom + Doom II, and of course sweet Astro Bot.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_493.mp3?dest-id=81636" length="80396456" type="audio/mpeg" />
+      <itunes:duration>55:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 491: Puzzling Platforms</title>
+      <itunes:title>Episode 491: Puzzling Platforms</itunes:title>
+      <pubDate>Fri, 30 Aug 2024 17:12:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[c6585c62-acff-45b3-9338-c80b35b8c1fb]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-491-puzzling-platforms]]></link>
+      <description><![CDATA[<p>Hey folks! The PlayStation Podcast crew punches in a quick episode covering this week's gaming news and upcoming releases. Plus discussions on Astro Bot, Monster Hunter Wilds, and Arranger: A Role-Puzzling Adventure.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey folks! The PlayStation Podcast crew punches in a quick episode covering this week's gaming news and upcoming releases. Plus discussions on Astro Bot, Monster Hunter Wilds, and Arranger: A Role-Puzzling Adventure.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_492_-_83024_10.10_AM.mp3?dest-id=81636" length="23437814" type="audio/mpeg" />
+      <itunes:duration>16:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 491: Darkest Shadow</title>
+      <itunes:title>Episode 491: Darkest Shadow</itunes:title>
+      <pubDate>Fri, 09 Aug 2024 17:06:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[035dbec3-9b6b-417e-917f-5559aca3dad9]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-491-darkest-shadow]]></link>
+      <description><![CDATA[<p>Howdy folks! This week the PlayStation Podcast gang returns with a quick episode to discuss this week's news and new releases on the horizon. Plus the team talks Darkest Dungeon II, Elden Ring DLC, and Shadow the Hedgehog.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy folks! This week the PlayStation Podcast gang returns with a quick episode to discuss this week's news and new releases on the horizon. Plus the team talks Darkest Dungeon II, Elden Ring DLC, and Shadow the Hedgehog.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_491.mp3?dest-id=81636" length="49794948" type="audio/mpeg" />
+      <itunes:duration>34:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 490: Interview w/ Firewalk Studios on Concord</title>
+      <itunes:title>Episode 490: Interview w/ Firewalk Studios on Concord</itunes:title>
+      <pubDate>Fri, 19 Jul 2024 16:54:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[cf01aa2c-0480-48b3-bdf3-d5d3bac627b0]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-490-interview-w-firewalk-studios-on-concord]]></link>
+      <description><![CDATA[<p>Hey y'all! This week the PlayStation Podcast crew sits down with Firewalk Studios Lead Gameplay Designer Claude Jerome and Lead Character Designer Jon Weisnewski to talk all things Concord. Plus, the team dives into their experiences with the Concord Early Access Beta and discusses Tekken's 30th anniversary.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey y'all! This week the PlayStation Podcast crew sits down with Firewalk Studios Lead Gameplay Designer Claude Jerome and Lead Character Designer Jon Weisnewski to talk all things Concord. Plus, the team dives into their experiences with the Concord Early Access Beta and discusses Tekken's 30th anniversary.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_490.mp3?dest-id=81636" length="81716163" type="audio/mpeg" />
+      <itunes:duration>56:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 489: Tame The Rage</title>
+      <itunes:title>Episode 489: Tame The Rage</itunes:title>
+      <pubDate>Fri, 12 Jul 2024 15:10:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8760df3f-64f7-4e40-bc4e-cfe6ae120bcf]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-489-tame-the-rage]]></link>
+      <description><![CDATA[<p>Howdy! This week the PlayStation Podcast crew talks gamer rage, and the team sits down with Vertigo Games to discuss Metro Awakening's upcoming PS VR2 release. And of course, more Elden Ring DLC talk.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy! This week the PlayStation Podcast crew talks gamer rage, and the team sits down with Vertigo Games to discuss Metro Awakening's upcoming PS VR2 release. And of course, more Elden Ring DLC talk.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_489.mp3?dest-id=81636" length="97622853" type="audio/mpeg" />
+      <itunes:duration>01:07:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 488: Wacky Tacos</title>
+      <itunes:title>Episode 488: Wacky Tacos</itunes:title>
+      <pubDate>Fri, 28 Jun 2024 17:16:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[dc2ee990-76e7-47ca-ac7f-41efc7010e0a]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-488-wacky-tacos]]></link>
+      <description><![CDATA[<p>Hey y'all! This week the team is delighted to discuss Astro Bot gameplay coming out of SGF. Plus, the team gets into a listener letter and closes out the show with some Elden Ring talk.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey y'all! This week the team is delighted to discuss Astro Bot gameplay coming out of SGF. Plus, the team gets into a listener letter and closes out the show with some Elden Ring talk.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_488.mp3?dest-id=81636" length="70766677" type="audio/mpeg" />
+      <itunes:duration>49:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 487: Riot Requirements</title>
+      <itunes:title>Episode 487: Riot Requirements</itunes:title>
+      <pubDate>Fri, 14 Jun 2024 14:25:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[553dde61-f05f-47d9-b470-8f2ed19f5a5b]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-487-riot-requirements]]></link>
+      <description><![CDATA[<p>Hey y'all! We've got a full show for you all this week, starting with a recap of the teams' hands-on experiences at Summer Game Fest. Plus, we got to sit down with Riot Games Production Director Arnar Gylfason to discuss Valorant coming to PS5 and the Limited Beta starting today.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey y'all! We've got a full show for you all this week, starting with a recap of the teams' hands-on experiences at Summer Game Fest. Plus, we got to sit down with Riot Games Production Director Arnar Gylfason to discuss Valorant coming to PS5 and the Limited Beta starting today.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_487.mp3?dest-id=81636" length="80016532" type="audio/mpeg" />
+      <itunes:duration>55:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 486: Proof In The Play</title>
+      <itunes:title>Episode 486: Proof In The Play</itunes:title>
+      <pubDate>Fri, 07 Jun 2024 17:02:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5ce8f3a4-3472-4c2a-952b-0b5a3d0cbc3f]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-486-proof-in-the-play]]></link>
+      <description><![CDATA[<p>Howdy folks! This week the team recaps some of the biggest news from last week's State of Play and talks some of 2024's best indies so far. Plus: Which videogame worlds do you think smell the worst/best? The team nose dives into this topic and more.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Howdy folks! This week the team recaps some of the biggest news from last week's State of Play and talks some of 2024's best indies so far. Plus: Which videogame worlds do you think smell the worst/best? The team nose dives into this topic and more.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_486.mp3?dest-id=81636" length="61743147" type="audio/mpeg" />
+      <itunes:duration>42:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+    <item>
+      <title>Episode 485: Hope For Humanity</title>
+      <itunes:title>Episode 485: Hope For Humanity</itunes:title>
+      <pubDate>Fri, 24 May 2024 16:22:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[6df545e7-5e63-401f-883f-26e814c2ba77]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-485-hope-for-humanity]]></link>
+      <description><![CDATA[<p>Hey y'all! The team returns for a punchy pod covering this week's news in gaming. Plus a listener writes in, prompting a deep dive into challenging puzzle game recommendations.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey y'all! The team returns for a punchy pod covering this week's news in gaming. Plus a listener writes in, prompting a deep dive into challenging puzzle game recommendations.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_485.mp3?dest-id=81636" length="38667411" type="audio/mpeg" />
+      <itunes:duration>26:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
+    
+  </channel>
+</rss>

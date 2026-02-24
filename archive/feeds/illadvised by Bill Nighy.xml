@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/global/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/" xmlns:acast="https://schema.acast.com/1.0/">
+    <channel>
+		<ttl>60</ttl>
+		<generator>acast.com</generator>
+		<title>ill-advised by Bill Nighy</title>
+		<link>https://shows.acast.com/ill-advised-by-bill-nighy</link>
+		<atom:link href="https://feeds.acast.com/public/shows/68d57603099369ce427aef49" rel="self" type="application/rss+xml"/>
+		<language>en</language>
+		<copyright>EYEPOD Studios</copyright>
+		<itunes:keywords>Bill Nighy, Comedy,Advice,Actor,Music,Playlists,Books,Awkward,Society</itunes:keywords>
+		<itunes:author>EYEPOD Studios</itunes:author>
+		<itunes:subtitle>Join Bill Nighy to squander some time as he attempts to answer your questions and dilemmas without making things worse</itunes:subtitle>
+		<itunes:summary><![CDATA[<p>A podcast for people who don’t get out much and can’t handle it when they do.</p><br><p>A refuge for the clumsy and the awkward.</p><br><p>Join Bill Nighy to squander some time as he attempts to answer your questions and dilemmas without actually making things worse.</p><p>If you have questions about anything – from choosing the right shirt to how to hide at parties, please send us a voice-note via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p>There will also be a recommended book and a ‘playlist of the week’ and given that Bill is making this up as he goes along, who knows what other features might develop.</p><br><p>He would further like to add that he knows you have busy lives and wants you to feel free to ignore this podcast</p><p>&nbsp;</p><p>Stay loose</p><br><p><br></p><p>Produced by Alice Williams &amp; Ciara Gregory with assistant production by Angelique Somers. </p><p>Cover image by Charlie Gray. </p><p>Artwork by Anna Davie. </p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		<description><![CDATA[<p>A podcast for people who don’t get out much and can’t handle it when they do.</p><br><p>A refuge for the clumsy and the awkward.</p><br><p>Join Bill Nighy to squander some time as he attempts to answer your questions and dilemmas without actually making things worse.</p><p>If you have questions about anything – from choosing the right shirt to how to hide at parties, please send us a voice-note via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p>There will also be a recommended book and a ‘playlist of the week’ and given that Bill is making this up as he goes along, who knows what other features might develop.</p><br><p>He would further like to add that he knows you have busy lives and wants you to feel free to ignore this podcast</p><p>&nbsp;</p><p>Stay loose</p><br><p><br></p><p>Produced by Alice Williams &amp; Ciara Gregory with assistant production by Angelique Somers. </p><p>Cover image by Charlie Gray. </p><p>Artwork by Anna Davie. </p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+		<itunes:explicit>true</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>EYEPOD Studios</itunes:name>
+			<itunes:email>info+68d57603099369ce427aef49@mg-eu.acast.com</itunes:email>
+		</itunes:owner>
+		<acast:showId>68d57603099369ce427aef49</acast:showId>
+		<acast:showUrl>ill-advised-by-bill-nighy</acast:showUrl>
+		<acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[wbG1Z7+6h9QOi+CR1Dv0uQ==]]></acast:signature>
+		<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmU13c0otUap75NIyVufnZVBoBcFwz3Y0zGA/pFjpP70+3oZt3+5O3uX8mfQZWzV35Kby8OfdHfDJlQAYxij1gc0J63rxgoMm4loq58gBzd9i]]></acast:settings>
+        <acast:network id="60c9e99589ab52001ac9405b" slug="kirsche-vincent"><![CDATA[Eyepod Studios]]></acast:network>
+		<itunes:type>episodic</itunes:type>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<image>
+				<url>https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg</url>
+				<link>https://shows.acast.com/ill-advised-by-bill-nighy</link>
+				<title>ill-advised by Bill Nighy</title>
+			</image>
+		<item>
+			<title>Groovemelikeout</title>
+			<itunes:title>Groovemelikeout</itunes:title>
+			<pubDate>Thu, 11 Dec 2025 00:24:48 GMT</pubDate>
+			<itunes:duration>25:55</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/69398d89a9d003889cf675c5/media.mp3" length="24896991" type="audio/mpeg"/>
+			<guid isPermaLink="false">69398d89a9d003889cf675c5</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/groovemelikeout</link>
+			<acast:episodeId>69398d89a9d003889cf675c5</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>groovemelikeout</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCei1i6VthbUAOh0rkxWP60gY7heivcvYQRP+Wn04oTFuxmf6vKO662PLtOmweP52O0Xj6aJLt5KtMhLOIe60J4m43uBQFwVojHgpm9p/nU7smqFamSW1dAA9BViTx8D9+V2+60XI2pEcBA1d0l/f5ncI58/TwwWIN31sQPFRnQd+iRV37vV00Ojnibmk8a+tbcRmCP9qg/OUE3aNWc5aeV3bo+aLBEwp9g8fEA9rOZqXA==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Bill answers your questions on dealing with the heat, social batteries and being bored.</p><br><p>This episode's playlist is called 'Groovemelikeout' and it includes:</p><br><p>‘Hook Me Up’ by Johnny “Guitar” Watson&nbsp;</p><p>‘Ain’t That Peculiar’ by Marvin Gaye&nbsp;</p><p>‘I Love Every Little Thing About You’ by Stevie Wonder&nbsp;</p><p>‘Be Thankful For What You’ve Got - Live’ by Orgone</p><p>‘Crystal Clear’ by Pharrell Williams&nbsp;</p><br><p>Link to Spotify playlist <a href="https://open.spotify.com/playlist/5Mmpjw1Ofb85a7ZlZ6gNXA" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>Link to Apple Music playlist <a href="Groovemelikeout by ill-advised: The Playlist on Apple Music" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>The book of the episode is by Joan Didion and is called 'Where I Was From'</p><br><p>This episode is the last in the series! Thank you for squandering your time and listening to ill-advised by Bill Nighy. We'll be back in the New Year for more ill-advice, in the meantime you can send your questions to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">here</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Bill answers your questions on dealing with the heat, social batteries and being bored.</p><br><p>This episode's playlist is called 'Groovemelikeout' and it includes:</p><br><p>‘Hook Me Up’ by Johnny “Guitar” Watson&nbsp;</p><p>‘Ain’t That Peculiar’ by Marvin Gaye&nbsp;</p><p>‘I Love Every Little Thing About You’ by Stevie Wonder&nbsp;</p><p>‘Be Thankful For What You’ve Got - Live’ by Orgone</p><p>‘Crystal Clear’ by Pharrell Williams&nbsp;</p><br><p>Link to Spotify playlist <a href="https://open.spotify.com/playlist/5Mmpjw1Ofb85a7ZlZ6gNXA" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>Link to Apple Music playlist <a href="Groovemelikeout by ill-advised: The Playlist on Apple Music" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>The book of the episode is by Joan Didion and is called 'Where I Was From'</p><br><p>This episode is the last in the series! Thank you for squandering your time and listening to ill-advised by Bill Nighy. We'll be back in the New Year for more ill-advice, in the meantime you can send your questions to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">here</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Pocket Squares Make Me Uneasy</title>
+			<itunes:title>Pocket Squares Make Me Uneasy</itunes:title>
+			<pubDate>Thu, 04 Dec 2025 00:01:00 GMT</pubDate>
+			<itunes:duration>24:53</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/69305b9b97950fea679891bd/media.mp3" length="23889292" type="audio/mpeg"/>
+			<guid isPermaLink="false">69305b9b97950fea679891bd</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/pocket-squares-make-me-uneasy</link>
+			<acast:episodeId>69305b9b97950fea679891bd</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>pocket-squares-make-me-uneasy</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcDA7yoA3SYFzb02sc1m34h2ovunFOhPyHKQdoYWT0SseAaUMVWv5XQ0b4HSytYqRzcd24jphjif6AWLUZ9w2Ds85H6zlTFpbH4O/wXoR5ZdZiJ+JqgJej7nmAjKC5TfY504QR0HgM2/fxMqNI8vjd2dyle1Aa/fNtX1w6sylfpSyH6xOo9mlXBnJf3bTsuquz9lGHeKxhTknftGMBs1z2laKQwTXWD4AKaxPnZusJLsw==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Bill attempts to answer your questions on what to do when you forget someone’s name to wearing the colour yellow.</p><br><p>This episode's playlist is called ‘Car Keys And A Good Coat’:</p><br><p>‘Blues Party Tonight’ by Denise LaSalle</p><p>‘I’m Gonna Tear Your Playhouse Down’ by Ann Peebles&nbsp;</p><p>‘Wishful Thinking’ by Conya Doss, B. Golden</p><p>‘We Are the Sun’ by SAULT&nbsp;</p><p>‘Put It Down’ by Jazmine Sullivan&nbsp;</p><p>‘Packed Up And Took My Mind’ by Denise LaSalle</p><br><p>The book this week is ‘Berlin Game’<strong>&nbsp;</strong>by Len Deighton</p><br><p>You can find the playlist on Spotify <a href=" https://open.spotify.com/user/31moi2onhguxefxgmf7y5tc757pm" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And on Apple music <a href=" https://music.apple.com/profile/illadvisedbybillnighy" rel="noopener noreferrer" target="_blank">here</a></p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Bill attempts to answer your questions on what to do when you forget someone’s name to wearing the colour yellow.</p><br><p>This episode's playlist is called ‘Car Keys And A Good Coat’:</p><br><p>‘Blues Party Tonight’ by Denise LaSalle</p><p>‘I’m Gonna Tear Your Playhouse Down’ by Ann Peebles&nbsp;</p><p>‘Wishful Thinking’ by Conya Doss, B. Golden</p><p>‘We Are the Sun’ by SAULT&nbsp;</p><p>‘Put It Down’ by Jazmine Sullivan&nbsp;</p><p>‘Packed Up And Took My Mind’ by Denise LaSalle</p><br><p>The book this week is ‘Berlin Game’<strong>&nbsp;</strong>by Len Deighton</p><br><p>You can find the playlist on Spotify <a href=" https://open.spotify.com/user/31moi2onhguxefxgmf7y5tc757pm" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And on Apple music <a href=" https://music.apple.com/profile/illadvisedbybillnighy" rel="noopener noreferrer" target="_blank">here</a></p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>I Am A Moisturising Freak </title>
+			<itunes:title>I Am A Moisturising Freak </itunes:title>
+			<pubDate>Thu, 27 Nov 2025 00:02:00 GMT</pubDate>
+			<itunes:duration>27:18</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/6927305344d46fbcb28ad3b0/media.mp3" length="26215652" type="audio/mpeg"/>
+			<guid isPermaLink="false">6927305344d46fbcb28ad3b0</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/i-am-a-moisturising-freak</link>
+			<acast:episodeId>6927305344d46fbcb28ad3b0</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>i-am-a-moisturising-freak</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCe88zEExsN7fpPXXkBlNT6Wz7fzXHSuDYS3e7/NHoVKbE9Py+00JcWyL+JRPX4ELAWrAUibJoISyTL1vjZxZDV3kY7sqeSocjFVnahnD8zthIVl1YSvknTapP+scMpvChpqUTGBfwe3hwqhh2xwtPG53rNnDV9NuqQ3WJKewYDCo1Ym/GRKW8p0iY5J5W68A6E/8Q2GtCEPxvDWfJ7aqJglekh/CyCWNcZvstSygvKtzg==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p><br></p><p>Bill answers your questions from how to deal with challenging odours to what to wear on the aeroplane.</p><br><p>This episode's playlist is called ‘Dance Tunes For Snake Hips’&nbsp;</p><br><p>‘It’s About That Walk’ by Prince</p><p>‘Good and Strong’ by Sy Smith&nbsp;</p><p>‘Only In It For The Money’ by Jimmy Smith, Dr.John</p><p>‘A Rose Is Still a Rose’ by Aretha Franklin</p><p>‘Stay - Live Nassau Coliseum ’76’ by David Bowie</p><p>‘I Wanna Know’ by Cymande&nbsp;</p><br><p>And the book of the episode is ‘The Bookshop’ by<strong>&nbsp;</strong>Penelope Fitzgerald</p><br><p>Spotify link to the playlist <a href="https://open.spotify.com/playlist/78vKHwpgXNQg8KDuuoWJyY" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>&amp; you can find it on Apple Music <a href="https://music.apple.com/gb/library/playlist/p.ldvAJx1h4BZa59R?l=en-GB" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p><br></p><p>Bill answers your questions from how to deal with challenging odours to what to wear on the aeroplane.</p><br><p>This episode's playlist is called ‘Dance Tunes For Snake Hips’&nbsp;</p><br><p>‘It’s About That Walk’ by Prince</p><p>‘Good and Strong’ by Sy Smith&nbsp;</p><p>‘Only In It For The Money’ by Jimmy Smith, Dr.John</p><p>‘A Rose Is Still a Rose’ by Aretha Franklin</p><p>‘Stay - Live Nassau Coliseum ’76’ by David Bowie</p><p>‘I Wanna Know’ by Cymande&nbsp;</p><br><p>And the book of the episode is ‘The Bookshop’ by<strong>&nbsp;</strong>Penelope Fitzgerald</p><br><p>Spotify link to the playlist <a href="https://open.spotify.com/playlist/78vKHwpgXNQg8KDuuoWJyY" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>&amp; you can find it on Apple Music <a href="https://music.apple.com/gb/library/playlist/p.ldvAJx1h4BZa59R?l=en-GB" rel="noopener noreferrer" target="_blank">here</a>&nbsp;</p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Respect My Hustle</title>
+			<itunes:title>Respect My Hustle</itunes:title>
+			<pubDate>Thu, 20 Nov 2025 00:01:00 GMT</pubDate>
+			<itunes:duration>24:47</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/691ca5ad589629f7d6d85ebb/media.mp3" length="23796505" type="audio/mpeg"/>
+			<guid isPermaLink="false">691ca5ad589629f7d6d85ebb</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/educating-rita</link>
+			<acast:episodeId>691ca5ad589629f7d6d85ebb</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>educating-rita</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCfpW3yjmoq4+/2AamwtqrWgzG/YsuNuY/FdScfgGuFvYldFkCtWp1Y+k2hiXyXKo/21ogNE21YyyBsXOQADh9mVrplCWocGo9HRHPAme64QGfT1388qr4UGmSKDHGj7WbnFLb/aWuVHXdnwEEcXkgDszsU9qM6Zo6i8odFf+xXoK+MwaQas+QuA2SLzSzX5HKNQu51CI4YaDlPj0wzNhNUH+SKETrK9ntMz6/ysLMiNdA==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Another slice of Bill's ill-advice from how to cope with early mornings to placating your clean-freak husband.&nbsp;</p><br><p>This episode's playlist is called 'I Forget To Breathe':</p><br><p>‘I’ll Be Your Lover, Too’ by Van Morrison&nbsp;</p><p>‘At Last’ by Aretha Franklin</p><p>‘Here I Am’ by Mary J.Blige</p><p>‘This Day Is For You’ by Leela James&nbsp;</p><p>‘Thanks To You’ by Boz Scaggs&nbsp;</p><p>‘Call My Name’ by Prince&nbsp;</p><br><p>The playlist can be found on Spotify <a href="https://open.spotify.com/playlist/2kNULCDs9jumt9jBgtAXrK" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is by Ford Madox Ford and is called Parade's End.</p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Another slice of Bill's ill-advice from how to cope with early mornings to placating your clean-freak husband.&nbsp;</p><br><p>This episode's playlist is called 'I Forget To Breathe':</p><br><p>‘I’ll Be Your Lover, Too’ by Van Morrison&nbsp;</p><p>‘At Last’ by Aretha Franklin</p><p>‘Here I Am’ by Mary J.Blige</p><p>‘This Day Is For You’ by Leela James&nbsp;</p><p>‘Thanks To You’ by Boz Scaggs&nbsp;</p><p>‘Call My Name’ by Prince&nbsp;</p><br><p>The playlist can be found on Spotify <a href="https://open.spotify.com/playlist/2kNULCDs9jumt9jBgtAXrK" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is by Ford Madox Ford and is called Parade's End.</p><br><p>We'd love to hear from you, if you have any questions for Bill you can get in touch via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[Don't Forget To Disco]]></title>
+			<itunes:title><![CDATA[Don't Forget To Disco]]></itunes:title>
+			<pubDate>Thu, 13 Nov 2025 00:01:00 GMT</pubDate>
+			<itunes:duration>25:43</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/6914b565830e2623bfcbe3d4/media.mp3" length="24698461" type="audio/mpeg"/>
+			<guid isPermaLink="false">6914b565830e2623bfcbe3d4</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/dont-forget-to-disco</link>
+			<acast:episodeId>6914b565830e2623bfcbe3d4</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>dont-forget-to-disco</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcGdXqk/E6x+W/LxSFnFjbNM7jCVMHlQeKEHp+xQbZZuzi3B9y6/Fxx3ZrFB2x4OJtuyGGIjH7W9qCtyKEYzNyuQB9/t+6/SN3jF5ukcsP5jyRt5TI84johq/7P0wLl9Yz4npcpMDMDAq705HGKeQ2UTKAfwDjVLvSuJsZgF6LuEDNw4pj+7wLF9KE4egComD4Tax6EH+iPv8txActpaDuW/tU2XJbNYAOJTiwMIR79Mw==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Bill answers your important questions on choosing the right pair of glasses, assimilating into Japanese culture, salsa dancing and the best way to enjoy scones. </p><br><p>This episode's playlist is called 'Don't Forget To Disco';</p><p><br></p><ul><li>Never, Never Gonna Give Ya Up - Barry White&nbsp;</li><li>It's A Disco Night (Rock Don't Stop) Pts.1&amp;2 - The Isley Brothers&nbsp;</li><li>What' Cha Gonna Do For Me - Chaka Khan</li><li>Wish I Didn’t Miss You - Angie Stone&nbsp;</li><li>Runaway - by Nuyorican Soul, India&nbsp;</li></ul><p><br></p><p>You can find the playlist <a href="https://open.spotify.com/playlist/2hVHStxCGk9psIUHtdPrqx" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is Pattern Recognition by William Gibson</p><br><p>We'd love to hear from you, please send any questions and comments to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p><br></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Bill answers your important questions on choosing the right pair of glasses, assimilating into Japanese culture, salsa dancing and the best way to enjoy scones. </p><br><p>This episode's playlist is called 'Don't Forget To Disco';</p><p><br></p><ul><li>Never, Never Gonna Give Ya Up - Barry White&nbsp;</li><li>It's A Disco Night (Rock Don't Stop) Pts.1&amp;2 - The Isley Brothers&nbsp;</li><li>What' Cha Gonna Do For Me - Chaka Khan</li><li>Wish I Didn’t Miss You - Angie Stone&nbsp;</li><li>Runaway - by Nuyorican Soul, India&nbsp;</li></ul><p><br></p><p>You can find the playlist <a href="https://open.spotify.com/playlist/2hVHStxCGk9psIUHtdPrqx" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is Pattern Recognition by William Gibson</p><br><p>We'd love to hear from you, please send any questions and comments to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p><br></p><p><br></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>I Am Very Particular About Air Guitaring</title>
+			<itunes:title>I Am Very Particular About Air Guitaring</itunes:title>
+			<pubDate>Thu, 06 Nov 2025 00:01:00 GMT</pubDate>
+			<itunes:duration>24:58</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/690b4ef668ccec9b8ee619a6/media.mp3" length="23973301" type="audio/mpeg"/>
+			<guid isPermaLink="false">690b4ef668ccec9b8ee619a6</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/i-am-very-particular-about-air-guitaring</link>
+			<acast:episodeId>690b4ef668ccec9b8ee619a6</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>i-am-very-particular-about-air-guitaring</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCdL+yHTCMRsW/oA/ttdIWisIgv6lr1tvgPqRbwT7+oTQbjgK0uuR4BsYPWre21cb+rMsHT5Xud91VbGVA8UqhVqKnaw4rhkBw5RPWpCsPNk7kI6UNyJmi/wmzDGVZ81Zx5uEVH2L8XOVhS83JbItL4tnFegZWX6orFlQrqZeS2g1DTVG82+QKx26F/+egcRKANu3zg0vXnrDCTp1VNpLHxaqN/vtrN/fFQh2ieUqw4A+A==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>This week on ill-advised by Bill Nighy, Bill discusses 'over-thinking', public speaking and the best song to air guitar to.</p><br><p>This episode's playlist is called 'Too Long At The Fair':</p><br><p>'Turn to me' by Lou Reed&nbsp;</p><p>‘Jackson’ by Craig Finn&nbsp;</p><p>'Songs She Sang in the Shower' by Jason Isbell&nbsp;</p><p>'Ain’t Goin’ To Goa' by Alabama 3</p><p>'Blackout' by Ruston Kelly&nbsp;</p><p>'New Sensations' by Lou Reed&nbsp;</p><br><p>You can find the playlist <a href="https://open.spotify.com/playlist/3BJFjPrYay5hCimKsdgqUM" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book that Bill recommended in this episode is 'Freaky Deaky' by Elmore Leonard</p><br><p>We'd love to hear from you - please send any questions and comments to Bill via Instagram&nbsp;<a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p>For more information on David Knopov -&nbsp;<a href="mailto:knopov1@me.com" rel="noopener noreferrer" target="_blank">knopov1@me.com</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>This week on ill-advised by Bill Nighy, Bill discusses 'over-thinking', public speaking and the best song to air guitar to.</p><br><p>This episode's playlist is called 'Too Long At The Fair':</p><br><p>'Turn to me' by Lou Reed&nbsp;</p><p>‘Jackson’ by Craig Finn&nbsp;</p><p>'Songs She Sang in the Shower' by Jason Isbell&nbsp;</p><p>'Ain’t Goin’ To Goa' by Alabama 3</p><p>'Blackout' by Ruston Kelly&nbsp;</p><p>'New Sensations' by Lou Reed&nbsp;</p><br><p>You can find the playlist <a href="https://open.spotify.com/playlist/3BJFjPrYay5hCimKsdgqUM" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book that Bill recommended in this episode is 'Freaky Deaky' by Elmore Leonard</p><br><p>We'd love to hear from you - please send any questions and comments to Bill via Instagram&nbsp;<a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><br><p>For more information on David Knopov -&nbsp;<a href="mailto:knopov1@me.com" rel="noopener noreferrer" target="_blank">knopov1@me.com</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Help! My Horse is Ignoring Me</title>
+			<itunes:title>Help! My Horse is Ignoring Me</itunes:title>
+			<pubDate>Thu, 30 Oct 2025 00:03:00 GMT</pubDate>
+			<itunes:duration>26:55</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/6902383dfc950e90d2b103b1/media.mp3" length="25847012" type="audio/mpeg"/>
+			<guid isPermaLink="false">6902383dfc950e90d2b103b1</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/help-my-horse-is-ignoring-me</link>
+			<acast:episodeId>6902383dfc950e90d2b103b1</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>help-my-horse-is-ignoring-me</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCeRe2vihIbj8j7RpMQvQjWgz/w19lNsw7CSnKjdSb8j6SsBPMEn3FD23QrELslxheaTymTQ8BzfBNhXWAJA8PJwgW71wJd0y73fKK6JyOMZsYK9mOMobUgJAINofG28WqmuicEZddUi3PPBerQxe+R85xjvD18qP9oGC4NyZrEmE2RX2VqK7lbn7bkGCijNjvsMkSWvEjARcn2vuDfKUF6PenK/+Vt1Ox1b5mNIomY9tg==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Bill is back to answer your questions from how to cook eggs to communing with your horse.</p><br><p>This episode's playlist is called 'She Tried to Love You'</p><br><p>'Kyoto' by Phoebe Bridges</p><p>'Coyote' by Joni Mitchell</p><p>'Go Find Yourself or Whatever' by Carly Rae Jepsen</p><p>'Morning Elvis' by Florence and the Machine featuring Ethel Cain</p><p>'Don’t Remind Me' by Amber Mark with Anderson .Paak</p><br><p>You can find the playlist on Spotify <a href=" https://open.spotify.com/playlist/7LNCwqCVMNfAyenhxZfNor" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And the book of the episode is 'Moderation' by Elaine Castillo</p><br><p>We'd love to hear from you - please send any questions and comments to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Bill is back to answer your questions from how to cook eggs to communing with your horse.</p><br><p>This episode's playlist is called 'She Tried to Love You'</p><br><p>'Kyoto' by Phoebe Bridges</p><p>'Coyote' by Joni Mitchell</p><p>'Go Find Yourself or Whatever' by Carly Rae Jepsen</p><p>'Morning Elvis' by Florence and the Machine featuring Ethel Cain</p><p>'Don’t Remind Me' by Amber Mark with Anderson .Paak</p><br><p>You can find the playlist on Spotify <a href=" https://open.spotify.com/playlist/7LNCwqCVMNfAyenhxZfNor" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And the book of the episode is 'Moderation' by Elaine Castillo</p><br><p>We'd love to hear from you - please send any questions and comments to Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[There's Nothing Wrong with My Custard]]></title>
+			<itunes:title><![CDATA[There's Nothing Wrong with My Custard]]></itunes:title>
+			<pubDate>Wed, 22 Oct 2025 23:03:00 GMT</pubDate>
+			<itunes:duration>24:37</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/68f8b2c1237885ef40a30488/media.mp3" length="23646875" type="audio/mpeg"/>
+			<guid isPermaLink="false">68f8b2c1237885ef40a30488</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/theres-nothing-wrong-with-my-custard</link>
+			<acast:episodeId>68f8b2c1237885ef40a30488</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>theres-nothing-wrong-with-my-custard</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcsmOUW9/JhXCINQISOKo8OFgwQcTtT+i4Engux02lMGsVdqtqV4QkcZkAOqCy/45MtdKGwaJUmw69phHkakJ9NOHeau1TSBQxiTzCvi2wu35azHCALzBx/Sd72CpDk1rcLokwWcwJcfnKEFXTajfR9+nTyaqnl9TqlnSHTkrW+4S5A3dXkKa0xcHwtYFTrXAi4/N0uNY3VBQ8dBYpLNCMLcDwAJLCMtZWBFLvpg5DHNA==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>On this week's episode Bill tackles small talk, applications of marmite and how to live a happy life.</p><br><p>This episode's playlist is called '<strong>It’s Too Late To Go Home': </strong></p><p><br></p><ul><li>Mr. Lucky - featuring Robert Cray - John Lee Hooker</li><li>Black Limousine - The Rolling Stones</li><li>Just Like Tom Thumb’s Blues - Bryan Ferry</li><li>Why I Sing The Blues - Aretha Franklin</li><li>Lovers Rock - Fun Lovin' Criminals</li></ul><p><br></p><p>The playlist can be found on Spotify <a href="https://open.spotify.com/playlist/0kru6lZ6HJeKNjHmQAyZMz" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is 'The Rehearsal' by Eleanor Catton</p><br><p>We'd love to hear from you - send us any questions for Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>On this week's episode Bill tackles small talk, applications of marmite and how to live a happy life.</p><br><p>This episode's playlist is called '<strong>It’s Too Late To Go Home': </strong></p><p><br></p><ul><li>Mr. Lucky - featuring Robert Cray - John Lee Hooker</li><li>Black Limousine - The Rolling Stones</li><li>Just Like Tom Thumb’s Blues - Bryan Ferry</li><li>Why I Sing The Blues - Aretha Franklin</li><li>Lovers Rock - Fun Lovin' Criminals</li></ul><p><br></p><p>The playlist can be found on Spotify <a href="https://open.spotify.com/playlist/0kru6lZ6HJeKNjHmQAyZMz" rel="noopener noreferrer" target="_blank">here</a></p><br><p>The book of the episode is 'The Rehearsal' by Eleanor Catton</p><br><p>We'd love to hear from you - send us any questions for Bill via Instagram <a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title><![CDATA[You're Not a Weirdo]]></title>
+			<itunes:title><![CDATA[You're Not a Weirdo]]></itunes:title>
+			<pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+			<itunes:duration>25:19</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/68efda55ce402940bca740d9/media.mp3" length="24315610" type="audio/mpeg"/>
+			<guid isPermaLink="false">68efda55ce402940bca740d9</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/youre-not-a-weirdo</link>
+			<acast:episodeId>68efda55ce402940bca740d9</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>youre-not-a-weirdo</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCfYGEWvjscLQkW5WrdGa4BzaW7NfW7Od0Tw9kqr+BbF/uxzMfOLWWa97VSYNej0VY/DimGAWoOOlzptfB2YE3tY7cOKUI7RD4quHW4JSeDboSVrLACv4phNgfo6FNbaryQX67VjXP/fHs1e3b/WWT5vVInwzCLBGC2KnV+Xu9pQqVF8VxftzyVA74Gg6JiWTfiMBde+smVxkl6VVTRE2fmUm+TCi8MW52eVVogalScBVg==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>Bill answers your questions from how to cope with sleepless nights to where to buy the perfect shirt.</p><br><p>This episodes' playlist is called ‘Country Hurts’ </p><p><br></p><ul><li>Storm Windows&nbsp;- John Prine&nbsp;</li><li>Leavin’ - Shelby Lynne</li><li>Dying Star - Ruston Kelly</li><li>Lately I’ve let things slide - Caitlin Rose</li><li>How Can I Protect You - Alabama 3 - featuring Aslan&nbsp;</li></ul><p><br></p><br><p>This playlist can be found <a href="https://open.spotify.com/playlist/5iDk3vToTV7RnPScKU8agC" rel="noopener noreferrer" target="_blank">here </a>on Spotify</p><br><p><br></p><p>And the book of the episode is Miranda July's 'All Fours'</p><br><p><br></p><p>We'd love to hear from you - please get in touch via our instagram page at&nbsp;<a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>Bill answers your questions from how to cope with sleepless nights to where to buy the perfect shirt.</p><br><p>This episodes' playlist is called ‘Country Hurts’ </p><p><br></p><ul><li>Storm Windows&nbsp;- John Prine&nbsp;</li><li>Leavin’ - Shelby Lynne</li><li>Dying Star - Ruston Kelly</li><li>Lately I’ve let things slide - Caitlin Rose</li><li>How Can I Protect You - Alabama 3 - featuring Aslan&nbsp;</li></ul><p><br></p><br><p>This playlist can be found <a href="https://open.spotify.com/playlist/5iDk3vToTV7RnPScKU8agC" rel="noopener noreferrer" target="_blank">here </a>on Spotify</p><br><p><br></p><p>And the book of the episode is Miranda July's 'All Fours'</p><br><p><br></p><p>We'd love to hear from you - please get in touch via our instagram page at&nbsp;<a href="https://www.instagram.com/illadvisedbybillnighy/?hl=en" rel="noopener noreferrer" target="_blank">@illadvisedbybillnighy</a></p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>Procrastination </title>
+			<itunes:title>Procrastination </itunes:title>
+			<pubDate>Thu, 09 Oct 2025 01:00:00 GMT</pubDate>
+			<itunes:duration>25:38</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/68e64571d798804c9e21b5b5/media.mp3" length="24619884" type="audio/mpeg"/>
+			<guid isPermaLink="false">68e64571d798804c9e21b5b5</guid>
+			<itunes:explicit>true</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/procrastination</link>
+			<acast:episodeId>68e64571d798804c9e21b5b5</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>procrastination</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcOALLxXX2Z7wQFkMsxiOv5fn/u5gvfqOS62bnis0BIeC+ECWlcpzH63ygBUCA7vkzAv9LWj9DyWHDXc2fszP7TyRoXTVjjk8hXh21m66Ao/EiHPMm1ZFsNgrtvwbGw7zcrMMx266LRgVEXkatpL2Vbma5CIjvoEazV9ldDH9kKV/TapxC33zEPHpBtVMuDzkHyOx6u3luAWQgh/2IxOVe00rz8LvIpx34RAGXR1FQIXA==]]></acast:settings>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741270936-10d03e5a-e916-4863-a406-5277fa05011c.jpeg"/>
+			<description><![CDATA[<p>ill-advised by Bill Nighy is an actual thing! Bill is here to answer your questions... from what to do when you don't recognise somebody to his thoughts on clutter.</p><br><p>If you are socially adept, there’s nothing really for you here but if you have time to squander, this podcast might just be for you.</p><br><p>This episode playlist is called ‘Adultery Soul’</p><p><br></p><ul><li>‘I Wish He Didn't Trust Me So Much' by Bobby Womack</li><li>‘Willing to Forgive’ by Aretha Franklin</li><li>‘If You're Not Back in Love by Monday’ by Millie Jackson</li><li>‘This Used To Be Your House’ by Shirley Brown</li><li>‘A.P.B.’ by Womack &amp; Womack</li></ul><p><br></p><br><p>The episode's playlist can also be found on Spotify <a href="https://open.spotify.com/playlist/6w1gQ7ZT5lFjfonjrRZyvZ?si=DTdCYVw6StanH__Bv-Qw0g" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And the book Bill recommended is 'The Trees' by Percival Everett</p><br><p>We'd love to hear from you - please get in touch via our instagram page at&nbsp;@illadvisedbybillnighy</p><br><p><br></p><p>Thank you to <a href="https://oliversisland.co.uk/work" rel="noopener noreferrer" target="_blank">Oliver’s Island</a> &amp; Beaverbrook Town House for additional location filming.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>ill-advised by Bill Nighy is an actual thing! Bill is here to answer your questions... from what to do when you don't recognise somebody to his thoughts on clutter.</p><br><p>If you are socially adept, there’s nothing really for you here but if you have time to squander, this podcast might just be for you.</p><br><p>This episode playlist is called ‘Adultery Soul’</p><p><br></p><ul><li>‘I Wish He Didn't Trust Me So Much' by Bobby Womack</li><li>‘Willing to Forgive’ by Aretha Franklin</li><li>‘If You're Not Back in Love by Monday’ by Millie Jackson</li><li>‘This Used To Be Your House’ by Shirley Brown</li><li>‘A.P.B.’ by Womack &amp; Womack</li></ul><p><br></p><br><p>The episode's playlist can also be found on Spotify <a href="https://open.spotify.com/playlist/6w1gQ7ZT5lFjfonjrRZyvZ?si=DTdCYVw6StanH__Bv-Qw0g" rel="noopener noreferrer" target="_blank">here</a></p><br><p>And the book Bill recommended is 'The Trees' by Percival Everett</p><br><p>We'd love to hear from you - please get in touch via our instagram page at&nbsp;@illadvisedbybillnighy</p><br><p><br></p><p>Thank you to <a href="https://oliversisland.co.uk/work" rel="noopener noreferrer" target="_blank">Oliver’s Island</a> &amp; Beaverbrook Town House for additional location filming.</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+		<item>
+			<title>ill-advised by Bill Nighy - coming soon! </title>
+			<itunes:title>ill-advised by Bill Nighy - coming soon! </itunes:title>
+			<pubDate>Thu, 25 Sep 2025 23:00:00 GMT</pubDate>
+			<itunes:duration>2:03</itunes:duration>
+			<enclosure url="https://sphinx.acast.com/p/open/s/68d57603099369ce427aef49/e/68d576eb6a283f70b78e7e77/media.mp3" length="1979035" type="audio/mpeg"/>
+			<guid isPermaLink="false">68d576eb6a283f70b78e7e77</guid>
+			<itunes:explicit>false</itunes:explicit>
+			<link>https://shows.acast.com/ill-advised-by-bill-nighy/episodes/ill-advised-by-bill-nighy-coming-soon</link>
+			<acast:episodeId>68d576eb6a283f70b78e7e77</acast:episodeId>
+			<acast:showId>68d57603099369ce427aef49</acast:showId>
+			<acast:episodeUrl>ill-advised-by-bill-nighy-coming-soon</acast:episodeUrl>
+			<acast:settings><![CDATA[FYjHyZbXWHZ7gmX8Pp1rmbKbhgrQiwYShz70Q9/ffXZMTtedvdcRQbP4eiLMjXzCKLPjEYLpGj+NMVKa+5C8pL4u/EOj1Vw4h5MMJYp0lCcFAe0fnxBJy/1ju4Qxy1fh8gO4DvlGA40yms2g0/hOkcrfHIopjTygHFqGwwOPKFIai4SuTvs86Lx3UYCyl6ZsSDdIVHuNaKc46BknBTqcbMJPgsZ7WSSe/RH0SZEdHPAGG+roKJR8mloVV1eP3+NCi3Nkh8+WkVEHMXXKjEgcE6MoLsAT8kgZ+VYavevHhhs71K93RunaEqXrUAJsIRAF]]></acast:settings>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<itunes:season>1</itunes:season>
+			<itunes:image href="https://assets.pippa.io/shows/68d57603099369ce427aef49/1759741331353-5106567a-4857-4f27-9bd7-914d09bd8ba8.jpeg"/>
+			<description><![CDATA[<p>ill-advised by Bill Nighy is launching on the 9th of October! </p><br><p>Join Bill Nighy to squander some time as he attempts to answer your questions without actually making things worse.</p><br><p>This is a podcast for people who don't get out much and can't handle it when they do. It's a refuge for the clumsy and the awkward.</p><br><p>If you have questions about anything – from buying the right shirt to hiding at parties, please send us a voice note via Instagram @illadvisedbybillnighy</p><p>&nbsp;&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></description>
+			<itunes:summary><![CDATA[<p>ill-advised by Bill Nighy is launching on the 9th of October! </p><br><p>Join Bill Nighy to squander some time as he attempts to answer your questions without actually making things worse.</p><br><p>This is a podcast for people who don't get out much and can't handle it when they do. It's a refuge for the clumsy and the awkward.</p><br><p>If you have questions about anything – from buying the right shirt to hiding at parties, please send us a voice note via Instagram @illadvisedbybillnighy</p><p>&nbsp;&nbsp;</p><hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>]]></itunes:summary>
+		</item>
+    	<itunes:category text="Arts"/>
+    	<itunes:category text="Comedy"/>
+    </channel>
+</rss>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/the-rest-day" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>The Rest Day with Jack Haig</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/the-rest-day</itunes:new-feed-url>
+    <description>The Rest Day with Jack Haig takes cycling fans inside the pro peloton. Want to know what riders actually talk about? This is your podcast. 
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</description>
+    <copyright>Escape Collective</copyright>
+    <podcast:guid>8b7e5892-1b90-5927-9e77-c11c29103368</podcast:guid>
+    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <itunes:applepodcastsverify>0004ee30-2f8e-11f0-bbf9-9d4bd2231e71</itunes:applepodcastsverify>
+    <language>en</language>
+    <pubDate>Sun, 23 Nov 2025 22:53:17 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 20:48:22 -0700</lastBuildDate>
+    <link>https://escapecollective.com</link>
+    <image>
+      <url>https://img.transistor.fm/Thx8j2XkndZQ-zEgxrysYo5tBVdFqD_jGQ0MUK4_6lc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YmVm/ZjkwOThjOTUwM2Fj/NTAzYWJlNmE1NWVl/OTY4ZC5wbmc.jpg</url>
+      <title>The Rest Day with Jack Haig</title>
+      <link>https://escapecollective.com</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Sports News"/>
+    </itunes:category>
+    <itunes:category text="Sports"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Escape Collective</itunes:author>
+    <itunes:image href="https://img.transistor.fm/Thx8j2XkndZQ-zEgxrysYo5tBVdFqD_jGQ0MUK4_6lc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80YmVm/ZjkwOThjOTUwM2Fj/NTAzYWJlNmE1NWVl/OTY4ZC5wbmc.jpg"/>
+    <itunes:summary>The Rest Day with Jack Haig takes cycling fans inside the pro peloton. Want to know what riders actually talk about? This is your podcast. 
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
+    <itunes:subtitle>The Rest Day with Jack Haig takes cycling fans inside the pro peloton.</itunes:subtitle>
+    <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Caley Fretz</itunes:name>
+      <itunes:email>info@escapecollective.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Kicking off a new season with Pavel Sivakov</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>Kicking off a new season with Pavel Sivakov</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1b0adab7-d64e-42bf-8fc4-77f1c5eade39</guid>
+      <link>https://share.transistor.fm/s/1063ba9d</link>
+      <description>
+        <![CDATA[<p>The Rest Day with Jack Haig is back with its first episode of 2025, featuring a chat with Pavel Sivakov of UAE Team Emirates. Jack and Pavel tackle a wide range of topic, from riding with Tadej Pogačar to fighting for a GC top 10 in the Vuelta a España, from the dynamics of national teams vs. trade teams to salary caps.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Rest Day with Jack Haig is back with its first episode of 2025, featuring a chat with Pavel Sivakov of UAE Team Emirates. Jack and Pavel tackle a wide range of topic, from riding with Tadej Pogačar to fighting for a GC top 10 in the Vuelta a España, from the dynamics of national teams vs. trade teams to salary caps.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 14 Jan 2025 14:40:26 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/1063ba9d/2999aa0d.mp3" length="85337717" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3554</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The Rest Day with Jack Haig is back with its first episode of 2025, featuring a chat with Pavel Sivakov of UAE Team Emirates. Jack and Pavel tackle a wide range of topic, from riding with Tadej Pogačar to fighting for a GC top 10 in the Vuelta a España, from the dynamics of national teams vs. trade teams to salary caps.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Offseason talk with Harry Sweeny</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>Offseason talk with Harry Sweeny</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">cf095fbc-f189-4f97-a9dc-6c420246af98</guid>
+      <link>https://share.transistor.fm/s/7f01f9bc</link>
+      <description>
+        <![CDATA[<p>With the offseason in full swing, Harry Sweeny returns to the Rest Day. Harry and Jack discuss the end of the racing season, last-minute scheduling changes, Harry's first year with EF (and getting his first chance to target GC in Luxembourg), taking some time to recover, and more ...</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>With the offseason in full swing, Harry Sweeny returns to the Rest Day. Harry and Jack discuss the end of the racing season, last-minute scheduling changes, Harry's first year with EF (and getting his first chance to target GC in Luxembourg), taking some time to recover, and more ...</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 01 Nov 2024 10:39:00 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7f01f9bc/20c5bac8.mp3" length="60528148" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2491</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>With the offseason in full swing, Harry Sweeny returns to the Rest Day. Harry and Jack discuss the end of the racing season, last-minute scheduling changes, Harry's first year with EF (and getting his first chance to target GC in Luxembourg), taking some time to recover, and more ...</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Alex Dowsett: Life After Pro Cycling</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>Alex Dowsett: Life After Pro Cycling</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">531ae994-6dc9-464a-9463-843d1ddf9c9a</guid>
+      <link>https://share.transistor.fm/s/6991c1a7</link>
+      <description>
+        <![CDATA[<p>In this episode of The Rest Day, Jack sits down with Alex Dowsett to discuss his 12 years as a professional cyclist, how the sport has evolved and what life is like after retirement. Dowsett, a time trial specialist, offers unique insights into the demands of the sport, the impact of technology and aerodynamics, and the mental challenges faced by athletes. He also shares his experiences of fatherhood while competing, and the adjustments he made to his training and lifestyle after retiring.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of The Rest Day, Jack sits down with Alex Dowsett to discuss his 12 years as a professional cyclist, how the sport has evolved and what life is like after retirement. Dowsett, a time trial specialist, offers unique insights into the demands of the sport, the impact of technology and aerodynamics, and the mental challenges faced by athletes. He also shares his experiences of fatherhood while competing, and the adjustments he made to his training and lifestyle after retiring.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 13 Oct 2024 20:29:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6991c1a7/c20466ca.mp3" length="94346473" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3902</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of The Rest Day, Jack sits down with Alex Dowsett to discuss his 12 years as a professional cyclist, how the sport has evolved and what life is like after retirement. Dowsett, a time trial specialist, offers unique insights into the demands of the sport, the impact of technology and aerodynamics, and the mental challenges faced by athletes. He also shares his experiences of fatherhood while competing, and the adjustments he made to his training and lifestyle after retiring.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Chatting YouTube, sponsorship, and more with Harry Sweeny</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>Chatting YouTube, sponsorship, and more with Harry Sweeny</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">74137145-44d2-4357-aeb6-075dd3dec66e</guid>
+      <link>https://share.transistor.fm/s/9a8709ad</link>
+      <description>
+        <![CDATA[<p>Jack Haig catches up with Australian up-and-comer Harry Sweeny, and the two discuss the Vuelta, EF Education-EasyPost, YouTube, the cycling sponsorship model, and more ...</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jack Haig catches up with Australian up-and-comer Harry Sweeny, and the two discuss the Vuelta, EF Education-EasyPost, YouTube, the cycling sponsorship model, and more ...</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 20 Sep 2024 10:36:27 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9a8709ad/aec60579.mp3" length="76907943" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3181</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jack Haig catches up with Australian up-and-comer Harry Sweeny, and the two discuss the Vuelta, EF Education-EasyPost, YouTube, the cycling sponsorship model, and more ...</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>One week left at the Vuelta</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>One week left at the Vuelta</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b1c42dec-9dbf-4871-ab30-54c5d310a068</guid>
+      <link>https://share.transistor.fm/s/fec52772</link>
+      <description>
+        <![CDATA[<p>Jack Haig checks in from the second rest day at the Vuelta a España after another challenging week of racing. The peloton has left the heat behind but the gradients aren't letting up as the season's final Grand Tour rolls towards its conclusion.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jack Haig checks in from the second rest day at the Vuelta a España after another challenging week of racing. The peloton has left the heat behind but the gradients aren't letting up as the season's final Grand Tour rolls towards its conclusion.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 04 Sep 2024 16:55:34 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/fec52772/cc25540e.mp3" length="57081716" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2357</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jack Haig checks in from the second rest day at the Vuelta a España after another challenging week of racing. The peloton has left the heat behind but the gradients aren't letting up as the season's final Grand Tour rolls towards its conclusion.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Vuelta insights after a big transfer</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>Vuelta insights after a big transfer</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6f115a6c-11e6-42da-8116-b2b887dc0147</guid>
+      <link>https://share.transistor.fm/s/352d6110</link>
+      <description>
+        <![CDATA[<p>Jack Haig checks in from the first rest day of the Vuelta a España, discussing the racing, the heat, a big transfer, and more.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jack Haig checks in from the first rest day of the Vuelta a España, discussing the racing, the heat, a big transfer, and more.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 27 Aug 2024 19:33:59 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/352d6110/81c4b5fc.mp3" length="75048931" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3109</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jack Haig checks in from the first rest day of the Vuelta a España, discussing the racing, the heat, a big transfer, and more.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Preparing for a Grand Tour with Torstein Træen</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>Preparing for a Grand Tour with Torstein Træen</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7960f15c-d7c2-4fb0-b382-81e196ad117b</guid>
+      <link>https://share.transistor.fm/s/b4720958</link>
+      <description>
+        <![CDATA[<p>Jack Haig is joined by teammate Torstein Træen, and they discuss Torstein's busy build-up to the Vuelta a España and plenty more.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Jack Haig is joined by teammate Torstein Træen, and they discuss Torstein's busy build-up to the Vuelta a España and plenty more.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 23 Aug 2024 09:50:44 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/b4720958/5d9976b3.mp3" length="63468868" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2628</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Jack Haig is joined by teammate Torstein Træen, and they discuss Torstein's busy build-up to the Vuelta a España and plenty more.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A Tour debrief and listener questions</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>A Tour debrief and listener questions</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d14b3048-c432-4237-ac95-9231bc7171ac</guid>
+      <link>https://share.transistor.fm/s/f00f24a3</link>
+      <description>
+        <![CDATA[<p>In the latest episode of the podcast, Jack Haig offers some final thoughts on the 2024 Tour de France and then tackles some listener questions.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In the latest episode of the podcast, Jack Haig offers some final thoughts on the 2024 Tour de France and then tackles some listener questions.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 09 Aug 2024 09:03:37 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/f00f24a3/89078408.mp3" length="43722892" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1811</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In the latest episode of the podcast, Jack Haig offers some final thoughts on the 2024 Tour de France and then tackles some listener questions.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Keeping tired bodies going at Tour de France</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>Keeping tired bodies going at Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1fa63ec3-a2da-4556-bb40-1d3e2e225323</guid>
+      <link>https://share.transistor.fm/s/35a7685b</link>
+      <description>
+        <![CDATA[<p>In this episode, Jack catches up with his massage therapist for a look at one of the unseen sides of racing and working at the Tour de France. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Jack catches up with his massage therapist for a look at one of the unseen sides of racing and working at the Tour de France. </p>]]>
+      </content:encoded>
+      <pubDate>Tue, 16 Jul 2024 10:32:20 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/35a7685b/614f85d5.mp3" length="45812096" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1898</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Jack catches up with his massage therapist for a look at one of the unseen sides of racing and working at the Tour de France. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>A Rest Day on the rest day with Wout Poels</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>A Rest Day on the rest day with Wout Poels</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7c6e3d02-2adb-4945-8a38-bf7bdc9440a3</guid>
+      <link>https://share.transistor.fm/s/109b7511</link>
+      <description>
+        <![CDATA[<p>The Tour de France peloton made it to the first rest day and Jack caught up with roommate Wout Poels to discuss the week that's come and gone.  </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Tour de France peloton made it to the first rest day and Jack caught up with roommate Wout Poels to discuss the week that's come and gone.  </p>]]>
+      </content:encoded>
+      <pubDate>Wed, 10 Jul 2024 06:53:31 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/109b7511/971d84ca.mp3" length="35364660" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The Tour de France peloton made it to the first rest day and Jack caught up with roommate Wout Poels to discuss the week that's come and gone.  </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Getting ready for the Tour de France</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>Getting ready for the Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a02b403f-6ea8-4f68-bf87-4706016d6467</guid>
+      <link>https://share.transistor.fm/s/18bea0da</link>
+      <description>
+        <![CDATA[<p>Welcome back to The Rest Day with Jack Haig. This is another solo episode, a life update and discussion of Tour recon, as Jack prepares to take on the 2024 Tour de France. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome back to The Rest Day with Jack Haig. This is another solo episode, a life update and discussion of Tour recon, as Jack prepares to take on the 2024 Tour de France. </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Jun 2024 10:40:15 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/18bea0da/8de15c0e.mp3" length="35467285" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1469</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome back to The Rest Day with Jack Haig. This is another solo episode, a life update and discussion of Tour recon, as Jack prepares to take on the 2024 Tour de France. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>On Tenerife with Ineos' Carlos Rodríguez</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>On Tenerife with Ineos' Carlos Rodríguez</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a4963c23-7682-441c-bdab-07410b7d1cf2</guid>
+      <link>https://share.transistor.fm/s/824d3732</link>
+      <description>
+        <![CDATA[<p>In this episode, Jack catches up with Ineos' young climber Carlos Rodríguez from the Parador Hotel on Tenerife, where both are located for an altitude training camp before the Tour de France. The two discuss the hardest days they've had on camp, life at altitude, how Rodriguez prepared (and what he overcame) for his Tour de France stage win last year, his university degrees, and more. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Jack catches up with Ineos' young climber Carlos Rodríguez from the Parador Hotel on Tenerife, where both are located for an altitude training camp before the Tour de France. The two discuss the hardest days they've had on camp, life at altitude, how Rodriguez prepared (and what he overcame) for his Tour de France stage win last year, his university degrees, and more. </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 03 Jun 2024 07:40:51 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/824d3732/e3dcc368.mp3" length="47989513" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1992</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Jack catches up with Ineos' young climber Carlos Rodríguez from the Parador Hotel on Tenerife, where both are located for an altitude training camp before the Tour de France. The two discuss the hardest days they've had on camp, life at altitude, how Rodriguez prepared (and what he overcame) for his Tour de France stage win last year, his university degrees, and more. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Inside a Tenerife altitude camp</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Inside a Tenerife altitude camp</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">07dcfea8-77de-4efc-85b3-99ff40671c25</guid>
+      <link>https://share.transistor.fm/s/983d4e18</link>
+      <description>
+        <![CDATA[<p>In this episode, Jack chats with teammate Matevž Govekar from a pre-Dauphiné Tenerife training camp about altitude, why teams pick various high-altitude locations, making one's way into the pro peloton, and lots more. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Jack chats with teammate Matevž Govekar from a pre-Dauphiné Tenerife training camp about altitude, why teams pick various high-altitude locations, making one's way into the pro peloton, and lots more. </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 20 May 2024 07:47:52 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/983d4e18/6daa7242.mp3" length="61457657" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>2555</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Jack chats with teammate Matevž Govekar from a pre-Dauphiné Tenerife training camp about altitude, why teams pick various high-altitude locations, making one's way into the pro peloton, and lots more. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Who drives the bus? </title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Who drives the bus? </itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">466ff4ee-36a2-467d-85ef-8cfaa9ab2d60</guid>
+      <link>https://share.transistor.fm/s/275e88a8</link>
+      <description>
+        <![CDATA[<p>There are so many people who make pro cycling tick along who never get TV time, don't see the limelight, but are nonetheless indispensable. In this episode, Jack sits down with Elias, one of the bus drivers for Bahrain-Victorious to discuss his role in keeping pro cycling moving. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>There are so many people who make pro cycling tick along who never get TV time, don't see the limelight, but are nonetheless indispensable. In this episode, Jack sits down with Elias, one of the bus drivers for Bahrain-Victorious to discuss his role in keeping pro cycling moving. </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 13 May 2024 07:38:00 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/275e88a8/1e54c513.mp3" length="18406960" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1149</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>There are so many people who make pro cycling tick along who never get TV time, don't see the limelight, but are nonetheless indispensable. In this episode, Jack sits down with Elias, one of the bus drivers for Bahrain-Victorious to discuss his role in keeping pro cycling moving. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Introspection of the dropped</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Introspection of the dropped</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3aefda1b-597d-480f-bed9-cdbb5740e78a</guid>
+      <link>https://share.transistor.fm/s/e33d5a6f</link>
+      <description>
+        <![CDATA[<p>In this episode, Jack takes some time to reflect on a difficult few weeks. Pro cycling has ups and downs, and the entry to spring was a down. How does one get through such a period? </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, Jack takes some time to reflect on a difficult few weeks. Pro cycling has ups and downs, and the entry to spring was a down. How does one get through such a period? </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 22 Apr 2024 07:51:54 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/e33d5a6f/fb6f0aaf.mp3" length="47879498" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1992</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, Jack takes some time to reflect on a difficult few weeks. Pro cycling has ups and downs, and the entry to spring was a down. How does one get through such a period? </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Pavel Sivakov and riding for Pogacar</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Pavel Sivakov and riding for Pogacar</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8e0e1a23-6458-4ce1-8b97-e94393b906fb</guid>
+      <link>https://share.transistor.fm/s/dc9d1b54</link>
+      <description>
+        <![CDATA[<p>Welcome to the second episode of The Rest Day with Jack Haig. In this week's show, Jack catches up with Pavel Sivakov to talk Catalunya and the UAE Tour. They talk changing teams (from Ineos to UAE), what it's like riding for Pogacar, and more. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the second episode of The Rest Day with Jack Haig. In this week's show, Jack catches up with Pavel Sivakov to talk Catalunya and the UAE Tour. They talk changing teams (from Ineos to UAE), what it's like riding for Pogacar, and more. </p>]]>
+      </content:encoded>
+      <pubDate>Mon, 08 Apr 2024 00:50:42 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/dc9d1b54/c1061635.mp3" length="42118953" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1754</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to the second episode of The Rest Day with Jack Haig. In this week's show, Jack catches up with Pavel Sivakov to talk Catalunya and the UAE Tour. They talk changing teams (from Ineos to UAE), what it's like riding for Pogacar, and more. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Inside Paris-Nice and Tirreno-Adriatico</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Inside Paris-Nice and Tirreno-Adriatico</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c39e6b9f-6f98-42da-aed5-d52eafd730e6</guid>
+      <link>https://share.transistor.fm/s/6e20e1c5</link>
+      <description>
+        <![CDATA[<p>Welcome to the first episode of The Rest Day with Jack Haig! This new podcast is hosted by Bahrain-Victorious' Jack Haig and will take you behind the curtain of pro cycling. The first episode is a chat between Jack and his roommate, Wout Poels, discussing Paris-Nice and Tirreno-Adriatico from the inside. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the first episode of The Rest Day with Jack Haig! This new podcast is hosted by Bahrain-Victorious' Jack Haig and will take you behind the curtain of pro cycling. The first episode is a chat between Jack and his roommate, Wout Poels, discussing Paris-Nice and Tirreno-Adriatico from the inside. </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 24 Mar 2024 09:01:26 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6e20e1c5/6d0ff406.mp3" length="36614164" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1521</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to the first episode of The Rest Day with Jack Haig! This new podcast is hosted by Bahrain-Victorious' Jack Haig and will take you behind the curtain of pro cycling. The first episode is a chat between Jack and his roommate, Wout Poels, discussing Paris-Nice and Tirreno-Adriatico from the inside. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Introducing The Rest Day with Jack Haig</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Introducing The Rest Day with Jack Haig</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">00e28e6a-7b69-4d85-a7e8-a6faa5a96510</guid>
+      <link>https://share.transistor.fm/s/501d7f18</link>
+      <description>
+        <![CDATA[<p>Welcome to The Rest Day with Jack Haig, a new podcast hosted by Jack on the Escape Collective podcast network. Every other week, Jack will bring listeners inside the pro peloton, pulling back the curtain on life as a pro. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to The Rest Day with Jack Haig, a new podcast hosted by Jack on the Escape Collective podcast network. Every other week, Jack will bring listeners inside the pro peloton, pulling back the curtain on life as a pro. </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 22 Mar 2024 08:48:32 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/501d7f18/e7b9cc54.mp3" length="6829172" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>281</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to The Rest Day with Jack Haig, a new podcast hosted by Jack on the Escape Collective podcast network. Every other week, Jack will bring listeners inside the pro peloton, pulling back the curtain on life as a pro. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,tour de france,giro d'italia,paris-roubaix,cycling podcast,bike racing,professional bike racing,worldtour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

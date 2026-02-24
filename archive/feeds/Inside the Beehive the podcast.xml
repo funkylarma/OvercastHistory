@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://feeds.blubrry.com/assets/rssfeedstyle.xsl"?>
+<rss xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"  version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+	<itunes:new-feed-url>https://feeds.blubrry.com/feeds/3739360.xml</itunes:new-feed-url>
+	<rawvoice:subscribe feed="https://feeds.blubrry.com/feeds/3739360.xml"  android="https://subscribeonandroid.com/feeds.blubrry.com/feeds/3739360.xml"  email="https://subscribebyemail.com/feeds.blubrry.com/feeds/3739360.xml"  spotify="https://open.spotify.com/show/77SEFnsvPLvaG9ssPwNXS4" ></rawvoice:subscribe>
+    <atom:link href="https://feeds.blubrry.com/feeds/3739360.xml" rel="self" type="application/rss+xml" />
+    <title>Inside the Beehive: the podcast</title>
+    <link>https://www.teamvismaleaseabike.com</link>
+    <link rel="self" href="https://feeds.blubrry.com/feeds/3739360.xml" xmlns="http://www.w3.org/2005/Atom">https://www.teamvismaleaseabike.com</link>
+    <description>The podcast that takes you behind the scenes of Team Visma | Lease a Bike</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Team Visma | Lease a Bike</itunes:author>
+    <itunes:summary>The podcast that takes you behind the scenes of Team Visma | Lease a Bike</itunes:summary>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:updateFrequency rrule="FREQ=MONTHLY">Daily</podcast:updateFrequency>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Inside the Beehive: the podcast</copyright>
+    <podcast:license>Copyright 2026 Inside the Beehive: the podcast</podcast:license>
+    <itunes:owner>
+      <itunes:name>Team Visma | Lease a Bike</itunes:name>
+      <itunes:email>info@teamvismaleaseabike.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://assets.blubrry.com/coverart/orig/3739360-373944.jpg" />
+    <image>
+      <link>https://www.teamvismaleaseabike.com</link>
+      <url>https://assets.blubrry.com/coverart/orig/3739360-373944.jpg</url>
+      <title>Inside the Beehive: the podcast</title>
+      <description>The podcast that takes you behind the scenes of Team Visma | Lease a Bike</description>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Sports News" />
+    </itunes:category>
+    <generator>Blubrry Podcasting: https://www.blubrry.com/</generator>
+    <itunes:explicit>false</itunes:explicit>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <podcast:podping usesPodping="true" />
+    <podcast:guid>84df96d3-fdb8-53b8-99eb-4e9aec1b06e3</podcast:guid>
+    <podcast:person role="Host">Thijs Roelen</podcast:person>
+    <lastBuildDate>Fri, 02 Jan 2026 04:00:00 -0500</lastBuildDate>
+    <pubDate>Fri, 02 Jan 2026 04:00:00 -0500</pubDate>
+    <item>
+      <title>The Off-Season Tapes | Grischa Niermann on a successful season, the punishment bench and constructing the 2026 roster</title>
+      <podcast:episode>5</podcast:episode>
+      <link>https://blubrry.com/3739360/151140791/the-off-season-tapes-grischa-niermann-on-a-successful-season-the-punishment-bench-and-constructing-the-2026-roster/</link>
+      <guid>https://blubrry.com/3739360/151140791/the-off-season-tapes-grischa-niermann-on-a-successful-season-the-punishment-bench-and-constructing-the-2026-roster/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 02 Jan 2026 04:00:00 -0500</pubDate>
+      <description><![CDATA[With Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan, weâve already heard from the main protagonists of our team over the past year. But what about the man in the team car behind most of this seasonâs successes? We joined him in what he calls his living room - the team bus - to talk about winning Grand Tours, lessons learned for next year, and above all: how do you build a team for 2026? How does the selection process work? Where did we need to improve? And how do you find the right profiles to make a team truly click? We take a closer look at every reinforcement for 2026.
+
+Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan also join in the team bus.]]></description>
+      <content:encoded><![CDATA[<p>With Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan, weâve already heard from the main protagonists of our team over the past year. But what about the man in the team car behind most of this seasonâs successes? We joined him in what he calls his living room - the team bus - to talk about winning Grand Tours, lessons learned for next year, and above all: how do you build a team for 2026? How does the selection process work? Where did we need to improve? And how do you find the right profiles to make a team truly click? We take a closer look at every reinforcement for 2026.</p><p><br /></p><p>Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan also join in the team bus.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/251219_Visma_Leaseabike_E5.mp3" length="49339498" type="audio/mpeg" />
+      <itunes:duration>0:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>With Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan, weâve already heard from the main protagonists of our team over the past year. But what about the man in the team car behind most of this seasonâs successes? We joined him in what he calls his living room - the team bus - to talk about winning Grand Tours, lessons learned for next year, and above all: how do you build a team for 2026? How does the selection process work? Where did we need to improve? And how do you find the right profiles to make a team truly click? We take a closer look at every reinforcement for 2026.Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Matthew Brennan also join in the team bus.</itunes:summary>
+      <itunes:title>The Off-Season Tapes | Grischa Niermann on a successful season, the punishment bench and constructing the 2026 roster</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/151140791-1767189671.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/151140791-1767189671.jpg</image>
+      <podcast:season>2</podcast:season>
+    </item>
+    <item>
+      <title>The Off-Season Tapes | Jonas Vingegaard about following his racing intuition and celebrating on top of a cooler box</title>
+      <podcast:episode>4</podcast:episode>
+      <link>https://blubrry.com/3739360/150896058/the-off-season-tapes-jonas-vingegaard-about-following-his-racing-intuition-and-celebrating-on-top-of-a-cooler-box/</link>
+      <guid>https://blubrry.com/3739360/150896058/inside-the-beehive-podcast-the-off-season-tapes-jonas-vingegaard-about-following-his-racing-intuition-and-celebrating-on-top-of-a-cooler-box/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Tue, 23 Dec 2025 04:00:00 -0500</pubDate>
+      <description><![CDATA[Jonas Vingegaard joins us on the team bus for the fourth episode of Inside the Beehive: The Off-Season Tapes. He turns out to be a fan of a permanent podcast setup in the team bus. We discuss his full 2025 season, including our aggressive racing style at the Tour de France, following his racing intuition during La Vuelta a EspaÃ±a, and traveling through Japan completely anonymous.
+
+Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.]]></description>
+      <content:encoded><![CDATA[<p>Jonas Vingegaard joins us on the team bus for the fourth episode of <em>Inside the Beehive: The Off-Season Tapes</em>. He turns out to be a fan of a permanent podcast setup in the team bus. We discuss his full 2025 season, including our aggressive racing style at the Tour de France, following his racing intuition during La Vuelta a EspaÃ±a, and traveling through Japan completely anonymous.</p><p><br /></p><p>Make sure to follow our channels for more episodes of <em>Inside the Beehive: The Off-Season Tapes. </em>Wout van Aert, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/251215_Visma_Leaseabike_E4_EXTRA_.mp3" length="58952685" type="audio/mpeg" />
+      <itunes:duration>0:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Jonas Vingegaard joins us on the team bus for the fourth episode of Inside the Beehive: The Off-Season Tapes. He turns out to be a fan of a permanent podcast setup in the team bus. We discuss his full 2025 season, including our aggressive racing style at the Tour de France, following his racing intuition during La Vuelta a EspaÃ±a, and traveling through Japan completely anonymous.Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.</itunes:summary>
+      <itunes:title>The Off-Season Tapes | Jonas Vingegaard about following his racing intuition and celebrating on top of a cooler box</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/150896058-1766259094.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/150896058-1766259094.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>The Off-Season Tapes | Wout van Aert on winter form, Siena goosebumps &amp; the Champs-ÃlysÃ©es party tent</title>
+      <podcast:episode>3</podcast:episode>
+      <link>https://blubrry.com/3739360/150778836/the-off-season-tapes-wout-van-aert-on-winter-form-siena-goosebumps-the-champs-lyses-party-tent/</link>
+      <guid>https://blubrry.com/3739360/the-off-season-tapes-wout-van-aert-on-winter-form-siena-goosebumps-the-champs-lyses-party-tent/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 19 Dec 2025 04:00:00 -0500</pubDate>
+      <description><![CDATA[Wout van Aert joins us on the team bus for the third episode of Inside the Beehive: The Off-Season Tapes. We talk about the many hours spent in the bus and on the road, his off-season and how his winter shape compares to last year. And of course, we look back on two of his most spectacular stage wins at the Giro dâItalia and the Tour de France.
+
+Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Jonas Vingegaard, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.]]></description>
+      <content:encoded><![CDATA[<p>Wout van Aert joins us on the team bus for the third episode of <em>Inside the Beehive: The Off-Season Tapes</em>. We talk about the many hours spent in the bus and on the road, his off-season and how his winter shape compares to last year. And of course, we look back on two of his most spectacular stage wins at the Giro dâItalia and the Tour de France.</p><p><br /></p><p>Make sure to follow our channels for more episodes of <em>Inside the Beehive: The Off-Season Tapes. </em>Jonas Vingegaard, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/251217_Visma_Leaseabike_E3_Wout_EXTRA_.mp3" length="71592045" type="audio/mpeg" />
+      <itunes:duration>0:31:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Wout van Aert joins us on the team bus for the third episode of Inside the Beehive: The Off-Season Tapes. We talk about the many hours spent in the bus and on the road, his off-season and how his winter shape compares to last year. And of course, we look back on two of his most spectacular stage wins at the Giro dâItalia and the Tour de France.Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Jonas Vingegaard, Pauline Ferrand-PrÃ©vot, Matthew Brennan and Grischa Niermann also join in the team bus.</itunes:summary>
+      <itunes:title>The Off-Season Tapes | Wout van Aert on winter form, Siena goosebumps &amp; the Champs-ÃlysÃ©es party tent</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/150778836-1765879328.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/150778836-1765879328.jpg</image>
+      <podcast:season>2</podcast:season>
+    </item>
+    <item>
+      <title>The Off-Season Tapes | Pauline Ferrand-PrÃ©vot about building a team, combining classics and Grand Tours and winning the highest thing in road cycling</title>
+      <podcast:episode>2</podcast:episode>
+      <link>https://www.teamvismaleaseabike.com/video/news/inside-the-beehive-podcast-the-off-season-tapes-pauline-ferrand-prÃ©vot-about-building-a-team-combining-classics-and-grand-tours-and-winning-the-highest-thing-in-road-cycling/</link>
+      <guid>https://blubrry.com/3739360/150751335/the-off-season-tapes-pauline-ferrand-prvot-about-building-a-team-combining-classics-and-grand-tours-and-winning-the-highest-thing-in-road-cycling/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Tue, 16 Dec 2025 04:00:00 -0500</pubDate>
+      <description><![CDATA[In this second episode of Inside the Beehive: The Off-Season Tapes, we sit down with Tour de France Femmes winner Pauline Ferrand-PrÃ©vot in our team bus. She looks back on an incredible first season with Team Visma | Lease a Bike, winning both Paris-Roubaix and the Tour de France Femmes. She explains more about her transition from mountainbiking back to road cycling, integrating in and building a Grand Tour winning team and her special relationship with Marianne Vos.
+
+Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Matthew Brennan and Grischa Niermann also join in the team bus.]]></description>
+      <content:encoded><![CDATA[<p>In this second episode of <em>Inside the Beehive: The Off-Season Tapes</em>, we sit down with Tour de France Femmes winner Pauline Ferrand-PrÃ©vot in our team bus. She looks back on an incredible first season with Team Visma | Lease a Bike, winning both Paris-Roubaix and the Tour de France Femmes. She explains more about her transition from mountainbiking back to road cycling, integrating in and building a Grand Tour winning team and her special relationship with Marianne Vos.</p><p><br /></p><p>Make sure to follow our channels for more episodes of <em>Inside the Beehive: The Off-Season Tapes. </em>Wout van Aert, Jonas Vingegaard, Matthew Brennan and Grischa Niermann also join in the team bus.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/251215_Visma_Leaseabike_E2.mp3" length="70207936" type="audio/mpeg" />
+      <itunes:duration>0:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>In this second episode of Inside the Beehive: The Off-Season Tapes, we sit down with Tour de France Femmes winner Pauline Ferrand-PrÃ©vot in our team bus. She looks back on an incredible first season with Team Visma | Lease a Bike, winning both Paris-Roubaix and the Tour de France Femmes. She explains more about her transition from mountainbiking back to road cycling, integrating in and building a Grand Tour winning team and her special relationship with Marianne Vos.Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Matthew Brennan and Grischa Niermann also join in the team bus.</itunes:summary>
+      <itunes:title>The Off-Season Tapes | Pauline Ferrand-PrÃ©vot about building a team, combining classics and Grand Tours and winning the highest thing in road cycling</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/150751335-1765804253.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/150751335-1765804253.jpg</image>
+      <podcast:season>2</podcast:season>
+    </item>
+    <item>
+      <title>The Off-Season Tapes | Matthew Brennan: 14 wins, a new contract &amp; knocking on Woutâs door the morning of Paris-Roubaix</title>
+      <podcast:episode>1</podcast:episode>
+      <link>https://blubrry.com/3739360/150627378/the-off-season-tapes-matthew-brennan-14-wins-a-new-contract-knocking-on-wouts-door-the-morning-of-paris-roubaix/</link>
+      <guid>https://blubrry.com/3739360/150627378/the-off-season-tapes-matthew-brennan-14-wins-a-new-contract-knocking-on-wouts-door/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 12 Dec 2025 04:00:00 -0500</pubDate>
+      <description><![CDATA[In this first episode of Inside the Beehive: The Off-Season Tapes, we sit down with breakthrough rider Matthew Brennan (20) inside the team bus.
+Brennan looks back on his incredible first season as a professional, including 14 victories, what he learned, what he still wants to improve, and what itâs like learning from the best riders in the world.
+He also reveals the story of knocking on Wout van Aertâs door on the morning of Paris-Roubaix, and reacts to the big news of his new contract, keeping him with the team until at least the end of 2029.
+
+Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Grischa Niermann will also join in the team bus.]]></description>
+      <content:encoded><![CDATA[<p>In this first episode of <em>Inside the Beehive: The Off-Season Tapes</em>, we sit down with breakthrough rider Matthew Brennan (20) inside the team bus.</p><p>Brennan looks back on his incredible first season as a professional, including 14 victories, what he learned, what he still wants to improve, and what itâs like learning from the best riders in the world.</p><p>He also reveals the story of knocking on Wout van Aertâs door on the morning of Paris-Roubaix, and reacts to the big news of his new contract, keeping him with the team until at least the end of 2029.</p><p><br /></p><p>Make sure to follow our channels for more episodes of <em>Inside the Beehive: The Off-Season Tapes. </em>Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Grischa Niermann will also join in the team bus.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/251205_Project_Visma_Leasabike_E1_.mp3" length="75914176" type="audio/mpeg" />
+      <podcast:contentLink href="https://www.teamvismaleaseabike.com/video/talent-development/inside-the-beehive-podcast-the-off-season-tapes-matthew-brennan/" />
+      <itunes:duration>0:31:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>In this first episode of Inside the Beehive: The Off-Season Tapes, we sit down with breakthrough rider Matthew Brennan (20) inside the team bus.Brennan looks back on his incredible first season as a professional, including 14 victories, what he learned, what he still wants to improve, and what itâs like learning from the best riders in the world.He also reveals the story of knocking on Wout van Aertâs door on the morning of Paris-Roubaix, and reacts to the big news of his new contract, keeping him with the team until at least the end of 2029.Make sure to follow our channels for more episodes of Inside the Beehive: The Off-Season Tapes. Wout van Aert, Jonas Vingegaard, Pauline Ferrand-PrÃ©vot and Grischa Niermann will also join in the team bus.</itunes:summary>
+      <itunes:title>The Off-Season Tapes | Matthew Brennan: 14 wins, a new contract &amp; knocking on Woutâs door the morning of Paris-Roubaix</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/150627378-1765361491.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/150627378-1765361491.jpg</image>
+      <podcast:season>2</podcast:season>
+      <podcast:person role="Guest">Matthew Brennan</podcast:person>
+    </item>
+    <item>
+      <title>Tour de France '25 - 22: Wout van Aert WINS in Paris, but how will he celebrate tonight?</title>
+      <podcast:episode>22</podcast:episode>
+      <link>https://blubrry.com/3739360/147334733/tour-de-france-25-22-wout-van-aert-wins-in-paris-but-how-will-he-celebrate-tonight/</link>
+      <guid>https://blubrry.com/3739360/147334733/tour-de-france-25-22-wout-van-aert-wins-in-paris-but-how-will-he-celebrate-tonight/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sun, 27 Jul 2025 16:23:27 -0400</pubDate>
+      <description><![CDATA[What a way to end this Tour de France. Wout van Aert wins on a heroic day in the streets of Paris. A day that will go down in history. Not only because we have won the final stage, it's party time. Demi Schreuder gives us an insight into what she has planned for our riders, staff and partners tonight.]]></description>
+      <content:encoded><![CDATA[<p>What a way to end this Tour de France. Wout van Aert wins on a heroic day in the streets of Paris. A day that will go down in history. Not only because we have won the final stage, it's party time. Demi Schreuder gives us an insight into what she has planned for our riders, staff and partners tonight.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_22.mp3" length="48283456" type="audio/mpeg" />
+      <itunes:duration>0:20:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>What a way to end this Tour de France. Wout van Aert wins on a heroic day in the streets of Paris. A day that will go down in history. Not only because we have won the final stage, it's party time. Demi Schreuder gives us an insight into what she has planned for our riders, staff and partners tonight.</itunes:summary>
+      <itunes:title>Tour de France '25 - 22: Wout van Aert WINS in Paris, but how will he celebrate tonight?</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147334733-1753647806.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147334733-1753647806.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 21: Breakaway-Matteo Jorgenson and an insight in our content team by Tijn Betten</title>
+      <podcast:episode>21</podcast:episode>
+      <link>https://blubrry.com/3739360/147319698/tour-de-france-25-21-breakaway-matteo-jorgenson-and-an-insight-in-our-content-team-by-tijn-betten/</link>
+      <guid>https://blubrry.com/3739360/147319698/tour-de-france-25-21-breakaway-matteo-jorgenson-and-an-insight-in-our-content-team-by-tijn-betten/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sat, 26 Jul 2025 12:13:56 -0400</pubDate>
+      <description><![CDATA[Some crazy breakaway racing painted stage 20 of the Tour de France. We had Matteo Jorgenson up the road, but he blew his bullet too early and never recovered. We hear from Matteo and also Grischa Niermann later. And we also talk to Tijn Betten, one of our cameramen in the Tour. As you are used to from us, we will deliver a Tour de France documentary with all the behind the scenes access. But exactly how many hours of footage do we use to get to that one hour documentary?]]></description>
+      <content:encoded><![CDATA[<p>Some crazy breakaway racing painted stage 20 of the Tour de France. We had Matteo Jorgenson up the road, but he blew his bullet too early and never recovered. We hear from Matteo and also Grischa Niermann later. And we also talk to Tijn Betten, one of our cameramen in the Tour. As you are used to from us, we will deliver a Tour de France documentary with all the behind the scenes access. But exactly how many hours of footage do we use to get to that one hour documentary?</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_21.mp3" length="55538176" type="audio/mpeg" />
+      <itunes:duration>0:23:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Some crazy breakaway racing painted stage 20 of the Tour de France. We had Matteo Jorgenson up the road, but he blew his bullet too early and never recovered. We hear from Matteo and also Grischa Niermann later. And we also talk to Tijn Betten, one of our cameramen in the Tour. As you are used to from us, we will deliver a Tour de France documentary with all the behind the scenes access. But exactly how many hours of footage do we use to get to that one hour documentary?</itunes:summary>
+      <itunes:title>Tour de France â25 - 21: Breakaway-Matteo Jorgenson and an insight in our content team by Tijn Betten</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147319698-1753546435.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147319698-1753546435.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 20: The GC is set and we speak to sports director Arthur van Dongen about evening the score with Frans Maassen</title>
+      <podcast:episode>20</podcast:episode>
+      <link>https://blubrry.com/3739360/147297603/tour-de-france-25-20-the-gc-is-set-and-we-speak-to-sports-director-arthur-van-dongen-about-evening-the-score-with-frans-maassen/</link>
+      <guid>https://blubrry.com/3739360/147297603/tour-de-france-25-20-the-gc-is-set-and-we-speak-to-sports-director-arthur-van-dongen-about-evening-the-score-with-frans-maassen/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 25 Jul 2025 15:40:00 -0400</pubDate>
+      <description><![CDATA[No sick cows on the side of the road of the shortened stage 19 of the Tour de France, but also no real GC battle anymore. As we hear from Jonas Vingegaard himself, his focus was more on a stage win than on gaining time today. And we also speak to our fourth sports director Arthur van Dongen about his role in the Tour. But also: did he get a chance to even the score with Frans Maassen?]]></description>
+      <content:encoded><![CDATA[<p>No sick cows on the side of the road of the shortened stage 19 of the Tour de France, but also no real GC battle anymore. As we hear from Jonas Vingegaard himself, his focus was more on a stage win than on gaining time today. And we also speak to our fourth sports director Arthur van Dongen about his role in the Tour. But also: did he get a chance to even the score with Frans Maassen?</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_20.mp3" length="33640576" type="audio/mpeg" />
+      <itunes:duration>0:14:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>No sick cows on the side of the road of the shortened stage 19 of the Tour de France, but also no real GC battle anymore. As we hear from Jonas Vingegaard himself, his focus was more on a stage win than on gaining time today. And we also speak to our fourth sports director Arthur van Dongen about his role in the Tour. But also: did he get a chance to even the score with Frans Maassen?</itunes:summary>
+      <itunes:title>Tour de France '25 - 20: The GC is set and we speak to sports director Arthur van Dongen about evening the score with Frans Maassen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147297603-1753472453.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147297603-1753472453.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 19: We keep attacking and Vincent Laporte explains what goes on in our control room</title>
+      <podcast:episode>19</podcast:episode>
+      <link>https://blubrry.com/3739360/147269403/tour-de-france-25-19-we-keep-attacking-and-vincent-laporte-explains-what-goes-on-in-our-control-room/</link>
+      <guid>https://blubrry.com/3739360/147269403/tour-de-france-25-19-we-keep-attacking-and-vincent-laporte-explains-what-goes-on-in-our-control-room/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Thu, 24 Jul 2025 15:00:00 -0400</pubDate>
+      <description><![CDATA[Stage 18 of the Tour de France was long and hard. Our team went in fully committed, had a plan, sent guys up the road, but in the end it all comes down to those two exceptional riders in this yearâs race. We hear from Jonas Vingegaard after the stage. As often, Jonas talks about his feeling immediately after the finish, still the most interesting factor during a bike race. But we try to capture and analyse more and more details about a bike race in data. During the race, we have our control room set up in our office in Den Bosch analysing what goes on and communicating with the team car in France. In this episode we speak with our performance analyst Vincent Laporte about his work for the team and specifically in that control room today.]]></description>
+      <content:encoded><![CDATA[<p>Stage 18 of the Tour de France was long and hard. Our team went in fully committed, had a plan, sent guys up the road, but in the end it all comes down to those two exceptional riders in this yearâs race. We hear from Jonas Vingegaard after the stage. As often, Jonas talks about his feeling immediately after the finish, still the most interesting factor during a bike race. But we try to capture and analyse more and more details about a bike race in data. During the race, we have our control room set up in our office in Den Bosch analysing what goes on and communicating with the team car in France. In this episode we speak with our performance analyst Vincent Laporte about his work for the team and specifically in that control room today.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_19.mp3" length="45580096" type="audio/mpeg" />
+      <itunes:duration>0:18:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Stage 18 of the Tour de France was long and hard. Our team went in fully committed, had a plan, sent guys up the road, but in the end it all comes down to those two exceptional riders in this yearâs race. We hear from Jonas Vingegaard after the stage. As often, Jonas talks about his feeling immediately after the finish, still the most interesting factor during a bike race. But we try to capture and analyse more and more details about a bike race in data. During the race, we have our control room set up in our office in Den Bosch analysing what goes on and communicating with the team car in France. In this episode we speak with our performance analyst Vincent Laporte about his work for the team and specifically in that control room today.</itunes:summary>
+      <itunes:title>Tour de France '25 - 19: We keep attacking and Vincent Laporte explains what goes on in our control room</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147269403-1753383932.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147269403-1753383932.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 18: Sports director Marc Reef about the confidence we gained on the Ventoux, Wout's attack and the crucial Alps stages coming up</title>
+      <podcast:episode>18</podcast:episode>
+      <link>https://blubrry.com/3739360/147246646/tour-de-france-25-18-sports-director-marc-reef-about-the-confidence-we-gained-on-the-ventoux-wouts-attack-and-the-crucial-alps-stages-coming-up/</link>
+      <guid>https://blubrry.com/3739360/147246646/tour-de-france-25-18-sports-director-marc-reef-about-the-confidence-we-gained-on-the-ventoux-wouts-attack-and-the-crucial-alps-stages-coming-up/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Wed, 23 Jul 2025 15:04:05 -0400</pubDate>
+      <description><![CDATA[We have a direct connection with the team bus again. Sports director Marc Reef talks us through today, tomorrow and all the rest while he makes the travel from the RhÃ´ne Valley to the Alps. And also: why do we actually need four sports directors in the Tour de France?]]></description>
+      <content:encoded><![CDATA[<p>We have a direct connection with the team bus again. Sports director Marc Reef talks us through today, tomorrow and all the rest while he makes the travel from the <span style="color:rgb(118,118,118);">RhÃ´ne</span> Valley to the Alps. And also: why do we actually need four sports directors in the Tour de France?</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_18.mp3" length="34950016" type="audio/mpeg" />
+      <itunes:duration>0:14:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>We have a direct connection with the team bus again. Sports director Marc Reef talks us through today, tomorrow and all the rest while he makes the travel from the RhÃ´ne Valley to the Alps. And also: why do we actually need four sports directors in the Tour de France?</itunes:summary>
+      <itunes:title>Tour de France '25 - 18: Sports director Marc Reef about the confidence we gained on the Ventoux, Wout's attack and the crucial Alps stages coming up</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147246646-1753297444.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147246646-1753297444.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 17: Tiesj Benoot explains how to prepare for that crucial push as a satellite rider for Jonas Vingegaard</title>
+      <podcast:episode>17</podcast:episode>
+      <link>https://blubrry.com/3739360/147219586/tour-de-france-25-17-tiesj-benoot-explains-how-to-prepare-for-that-crucial-push-as-a-satellite-rider-for-jonas-vingegaard/</link>
+      <guid>https://blubrry.com/3739360/147219586/tour-de-franc-25-17-tiesj-benoot-explains-how-to-prepare-for-that-crucial-push-as-a-satellite-rider-for-jonas-vingegaard/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Tue, 22 Jul 2025 13:26:00 -0400</pubDate>
+      <description><![CDATA[Still buzzing after stage 16 of the Tour de France, where we saw attack after attack, with Victor Campenaerts and Tiesj Benoot in a crucial role as satellite riders. We hear from Jonas Vingegaard after the stage and have a call with Tiesj Benoot from the team bus on his way to the next hotel. How do you prepare for that important push you need to do when Jonas approaches? How do you time that? And we hear how he experiences the Tour de France so far.]]></description>
+      <content:encoded><![CDATA[<p>Still buzzing after stage 16 of the Tour de France, where we saw attack after attack, with Victor Campenaerts and Tiesj Benoot in a crucial role as satellite riders. We hear from Jonas Vingegaard after the stage and have a call with Tiesj Benoot from the team bus on his way to the next hotel. How do you prepare for that important push you need to do when Jonas approaches? How do you time that? And we hear how he experiences the Tour de France so far.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_17.mp3" length="30088576" type="audio/mpeg" />
+      <itunes:duration>0:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Still buzzing after stage 16 of the Tour de France, where we saw attack after attack, with Victor Campenaerts and Tiesj Benoot in a crucial role as satellite riders. We hear from Jonas Vingegaard after the stage and have a call with Tiesj Benoot from the team bus on his way to the next hotel. How do you prepare for that important push you need to do when Jonas approaches? How do you time that? And we hear how he experiences the Tour de France so far.</itunes:summary>
+      <itunes:title>Tour de France '25 - 17: Tiesj Benoot explains how to prepare for that crucial push as a satellite rider for Jonas Vingegaard</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147219586-1753205216.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147219586-1753205216.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 16: Breakaway day with Wout van Aert and Victor Campenaerts, and Richard Plugge talks sponsorships</title>
+      <podcast:episode>16</podcast:episode>
+      <link>https://blubrry.com/3739360/147170025/tour-de-france-25-16-breakaway-day-with-wout-van-aert-and-victor-campenaerts-and-richard-plugge-talks-sponsorships/</link>
+      <guid>https://blubrry.com/3739360/147170025/tour-de-france-25-16-breakaway-day-with-wout-van-aert-and-victor-campenaerts-and-richard-plugge-talks-sponsorships/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sun, 20 Jul 2025 12:36:00 -0400</pubDate>
+      <description><![CDATA[After 3 hard GC days, today the GC contenders could take things a bit easier. That meant also that riders like Victor Campenaerts or Wout Van Aert could take their chances and fight for a stage victory. We hear from Wout after the stage. And we talk to our CEO Richard Plugge about the comeback of Rababank and Skil as sponsors in cycling. But also: what does a CEO do during the Tour de France?
+]]></description>
+      <content:encoded><![CDATA[<p>After 3 hard GC days, today the GC contenders could take things a bit easier. That meant also that riders like Victor Campenaerts or Wout Van Aert could take their chances and fight for a stage victory. We hear from Wout after the stage. And we talk to our CEO Richard Plugge about the comeback of Rabobank and SKIL as sponsors in cycling. But also: what does a CEO do during the Tour de France?</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_16.mp3" length="52602496" type="audio/mpeg" />
+      <itunes:duration>0:21:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>After 3 hard GC days, today the GC contenders could take things a bit easier. That meant also that riders like Victor Campenaerts or Wout Van Aert could take their chances and fight for a stage victory. We hear from Wout after the stage. And we talk to our CEO Richard Plugge about the comeback of Rabobank and SKIL as sponsors in cycling. But also: what does a CEO do during the Tour de France?</itunes:summary>
+      <itunes:title>Tour de France â25 - 16: Breakaway day with Wout van Aert and Victor Campenaerts, and Richard Plugge talks sponsorships</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147170025-1753029368.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147170025-1753029368.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 15: We won't give up! And for sure our performance chef Karin Lambrechtse will not allow it</title>
+      <podcast:episode>15</podcast:episode>
+      <link>https://blubrry.com/3739360/147158733/tour-de-france-25-15-we-wont-give-up-and-for-sure-our-performance-chef-karin-lambrechtse-will-not-allow-it/</link>
+      <guid>https://blubrry.com/3739360/147158733/tour-de-france-25-15-we-wont-give-up-and-for-sure-our-performance-chef-karin-lambrechtse-will-not-allow-it/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sat, 19 Jul 2025 12:39:00 -0400</pubDate>
+      <description><![CDATA[The parcours was brutal, the racing was brutal, the weather was brutal and our riders confirmed afterwards that stage 14 of the Tour de France was indeed brutal. Jonas was the first to attack, but in the end he and Pogacar proved the strongest of the GC contenders once again. 
+And after all that racing some delicious food was waiting for our riders once again. Thanks to our performance chefs and their creative process. We spoke to Karin Lambrechtse, one of our two chefs in this Tour de France.]]></description>
+      <content:encoded><![CDATA[<p>The parcours was brutal, the racing was brutal, the weather was brutal and our riders confirmed afterwards that stage 14 of the Tour de France was indeed brutal. Jonas was the first to attack, but in the end he and Pogacar proved the strongest of the GC contenders once again.Â </p><p>And after all that racing some delicious food was waiting for our riders once again. Thanks to our performance chefs and their creative process. We spoke to Karin Lambrechtse, one of our two chefs in this Tour de France.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_15.mp3" length="44188096" type="audio/mpeg" />
+      <itunes:duration>0:18:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>The parcours was brutal, the racing was brutal, the weather was brutal and our riders confirmed afterwards that stage 14 of the Tour de France was indeed brutal. Jonas was the first to attack, but in the end he and Pogacar proved the strongest of the GC contenders once again.Â And after all that racing some delicious food was waiting for our riders once again. Thanks to our performance chefs and their creative process. We spoke to Karin Lambrechtse, one of our two chefs in this Tour de France.</itunes:summary>
+      <itunes:title>Tour de France '25 - 15: We won't give up! And for sure our performance chef Karin Lambrechtse will not allow it</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147158733-1752943171.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147158733-1752943171.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 -14: Jonas Vingegaard is second again and Edoardo Affini talks about his first Tour de France experiences</title>
+      <podcast:episode>14</podcast:episode>
+      <link>https://blubrry.com/3739360/147137428/tour-de-france-25-14-jonas-vingegaard-is-second-again-and-edoardo-affini-talks-about-his-first-tour-de-france-experiences/</link>
+      <guid>https://blubrry.com/3739360/147137428/tour-de-france-25-14-jonas-vingegaard-is-second-again-and-edoardo-affini-talks-about-his-first-tour-de-france-experiences/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 18 Jul 2025 12:29:37 -0400</pubDate>
+      <description><![CDATA[We saw a super hard stage again today, with big time differences. Jonas rode very impressively and even overtook Remco Evenepoel. He set the fastest time when he arrived, but after him Tadej Pogacar once again proved the strongest. We hear from Jonas after the finish and we talk to our European time trial champion Edoardo Affini. He explains why this was no TT for him, how he experiences his first Tour de France and why we should keep trying.]]></description>
+      <content:encoded><![CDATA[<p>We saw a super hard stage again today, with big time differences. Jonas rode very impressively and even overtook Remco Evenepoel. He set the fastest time when he arrived, but after him Tadej Pogacar once again proved the strongest.Â We hear from Jonas after the finish and we talk to our European time trial champion Edoardo Affini. He explains why this was no TT for him, how he experiences his first Tour de France and why we should keep trying.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_14.mp3" length="36790336" type="audio/mpeg" />
+      <itunes:duration>0:15:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>We saw a super hard stage again today, with big time differences. Jonas rode very impressively and even overtook Remco Evenepoel. He set the fastest time when he arrived, but after him Tadej Pogacar once again proved the strongest.Â We hear from Jonas after the finish and we talk to our European time trial champion Edoardo Affini. He explains why this was no TT for him, how he experiences his first Tour de France and why we should keep trying.</itunes:summary>
+      <itunes:title>Tour de France '25 -14: Jonas Vingegaard is second again and Edoardo Affini talks about his first Tour de France experiences</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147137428-1752856176.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147137428-1752856176.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 -13: tough pill to swallow on Hautacam and a call with Per Strand Hagenes</title>
+      <podcast:episode>13</podcast:episode>
+      <link>https://blubrry.com/3739360/147113855/tour-de-france-25-13-tough-pill-to-swallow-on-hautacam-and-a-call-with-per-strand-hagenes/</link>
+      <guid>https://blubrry.com/3739360/147113855/tour-de-france-25-13-tough-pill-to-swallow-on-hautacam-and-a-call-with-per-strand-hagenes/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Thu, 17 Jul 2025 14:15:00 -0400</pubDate>
+      <description><![CDATA[Today was a tough pill to swallow for us. The team did what they could, showed that fighting spirit that they have been showing the whole Tour de France so far. But in the end Pogacar proved to be stronger than Jonas today. We hear from Grischa Niermann and Sepp Kuss and we call with Per Strand Hagenes, because we also have 21 riders in our roster who are not in the Tour de France.]]></description>
+      <content:encoded><![CDATA[<p>Today was a tough pill to swallow for us. The team did what they could, showed that fighting spirit that they have been showing the whole Tour de France so far. But in the end Pogacar proved to be stronger than Jonas today. We hear from Grischa Niermann and Sepp Kuss and we call with Per Strand Hagenes, because we also have 21 riders in our roster who are not in the Tour de France.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_13.mp3" length="32638336" type="audio/mpeg" />
+      <itunes:duration>0:13:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Today was a tough pill to swallow for us. The team did what they could, showed that fighting spirit that they have been showing the whole Tour de France so far. But in the end Pogacar proved to be stronger than Jonas today. We hear from Grischa Niermann and Sepp Kuss and we call with Per Strand Hagenes, because we also have 21 riders in our roster who are not in the Tour de France.</itunes:summary>
+      <itunes:title>Tour de France '25 -13: tough pill to swallow on Hautacam and a call with Per Strand Hagenes</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147113855-1752776415.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147113855-1752776415.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 12: Grischa Niermann about all that is to come this Tour and Jonas about his haircut</title>
+      <podcast:episode>12</podcast:episode>
+      <link>https://blubrry.com/3739360/147088440/tour-de-france-25-12-grischa-niermann-about-all-that-is-to-come-this-tour-and-jonas-about-his-haircut/</link>
+      <guid>https://blubrry.com/3739360/147088440/inside-the-beehive-tour-de-france-25-12-grischa-niermann-about-all-that-is-to-come-this-tour-and-jonas-about-his-haircut/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Wed, 16 Jul 2025 16:07:00 -0400</pubDate>
+      <description><![CDATA[Inside the Beehive is back just as fresh as Jonasâ haircut after the rest day. Today we hear from Wout after finishing fifth on stage eleven. And we talk to Grischa Niermann, our head of racing, about the rest day, the first part of the Tour de France and everything that is coming now. Is a new Tour de France starting from now on?]]></description>
+      <content:encoded><![CDATA[<p>Inside the Beehive is back just as fresh as Jonasâ haircut after the rest day. Today we hear from Wout after finishing fifth on stage eleven.Â And we talk to Grischa Niermann, our head of racing, about the rest day, the first part of the Tour de France and everything that is coming now. Is a new Tour de France starting from now on?</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_12.mp3" length="27432256" type="audio/mpeg" />
+      <itunes:duration>0:11:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Inside the Beehive is back just as fresh as Jonasâ haircut after the rest day. Today we hear from Wout after finishing fifth on stage eleven.Â And we talk to Grischa Niermann, our head of racing, about the rest day, the first part of the Tour de France and everything that is coming now. Is a new Tour de France starting from now on?</itunes:summary>
+      <itunes:title>Tour de France '25 - 12: Grischa Niermann about all that is to come this Tour and Jonas about his haircut</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147088440-1752696619.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147088440-1752696619.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 11: on the phone with stage winner Simon Yates and analyzing with Nathan Van Hooydonck</title>
+      <podcast:episode>11</podcast:episode>
+      <link>https://blubrry.com/3739360/147033690/tour-de-france-25-11-on-the-phone-with-stage-winner-simon-yates-and-analyzing-with-nathan-van-hooydonck/</link>
+      <guid>https://blubrry.com/3739360/147033690/inside-the-beehive-tour-de-france-25-11-calling-in-with-stage-winner-simon-yates-and-analyzing-with-nathan-van-hooydonck/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Mon, 14 Jul 2025 14:53:00 -0400</pubDate>
+      <description><![CDATA[We have won! Simon Yates takes our first stage win of this Tour de France after an impressive day up front. We call in with him while he travels to the next hotel. And we hear from Nathan Van Hooydonck about his new job in the team, his work during this Tour de France and how he experienced todayâs win.]]></description>
+      <content:encoded><![CDATA[<p>We have won! Simon Yates takes our first stage win of this Tour de France after an impressive day up front. We call in with him while he travels to the next hotel. And we hear from Nathan Van Hooydonck about his new job in the team, his work during this Tour de France and how he experienced todayâs win.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_11.mp3" length="41094016" type="audio/mpeg" />
+      <itunes:duration>0:17:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>We have won! Simon Yates takes our first stage win of this Tour de France after an impressive day up front. We call in with him while he travels to the next hotel. And we hear from Nathan Van Hooydonck about his new job in the team, his work during this Tour de France and how he experienced todayâs win.</itunes:summary>
+      <itunes:title>Tour de France â25 - 11: on the phone with stage winner Simon Yates and analyzing with Nathan Van Hooydonck</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147033690-1752519432.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147033690-1752519432.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 10: will he sprint or not? And we talk Nike and Nimbl with Jasper Saeijs</title>
+      <podcast:episode>10</podcast:episode>
+      <link>https://blubrry.com/3739360/147005382/tour-de-france-25-10-will-he-sprint-or-not-and-we-talk-nike-and-nimbl-with-jasper-saeijs/</link>
+      <guid>https://blubrry.com/3739360/147005382/inside-the-beehive-tour-de-france-25-10-will-he-sprint-or-not-and-we-talk-nike-and-nimble-with-jasper-saeijs/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sun, 13 Jul 2025 15:53:00 -0400</pubDate>
+      <description><![CDATA[It was officially announced on X that Wout van Aert was going to sprint for the stage, but in the end he fooled everyone again. We hear from Grischa Niermann and Jonas Vingegaard after stage 9 of the Tour de France. And Chief Marketing Officer Jasper Saeijs tells us more about our new clothing partners Nike and Nimbl.]]></description>
+      <content:encoded><![CDATA[<p>It was officially announced on X that Wout van Aert was going to sprint for the stage, but in the end he fooled everyone again. We hear from Grischa Niermann and Jonas Vingegaard after stage 9 of the Tour de France. And Chief Marketing Officer Jasper Saeijs tells us more about our new clothing partners Nike and Nimbl.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_10.mp3" length="28628416" type="audio/mpeg" />
+      <podcast:contentLink href="https://www.teamvismaleaseabike.com/shop/">Shop our Nike and Nimbl clothing</podcast:contentLink>
+      <itunes:duration>0:11:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>It was officially announced on X that Wout van Aert was going to sprint for the stage, but in the end he fooled everyone again. We hear from Grischa Niermann and Jonas Vingegaard after stage 9 of the Tour de France. And Chief Marketing Officer Jasper Saeijs tells us more about our new clothing partners Nike and Nimbl.</itunes:summary>
+      <itunes:title>Tour de France '25 - 10: will he sprint or not? And we talk Nike and Nimbl with Jasper Saeijs</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/147005382-1752436420.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/147005382-1752436420.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 9: A satisfied Wout van Aert and we talk about pizza, kebab and hamburgers with our performance nutritionist Gabriel Martins</title>
+      <podcast:episode>9</podcast:episode>
+      <link>https://blubrry.com/3739360/146982241/tour-de-france-25-9-a-satisfied-wout-van-aert-and-we-talk-about-pizza-kebab-and-hamburgers-with-our-performance-nutritionist-gabriel-martins/</link>
+      <guid>https://blubrry.com/3739360/146982241/inside-the-beehive-tour-de-france-25-9-a-satisfied-wout-van-aert-and-we-talk-about-pizza-kebab-and-hamburgers-with-our-performance-nutritionist-gabriel-martins/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sat, 12 Jul 2025 14:36:00 -0400</pubDate>
+      <description><![CDATA[All Belgian media wanted to know how he felt after his second spot in stage 8 of the Tour de France. We translate it for you in this episode. Next to that we have a chat with our performance nutritionist Gabriel Martins about his work, our riders' preferences and the importance of not only healthy but also tasty food.]]></description>
+      <content:encoded><![CDATA[<p>All Belgian media wanted to know how he felt after his second spot in stage 8 of the Tour de France. We translate it for you in this episode. Next to that we have a chat with our performance nutritionist Gabriel Martins about his work, our riders' preferences and the importance of not only healthy but also tasty food.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_9.mp3" length="33408256" type="audio/mpeg" />
+      <itunes:duration>0:13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>All Belgian media wanted to know how he felt after his second spot in stage 8 of the Tour de France. We translate it for you in this episode. Next to that we have a chat with our performance nutritionist Gabriel Martins about his work, our riders' preferences and the importance of not only healthy but also tasty food.</itunes:summary>
+      <itunes:title>Tour de France â25 - 9: A satisfied Wout van Aert and we talk about pizza, kebab and hamburgers with our performance nutritionist Gabriel Martins</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146982241-1752345391.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146982241-1752345391.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 8: Spectacular Mur-top finish and kit-talk with Tom Houtgraaf</title>
+      <podcast:episode>8</podcast:episode>
+      <link>https://blubrry.com/3739360/146951776/tour-de-france-25-8-spectacular-mur-top-finish-and-kit-talk-with-tom-houtgraaf/</link>
+      <guid>https://blubrry.com/3739360/146951776/inside-the-beehive-tour-de-france-25-8-spectacular-mur-top-finish-and-kit-talk-with-tom-houtgraaf/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 11 Jul 2025 11:28:00 -0400</pubDate>
+      <description><![CDATA[Another chaotic and spectacular finish on top of the Mur de Bretagne. Jonas came in second. In this episode we hear from our riders and we talk about our special Tour de France kit with Tom Houtgraaf. How do you design a new kit? And what things do you need to take into account? ]]></description>
+      <content:encoded><![CDATA[<p>Another chaotic and spectacular finish on top of the Mur de Bretagne. Jonas came in second. In this episode we hear from our riders and we talk about our special Tour de France kit with Tom Houtgraaf. How do you design a new kit? And what things do you need to take into account?Â </p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_8.mp3" length="48127936" type="audio/mpeg" />
+      <podcast:contentLink href="https://www.teamvismaleaseabike.com/shop/tour-de-france/?unavailable=true">Our Tour jersey</podcast:contentLink>
+      <itunes:duration>0:20:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Another chaotic and spectacular finish on top of the Mur de Bretagne. Jonas came in second. In this episode we hear from our riders and we talk about our special Tour de France kit with Tom Houtgraaf. How do you design a new kit? And what things do you need to take into account?Â </itunes:summary>
+      <itunes:title>Tour de France â25 - 8: Spectacular Mur-top finish and kit-talk with Tom Houtgraaf</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146951776-1752247699.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146951776-1752247699.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France â25 - 7: A Giro-winner in the break and an update from the Giro dâItalia Women</title>
+      <podcast:episode>7</podcast:episode>
+      <link>https://blubrry.com/3739360/146929017/tour-de-france-25-7-a-giro-winner-in-the-break-and-an-update-from-the-giro-ditalia-women/</link>
+      <guid>https://blubrry.com/3739360/146929017/inside-the-beehive-tour-de-france-25-7-a-giro-winner-in-the-break-and-an-update-from-the-giro-ditalia-women/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Thu, 10 Jul 2025 12:21:00 -0400</pubDate>
+      <description><![CDATA[Todayâs episode turns pink for a bit. We had a crazy day of racing in Normandy, with Giro-winner Simon Yates in the breakaway. Next to the Tour de France, the women are currently in their fight for pink in Italy. Marianne Vos took a second spot today in stage 5. We hear from both Simon as womenâs sports director Jan Boven.]]></description>
+      <content:encoded><![CDATA[<p>Todayâs episode turns pink for a bit. We had a crazy day of racing in Normandy, with Giro-winner Simon Yates in the breakaway. Next to the Tour de France, the women are currently in their fight for pink in Italy. Marianne Vos took a second spot today in stage 5. We hear from both Simon as womenâs sports director Jan Boven.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_7.mp3" length="26618176" type="audio/mpeg" />
+      <itunes:duration>0:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Todayâs episode turns pink for a bit. We had a crazy day of racing in Normandy, with Giro-winner Simon Yates in the breakaway. Next to the Tour de France, the women are currently in their fight for pink in Italy. Marianne Vos took a second spot today in stage 5. We hear from both Simon as womenâs sports director Jan Boven.</itunes:summary>
+      <itunes:title>Tour de France â25 - 7: A Giro-winner in the break and an update from the Giro dâItalia Women</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146929017-1752164514.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146929017-1752164514.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 6: Jamie Lowden talks aerodynamics</title>
+      <podcast:episode>6</podcast:episode>
+      <link>https://blubrry.com/3739360/146904204/tour-de-france-25-6-jamie-lowden-talks-aerodynamics/</link>
+      <guid>https://blubrry.com/3739360/146904204/tour-de-france-25-6-jamie-lowden-talks-aerodynamics/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Wed, 09 Jul 2025 13:03:57 -0400</pubDate>
+      <description><![CDATA[Today we had a flat TT around the city of Caen in stage 5 of the Tour de France. Before the race we already spoke to Jamie Lowden, our aerodynamics specialist. He explained how much work went into todayâs stage. We also hear from Grischa Niermann and Jonas Vingegaard directly after the race.]]></description>
+      <content:encoded><![CDATA[<p>Today we had a flat TT around the city of Caen in stage 5 of the Tour de France. Before the race we already spoke to Jamie Lowden, our aerodynamics specialist. He explained how much work went into todayâs stage. We also hear from Grischa Niermann and Jonas Vingegaard directly after the race.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_6.mp3" length="32808256" type="audio/mpeg" />
+      <itunes:duration>0:13:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Today we had a flat TT around the city of Caen in stage 5 of the Tour de France. Before the race we already spoke to Jamie Lowden, our aerodynamics specialist. He explained how much work went into todayâs stage. We also hear from Grischa Niermann and Jonas Vingegaard directly after the race.</itunes:summary>
+      <itunes:title>Tour de France '25 - 6: Jamie Lowden talks aerodynamics</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146904204-1752080635.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146904204-1752080635.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 5: Average Rob joins our hospitality program and the podcast</title>
+      <podcast:episode>5</podcast:episode>
+      <link>https://blubrry.com/3739360/146890571/tour-de-france-25-5-average-rob-joins-our-hospitality-program-and-the-podcast/</link>
+      <guid>https://blubrry.com/3739360/146890571/tour-de-france-25-5-average-rob-joins-our-hospitality-program-and-the-podcast/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Wed, 09 Jul 2025 04:53:00 -0400</pubDate>
+      <description><![CDATA[We have video maker, beer brewer, dj, creator influencer and entrepreneur Rob Van Impe, better known Average Rob, with us today. Together with him and two of his friends, we spend an entire day in our hospitality program, with former rider Theo Eltink as our driver. We hear about his experiences, love for cycling and view on this year's Tour de France.]]></description>
+      <content:encoded><![CDATA[<p>We have video maker, beer brewer, dj, creator influencer and entrepreneur Rob Van Impe, better known Average Rob, with us today. Together with him and two of his friends, we spend an entire day in our hospitality program, with former rider Theo Eltink as our driver.Â We hear about his experiences, love for cycling and view on this year's Tour de France.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_5.mp3" length="53714176" type="audio/mpeg" />
+      <itunes:duration>0:22:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>We have video maker, beer brewer, dj, creator influencer and entrepreneur Rob Van Impe, better known Average Rob, with us today. Together with him and two of his friends, we spend an entire day in our hospitality program, with former rider Theo Eltink as our driver.Â We hear about his experiences, love for cycling and view on this year's Tour de France.</itunes:summary>
+      <itunes:title>Tour de France '25 - 5: Average Rob joins our hospitality program and the podcast</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146890571-1752060107.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146890571-1752060107.jpg</image>
+      <podcast:season>1</podcast:season>
+      <podcast:person role="Guest" href="https://www.instagram.com/averagerob?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==">Average Rob</podcast:person>
+    </item>
+    <item>
+      <title>Tour de France '25 - 4: Soigneur Martijn Snaet about the perfect musette hand-over, massaging Matteo Jorgenson and the rallyrace to the finish</title>
+      <podcast:episode>4</podcast:episode>
+      <link>https://blubrry.com/3739360/146849907/tour-de-france-25-4-soigneur-martijn-snaet-about-the-perfect-musette-hand-over-massaging-matteo-jorgenson-and-the-rallyrace-to-the-finish/</link>
+      <guid>https://blubrry.com/3739360/146849907/tour-de-france-25-4-soigneur-martijn-snaet-about-the-perfect-musette-hand-over-massaging-matteo-jorgenson-and-the-rallyrace-to-the-finish/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Mon, 07 Jul 2025 12:41:00 -0400</pubDate>
+      <description><![CDATA[A very long wait followed by a very hectic finale. Luckily, all of our guys made it to the finish line safely. We checked in with our soigneur Martijn Snaet while he was preparing to hand over some musettes to our riders and he told us all about his job.]]></description>
+      <content:encoded><![CDATA[<p>A very long wait followed by a very hectic finale. Luckily, all of our guys made it to the finish line safely. We checked in with our soigneur Martijn Snaet while he was preparing to hand over some musettes to our riders and he told us all about his job.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_4.mp3" length="49080256" type="audio/mpeg" />
+      <itunes:duration>0:20:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>A very long wait followed by a very hectic finale. Luckily, all of our guys made it to the finish line safely. We checked in with our soigneur Martijn Snaet while he was preparing to hand over some musettes to our riders and he told us all about his job.</itunes:summary>
+      <itunes:title>Tour de France '25 - 4: Soigneur Martijn Snaet about the perfect musette hand-over, massaging Matteo Jorgenson and the rallyrace to the finish</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146849907-1752060425.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146849907-1752060425.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 3: Team photographer Bram Berkien about the perfect shot on the Champs-ÃlysÃ©es</title>
+      <podcast:episode>3</podcast:episode>
+      <link>https://blubrry.com/3739360/146826713/tour-de-france-25-3-team-photographer-bram-berkien-about-the-perfect-shot-on-the-champs-lyses/</link>
+      <guid>https://blubrry.com/3739360/146826713/tour-de-france-25-3-team-photographer-bram-berkien-about-the-perfect-shot-on-the-champs-lyses/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sun, 06 Jul 2025 16:18:00 -0400</pubDate>
+      <description><![CDATA[A third spot for Jonas in the second stage of the 2025 Tour de France, but did we also manage to capture the perfect shot of this performance? We talk about with team photographer Bram Berkien in today's episode. ]]></description>
+      <content:encoded><![CDATA[<p>A third spot for Jonas in the second stage of the 2025 Tour de France, but did we also manage to capture the perfect shot of this performance? We talk about it with team photographer Bram Berkien in today's episode.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_3.mp3" length="33098176" type="audio/mpeg" />
+      <itunes:duration>0:13:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>A third spot for Jonas in the second stage of the 2025 Tour de France, but did we also manage to capture the perfect shot of this performance? We talk about it with team photographer Bram Berkien in today's episode.</itunes:summary>
+      <itunes:title>Tour de France '25 - 3: Team photographer Bram Berkien about the perfect shot on the Champs-ÃlysÃ©es</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146826713-1752346408.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146826713-1752346408.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France '25 - 2: Mathieu Heijboer about our plans with the wind and his role in the team </title>
+      <podcast:episode>2</podcast:episode>
+      <link>https://blubrry.com/3739360/146818297/tour-de-france-25-2-mathieu-heijboer-about-our-plans-with-the-wind-and-his-role-in-the-team/</link>
+      <guid>https://blubrry.com/3739360/146818297/tour-de-france-25-2-mathieu-heijboer-about-our-plans-with-the-wind-and-his-role-in-the-team/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sat, 05 Jul 2025 15:01:00 -0400</pubDate>
+      <description><![CDATA[Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about stage 1 with head of performance Mathieu Heijboer. We hear from Grischa Niermann, Matteo Jorgenson and Jonas Vingegaard about our plan and Mathieu Heijboer explains what a head of performance actually does.]]></description>
+      <content:encoded><![CDATA[<p>Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about stage 1 with head of performance Mathieu Heijboer. We hear from Grischa Niermann, Matteo Jorgenson and Jonas Vingegaard about our plan and Mathieu Heijboer explains what a head of performance actually does.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_2.mp3" length="41198656" type="audio/mpeg" />
+      <podcast:contentLink href="https://www.teamvismaleaseabike.com/race-report/news/team-visma-lease-a-bike-starts-tour-de-france-solidly-and-alert/" />
+      <itunes:duration>0:17:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about stage 1 with head of performance Mathieu Heijboer. We hear from Grischa Niermann, Matteo Jorgenson and Jonas Vingegaard about our plan and Mathieu Heijboer explains what a head of performance actually does.</itunes:summary>
+      <itunes:title>Tour de France '25 - 2: Mathieu Heijboer about our plans with the wind and his role in the team </itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146818297-1752346151.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146818297-1752346151.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Inside the Beehive Tour de France '25 - 1: Frans Maassen talks us through our press conference and shares his experience of 28 Tour de Frances</title>
+      <podcast:episode>1</podcast:episode>
+      <link>https://blubrry.com/3739360/146798901/inside-the-beehive-tour-de-france-25-1-frans-maassen-talks-us-through-our-press-conference-and-shares-his-experience-of-28-tour-de-frances/</link>
+      <guid>https://blubrry.com/3739360/146798901/inside-the-beehive-tour-de-france-25-1/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Fri, 04 Jul 2025 11:28:00 -0400</pubDate>
+      <description><![CDATA[Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about our prerace press conference with sports director Frans Maassen. Next to that, we discuss his role in the team and all the activities in the days leading up to the race. ]]></description>
+      <content:encoded><![CDATA[<p>Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about our prerace press conference with sports director Frans Maassen. Next to that, we discuss his role in the team and all the activities in the days leading up to the race.</p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/VISMA-LEASEABIKE_Aflevering_1.mp3" length="41208256" type="audio/mpeg" />
+      <itunes:duration>0:17:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:summary>Inside the Beehive is back with a daily podcast from the Tour de France '25. Today we talk about our prerace press conference with sports director Frans Maassen. Next to that, we discuss his role in the team and all the activities in the days leading up to the race.</itunes:summary>
+      <itunes:title>Inside the Beehive Tour de France '25 - 1: Frans Maassen talks us through our press conference and shares his experience of 28 Tour de Frances</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:order>0</itunes:order>
+      <itunes:image href="https://assets.blubrry.com/coverart/episode/3739360/orig/146798901-1752346267.jpg" />
+      <image>https://assets.blubrry.com/coverart/episode/3739360/orig/146798901-1752346267.jpg</image>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France rest day update with Merijn Zeeman</title>
+      <podcast:episode>2</podcast:episode>
+      <link>https://blubrry.com/3739360/132984423/tour-de-france-rest-day-update-with-merijn-zeeman/</link>
+      <guid>https://blubrry.com/3739360/132984423/tour-de-france-rest-day-update-with-merijn-zeeman/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Mon, 08 Jul 2024 13:58:21 -0400</pubDate>
+      <description><![CDATA[<p>In this edition of Inside the Beehive - Podcast, host Sander Kleikers speaks to sporting director Merijn Zeeman. After 12 years he will leave the team at the end of the season to become general manager at AZ Football Club. But first all eyes are on this Tour de France. With high hopes for Jonas Vingegaard and the team in this second part of Le Tour. âI am looking forward to hear on the race radio that Tadej Pogacar is âdistancÃ©â.â</p><p></p><p>Discover our Tour de France collection: <a href="https://teamvismaleaseabike.com/l/tvl2024tdf/" style="background-color:rgb(243,247,252);color:rgb(63,77,90);">https://teamvismaleaseabike.com/l/tvl2024tdf/</a> </p>]]></description>
+      <content:encoded><![CDATA[<p>In this edition of Inside the Beehive - Podcast, host Sander Kleikers speaks to sporting director Merijn Zeeman. After 12 years he will leave the team at the end of the season to become general manager at AZ Football Club. But first all eyes are on this Tour de France. With high hopes for Jonas Vingegaard and the team in this second part of Le Tour. âI am looking forward to hear on the race radio that Tadej Pogacar is âdistancÃ©â.â</p><p><br /></p><p>Discover our Tour de France collection: <a href="https://teamvismaleaseabike.com/l/tvl2024tdf/" style="background-color:rgb(243,247,252);color:rgb(63,77,90);">https://teamvismaleaseabike.com/l/tvl2024tdf/</a><span style="background-color:rgb(243,247,252);color:rgb(63,77,90);"> </span></p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/Merijn_podcast.mp3" length="38769313" type="audio/mpeg" />
+      <itunes:duration>0:19:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:subtitle>In this edition of Inside the Beehive - Podcast, host Sander Kleikers speaks to sporting director Merijn Zeeman. After 12 years he will leave the team at the end of the season to become general manager at AZ Football Club.</itunes:subtitle>
+      <itunes:summary>In this edition of Inside the Beehive - Podcast, host Sander Kleikers speaks to sporting director Merijn Zeeman. After 12 years he will leave the team at the end of the season to become general manager at AZ Football Club. But first all eyes are on this Tour de France. With high hopes for Jonas Vingegaard and the team in this second part of Le Tour. âI am looking forward to hear on the race radio that Tadej Pogacar is âdistancÃ©â.âDiscover our Tour de France collection: https://teamvismaleaseabike.com/l/tvl2024tdf/ (https://teamvismaleaseabike.com/l/tvl2024tdf/) </itunes:summary>
+      <itunes:title>Tour de France rest day update with Merijn Zeeman</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:season>1</podcast:season>
+    </item>
+    <item>
+      <title>Tour de France preview with Grischa Niermann</title>
+      <podcast:episode>1</podcast:episode>
+      <link>https://blubrry.com/3739360/132899966/tour-de-france-preview-with-grischa-niermann/</link>
+      <guid>https://blubrry.com/3739360/132899966/tour-de-france-preview-with-grischa-niermann/</guid>
+      <dc:creator>Team Visma | Lease a Bike</dc:creator>
+      <pubDate>Sat, 29 Jun 2024 01:00:00 -0400</pubDate>
+      <description><![CDATA[<p>Inside the Beehive: the podcast is the latest podcast from Team Visma | Lease a Bike. We take you behind the scenes, you'll hear background stories and news from our riders and staff members. In this episode, host Sander Kleikers speaks with DS Grischa Niermann. About the Tour de France and the run-up to it. About Jonas Vingegaard, Wout van Aert and Matteo Jorgenson and his own love for the race.Â </p><p></p><p>Discover our Tour de France collection: <a href="https://teamvismaleaseabike.com/l/tvl2024tdf/" style="background-color:rgb(243,247,252);color:rgb(63,77,90);">https://teamvismaleaseabike.com/l/tvl2024tdf/</a> </p>]]></description>
+      <content:encoded><![CDATA[<p>Inside the Beehive: the podcast is the latest podcast from Team Visma | Lease a Bike. We take you behind the scenes, you'll hear background stories and news from our riders and staff members. In this episode, host Sander Kleikers speaks with DS Grischa Niermann. About the Tour de France and the run-up to it. About Jonas Vingegaard, Wout van Aert and Matteo Jorgenson and his own love for the race.Â </p><p><br /></p><p>Discover our Tour de France collection: <a href="https://teamvismaleaseabike.com/l/tvl2024tdf/" style="background-color:rgb(243,247,252);color:rgb(63,77,90);">https://teamvismaleaseabike.com/l/tvl2024tdf/</a><span style="background-color:rgb(243,247,252);color:rgb(63,77,90);"> </span></p>]]></content:encoded>
+      <enclosure url="https://media.blubrry.com/3739360/content.blubrry.com/3739360/Podcast.mp3" length="36047174" type="audio/mpeg" />
+      <itunes:duration>0:18:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Team Visma | Lease a Bike</itunes:author>
+      <itunes:subtitle>Inside the Beehive: the podcast is the latest podcast from Team Visma | Lease a Bike. We take you behind the scenes, you'll hear background stories and news from our riders and staff members. In this episode,</itunes:subtitle>
+      <itunes:summary>Inside the Beehive: the podcast is the latest podcast from Team Visma | Lease a Bike. We take you behind the scenes, you'll hear background stories and news from our riders and staff members. In this episode, host Sander Kleikers speaks with DS Grischa Niermann. About the Tour de France and the run-up to it. About Jonas Vingegaard, Wout van Aert and Matteo Jorgenson and his own love for the race.Â Discover our Tour de France collection: https://teamvismaleaseabike.com/l/tvl2024tdf/ (https://teamvismaleaseabike.com/l/tvl2024tdf/) </itunes:summary>
+      <itunes:title>Tour de France preview with Grischa Niermann</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:season>1</podcast:season>
+    </item>
+  </channel>
+</rss>

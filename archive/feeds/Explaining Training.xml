@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/2028205.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Explaining Training</title>
+
+  <lastBuildDate>Sat, 02 Mar 2024 03:13:41 -0500</lastBuildDate>
+  <link>http://highnorth.co.uk</link>
+  <language>en-gb</language>
+  <copyright>© 2024 Explaining Training</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>ebb00530-5299-584f-96ac-cbd2c83e60dc</podcast:guid>
+  <itunes:author>High North Performance</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[Your cycling training questions answered and translated into actionable tips and strategies by Tom Bell and Dr Emma Wilkins of High North Performance. Get your free "Key Workouts Guide" here: highnorth.co.uk/workout-guide]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:keywords>Cycling, training, fitness, bike, sports science, mountain bike</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>High North Performance</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/jq0ibsbxwpggl62sl6ajx3n3yl6b?.jpg</url>
+     <title>Explaining Training</title>
+     <link>http://highnorth.co.uk</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/jq0ibsbxwpggl62sl6ajx3n3yl6b?.jpg" />
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Fitness" />
+  </itunes:category>
+  <podcast:person role="host">Tom Bell</podcast:person>
+</channel>
+</rss>

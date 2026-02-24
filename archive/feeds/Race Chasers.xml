@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/race-chasers" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>Race Chasers</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/race-chasers</itunes:new-feed-url>
+    <description>Race Chasers takes you inside professional bike races from the perspective of professional photographers Zac Williams and Harry Talbot. </description>
+    <copyright>© 2025 Escape Collective</copyright>
+    <podcast:guid>a75fe7af-10a4-5c19-893d-483998d4861c</podcast:guid>
+    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <language>en</language>
+    <pubDate>Wed, 22 Oct 2025 06:57:07 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 23:17:14 -0800</lastBuildDate>
+    <image>
+      <url>https://img.transistor.fm/qoXphulksv8EJtfTluLuE8SWWROmORxvXPoGhmA78sg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Y2Rj/NDA1NzdjYTZhYWQ5/ZWIyNmQxZDM3MzUy/N2I0Zi5wbmc.jpg</url>
+      <title>Race Chasers</title>
+    </image>
+    <itunes:category text="Sports"/>
+    <itunes:category text="Comedy"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Escape Collective</itunes:author>
+    <itunes:image href="https://img.transistor.fm/qoXphulksv8EJtfTluLuE8SWWROmORxvXPoGhmA78sg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Y2Rj/NDA1NzdjYTZhYWQ5/ZWIyNmQxZDM3MzUy/N2I0Zi5wbmc.jpg"/>
+    <itunes:summary>Race Chasers takes you inside professional bike races from the perspective of professional photographers Zac Williams and Harry Talbot. </itunes:summary>
+    <itunes:subtitle>Race Chasers takes you inside professional bike races from the perspective of professional photographers Zac Williams and Harry Talbot.</itunes:subtitle>
+    <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Escape Collective</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Ep. 7: Season recap, Waking up in Woking and Zac’s revenge tour</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>Ep. 7: Season recap, Waking up in Woking and Zac’s revenge tour</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ee7589fd-8c4a-459c-a7c3-11d58399c277</guid>
+      <link>https://share.transistor.fm/s/11425437</link>
+      <description>
+        <![CDATA[<p>In this episode of Race Chasers, Harry and Zac are back staring into one another’s eyes in the flesh! In our last in-person-record of the year we recap our season’s, bring you our 5 favourite images of the year and regale tall tales from Gravel Worlds, il Lombardia and The McLaren Technology centre!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of Race Chasers, Harry and Zac are back staring into one another’s eyes in the flesh! In our last in-person-record of the year we recap our season’s, bring you our 5 favourite images of the year and regale tall tales from Gravel Worlds, il Lombardia and The McLaren Technology centre!</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 22 Oct 2025 06:57:00 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/11425437/6a7968c2.mp3" length="118556421" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4937</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of Race Chasers, Harry and Zac are back staring into one another’s eyes in the flesh! In our last in-person-record of the year we recap our season’s, bring you our 5 favourite images of the year and regale tall tales from Gravel Worlds, il Lombardia and The McLaren Technology centre!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 6: Chaos in Kigali and the real Felix gall</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>Ep. 6: Chaos in Kigali and the real Felix gall</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">60a7a3ef-11e8-49f4-a75c-d85c5933888d</guid>
+      <link>https://share.transistor.fm/s/78ca51f8</link>
+      <description>
+        <![CDATA[<p>Join Zac and Harry as they debrief the Vuelta, dive into Zac’s reflections on Rwandan Worlds and most importantly of all, discuss the greatest cycling event on the international calendar - the Team Time Trial Mixed Relay.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Join Zac and Harry as they debrief the Vuelta, dive into Zac’s reflections on Rwandan Worlds and most importantly of all, discuss the greatest cycling event on the international calendar - the Team Time Trial Mixed Relay.</p>]]>
+      </content:encoded>
+      <pubDate>Thu, 02 Oct 2025 05:15:41 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/78ca51f8/ead496d4.mp3" length="111783731" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4655</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Join Zac and Harry as they debrief the Vuelta, dive into Zac’s reflections on Rwandan Worlds and most importantly of all, discuss the greatest cycling event on the international calendar - the Team Time Trial Mixed Relay.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 5: Mercadona Hamburgers and Jonas Rickaert</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>Ep. 5: Mercadona Hamburgers and Jonas Rickaert</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3f3ce615-cde5-4b10-9e6c-ea80780e10cc</guid>
+      <link>https://share.transistor.fm/s/c373b715</link>
+      <description>
+        <![CDATA[<p>Join Zac and Harry for the final week of this wild Vuelta! They delve deep into the remarkable world of Mercadona’s take-away department, stoked to the brim with morale and spiritual enlightenment that’s needed to survive the depths of the third week of the third grand tour. They also talk cycling photography and race goings on too - because they have to.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Join Zac and Harry for the final week of this wild Vuelta! They delve deep into the remarkable world of Mercadona’s take-away department, stoked to the brim with morale and spiritual enlightenment that’s needed to survive the depths of the third week of the third grand tour. They also talk cycling photography and race goings on too - because they have to.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 15 Sep 2025 06:47:40 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c373b715/4b0c43be.mp3" length="75696179" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3152</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Join Zac and Harry for the final week of this wild Vuelta! They delve deep into the remarkable world of Mercadona’s take-away department, stoked to the brim with morale and spiritual enlightenment that’s needed to survive the depths of the third week of the third grand tour. They also talk cycling photography and race goings on too - because they have to.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 4: Chaos reigns, Vuelta remains</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>Ep. 4: Chaos reigns, Vuelta remains</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">cff5c7b7-5775-439e-94d5-eeb4f951e392</guid>
+      <link>https://share.transistor.fm/s/7f89d4ff</link>
+      <description>
+        <![CDATA[<p>In this episode of the Race Chasers podcast, Zac and Harry recount their most eventful and challenging week on a grand tour yet, where else, but the Vuelta?!? Protests stopping stages, getting the car stuck, Air BnB hosts untimely deaths, lemon being squeezed over paella! All this and more in episode 4 of Race Chasers!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode of the Race Chasers podcast, Zac and Harry recount their most eventful and challenging week on a grand tour yet, where else, but the Vuelta?!? Protests stopping stages, getting the car stuck, Air BnB hosts untimely deaths, lemon being squeezed over paella! All this and more in episode 4 of Race Chasers!</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Sep 2025 07:03:43 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7f89d4ff/204fb5d4.mp3" length="111673704" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4651</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode of the Race Chasers podcast, Zac and Harry recount their most eventful and challenging week on a grand tour yet, where else, but the Vuelta?!? Protests stopping stages, getting the car stuck, Air BnB hosts untimely deaths, lemon being squeezed over paella! All this and more in episode 4 of Race Chasers!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 3: Vuelta Vibes</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>Ep. 3: Vuelta Vibes</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b3f2a517-b615-4063-b9fb-03b0868642e0</guid>
+      <link>https://share.transistor.fm/s/e23e5281</link>
+      <description>
+        <![CDATA[<p>After much apologising and explanation, Harry and Zac are back! This time from the first rest day of La Vuelta. We talk (dis)organisation, Big Starts in foreign lands, rider trivia, and weigh in on that Juan name on everyone’s lips. With plenty of photo chat in between, join us for a look back on the week that’s been and what we’ve been up to, while 10 days into the Third Grand Tour of our season!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>After much apologising and explanation, Harry and Zac are back! This time from the first rest day of La Vuelta. We talk (dis)organisation, Big Starts in foreign lands, rider trivia, and weigh in on that Juan name on everyone’s lips. With plenty of photo chat in between, join us for a look back on the week that’s been and what we’ve been up to, while 10 days into the Third Grand Tour of our season!</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 03 Sep 2025 06:49:53 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/e23e5281/72ca1684.mp3" length="100850648" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4200</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>After much apologising and explanation, Harry and Zac are back! This time from the first rest day of La Vuelta. We talk (dis)organisation, Big Starts in foreign lands, rider trivia, and weigh in on that Juan name on everyone’s lips. With plenty of photo chat in between, join us for a look back on the week that’s been and what we’ve been up to, while 10 days into the Third Grand Tour of our season!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 2: Pyrénean point and shoot</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>Ep. 2: Pyrénean point and shoot</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9d3cec69-6463-4047-9e91-90dde05f1907</guid>
+      <link>https://share.transistor.fm/s/38939a4f</link>
+      <description>
+        <![CDATA[<p>Zac and Harry dive into the second week of the 2025 Tour, complete with haystacks, traffic jams, French evening greetings and some photos in between.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Zac and Harry dive into the second week of the 2025 Tour, complete with haystacks, traffic jams, French evening greetings and some photos in between.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Jul 2025 10:14:26 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/38939a4f/eac6d437.mp3" length="102054170" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4249</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Zac and Harry dive into the second week of the 2025 Tour, complete with haystacks, traffic jams, French evening greetings and some photos in between.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Ep. 1: We're at the Tour de France</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Ep. 1: We're at the Tour de France</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a0c97e8e-1aeb-44e0-b42e-bd875ec51814</guid>
+      <link>https://share.transistor.fm/s/9576516e</link>
+      <description>
+        <![CDATA[<p>Zac and Harry come to you from the first rest day of the Tour de France. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Zac and Harry come to you from the first rest day of the Tour de France. </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 17 Jul 2025 14:03:43 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9576516e/c4e64e1d.mp3" length="91377452" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3804</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Zac and Harry come to you from the first rest day of the Tour de France. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Tour de France, cycling, pro cycling, bike, bike racing, bicycles, photograhy, cycling photography, photos, camera</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

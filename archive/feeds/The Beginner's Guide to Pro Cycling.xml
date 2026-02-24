@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/unchained-binge-podcast" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <podcast:podping usesPodping="true"/>
+    <title>The Beginner's Guide to Pro Cycling</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/unchained-binge-podcast</itunes:new-feed-url>
+    <description>Cycling is a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics, spread across a long and confusing calendar.
+
+We are here to help. Journalism professor (and new cycling fan) Holly Johnson has questions, and Iain Treloar has answers (sometimes). Join us for the beginners' guide to pro cycling, as we break down what you need to know about the sport, and why.
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</description>
+    <copyright>Escape Collective</copyright>
+    <podcast:guid>c0723e53-3c9e-5038-9330-ac00de8c65d6</podcast:guid>
+    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <itunes:applepodcastsverify>10a61be0-3094-11f0-bdc6-ab9d9bdcb29d</itunes:applepodcastsverify>
+    <podcast:trailer pubdate="Tue, 06 Jun 2023 08:01:29 -0600" url="https://media.transistor.fm/63df53c3/512f2b3b.mp3" length="3534793" type="audio/mpeg">Unchained Binge Pod: The Trailer</podcast:trailer>
+    <language>en</language>
+    <pubDate>Sun, 23 Nov 2025 22:51:59 -0700</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 19:52:41 -0700</lastBuildDate>
+    <link>https://escapecollective.com/</link>
+    <image>
+      <url>https://img.transistor.fm/ESOb-Jw_3Rz6a-iyRdmGfVPcK7kzR0uKRoJbgSD7CY8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYjI0/MTcyZGQ5Mjk0YTlk/MzMxNTY1NjhhODEy/YWRiMy5wbmc.jpg</url>
+      <title>The Beginner's Guide to Pro Cycling</title>
+      <link>https://escapecollective.com/</link>
+    </image>
+    <itunes:category text="Sports"/>
+    <itunes:category text="Education"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Escape Collective</itunes:author>
+    <itunes:image href="https://img.transistor.fm/ESOb-Jw_3Rz6a-iyRdmGfVPcK7kzR0uKRoJbgSD7CY8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iYjI0/MTcyZGQ5Mjk0YTlk/MzMxNTY1NjhhODEy/YWRiMy5wbmc.jpg"/>
+    <itunes:summary>Cycling is a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics, spread across a long and confusing calendar.
+
+We are here to help. Journalism professor (and new cycling fan) Holly Johnson has questions, and Iain Treloar has answers (sometimes). Join us for the beginners' guide to pro cycling, as we break down what you need to know about the sport, and why.
+
+Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
+    <itunes:subtitle>Cycling is a beautiful sport.</itunes:subtitle>
+    <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Escape Collective</itunes:name>
+      <itunes:email>info@escapecollective.com</itunes:email>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>Yes</itunes:explicit>
+    <item>
+      <title>Newbie newbie new: Or, how do you know if you're a cycling fandom beginner?</title>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:title>Newbie newbie new: Or, how do you know if you're a cycling fandom beginner?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a0a2e92d-7988-4c68-9676-cc0dae570b8e</guid>
+      <link>https://share.transistor.fm/s/c23b6f81</link>
+      <description>
+        <![CDATA[<p>How can cycling be more welcoming to newcomers? How do you know if you <em>are</em> one? Does it matter? Holly takes the reins as she and Iain assess the landscape for fresh fans of the sport, figure out the best way to open the tent for everyone, and come up with a handy tool to Find Your Own Pro Cyclist Name. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>How can cycling be more welcoming to newcomers? How do you know if you <em>are</em> one? Does it matter? Holly takes the reins as she and Iain assess the landscape for fresh fans of the sport, figure out the best way to open the tent for everyone, and come up with a handy tool to Find Your Own Pro Cyclist Name. </p>]]>
+      </content:encoded>
+      <pubDate>Sat, 25 Oct 2025 05:54:00 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c23b6f81/e85f9795.mp3" length="43056757" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>How can cycling be more welcoming to newcomers? How do you know if you <em>are</em> one? Does it matter? Holly takes the reins as she and Iain assess the landscape for fresh fans of the sport, figure out the best way to open the tent for everyone, and come up with a handy tool to Find Your Own Pro Cyclist Name. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>What WorldTour races are actually worth your time?</title>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:title>What WorldTour races are actually worth your time?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6b744a01-8487-4079-ac56-b8ac1b7965b8</guid>
+      <link>https://share.transistor.fm/s/5659332f</link>
+      <description>
+        <![CDATA[<p>So you've watched the Tour de France – what next? With a continent-hopping WorldTour calendar, running from January to October, there's a whole lot to wrap your head around. Holly and Iain run through the races that are worth getting up early (or staying up late) for, the ones that help shape the season's narrative, and the ones that are worth skipping.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>So you've watched the Tour de France – what next? With a continent-hopping WorldTour calendar, running from January to October, there's a whole lot to wrap your head around. Holly and Iain run through the races that are worth getting up early (or staying up late) for, the ones that help shape the season's narrative, and the ones that are worth skipping.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 21 Sep 2025 18:27:56 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/5659332f/f3671af0.mp3" length="72666873" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>3020</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>So you've watched the Tour de France – what next? With a continent-hopping WorldTour calendar, running from January to October, there's a whole lot to wrap your head around. Holly and Iain run through the races that are worth getting up early (or staying up late) for, the ones that help shape the season's narrative, and the ones that are worth skipping.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The Tour de France edition</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>The Tour de France edition</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">393fb075-5f14-4cfa-a63d-215c5108858c</guid>
+      <link>https://share.transistor.fm/s/54ffecee</link>
+      <description>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered. </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 14 Sep 2025 20:07:42 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/54ffecee/21c44842.mp3" length="35973316" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/qstFnm3BOPU4R4Vkr8oJyN9ZNN_e0bLFpkTNqOOCevc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mOTQx/OGQ2ZGQzN2E4MTI4/YmI4YjJkN2QwZmI3/MWVmYi5qcGc.jpg"/>
+      <itunes:duration>1495</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Ever have a question about the Tour de France? We've got you covered. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>The beginner's guide to pro cycling</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>The beginner's guide to pro cycling</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">41dccffe-8301-4a8c-8600-397b8a71b50f</guid>
+      <link>https://share.transistor.fm/s/53bb5898</link>
+      <description>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p>]]>
+      </content:encoded>
+      <pubDate>Sun, 14 Sep 2025 20:06:43 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/53bb5898/59dbc275.mp3" length="78012796" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/MyBDgyxHtJcdj4IiavyuaNW5b_l-tPW1YkgzpKf-LAs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iOWYz/YjYxODhjMGJkYjJl/ZTNmNGZhM2ZhY2I0/MmUzMi5qcGc.jpg"/>
+      <itunes:duration>3242</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Cycling's a beautiful sport. It's also a nightmare for new fans to get into – a mess of jargon, history, and tactics. Journalism professor (and new cycling fan) Holly Johnson has questions, and together with Iain Treloar, is on a mission to decipher pro cycling. In the first episode of this Rabbit Holes podcast offshoot: a chat with EF Education-Easypost CEO Jonathan Vaughters about how teams work.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E8: Take a Bow</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>S3E8: Take a Bow</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">86ee3ae0-56eb-41d6-9fa2-17e05f56759a</guid>
+      <link>https://share.transistor.fm/s/6aeff921</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the final episode of Unchained, focusing on the finale of the 2024 Tour de France.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the final episode of Unchained, focusing on the finale of the 2024 Tour de France.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:48:10 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6aeff921/9e34a9e6.mp3" length="87656140" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/rPEfAIR8HhHRLpaQgHOfczVknDlHAVIhYYpoqDNzMMs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80M2I0/NDY5YjcwNzQzZWNm/MGE1ZmUwZDIxZDQx/MGI4Yy5wbmc.jpg"/>
+      <itunes:duration>3647</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the final episode of Unchained, focusing on the finale of the 2024 Tour de France.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E7: King of the Mountain</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>S3E7: King of the Mountain</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a22fb66c-f495-4398-a151-d5a30bf0e2bd</guid>
+      <link>https://share.transistor.fm/s/08c46ee9</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick tackle the penultimate episode of Tour de France: Unchained, centering on the hopes of Richard Carapaz and other stagehunters trying to break free of the firm grip that UAE has on the race.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick tackle the penultimate episode of Tour de France: Unchained, centering on the hopes of Richard Carapaz and other stagehunters trying to break free of the firm grip that UAE has on the race.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:45:56 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/08c46ee9/13f67167.mp3" length="53054102" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/QS7qeYWDGfJGI2KsSrlI4ukOaru4Ex0TkxVFPtReUQY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYWM5/NjNjYmNhNDAzYTlk/MzlkOTljMjY4M2Qw/ZTk0MS5wbmc.jpg"/>
+      <itunes:duration>2205</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick tackle the penultimate episode of Tour de France: Unchained, centering on the hopes of Richard Carapaz and other stagehunters trying to break free of the firm grip that UAE has on the race.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E6: History Makers</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>S3E6: History Makers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">feecc84e-672c-4124-89ef-83a90c4bc39b</guid>
+      <link>https://share.transistor.fm/s/efdbd8b4</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick talk Unchained S3E6, which focuses on the history-making achievements of Biniam Girmay and Mark Cavendish.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick talk Unchained S3E6, which focuses on the history-making achievements of Biniam Girmay and Mark Cavendish.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:43:45 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/efdbd8b4/6b8549ef.mp3" length="65371856" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/JRS_pOoRDoEi_9Jw40n0kZNG6qPkEkCQOh2aOgYoliU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYmIw/YzBlOTMwM2MxODRj/MThhZjFhYzZmOWIy/YTEyNy5wbmc.jpg"/>
+      <itunes:duration>2718</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Dane Cash, and Intern Nick talk Unchained S3E6, which focuses on the history-making achievements of Biniam Girmay and Mark Cavendish.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E5: The Comeback</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>S3E5: The Comeback</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0cf5b58f-9a19-4516-ab68-a00a119123b5</guid>
+      <link>https://share.transistor.fm/s/3f9c32a2</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Kit Nicholson, and Dane Cash dive into the fifth episode of season three, which takes a closer look at Jonas Vingegaard's journey back to racing after the crash that derailed the first half of his season.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Kit Nicholson, and Dane Cash dive into the fifth episode of season three, which takes a closer look at Jonas Vingegaard's journey back to racing after the crash that derailed the first half of his season.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:38:43 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/3f9c32a2/7582f4e3.mp3" length="66393102" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/xOhy0ejpOOw0A3rVXqecQffZz1X_H3gGEn8L7-EEKv0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjMx/ZmNjNDk0ZGMzNGZj/OWM3ZTFjOTlhZDQw/YThlYy5wbmc.jpg"/>
+      <itunes:duration>2761</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Kit Nicholson, and Dane Cash dive into the fifth episode of season three, which takes a closer look at Jonas Vingegaard's journey back to racing after the crash that derailed the first half of his season.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E4: Road to Hell</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>S3E4: Road to Hell</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">13284bdf-0fa1-4381-a490-42a41e8bdbde</guid>
+      <link>https://share.transistor.fm/s/848e7be7</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk Unchained S3E4, which centers on the gravel stage of the 2024 Tour and the twin battles for stage honors and for GC position.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk Unchained S3E4, which centers on the gravel stage of the 2024 Tour and the twin battles for stage honors and for GC position.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:36:47 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/848e7be7/2360c632.mp3" length="72358734" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ErWqv_JW6aygQGYBrhxBaK0UX0u0b8fZ9LgauqQh3q0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MWU5/M2Y1ZmMxMjAwMGY2/OTU3NTk3Mjc3MWQw/ZmI1ZC5wbmc.jpg"/>
+      <itunes:duration>3009</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk Unchained S3E4, which centers on the gravel stage of the 2024 Tour and the twin battles for stage honors and for GC position.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E3 Adapt or Die</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>S3E3 Adapt or Die</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">22620569-0692-4898-928c-cc80ddd02a8f</guid>
+      <link>https://share.transistor.fm/s/f243b7b3</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Kit Nicholson, and Chris Marshall-Bell break down the third episode of the third season of Unchained, covering Decathlon-AG2R La Mondiale's evolution and the challenges the team faces trying to get a return on sponsor investment</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Kit Nicholson, and Chris Marshall-Bell break down the third episode of the third season of Unchained, covering Decathlon-AG2R La Mondiale's evolution and the challenges the team faces trying to get a return on sponsor investment</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:34:45 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/f243b7b3/ba13cbc0.mp3" length="68645837" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ovCncgpIWtfIfklJbwgMun6BTtlV87KrzlQiUO9ACFQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81ZjRl/NWMyZDQ0Mjg2MjAz/YTZhY2FlM2NkMTNl/ZGVmMC5wbmc.jpg"/>
+      <itunes:duration>2854</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, Kit Nicholson, and Chris Marshall-Bell break down the third episode of the third season of Unchained, covering Decathlon-AG2R La Mondiale's evolution and the challenges the team faces trying to get a return on sponsor investment</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E2: Disruptors</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>S3E2: Disruptors</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">00b4aeed-df88-475b-b477-9be3729759e2</guid>
+      <link>https://share.transistor.fm/s/0c02524d</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk season three, episode two of Unchained, honing in on the four-rider GC battle at the 2024 Tour de France.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk season three, episode two of Unchained, honing in on the four-rider GC battle at the 2024 Tour de France.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:32:31 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/0c02524d/cc78d066.mp3" length="76715596" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/GfwOML4od5FsiWE3pi0wCA9yc4UuRwEJ6h0uEQTI7z8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YzI4/MTcwNTAwZWQ2NzM4/ODExNWM2OGNjZmY3/ZDRlMy5wbmc.jpg"/>
+      <itunes:duration>3191</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson talk season three, episode two of Unchained, honing in on the four-rider GC battle at the 2024 Tour de France.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S3E1: David v Goliath</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>S3E1: David v Goliath</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b70fed00-3615-44ed-adb5-e0349d88c246</guid>
+      <link>https://share.transistor.fm/s/8c527614</link>
+      <description>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the opening episode of Tour de France: Unchained season three, which focuses on the build-up to the race and the dynamic of smaller teams taking on big-budget powerhouses.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the opening episode of Tour de France: Unchained season three, which focuses on the build-up to the race and the dynamic of smaller teams taking on big-budget powerhouses.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 02 Jul 2025 08:30:09 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/8c527614/97633e6a.mp3" length="65787153" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/jHogRVrsFLhxxk6izdWed6gVhMdqupmHhYfLmETFxA0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YTBk/NTI3NWMyZWYzM2Q1/NzdmOTUyM2E0M2M4/MjQyYi5wbmc.jpg"/>
+      <itunes:duration>2735</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Caley Fretz, Jonny Long, and Kit Nicholson discuss the opening episode of Tour de France: Unchained season three, which focuses on the build-up to the race and the dynamic of smaller teams taking on big-budget powerhouses.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E8: The Last Dance</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>S2E8: The Last Dance</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">819c1d25-97bc-46da-909b-7dd3e9fd6384</guid>
+      <link>https://share.transistor.fm/s/f80f1ec4</link>
+      <description>
+        <![CDATA[<p>The Unchained Binge podcast discusses the final episode of season two, the last Tour days of Thibaut Pinot.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Unchained Binge podcast discusses the final episode of season two, the last Tour days of Thibaut Pinot.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 28 Jun 2024 08:56:10 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/f80f1ec4/dd3fac46.mp3" length="79645712" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/NCou7ZljCFJ9omEzbmSu54oWIbjQp4kor7_XkVETIrE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YWFm/ODEwNmMzMTExNDM5/YmFjMTQ4ZDA4NTA3/OTQ5ZC5wbmc.jpg"/>
+      <itunes:duration>3313</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The Unchained Binge podcast discusses the final episode of season two, the last Tour days of Thibaut Pinot.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E7: Kamikazi Mission</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>S2E7: Kamikazi Mission</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a4eadb9e-0f69-4bc0-8368-ed40c13682d5</guid>
+      <link>https://share.transistor.fm/s/f77a19ed</link>
+      <description>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode seven of the show, which focuses on Soudal-Quick Steps quest to win a Tour stage. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode seven of the show, which focuses on Soudal-Quick Steps quest to win a Tour stage. </p>]]>
+      </content:encoded>
+      <pubDate>Fri, 28 Jun 2024 08:53:21 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/f77a19ed/62e01618.mp3" length="61304146" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/zDhjY7OOTD_EZGSj2RyckKt5tpUMf5PSRHJbLuSMStM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Nzgz/YjhlZDUxZDE1MzRj/NzEzZWU3NWY2MGE5/ZGI4Yi5wbmc.jpg"/>
+      <itunes:duration>2549</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode seven of the show, which focuses on Soudal-Quick Steps quest to win a Tour stage. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E6: Domination</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>S2E6: Domination</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">83f0e75c-be10-48eb-9675-d119ae712e43</guid>
+      <link>https://share.transistor.fm/s/467e3ca6</link>
+      <description>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode six of the show, which offers an inside look in the Jonas Vingegaard's ascent to the top of the Tour standings.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode six of the show, which offers an inside look in the Jonas Vingegaard's ascent to the top of the Tour standings.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Jun 2024 22:35:09 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/467e3ca6/92919ab4.mp3" length="79320844" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/x8Fy5MepYSW8JPHbgMlzq03Q5_W7NNWQpjGVYhh3B6M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZGFj/OGM1NWY4NjQ5YjA5/OGRmZjViZTUyNWE0/ZDkxMS5wbmc.jpg"/>
+      <itunes:duration>3299</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The Unchained Binge podcast discusses season two, episode six of the show, which offers an inside look in the Jonas Vingegaard's ascent to the top of the Tour standings.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E5: The enemy within</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>S2E5: The enemy within</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">289257a2-0d4c-4cb0-98d6-2f45c4b52394</guid>
+      <link>https://share.transistor.fm/s/7f50ea4e</link>
+      <description>
+        <![CDATA[<p>The crew discusses season two, episode five of Unchained, which focuses on the Ineos Grenadiers and Tom Pidcock.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The crew discusses season two, episode five of Unchained, which focuses on the Ineos Grenadiers and Tom Pidcock.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 24 Jun 2024 19:53:50 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/7f50ea4e/5754c20a.mp3" length="73819474" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/DPD6ytKGYwCJbIGRCpXZnGyLPLJwaNJeRveBDXwQ0nU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTdm/ODc5YjJhYzE0ODdl/OGZlNzNiMWJmOThk/OWUzMy5wbmc.jpg"/>
+      <itunes:duration>3070</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The crew discusses season two, episode five of Unchained, which focuses on the Ineos Grenadiers and Tom Pidcock.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E4: For Gino</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>S2E4: For Gino</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e8eec4c7-d61a-4895-bb30-91c6afd24244</guid>
+      <link>https://share.transistor.fm/s/4dd9a5c3</link>
+      <description>
+        <![CDATA[<p>The podcast discusses the fourth episode of Unchained season two, which focuses on the Bahrain team in the aftermath of Gino Mäder's tragic death.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>The podcast discusses the fourth episode of Unchained season two, which focuses on the Bahrain team in the aftermath of Gino Mäder's tragic death.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 19 Jun 2024 23:16:57 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/4dd9a5c3/376014a2.mp3" length="76520906" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/ibj_sXEE3dtkaGCgr2WoZDtAwOkzuNeYjlJrcqpJ84o/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNjNm/MDk0MTEwNWUzZmFk/YmE5YTI1NWQwYjFl/OGNmYS5wbmc.jpg"/>
+      <itunes:duration>3183</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>The podcast discusses the fourth episode of Unchained season two, which focuses on the Bahrain team in the aftermath of Gino Mäder's tragic death.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E3: No Mercy</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>S2E3: No Mercy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b5f3dda8-451e-444d-9189-cb84f6047aa4</guid>
+      <link>https://share.transistor.fm/s/743e7c68</link>
+      <description>
+        <![CDATA[<p>Dane Cash, Kit Nicholson, and Caley Fretz discuss the third episode of Unchained, where Jasper Philipsen and Alpecin-Deceuninck take center stage.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash, Kit Nicholson, and Caley Fretz discuss the third episode of Unchained, where Jasper Philipsen and Alpecin-Deceuninck take center stage.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 17 Jun 2024 12:20:19 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/743e7c68/3888c738.mp3" length="70626122" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/0u5aRnj2oApeXLLfe6VL6anAz_RlbxMY4lRh--YR3FA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OTAw/ZTFmNTljMjVkNTc1/NzQ2NTk3NmQzM2Qx/NmJkNi5wbmc.jpg"/>
+      <itunes:duration>2937</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash, Kit Nicholson, and Caley Fretz discuss the third episode of Unchained, where Jasper Philipsen and Alpecin-Deceuninck take center stage.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E2: The Third Man</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>S2E2: The Third Man</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9fbe2a16-ba62-4ae2-9604-67642eb1314c</guid>
+      <link>https://share.transistor.fm/s/bcfe99e7</link>
+      <description>
+        <![CDATA[<p>Kit Nicholson, Dane Cash, and Caley Fretz discuss the second episode of the second season of Unchained, which focuses on Australian GC hopefuls Ben O'Connor and Jai Hindley.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Kit Nicholson, Dane Cash, and Caley Fretz discuss the second episode of the second season of Unchained, which focuses on Australian GC hopefuls Ben O'Connor and Jai Hindley.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 14 Jun 2024 10:08:03 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/bcfe99e7/1899a01d.mp3" length="60667663" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/8KZ2TQK8SCPMaYxhVyhM8zpYkcyQoF1j933E1T1LeZs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZTE4/YWQ3N2I4ZTFjNWI2/ZGZjOTg5MGRlN2E2/NjBjMy5wbmc.jpg"/>
+      <itunes:duration>2522</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Kit Nicholson, Dane Cash, and Caley Fretz discuss the second episode of the second season of Unchained, which focuses on Australian GC hopefuls Ben O'Connor and Jai Hindley.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>S2E1: No Risk, No Reward</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>S2E1: No Risk, No Reward</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">493f146a-4b4c-4646-a5d1-cb0f9795acc2</guid>
+      <link>https://share.transistor.fm/s/81cb1a70</link>
+      <description>
+        <![CDATA[<p>With the release of season 2 of Netflix's Tour de France: Unchained, the Unchained Binge podcast is back. In this first episode of the year, Kit Nicholson, Jonny Long, and Caley Fretz dive into the first episode, which sets the scene for another season of drama behind the scenes at the Tour.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>With the release of season 2 of Netflix's Tour de France: Unchained, the Unchained Binge podcast is back. In this first episode of the year, Kit Nicholson, Jonny Long, and Caley Fretz dive into the first episode, which sets the scene for another season of drama behind the scenes at the Tour.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 12 Jun 2024 12:25:49 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/81cb1a70/022747d6.mp3" length="67174733" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/GuIQU7JiCz3vjowNjXqDOtlvl_lWieg_7mwEKrRZG0s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNzEy/MTBjZTc5NGI0YjZm/ODU1ODFlNjNmYTU5/NWRhYy5wbmc.jpg"/>
+      <itunes:duration>2793</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>With the release of season 2 of Netflix's Tour de France: Unchained, the Unchained Binge podcast is back. In this first episode of the year, Kit Nicholson, Jonny Long, and Caley Fretz dive into the first episode, which sets the scene for another season of drama behind the scenes at the Tour.</p><p>Escape Collective's podcasts are made possible by our members. Head on over to <a href="https://escapecollective.com/join/">escapecollective.com/member</a> to support this show and everything else on our podcast network.</p><p>Also, we'd love to get your feedback on this show and our other shows. Share your thoughts at <a href="https://escapecollective.com/podcast-survey/">escapecollective.com/podcast-survey</a>.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>8. Road to Paris</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>8. Road to Paris</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">649131b2cf8a210011713c94</guid>
+      <link>https://share.transistor.fm/s/99249022</link>
+      <description>
+        <![CDATA[<p>On the final episode of this season of the Unchained Binge Podcast, we get a bit of the back of the race – the fast finishers trying to make the time cut in the mountains – plus the final fight for the yellow jersey and a sprinters' "world championships" on the Champs-Élysées.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On the final episode of this season of the Unchained Binge Podcast, we get a bit of the back of the race – the fast finishers trying to make the time cut in the mountains – plus the final fight for the yellow jersey and a sprinters' "world championships" on the Champs-Élysées.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Jun 2023 22:57:21 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/99249022/9d325e69.mp3" length="77587420" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/BG21jdRxgph7pWxUeBBjN5326dWSIe52ofl2_4ba7iw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNTgx/NTk1MjY4ZTgxNjE3/MzRkZTE4ZGJkNzM0/NmQ3Yi5wbmc.jpg"/>
+      <itunes:duration>4840</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On the final episode of this season of the Unchained Binge Podcast, we get a bit of the back of the race – the fast finishers trying to make the time cut in the mountains – plus the final fight for the yellow jersey and a sprinters' "world championships" on the Champs-Élysées.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>7. Everything for the Podium</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>7. Everything for the Podium</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">64907792d1a1e10011892fee</guid>
+      <link>https://share.transistor.fm/s/22dccb18</link>
+      <description>
+        <![CDATA[<p>In episode 7, we see a lot of Marc Madiot. So much Marc Madiot. We also get a really close look at how old Geraint Thomas really is, as both Gaudu and Thomas battle for one spot on the Tour de France podium.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In episode 7, we see a lot of Marc Madiot. So much Marc Madiot. We also get a really close look at how old Geraint Thomas really is, as both Gaudu and Thomas battle for one spot on the Tour de France podium.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Jun 2023 09:43:14 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/22dccb18/e1e32f12.mp3" length="48988264" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/dpPBXg4RTCsgrg4Iuqtx6QFR0OD6Bo3BTYbCjUEJmC0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xYTEy/MjAwZmUyMTUzNzlh/MDJjYjk4MzY2MGIy/NzZhNS5wbmc.jpg"/>
+      <itunes:duration>3062</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In episode 7, we see a lot of Marc Madiot. So much Marc Madiot. We also get a really close look at how old Geraint Thomas really is, as both Gaudu and Thomas battle for one spot on the Tour de France podium.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>6. Plan B</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>6. Plan B</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648a7abdb69e4c0011b287b5</guid>
+      <link>https://share.transistor.fm/s/2fd6191f</link>
+      <description>
+        <![CDATA[<p>On this episode of The Unchained Binge Podcast, we watch one of the world's best bike racers be inexplicably bad at bike racing, we learn that one of the world's best sprinters can't remember his shoes or, unfortunately, when there is still a breakaway up the road, and we debate whether there was any real drama inside Jumbo-Visma.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On this episode of The Unchained Binge Podcast, we watch one of the world's best bike racers be inexplicably bad at bike racing, we learn that one of the world's best sprinters can't remember his shoes or, unfortunately, when there is still a breakaway up the road, and we debate whether there was any real drama inside Jumbo-Visma.</p>]]>
+      </content:encoded>
+      <pubDate>Wed, 14 Jun 2023 20:43:08 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/2fd6191f/79438c75.mp3" length="48687714" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/2DoAykPhEkidbHsC5H4ncwlZCTpW6roHchIntwWqrtg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mYmI2/MmI0YmEyOGQwMGE2/ZjQ4MDI2Mjc4Y2E5/OTBjZS5wbmc.jpg"/>
+      <itunes:duration>3043</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On this episode of The Unchained Binge Podcast, we watch one of the world's best bike racers be inexplicably bad at bike racing, we learn that one of the world's best sprinters can't remember his shoes or, unfortunately, when there is still a breakaway up the road, and we debate whether there was any real drama inside Jumbo-Visma.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>5. Breakneck speed</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>5. Breakneck speed</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648918f0dfb28c0011794ce8</guid>
+      <link>https://share.transistor.fm/s/80169fc7</link>
+      <description>
+        <![CDATA[<p>On episode 5, we return the focus to EF and to the Ineos Grenadiers. We get a lesson in descending from Tom Pidcock, we warm up to a rider in the twilight of his career, and we learn that Neilson Powless had a good breakfast.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>On episode 5, we return the focus to EF and to the Ineos Grenadiers. We get a lesson in descending from Tom Pidcock, we warm up to a rider in the twilight of his career, and we learn that Neilson Powless had a good breakfast.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 13 Jun 2023 19:33:36 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/80169fc7/6b71ce71.mp3" length="48381367" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/duyDsOtoqDQ4_XI9eZmonrNTKDecuDWNNiPvPozYgJU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83OWY2/OGM4MTZhYTBhYjMx/N2JmY2E5YmEzZTEz/ZGE1NC5wbmc.jpg"/>
+      <itunes:duration>3024</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>On episode 5, we return the focus to EF and to the Ineos Grenadiers. We get a lesson in descending from Tom Pidcock, we warm up to a rider in the twilight of his career, and we learn that Neilson Powless had a good breakfast.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>4. Attack, Counter Attack</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>4. Attack, Counter Attack</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6487f3915738630011544036</guid>
+      <link>https://share.transistor.fm/s/c621f515</link>
+      <description>
+        <![CDATA[<p>Episode 4 offers an inside look at one of the most thrilling Tour stages in recent memory. We see Jumbo-Visma crafting a plan to take on Tadej Pogačar on some of the toughest terrain in the race, and then watch as the action unfolds on the journey from Albertville to the Col du Granon. Also, we discuss the different personalities in the Tour and the ways the show narrows those personalities down, for better or worse. Let's get into it.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Episode 4 offers an inside look at one of the most thrilling Tour stages in recent memory. We see Jumbo-Visma crafting a plan to take on Tadej Pogačar on some of the toughest terrain in the race, and then watch as the action unfolds on the journey from Albertville to the Col du Granon. Also, we discuss the different personalities in the Tour and the ways the show narrows those personalities down, for better or worse. Let's get into it.</p>]]>
+      </content:encoded>
+      <pubDate>Mon, 12 Jun 2023 22:41:52 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/c621f515/00b2ccf0.mp3" length="48152340" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/GWDZluy_rez0vtgYggrN57WORd_YuxC7twluz00KC4c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NDNi/NWQ2MWZhOTc3MWYw/Mjk3ZjIyZWFkN2U3/NmExYS5wbmc.jpg"/>
+      <itunes:duration>3010</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Episode 4 offers an inside look at one of the most thrilling Tour stages in recent memory. We see Jumbo-Visma crafting a plan to take on Tadej Pogačar on some of the toughest terrain in the race, and then watch as the action unfolds on the journey from Albertville to the Col du Granon. Also, we discuss the different personalities in the Tour and the ways the show narrows those personalities down, for better or worse. Let's get into it.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>3. The Weight of a Nation</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>3. The Weight of a Nation</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6483663b4e2e62001031c3dc</guid>
+      <link>https://share.transistor.fm/s/ba6fa80d</link>
+      <description>
+        <![CDATA[<p>In today’s episode, we go to … France. Deep, deep into France. This is the Frenchest of episodes, focused on national hero Thibaut Pinot, eccentric manager Marc Madiot, and a lonely Australian badly in need of some real-life subtitles, Ben O’Connor. Let’s get into it.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In today’s episode, we go to … France. Deep, deep into France. This is the Frenchest of episodes, focused on national hero Thibaut Pinot, eccentric manager Marc Madiot, and a lonely Australian badly in need of some real-life subtitles, Ben O’Connor. Let’s get into it.</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 09 Jun 2023 13:30:40 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/ba6fa80d/70f91d88.mp3" length="53633875" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/CZ1zjClqp3FzCJe0HwXdfHUTZxdXRH5Xx-jn3K_sG0w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wYWMw/MGQ0ZWYxMjIwYzVl/NzgyMTc5ZTQyY2Ix/MWUxMi5wbmc.jpg"/>
+      <itunes:duration>3353</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In today’s episode, we go to … France. Deep, deep into France. This is the Frenchest of episodes, focused on national hero Thibaut Pinot, eccentric manager Marc Madiot, and a lonely Australian badly in need of some real-life subtitles, Ben O’Connor. Let’s get into it.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+    </item>
+    <item>
+      <title>2. Welcome to Hell</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>2. Welcome to Hell</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648233748a971b00114351f4</guid>
+      <link>https://share.transistor.fm/s/6b7ccee5</link>
+      <description>
+        <![CDATA[<p>Episode 2 is focused on the team of the Tour, Jumbo-Visma. We get an at-home visit with Wout van Aert, plus a training day with Primoz Roglic, and then a glimpse into the tension between van Aert’s desire and ability to win stages and his role working for Jonas Vingegaard for the overall. Plus Kit's Grand Lord of the Rings Theory of Unchained. Let’s get into it. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Episode 2 is focused on the team of the Tour, Jumbo-Visma. We get an at-home visit with Wout van Aert, plus a training day with Primoz Roglic, and then a glimpse into the tension between van Aert’s desire and ability to win stages and his role working for Jonas Vingegaard for the overall. Plus Kit's Grand Lord of the Rings Theory of Unchained. Let’s get into it. </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 08 Jun 2023 16:28:05 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/6b7ccee5/3194cecb.mp3" length="48689821" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/Q-Iv2I9V2ntXt0A6OXkyUDae5tZWamFjF1zbbC36AC4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYzRi/ODZlYmI0YmMxMzY0/MmY5NDZlYzIxYzNm/ZTAyMS5wbmc.jpg"/>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Episode 2 is focused on the team of the Tour, Jumbo-Visma. We get an at-home visit with Wout van Aert, plus a training day with Primoz Roglic, and then a glimpse into the tension between van Aert’s desire and ability to win stages and his role working for Jonas Vingegaard for the overall. Plus Kit's Grand Lord of the Rings Theory of Unchained. Let’s get into it. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>1. The Grand Départ</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>1. The Grand Départ</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648251f09d79eb0011cfd0ff</guid>
+      <link>https://share.transistor.fm/s/76d3ef6c</link>
+      <description>
+        <![CDATA[<p>Welcome to the Unchained Binge Podcast, where we'll go deep on all eight episodes of Netflix's new Tour de France docuseries. </p><p><br></p><p>This first episode comes in fast and crashy, focusing on EF's time trial, a farmer's son, and the incredible return of Fabio Jakobsen. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Welcome to the Unchained Binge Podcast, where we'll go deep on all eight episodes of Netflix's new Tour de France docuseries. </p><p><br></p><p>This first episode comes in fast and crashy, focusing on EF's time trial, a farmer's son, and the incredible return of Fabio Jakobsen. </p>]]>
+      </content:encoded>
+      <pubDate>Thu, 08 Jun 2023 16:16:53 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/76d3ef6c/e5dd8dc9.mp3" length="52465249" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/tiIZvLA9Kkuf1bpbrPf_tOouo7pHGAjcaQDRIB6SMMw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYTQy/ZDNjYjk3YTE1MTg5/YzBkOTBiNDBmNmU0/NzZlMC5wbmc.jpg"/>
+      <itunes:duration>3279</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Welcome to the Unchained Binge Podcast, where we'll go deep on all eight episodes of Netflix's new Tour de France docuseries. </p><p><br></p><p>This first episode comes in fast and crashy, focusing on EF's time trial, a farmer's son, and the incredible return of Fabio Jakobsen. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>Unchained Binge Pod: The Trailer</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>Unchained Binge Pod: The Trailer</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">647f3c3aa9bc080011c32832</guid>
+      <link>https://share.transistor.fm/s/63df53c3</link>
+      <description>
+        <![CDATA[<p>This is a podcast dedicated to going deep — really, really deep — into Netflix's Tour de France docuseries Unchained. We’ll break down all eight episodes, each with a podcast episode of its own. We bring a 360-degree view of the Tour de France, with hosts who were at the actual race as reporters, and provide backstory and context beyond the show.</p><p><br></p><p>The Binge Pod and Escape Collective are not associated with Netflix in any way. But we feel like we might be friends if we met IRL. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This is a podcast dedicated to going deep — really, really deep — into Netflix's Tour de France docuseries Unchained. We’ll break down all eight episodes, each with a podcast episode of its own. We bring a 360-degree view of the Tour de France, with hosts who were at the actual race as reporters, and provide backstory and context beyond the show.</p><p><br></p><p>The Binge Pod and Escape Collective are not associated with Netflix in any way. But we feel like we might be friends if we met IRL. </p>]]>
+      </content:encoded>
+      <pubDate>Tue, 06 Jun 2023 08:01:29 -0600</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/63df53c3/512f2b3b.mp3" length="3534793" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistor.fm/i9aIjm5tXRORalHE3EUMqWRfRkiyAhYVA7ezobZENmM/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZGI2/NGMyZTQ2MDQxYWYx/MTNjOTc0Y2EyNjIz/ZDMxMC5wbmc.jpg"/>
+      <itunes:duration>221</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This is a podcast dedicated to going deep — really, really deep — into Netflix's Tour de France docuseries Unchained. We’ll break down all eight episodes, each with a podcast episode of its own. We bring a 360-degree view of the Tour de France, with hosts who were at the actual race as reporters, and provide backstory and context beyond the show.</p><p><br></p><p>The Binge Pod and Escape Collective are not associated with Netflix in any way. But we feel like we might be friends if we met IRL. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Pro Cycling, Tour de France, Beginners, Cycling, World Tour</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

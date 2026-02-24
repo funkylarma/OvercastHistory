@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1665745.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Next Level with CORE</title>
+
+  <lastBuildDate>Wed, 29 May 2024 22:18:30 -0400</lastBuildDate>
+  <link>https://nextlevelwithcore.buzzsprout.com</link>
+  <language>en-us</language>
+  <copyright>© 2024 Next Level with CORE</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>c62b84a5-2717-5315-9053-a430e0fae2c2</podcast:guid>
+  <itunes:author>CORE</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[Next Level is a podcast exploring sports performance with athletes, coaches, sports scientists, and experts. Our purpose is to help advance heat training and heat pacing strategies within the sports community, with the help of those working on the field for several years.This podcast is host by CORE (www.corebodytemp.com).]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:owner>
+    <itunes:name>CORE</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/uknqgkmubqa6gsg32d11cf8rwthd?.jpg</url>
+     <title>Next Level with CORE</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/uknqgkmubqa6gsg32d11cf8rwthd?.jpg" />
+  <itunes:category text="Sports" />
+  <item>
+    <itunes:title>The Next Level with Olav Aleksander Bu</itunes:title>
+    <title>The Next Level with Olav Aleksander Bu</title>
+    <itunes:summary><![CDATA[In this episode of The Next Level Podcast, we invited world-class coach Olav Aleksander Bu to talk about heat training and adaption, how core body temperature measurement can be practically applied to sports performance, and why thermoregulation matters for athletes. Olav is a pioneer in the field, and this podcast is really insightful. Welcome to The Next Level!     ]]></itunes:summary>
+    <description><![CDATA[<p>In this episode of The Next Level Podcast, we invited world-class coach Olav Aleksander Bu to talk about heat training and adaption, how core body temperature measurement can be practically applied to sports performance, and why thermoregulation matters for athletes. Olav is a pioneer in the field, and this podcast is really insightful. Welcome to The Next Level!</p><p><br/><br/></p> ]]></description>
+    <content:encoded><![CDATA[<p>In this episode of The Next Level Podcast, we invited world-class coach Olav Aleksander Bu to talk about heat training and adaption, how core body temperature measurement can be practically applied to sports performance, and why thermoregulation matters for athletes. Olav is a pioneer in the field, and this podcast is really insightful. Welcome to The Next Level!</p><p><br/><br/></p> ]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/aze5srpupsn41vuwsj8xe4iyqw4e?.jpg" />
+    <itunes:author>CORE</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/13450343-the-next-level-with-olav-aleksander-bu.mp3" length="29601245" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13450343</guid>
+    <pubDate>Tue, 22 Aug 2023 16:00:00 +0200</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/13450343/transcript" type="text/html" />
+    <podcast:soundbite startTime="772.0" duration="45.0" />
+    <podcast:chapters url="https://www.buzzsprout.com/1665745/13450343/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Introduction" />
+  <psc:chapter start="2:02" title="Core Body Temp amd heat training - the basics" />
+  <psc:chapter start="8:02" title="On sensor accuracy and data - and how to figure out if your training is working" />
+  <psc:chapter start="12:50" title="Race day strategies" />
+  <psc:chapter start="16:02" title="Is heat training for everybody?" />
+  <psc:chapter start="18:01" title="Heat training for time-constrained athletes" />
+  <psc:chapter start="19:47" title="Heat vs Altitude training" />
+  <psc:chapter start="24:37" title="Training with perceptions of heat" />
+  <psc:chapter start="27:27" title="Training with temperature thresholds" />
+  <psc:chapter start="33:02" title="Practical tips for the race day" />
+  <psc:chapter start="34:57" title="Preparing for Paris" />
+  <psc:chapter start="40:30" title="Farewell" />
+</psc:chapters>
+    <itunes:duration>2464</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Next Level Podcast with Pablo Marcos</itunes:title>
+    <title>The Next Level Podcast with Pablo Marcos</title>
+    <itunes:summary><![CDATA[Today, we welcome Pablo Marcos. He's based in Spain. He's a professional performance coach, qualified across many different sport disciplines. Focus is on cycling, triathlon, working with a lot of professional triathletes and and cyclist as well, a sports scientist as well with qualifications with human physiology and also a core coach. And I understand recently in Kona, a competitor with a time of 9 hours 32 minutes and 52 seconds at the Hawaii Ironman. So we'd like to welcome you as our gue...]]></itunes:summary>
+    <description><![CDATA[<p>Today, we welcome Pablo Marcos. He&apos;s based in Spain. He&apos;s a professional performance coach, qualified across many different sport disciplines. Focus is on cycling, triathlon, working with a lot of professional triathletes and and cyclist as well, a sports scientist as well with qualifications with human physiology and also a core coach. And I understand recently in Kona, a competitor with a time of 9 hours 32 minutes and 52 seconds at the Hawaii Ironman. So we&apos;d like to welcome you as our guest to our episode on the next level.</p>]]></description>
+    <content:encoded><![CDATA[<p>Today, we welcome Pablo Marcos. He&apos;s based in Spain. He&apos;s a professional performance coach, qualified across many different sport disciplines. Focus is on cycling, triathlon, working with a lot of professional triathletes and and cyclist as well, a sports scientist as well with qualifications with human physiology and also a core coach. And I understand recently in Kona, a competitor with a time of 9 hours 32 minutes and 52 seconds at the Hawaii Ironman. So we&apos;d like to welcome you as our guest to our episode on the next level.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/v2edm8mh69pmxuzf97ptw4hofizm?.jpg" />
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/13117622-the-next-level-podcast-with-pablo-marcos.mp3" length="31477732" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13117622</guid>
+    <pubDate>Tue, 04 Jul 2023 18:00:00 +0200</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/13117622/transcript" type="text/html" />
+    <podcast:soundbite startTime="972.0" duration="51.0" />
+    <itunes:duration>2618</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Interview with Dan Lorang</itunes:title>
+    <title>Interview with Dan Lorang</title>
+    <itunes:summary><![CDATA[In der vierten Ausgabe des Next Level Podcast verrät uns Dan Lorang, Chef Coach des Profiradrennstalls BORA-hansgrohe und Trainer der beiden amtierenden Triathlon Weltmeister auf der Ironman Distanz, Jan Frodeno und Anne Haug, warum er die Chance Körperkerntemperatur einfach zu messen unbedingt nutzen wollte Dan berichtet, warum es einfach war, die Athleten von Nutzen von CORE zu überzeugen, und wie unterschiedlich einzelne Athleten auf Hitze reagieren. Er gewährt uns Einblick in die Olympia ...]]></itunes:summary>
+    <description><![CDATA[<p>In der vierten Ausgabe des Next Level Podcast verrät uns Dan Lorang, Chef Coach des Profiradrennstalls BORA-hansgrohe und Trainer der beiden amtierenden Triathlon Weltmeister auf der Ironman Distanz, Jan Frodeno und Anne Haug, warum er die Chance Körperkerntemperatur einfach zu messen unbedingt nutzen wollte</p><p>Dan berichtet, warum es einfach war, die Athleten von Nutzen von CORE zu überzeugen, und wie unterschiedlich einzelne Athleten auf Hitze reagieren. Er gewährt uns Einblick in die Olympia Vorbereitung von Maximilian Schachmann und die Ambitionen von Bora Hansgrohe bei der diesjährigen Tour de France.</p><p>Zuletzt gibt uns Dan eine Einschätzung, ob andere Sportarten wie Fussball die Innovation aufgreifen sollten und erklärt uns, welches Arbeitsumfeld ihn motiviert. Viel Spass beim Zuhören!</p>]]></description>
+    <content:encoded><![CDATA[<p>In der vierten Ausgabe des Next Level Podcast verrät uns Dan Lorang, Chef Coach des Profiradrennstalls BORA-hansgrohe und Trainer der beiden amtierenden Triathlon Weltmeister auf der Ironman Distanz, Jan Frodeno und Anne Haug, warum er die Chance Körperkerntemperatur einfach zu messen unbedingt nutzen wollte</p><p>Dan berichtet, warum es einfach war, die Athleten von Nutzen von CORE zu überzeugen, und wie unterschiedlich einzelne Athleten auf Hitze reagieren. Er gewährt uns Einblick in die Olympia Vorbereitung von Maximilian Schachmann und die Ambitionen von Bora Hansgrohe bei der diesjährigen Tour de France.</p><p>Zuletzt gibt uns Dan eine Einschätzung, ob andere Sportarten wie Fussball die Innovation aufgreifen sollten und erklärt uns, welches Arbeitsumfeld ihn motiviert. Viel Spass beim Zuhören!</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/thmr8e0sfu4w1nxhriemut07j6vl?.jpg" />
+    <itunes:author>CORE</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/8849128-interview-with-dan-lorang.mp3" length="17484812" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8849128</guid>
+    <pubDate>Mon, 12 Jul 2021 12:00:00 +0200</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/8849128/transcript" type="text/html" />
+    <podcast:soundbite startTime="495.0" duration="45.0" />
+    <itunes:duration>1453</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Next Level with Jason Boynton</itunes:title>
+    <title>Next Level with Jason Boynton</title>
+    <itunes:summary><![CDATA[In the third edition of The Next Level podcast, our host Christopher Jones speaks with Jason Boynton who has conducted extensive studies on the impact of environmental temperature on trained cyclists during high-intensity intervals.  In The Next Level we learn about the path of Jason with the studies in environmental physiology, gain insights into the results of the research along with practical applications and also learn about the next steps for Jason who can put his knowledge into pra...]]></itunes:summary>
+    <description><![CDATA[<p>In the third edition of The Next Level podcast, our host Christopher Jones speaks with Jason Boynton who has conducted extensive studies on the impact of environmental temperature on trained cyclists during high-intensity intervals. </p><p>In The Next Level we learn about the path of Jason with the studies in environmental physiology, gain insights into the results of the research along with practical applications and also learn about the next steps for Jason who can put his knowledge into practice with his also coaches business for athletes. </p> ]]></description>
+    <content:encoded><![CDATA[<p>In the third edition of The Next Level podcast, our host Christopher Jones speaks with Jason Boynton who has conducted extensive studies on the impact of environmental temperature on trained cyclists during high-intensity intervals. </p><p>In The Next Level we learn about the path of Jason with the studies in environmental physiology, gain insights into the results of the research along with practical applications and also learn about the next steps for Jason who can put his knowledge into practice with his also coaches business for athletes. </p> ]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/kg7j3c5vwizx1xfdcaapxj1w9xql?.jpg" />
+    <itunes:author>CORE</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/8433787-next-level-with-jason-boynton.mp3" length="46366798" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8433787</guid>
+    <pubDate>Fri, 30 Apr 2021 12:00:00 +0200</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/8433787/transcript" type="text/html" />
+    <podcast:soundbite startTime="2524.667" duration="15.0" />
+    <itunes:duration>3860</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Next Level with Aaron Geiser</itunes:title>
+    <title>Next Level with Aaron Geiser</title>
+    <itunes:summary><![CDATA[In the second episode of our podcast series, we discuss with coach Aaron Geiser his data-based approach to triathlon training. Aaron is a USA Triathlon All-American as well as a Gold Ironman All World Athlete. He has qualified for USAT Age Group Nationals (United States of America Triathlon Association) and is a World Championships qualifier for Ironman. He is also an Endure IQ certified coach with plenty of experience training with triathletes.  In this podcast, we speak about using dat...]]></itunes:summary>
+    <description><![CDATA[<p>In the second episode of our podcast series, we discuss with <a href='http://performanceinscience.com/'>coach Aaron Geiser</a> his data-based approach to triathlon training. Aaron is a USA Triathlon All-American as well as a Gold Ironman All World Athlete. He has qualified for USAT Age Group Nationals (United States of America Triathlon Association) and is a World Championships qualifier for Ironman. He is also an Endure IQ certified coach with plenty of experience training with triathletes. <br/>In this podcast, we speak about using data to improve training and performance, following every athlete&apos;s specific needs. We discuss how to use the core body temperature data to improve pacing and the differences between the treadmill and the bike trainer. Aaron also explains his view about peppermint and menthol for cooling and nutrition for athletes while racing. He has plenty of experience on these topics, we have learned a lot with him, so don&apos;t miss it!</p> ]]></description>
+    <content:encoded><![CDATA[<p>In the second episode of our podcast series, we discuss with <a href='http://performanceinscience.com/'>coach Aaron Geiser</a> his data-based approach to triathlon training. Aaron is a USA Triathlon All-American as well as a Gold Ironman All World Athlete. He has qualified for USAT Age Group Nationals (United States of America Triathlon Association) and is a World Championships qualifier for Ironman. He is also an Endure IQ certified coach with plenty of experience training with triathletes. <br/>In this podcast, we speak about using data to improve training and performance, following every athlete&apos;s specific needs. We discuss how to use the core body temperature data to improve pacing and the differences between the treadmill and the bike trainer. Aaron also explains his view about peppermint and menthol for cooling and nutrition for athletes while racing. He has plenty of experience on these topics, we have learned a lot with him, so don&apos;t miss it!</p> ]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ncooqd3gafd8pq8ebneffxnoz66f?.jpg" />
+    <itunes:author>CORE</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/8082036-next-level-with-aaron-geiser.mp3" length="23497483" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8082036</guid>
+    <pubDate>Fri, 05 Mar 2021 14:00:00 +0100</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/8082036/transcript" type="text/html" />
+    <podcast:soundbite startTime="431.647" duration="43.5" />
+    <podcast:chapters url="https://www.buzzsprout.com/1665745/8082036/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Next Level with Aaron Geiser" />
+  <psc:chapter start="0:45" title="Introduction to Aaron" />
+  <psc:chapter start="3:12" title="Science and sports" />
+  <psc:chapter start="5:32" title="Core body temp and pacing strategies" />
+  <psc:chapter start="11:16" title="Core body temp in the treadmill and bike trainer" />
+  <psc:chapter start="13:09" title="Menthol and peppermint for cooling" />
+  <psc:chapter start="16:51" title="Bonking and nutrition" />
+  <psc:chapter start="26:29" title="Remote vs. live training" />
+  <psc:chapter start="31:11" title="Ending" />
+</psc:chapters>
+    <itunes:duration>1955</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Next Level with Mario Schmidt-Wendling </itunes:title>
+    <title>Next Level with Mario Schmidt-Wendling </title>
+    <itunes:summary><![CDATA[ In the first episode of the Next Level series, we discuss with triathlon coach Mario Schmidt- Wendling his approach to heat training and acclimatization protocols. Mario is an award-winner triathlon coach based in Frankfurt, Germany. He is coaching world-class athletes, including several Iron Man European champions. He defines himself as an old-school coach with an empirical and science-based approach to training.   Mario will introduce the audience to his heat training protocols, a fie...]]></itunes:summary>
+    <description><![CDATA[<p> In the first episode of the Next Level series, we discuss with triathlon <a href='https://sisu-training.de/'>coach Mario Schmidt- Wendling</a> his approach to heat training and acclimatization protocols. Mario is an award-winner triathlon coach based in Frankfurt, Germany. He is coaching world-class athletes, including several Iron Man European champions. He defines himself as an old-school coach with an empirical and science-based approach to training. <br/><br/>Mario will introduce the audience to his heat training protocols, a field where he is an expert with more than ten years of experience. He shares his experience and explains the benefits coming from heat acclimatization. We also discuss the differences between heat and altitude as training tools, how para-athletes regulate body temperature, and the challenges ahead. <br/>You can <a href='https://corebodytemp.com/blogs/news/we-start-our-podcast-channel-next-level-with-mario-schmidt-wendling'>download from our blog the testing protocol</a> mentioned in the podcast. Enjoy! </p> ]]></description>
+    <content:encoded><![CDATA[<p> In the first episode of the Next Level series, we discuss with triathlon <a href='https://sisu-training.de/'>coach Mario Schmidt- Wendling</a> his approach to heat training and acclimatization protocols. Mario is an award-winner triathlon coach based in Frankfurt, Germany. He is coaching world-class athletes, including several Iron Man European champions. He defines himself as an old-school coach with an empirical and science-based approach to training. <br/><br/>Mario will introduce the audience to his heat training protocols, a field where he is an expert with more than ten years of experience. He shares his experience and explains the benefits coming from heat acclimatization. We also discuss the differences between heat and altitude as training tools, how para-athletes regulate body temperature, and the challenges ahead. <br/>You can <a href='https://corebodytemp.com/blogs/news/we-start-our-podcast-channel-next-level-with-mario-schmidt-wendling'>download from our blog the testing protocol</a> mentioned in the podcast. Enjoy! </p> ]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/ran6k4veqqniunen3mbsjozkd18k?.jpg" />
+    <itunes:author>CORE</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1665745/episodes/7880296-next-level-with-mario-schmidt-wendling.mp3" length="31654589" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-7880296</guid>
+    <pubDate>Mon, 15 Feb 2021 17:00:00 +0100</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1665745/7880296/transcript" type="text/html" />
+    <podcast:soundbite startTime="2105.0" duration="49.5" />
+    <podcast:chapters url="https://www.buzzsprout.com/1665745/7880296/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Introduction with Christopher Jones and Mario Schmidt-Wendling" />
+  <psc:chapter start="4:42" title="Testing protocol explained" />
+  <psc:chapter start="17:39" title="Sweat Rate, Sodium and sports performance" />
+  <psc:chapter start="22:23" title="Working body temperature regulation with para-athletes" />
+  <psc:chapter start="31:44" title="Developing heat training protocols - and how they combine with other training tools" />
+  <psc:chapter start="41:11" title="Ending " />
+</psc:chapters>
+    <itunes:duration>2634</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
