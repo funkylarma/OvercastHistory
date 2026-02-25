@@ -16,8 +16,8 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
     <itunes:applepodcastsverify>de3805d0-3091-11f0-8d5f-fbf8815763e6</itunes:applepodcastsverify>
     <language>en</language>
-    <pubDate>Tue, 17 Feb 2026 10:47:46 -0700</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 10:48:33 -0700</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 09:06:19 -0700</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 09:07:24 -0700</lastBuildDate>
     <link>https://escapecollective.com</link>
     <image>
       <url>https://img.transistorcdn.com/_Aurvr1I_SxE7mN59GRDY_vN-BltZqBlkf40AV69WLk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYzM0/YThjYjdiMTBlN2Nl/YzU5YWFmNWVlNWUz/NjJiZS5wbmc.jpg</url>
@@ -39,6 +39,31 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The power of social media</title>
+      <itunes:episode>212</itunes:episode>
+      <podcast:episode>212</podcast:episode>
+      <itunes:title>The power of social media</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">59192523-13c4-4565-8a20-e88f32ac1f90</guid>
+      <link>https://share.transistor.fm/s/92bcf862</link>
+      <description>
+        <![CDATA[<p>It's Opening Week! The week before opening weekend, the Wheel Talk podcast just opened our new Instagram account. Follow us for women's cycling coverage and news, plus more content from Abby, Georgie, Loren and Gracie.</p><p>This week, we talk about Pauline Ferrand-Prèvot's extension, salary caps, and the upcoming Classic - Omloop Het Nieuwsblad.</p><p>Plus, Abby chatted with Cecilie Uttrup Ludwig about coming back from her crash in 2024, her first year with Canyon-SRAM zondacrypto, and the one race she wants to add to her palmares.</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>It's Opening Week! The week before opening weekend, the Wheel Talk podcast just opened our new Instagram account. Follow us for women's cycling coverage and news, plus more content from Abby, Georgie, Loren and Gracie.</p><p>This week, we talk about Pauline Ferrand-Prèvot's extension, salary caps, and the upcoming Classic - Omloop Het Nieuwsblad.</p><p>Plus, Abby chatted with Cecilie Uttrup Ludwig about coming back from her crash in 2024, her first year with Canyon-SRAM zondacrypto, and the one race she wants to add to her palmares.</p>]]>
+      </content:encoded>
+      <pubDate>Tue, 24 Feb 2026 09:06:12 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/92bcf862/da27b1bf.mp3" length="102407563" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>4265</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>It's Opening Week! The week before opening weekend, the Wheel Talk podcast just opened our new Instagram account. Follow us for women's cycling coverage and news, plus more content from Abby, Georgie, Loren and Gracie.</p><p>This week, we talk about Pauline Ferrand-Prèvot's extension, salary caps, and the upcoming Classic - Omloop Het Nieuwsblad.</p><p>Plus, Abby chatted with Cecilie Uttrup Ludwig about coming back from her crash in 2024, her first year with Canyon-SRAM zondacrypto, and the one race she wants to add to her palmares.</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling,women's cycling,professional cycling</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>Pros and cons of the 'new' Paris Roubaix Femmes</title>
       <itunes:episode>211</itunes:episode>

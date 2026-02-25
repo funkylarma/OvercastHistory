@@ -56,7 +56,7 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <atom:link href="https://audioboom.com/channels/5124996" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5124996.rss" rel="self" type="application/rss+xml" />
-<pubDate>Tue, 17 Feb 2026 15:55:11 +0000</pubDate>
+<pubDate>Tue, 24 Feb 2026 17:58:10 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://audioboom.com/i/41331674.jpg</url>
@@ -76,6 +76,22 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <itunes:new-feed-url>https://audioboom.com/channels/5124996.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>685: &quot;Cycling Has Never Been So Cheap&quot; (WTF?!) | GCN Show Ep. 685</title>
+  <link>https://audioboom.com/posts/8865411</link>
+  <itunes:episode>685</itunes:episode>
+  <itunes:title>&quot;Cycling Has Never Been So Cheap&quot; (WTF?!) | GCN Show Ep. 685</itunes:title>
+  <enclosure url="https://audioboom.com/posts/8865411.mp3?modified=1771956155&amp;sid=5124996&amp;source=rss" length="46204296" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43493359/s=1400x1400/el=1/rt=fill.jpg" />
+  <itunes:duration>2883</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description><![CDATA[<div><p>This week on the GCN Show, we dive into the "prohibitive" cost of cycling and investigate if the sport is actually cheaper than ever thanks to a booming second-hand market. We also explore a bizarre new scientific study suggesting that training in a hot tub could significantly boost your FTP. Plus, Dan recounts the moment he was overtaken by a World Champion while riding flat-out, and we take a look at Shimano’s latest "self-tightening" shoe patent.</p></div>]]></description>
+  <pubDate>Tue, 24 Feb 2026 17:58:10 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2026-02-24:/posts/8865411</guid>
+  <itunes:author>Global Cycling Network (GCN)</itunes:author>
+  <dc:creator>Global Cycling Network (GCN)</dc:creator>
+</item>
 <item>
   <title>684: Pogačar Reveals His Mind Blowing Power Zones | GCN Show Ep. 684</title>
   <link>https://audioboom.com/posts/8862288</link>
@@ -1054,10 +1070,7 @@ Enter here for a chance to win in our Precision Fuel &amp; Hydration competition
   <itunes:duration>1577</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
   <itunes:episodeType>full</itunes:episodeType>
-  <description><![CDATA[<div>Pro cycling speeds have gotten faster and faster. But what role has tech played in that? One of the chief architects of that evolution has been the performance engineer Jean-Paul Ballard, and we sat down with him at the Immenstadt wind tunnel in Germany to discuss all the things that make riders faster and the things that don't. As well as the things that will make us faster in the future! <br>
-<br>
-He’s a fascinating person to speak to, so we hope you enjoy our conversation!</div>
-]]></description>
+  <description><![CDATA[<div>Pro cycling speeds have gotten faster and faster. But what role has tech played in that? One of the chief architects of that evolution has been the performance engineer Jean-Paul Ballard, and we sat down with him at the Immenstadt wind tunnel in Germany to discuss all the things that make riders faster and the things that don't. As well as the things that will make us faster in the future! <br><br>He’s a fascinating person to speak to, so we hope you enjoy our conversation!</div>]]></description>
   <pubDate>Sat, 05 Apr 2025 09:00:00 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2025-04-04:/posts/8700326</guid>
   <itunes:author>Global Cycling Network (GCN)</itunes:author>

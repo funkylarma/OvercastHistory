@@ -4,7 +4,7 @@
 		<description><![CDATA[Daily livestreams recorded in front of a live virtual audience. Mostly runners. Sometimes, we talk about running.]]></description>
 		<link>https://www.youtube.com/kofuzi</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 23 Feb 2026 21:22:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Feb 2026 18:02:48 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1dc575c0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Michael Ko]]></author>
 		<copyright><![CDATA[Michael Ko]]></copyright>
@@ -22,6 +22,22 @@
 			<itunes:category text="Running"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+		<item>
+			<title><![CDATA[Black Canyon 100k. Thursday Feb 19, 2026]]></title>
+			<description><![CDATA[<p>i ran my first 100k at the Black Canyon 100k and all i got was a belt buckle</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/kofuzi/episodes/Black-Canyon-100k--Thursday-Feb-19--2026-e3fgmk4</link>
+			<guid isPermaLink="false">85a2431b-a18e-4534-8ff2-81d2d9e0885e</guid>
+			<dc:creator><![CDATA[Michael Ko]]></dc:creator>
+			<pubDate>Tue, 24 Feb 2026 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1dc575c0/podcast/play/115939396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-23%2F418682646-44100-2-9e25129a2074a.mp3" length="50864377" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;i ran my first 100k at the Black Canyon 100k and all i got was a belt buckle&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:52:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Wish Me Luck! Thursday Feb 12, 2026]]></title>
 			<description><![CDATA[<p>last livestream before I run Black Canyon 100k. And I&#39;ve got a couple things I wanted to show everyone before I headed out</p>

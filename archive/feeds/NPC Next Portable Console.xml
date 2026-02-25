@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/531572/destinations/4573812.xml" rel="self" type="application/rss+xml"/>
     <title>NPC: Next Portable Console</title>
-    <pubDate>Tue, 17 Feb 2026 17:33:37 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 17:33:37 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 18:01:22 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 18:01:22 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>https://macstories.net/npc</link>
     <language>en-us</language>
@@ -52,6 +52,31 @@
     
     
     
+    
+    <item>
+      <title>Running Out of Chips and Into Cocoon</title>
+      <itunes:title>Running Out of Chips and Into Cocoon</itunes:title>
+      <pubDate>Tue, 24 Feb 2026 17:55:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8f8a7a3b-3284-4ec5-a031-8c4c4b181ddb]]></guid>
+      <link><![CDATA[https://c0dd2be0-6cea-4c41-89e9-45a209f53429.libsyn.com/running-out-of-chips-and-into-cocoon]]></link>
+      <description><![CDATA[<p>This week, Brendon, Federico, and John tackle the RAM shortage and its effect on the handheld industry before digging into Cocoon 2.0, an excellent Android front-end for your emulators.</p> <p>Also available on YouTube <a href= "https://www.youtube.com/playlist?list=PL5wbFvsqxKKHeOVpbfZaAStwK05MB-Uhi"> here</a>.</p> <p><strong>Links and Show Notes</strong></p> <p><strong>AYN Odin 3 Ultra Available Again for Pre-Order</strong></p> <ul> <li><a href="https://www.ayn.hk/products/odin-3-ultra">AYN Odin 3 Ultra</a></li> </ul> <p><strong>RAM Shortage & Industry Impact</strong></p> <ul> <li><a href= "https://liliputing.com/the-out-of-stock-steam-deck-is-the-latest-victim-of-the-ram-storage-shortage/"> The out-of-stock Steam Deck is the latest victim of the RAM & storage shortage</a></li> </ul> <p><strong>Cocoon 2.0 Frontend</strong></p> <ul> <li><a href="https://github.com/nickolasdias/cocoon">Cocoon 2.0</a></li> </ul> <p><strong>Subscribe to NPC XL</strong></p> <p>NPC XL is a weekly members-only version of NPC with extra content, available exclusively through our new Patreon for $5/month.</p> <p>Each week on NPC XL, Federico, Brendon, and John record a special segment or deep dive about a particular topic that is released alongside the "regular" NPC episodes.</p> <p>You can subscribe here: https://www.patreon.com/c/NextPortableConsole</p> <p><strong>Leave Feedback for John, Federico, and Brendon</strong></p> <ul> <li><a href= "https://giant-smash-219.notion.site/2d235e3fe8d880129f22fb81cdd47acc?pvs=105"> NPC Feedback Form</a></li> </ul> <p><strong>Credits</strong></p> <p>Show Art: <a href="https://brendonbigley.com/">Brendon Bigley</a><br /> Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p><strong>Follow Us Online</strong></p> <p><strong>On the Web</strong></p> <ul> <li><a href="https://www.macstories.net/">MacStories.net</a></li> <li><a href= "https://wavelengths.online/">Wavelengths.online</a></li> </ul> <p><strong>Follow us on Mastodon</strong></p> <ul> <li><a href="https://mastodon.macstories.net/@npc">NPC</a></li> <li><a href= "https://mastodon.macstories.net/@viticci">Federico</a></li> <li><a href= "https://mastodon.macstories.net/@johnvoorhees">John</a></li> <li><a href= "https://mastodon.macstories.net/@brendonbigley@mastodon.social">Brendon</a></li> </ul> <p><strong>Follow us on Bluesky</strong></p> <ul> <li><a href= "https://bsky.app/profile/npc.macstories.net">NPC</a></li> <li><a href= "https://bsky.app/profile/macstories.net">MacStories</a></li> <li><a href= "https://bsky.app/profile/viticci.macstories.net">Federico Viticci</a></li> <li><a href= "https://bsky.app/profile/johnvoorhees.macstories.net">John Voorhees</a></li> <li><a href= "https://bsky.app/profile/bb.wavelengths.online">Brendon Bigley</a></li> </ul> <p><a href="https://www.macstories.net/privacy-policy/">Affiliate Linking Policy</a></p>]]></description>
+      
+      <content:encoded><![CDATA[<p>This week, Brendon, Federico, and John tackle the RAM shortage and its effect on the handheld industry before digging into Cocoon 2.0, an excellent Android front-end for your emulators.</p> <p>Also available on YouTube <a href= "https://www.youtube.com/playlist?list=PL5wbFvsqxKKHeOVpbfZaAStwK05MB-Uhi"> here</a>.</p> <p>Links and Show Notes</p> <p>AYN Odin 3 Ultra Available Again for Pre-Order</p> <ul> <li><a href="https://www.ayn.hk/products/odin-3-ultra">AYN Odin 3 Ultra</a></li> </ul> <p>RAM Shortage & Industry Impact</p> <ul> <li><a href= "https://liliputing.com/the-out-of-stock-steam-deck-is-the-latest-victim-of-the-ram-storage-shortage/"> The out-of-stock Steam Deck is the latest victim of the RAM & storage shortage</a></li> </ul> <p>Cocoon 2.0 Frontend</p> <ul> <li><a href="https://github.com/nickolasdias/cocoon">Cocoon 2.0</a></li> </ul> <p>Subscribe to NPC XL</p> <p>NPC XL is a weekly members-only version of NPC with extra content, available exclusively through our new Patreon for $5/month.</p> <p>Each week on NPC XL, Federico, Brendon, and John record a special segment or deep dive about a particular topic that is released alongside the "regular" NPC episodes.</p> <p>You can subscribe here: https://www.patreon.com/c/NextPortableConsole</p> <p>Leave Feedback for John, Federico, and Brendon</p> <ul> <li><a href= "https://giant-smash-219.notion.site/2d235e3fe8d880129f22fb81cdd47acc?pvs=105"> NPC Feedback Form</a></li> </ul> <p>Credits</p> <p>Show Art: <a href="https://brendonbigley.com/">Brendon Bigley</a> Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>Follow Us Online</p> <p>On the Web</p> <ul> <li><a href="https://www.macstories.net/">MacStories.net</a></li> <li><a href= "https://wavelengths.online/">Wavelengths.online</a></li> </ul> <p>Follow us on Mastodon</p> <ul> <li><a href="https://mastodon.macstories.net/@npc">NPC</a></li> <li><a href= "https://mastodon.macstories.net/@viticci">Federico</a></li> <li><a href= "https://mastodon.macstories.net/@johnvoorhees">John</a></li> <li><a href= "https://mastodon.macstories.net/@brendonbigley@mastodon.social">Brendon</a></li> </ul> <p>Follow us on Bluesky</p> <ul> <li><a href= "https://bsky.app/profile/npc.macstories.net">NPC</a></li> <li><a href= "https://bsky.app/profile/macstories.net">MacStories</a></li> <li><a href= "https://bsky.app/profile/viticci.macstories.net">Federico Viticci</a></li> <li><a href= "https://bsky.app/profile/johnvoorhees.macstories.net">John Voorhees</a></li> <li><a href= "https://bsky.app/profile/bb.wavelengths.online">Brendon Bigley</a></li> </ul> <p><a href="https://www.macstories.net/privacy-policy/">Affiliate Linking Policy</a></p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/secure/c0dd2be0-6cea-4c41-89e9-45a209f53429/NPC_Episode_69.mp3?dest-id=4573812" length="45129073" type="audio/mpeg" />
+      <itunes:duration>31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
     
     <item>
       <title>Folding, Flipping, and a Handheld Heavyweight</title>
