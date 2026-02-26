@@ -4,7 +4,7 @@
 		<description><![CDATA[Daily livestreams recorded in front of a live virtual audience. Mostly runners. Sometimes, we talk about running.]]></description>
 		<link>https://www.youtube.com/kofuzi</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 24 Feb 2026 18:02:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 13:02:07 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1dc575c0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Michael Ko]]></author>
 		<copyright><![CDATA[Michael Ko]]></copyright>
@@ -22,6 +22,22 @@
 			<itunes:category text="Running"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+		<item>
+			<title><![CDATA[back to running. Monday February 23, 2026]]></title>
+			<description><![CDATA[<p>getting back into the swing of things </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/kofuzi/episodes/back-to-running--Monday-February-23--2026-e3fi4f1</link>
+			<guid isPermaLink="false">06e621e8-713e-4183-a6f8-40f31e3b34ed</guid>
+			<dc:creator><![CDATA[Michael Ko]]></dc:creator>
+			<pubDate>Wed, 25 Feb 2026 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1dc575c0/podcast/play/115986337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418744834-44100-2-8c3dddb6c0d4b.mp3" length="53653001" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;getting back into the swing of things &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:55:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Black Canyon 100k. Thursday Feb 19, 2026]]></title>
 			<description><![CDATA[<p>i ran my first 100k at the Black Canyon 100k and all i got was a belt buckle</p>

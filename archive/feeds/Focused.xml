@@ -2,7 +2,7 @@
   <channel>
     <title>Focused</title>
     <link>https://www.relay.fm/focused</link>
-    <pubDate>Tue, 10 Feb 2026 22:30:00 GMT</pubDate>
+    <pubDate>Tue, 24 Feb 2026 14:45:00 GMT</pubDate>
     <description>David Sparks and Mike Schmitz are not nearly as productive as they’d like to be. Join these fellow travelers (and a bunch of special guests) as they share the best ways to get focused, and talk through their successes and failures along the way. Hosted by David Sparks and Mike Schmitz.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -18,6 +18,28 @@
     <itunes:category text="Business">
       <itunes:category text="Careers"/>
     </itunes:category>
+    <item>
+      <title>250: Planning Your Week</title>
+      <description/>
+      <pubDate>Tue, 24 Feb 2026 14:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/pscrb.fm/rss/p/traffic.libsyn.com/relayfreeagents/focused250.mp3" length="66398112" type="audio/mp3"/>
+      <link>http://relay.fm/focused/250</link>
+      <guid>http://relay.fm/focused/250</guid>
+      <itunes:title>Planning Your Week</itunes:title>
+      <itunes:episode>250</itunes:episode>
+      <itunes:author>David Sparks and Mike Schmitz</itunes:author>
+      <itunes:subtitle>David &amp; Mike discuss how to plan your week and share their own weekly planning workflows.</itunes:subtitle>
+      <itunes:summary>David &amp; Mike discuss how to plan your week and share their own weekly planning workflows.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>4134</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>David &amp; Mike discuss how to plan your week and share their own weekly planning workflows.</p>
+ <h4>This episode of Focused is sponsored by:</h4> <ul>
+<li><a href="https://gusto.com/focused">Gusto</a>: Payroll, HR, Benefits. Simplified. Get 3 months free.</li>
+</ul>
+<h4>Links and Show Notes:</h4>  <h5><a href='https://relay.fm/focused/join'>Deep Focus: Extended ad-free episodes with bonus deep dive content.</a></h5> <h5><a href="https://learn.macsparky.com/p/productivity-pro-26" target="_blank">Productivity Field Guide 2026 (Pro Edition) | MacSparky Field Guides</a></h5> <h5><a href="https://geni.us/read-4dx" target="_blank">The 4 Disciplines of Execution</a></h5> <h5><a href="https://supernote.com/pages/supernote-nomad" target="_blank">Supernote Nomad</a></h5> <h5><a href="https://ugmonk.com/products/analog-weekly-cards" target="_blank">Analog Weekly Cards | Ugmonk</a></h5> <h5><a href="https://geni.us/end-of-burnout" target="_blank">The End of Burnout by Jonathan Malesic</a></h5> <h5><a href="https://geni.us/peace-of-wild-things" target="_blank">The Peace Of Wild Things by Wendell Berry</a></h5>]]>
+      </content:encoded>
+    </item>
     <item>
       <title>249: What if This Were Easy? with Ernie Svenson</title>
       <description/>

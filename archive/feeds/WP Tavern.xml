@@ -15,7 +15,7 @@
 		<atom:link href="https://wptavern.com/feed/podcast/wp-tavern/" rel="self" type="application/rss+xml"/>
 		<link>https://wptavern.com/series/wp-tavern</link>
 		<description>The WP Tavern Jukebox is a podcast for the WordPress community. We interview people who are pushing change in how WordPress evolves. Plugins, Blocks, Themes, Community, Events, Accessibility and Diversity; we try to cover all the bases. Subscribe to be updated when we bring you new content.</description>
-		<lastBuildDate>Wed, 18 Feb 2026 15:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 15:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2021 WordPress Tavern</copyright>
 		<itunes:subtitle>A podcast about WordPress and the WordPress community.</itunes:subtitle>
@@ -48,6 +48,31 @@
 		<!-- podcast_generator="SSP by Castos/3.14.2" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
 		
 <site xmlns="com-wordpress:feed-additions:1">9006382</site>
+<item>
+	<title>#206 &#8211; Jonathan Desrosiers on WordPress Sustainability, Community Engagement, and Release Strategies</title>
+	<link>https://wptavern.com/podcast/206-jonathan-desrosiers-on-wordpress-sustainability-community-engagement-and-release-strategies</link>
+	<pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[WordPress Tavern]]></dc:creator>
+	<guid isPermaLink="false">e3d5ec2f-4221-5d51-8c46-bbdbecb55e03</guid>
+	<description><![CDATA[In this episode, Nathan Wrigley speaks with Jonathan Desrosiers about tying WordPress releases to flagship community events like WordCamps. They discuss the logistical challenges, especially around scheduling, international holidays, and global contributor coverage. The conversation explores the evolving WordPress community, impacts of COVID, renewed excitement for building, and initiatives to involve younger contributors. They touch on the role of AI, resurgence in open web tools, and ensuring WordPress remains relevant and exciting for future generations.]]></description>
+	<itunes:subtitle><![CDATA[In this episode, Nathan Wrigley speaks with Jonathan Desrosiers about tying WordPress releases to flagship community events like WordCamps. They discuss the logistical challenges, especially around scheduling, international holidays, and global contribut]]></itunes:subtitle>
+	<content:encoded><![CDATA[In this episode, Nathan Wrigley speaks with Jonathan Desrosiers about tying WordPress releases to flagship community events like WordCamps. They discuss the logistical challenges, especially around scheduling, international holidays, and global contributor coverage. The conversation explores the evolving WordPress community, impacts of COVID, renewed excitement for building, and initiatives to involve younger contributors. They touch on the role of AI, resurgence in open web tools, and ensuring WordPress remains relevant and exciting for future generations.]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/601a97348e9993-63339407/2371244/c1e-q4m0mu7pj3gij98o5-9jwpvm3kfm0v-ewmafm.mp3" length="43768140" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[In this episode, Nathan Wrigley speaks with Jonathan Desrosiers about tying WordPress releases to flagship community events like WordCamps. They discuss the logistical challenges, especially around scheduling, international holidays, and global contributor coverage. The conversation explores the evolving WordPress community, impacts of COVID, renewed excitement for building, and initiatives to involve younger contributors. They touch on the role of AI, resurgence in open web tools, and ensuring WordPress remains relevant and exciting for future generations.]]></itunes:summary>
+	<itunes:image href="https://wptavern.com/wp-content/uploads/2026/02/206-Jonathan-Desrosiers-on-WordPress-Sustainability-Community-Engagement-and-Release-Strategies.jpg"></itunes:image>
+	<image>
+		<url>https://wptavern.com/wp-content/uploads/2026/02/206-Jonathan-Desrosiers-on-WordPress-Sustainability-Community-Engagement-and-Release-Strategies.jpg</url>
+		<title>#206 &#8211; Jonathan Desrosiers on WordPress Sustainability, Community Engagement, and Release Strategies</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:45:06</itunes:duration>
+	<itunes:author><![CDATA[WordPress Tavern]]></itunes:author>	<googleplay:description><![CDATA[In this episode, Nathan Wrigley speaks with Jonathan Desrosiers about tying WordPress releases to flagship community events like WordCamps. They discuss the logistical challenges, especially around scheduling, international holidays, and global contributor coverage. The conversation explores the evolving WordPress community, impacts of COVID, renewed excitement for building, and initiatives to involve younger contributors. They touch on the role of AI, resurgence in open web tools, and ensuring WordPress remains relevant and exciting for future generations.]]></googleplay:description>
+	<googleplay:image href="https://wptavern.com/wp-content/uploads/2026/02/206-Jonathan-Desrosiers-on-WordPress-Sustainability-Community-Engagement-and-Release-Strategies.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
 <item>
 	<title>#205 &#8211; Matt Cromwell on Redefining WordPress Product Growth in a Crowded Ecosystem</title>
 	<link>https://wptavern.com/podcast/205-matt-cromwell-on-redefining-wordpress-product-growth-in-a-crowded-ecosystem</link>

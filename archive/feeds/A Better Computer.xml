@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link href="https://feeds.simplecast.com/kULRmujj" rel="self" title="MP3 Audio" type="application/atom+xml"/>
+    <atom:link href="https://simplecast.superfeedr.com" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <generator>https://simplecast.com</generator>
+    <title>A Better Computer</title>
+    <description>A weekly dive into the best of tech.</description>
+    <copyright>2026 Birchtree Productions, LLC</copyright>
+    <language>en</language>
+    <pubDate>Tue, 24 Feb 2026 19:55:08 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 19:58:29 +0000</lastBuildDate>
+    <image>
+      <link>https://a-better-computer.simplecast.com</link>
+      <title>A Better Computer</title>
+      <url>https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/764daacc-20e0-4cb7-8dc1-7c7ec726caf1/3000x3000/abc_podcast.jpg?aid=rss_feed</url>
+    </image>
+    <link>https://a-better-computer.simplecast.com</link>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>A weekly dive into the best of tech.</itunes:summary>
+    <itunes:author>Matt Birchler</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/764daacc-20e0-4cb7-8dc1-7c7ec726caf1/3000x3000/abc_podcast.jpg?aid=rss_feed"/>
+    <itunes:new-feed-url>https://feeds.simplecast.com/kULRmujj</itunes:new-feed-url>
+    <itunes:keywords>ai,apple,technology</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Matt Birchler</itunes:name>
+      <itunes:email>matt@birchtree.me</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">eebb8e7f-df24-4b01-a00e-982d9c2a2a41</guid>
+      <title>This is a podcast?</title>
+      <description><![CDATA[<p>Welcome to the debut episode of the podcast. Today we'll be talking about the Six Colors Apple report card, as well as Ben Thompson's new opinions on a couple of things about Xbox. You can also watch <a href="https://www.youtube.com/@ABetterComputer" rel="noopener noreferrer">on the YouTube channel.</a></p>
+<ul>
+ <li><a href="https://sixcolors.com/post/2026/02/2025reportcard/" rel="noopener noreferrer">Six Colors Apple report card</a></li>
+ <li><a href="https://dithering.passport.online/member" rel="noopener noreferrer">Dithering</a></li>
+</ul>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></description>
+      <pubDate>Tue, 24 Feb 2026 19:55:08 +0000</pubDate>
+      <author>matt@birchtree.me (Matt Birchler)</author>
+      <link>https://a-better-computer.simplecast.com/episodes/this-is-a-podcast-tz4leIHv</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/dee401a2-e623-4d8c-bc87-97a8e03aab8a/001.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Welcome to the debut episode of the podcast. Today we'll be talking about the Six Colors Apple report card, as well as Ben Thompson's new opinions on a couple of things about Xbox. You can also watch <a href="https://www.youtube.com/@ABetterComputer" rel="noopener noreferrer">on the YouTube channel.</a></p>
+<ul>
+ <li><a href="https://sixcolors.com/post/2026/02/2025reportcard/" rel="noopener noreferrer">Six Colors Apple report card</a></li>
+ <li><a href="https://dithering.passport.online/member" rel="noopener noreferrer">Dithering</a></li>
+</ul>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></content:encoded>
+      <enclosure length="21922262" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/e9b28540-9f72-4695-adae-637977d0d9bf/eec05e93-3340-4802-8979-b845f667b6ea/episodes/audio/group/1df8e4eb-37a5-4e2a-8518-5e294e1e77d4/group-item/42b88736-156c-4fae-909d-dc5ec74d8af1/128_default_tc.mp3?aid=rss_feed&amp;feed=kULRmujj"/>
+      <itunes:title>This is a podcast?</itunes:title>
+      <itunes:author>Matt Birchler</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/764daacc-20e0-4cb7-8dc1-7c7ec726caf1/3000x3000/abc_podcast.jpg?aid=rss_feed"/>
+      <itunes:duration>00:14:30</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
