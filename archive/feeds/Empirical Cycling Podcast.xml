@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:609637479/sounds.rss?before=594860211" rel="next" type="application/rss+xml"/>
         <title>Empirical Cycling Podcast</title>
         <link>http://www.empiricalcycling.com/</link>
-        <pubDate>Thu, 19 Feb 2026 20:27:29 +0000</pubDate>
-        <lastBuildDate>Thu, 19 Feb 2026 20:27:29 +0000</lastBuildDate>
+        <pubDate>Wed, 25 Feb 2026 15:24:20 +0000</pubDate>
+        <lastBuildDate>Wed, 25 Feb 2026 15:24:20 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -29,6 +29,19 @@ Empirical Cycling is a coaching company specializing in individualized training 
         </image>
         <itunes:category text="Sports"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/2273197247</guid>
+      <title>Watts Doc #62: Setting Up Your n=1 Training Experiment</title>
+      <pubDate>Wed, 25 Feb 2026 15:24:20 +0000</pubDate>
+      <link>https://soundcloud.com/empiricalcyclingpodcast/watts-doc-62-setting-up-your-n</link>
+      <itunes:duration>01:49:43</itunes:duration>
+      <itunes:author>Empirical Cycling</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>We tackle the ideas of unique responders, the role of performance variability in differentiating training response between individuals, pitfalls in interpreting typical individual response data, and the experimental setup required to actually tease these things apart. Then we walk through a couple easy principles to apply the takeaways in your own training.</itunes:summary>
+      <itunes:subtitle>We tackle the ideas of unique responders, the rol…</itunes:subtitle>
+      <description>We tackle the ideas of unique responders, the role of performance variability in differentiating training response between individuals, pitfalls in interpreting typical individual response data, and the experimental setup required to actually tease these things apart. Then we walk through a couple easy principles to apply the takeaways in your own training.</description>
+      <enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/2273197247-empiricalcyclingpodcast-watts-doc-62-setting-up-your-n.mp3" length="105329057"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-9gfaTvLjzIyN6pwX-TtLbnQ-t3000x3000.png"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/2269775624</guid>
       <title>Ten Minute Tips #73: Things We Wish We Knew About Training, Racing, and Coaching</title>
       <pubDate>Thu, 19 Feb 2026 20:27:29 +0000</pubDate>

@@ -5,7 +5,7 @@
 		<description>The director’s commentary track for Daring Fireball. Long digressions on Apple, technology, design, movies, and more.</description>
 		<link>https://daringfireball.net/thetalkshow</link>
 		<language>en</language>
-		<lastBuildDate>Sat, 31 Jan 2026 22:52:39 EDT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 17:13:29 EDT</lastBuildDate>
 		<itunes:new-feed-url>https://daringfireball.net/thetalkshow/rss</itunes:new-feed-url>
 		<itunes:author>Daring Fireball / John Gruber</itunes:author>
 		<itunes:image href="https://daringfireball.net/thetalkshow/graphics/df-the-talk-show-album-art.png" />
@@ -17,6 +17,61 @@
 		<itunes:category text="Technology" />
 		<copyright>Copyright 2025 John Gruber</copyright>
 <!-- Latest -->
+		<item>
+			<title>441: ‘Serious Opinionators’, With Adam Engst</title>
+			<link>https://daringfireball.net/thetalkshow/2026/02/25/ep-441</link>
+			<guid>https://daringfireball.net/thetalkshow/2026/02/25/ep-441</guid>
+			<pubDate>Wed, 25 Feb 2026 17:13:29 EDT</pubDate>
+			<enclosure url="https://traffic.libsyn.com/secure/daringfireball/thetalkshow-441-adam-engst.mp3" length="63037417" type="audio/mpeg" />
+			<itunes:duration>02:10:46</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:author>Daring Fireball / John Gruber</itunes:author>
+			<description>Adam Engst returns to the show to talk, in detail, about certain of the UI changes in iOS 26 and Apple's version 26 OSes overall. In particular, the new Unified view in the Phone app, and the Filter pop-up menu in both the Phone and Messages apps. Also: a shoutout to Balloon Help.</description>
+			<itunes:image href="https://daringfireball.net/thetalkshow/graphics/df-the-talk-show-album-art.png" />
+			<content:encoded><![CDATA[
+
+<p>Adam Engst returns to the show to talk, in detail, about certain of the UI changes in iOS 26 and Apple's version 26 OSes overall. In particular, the new Unified view in the Phone app, and the Filter pop-up menu in both the Phone and Messages apps. Also: a shoutout to <a href="https://512pixels.net/2020/09/kbase-week-balloon-help/">Balloon Help</a>.</p>
+
+<p><strong>Sponsored by:</strong></p>
+
+<ul>
+<li><a href="https://sentry.io/talkshow">Sentry</a>: A real-time error monitoring and tracing platform. Use code <strong>TALKSHOW</strong> for $80 in free credits.</li>
+<li><a href="https://squarespace.com/talkshow">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>talkshow</strong>.</li>
+<li><a href="https://factormeals.com/talkshow50off">Factor</a>: Healthy eating, made easy. Get 50% off your first box, plus free breakfast for 1 year, with code <strong>talkshow50off</strong>.</li>
+</ul>
+
+<p><strong>Transcripts:</strong> <a href="http://podsearch.david-smith.org/shows/11">Unofficial but surprisingly good</a>.</p>
+
+<p><strong>Links:</strong></p>
+
+<ul>
+<li>Adam’s two pieces on the Classic and Unified views in the iOS 26 Phone app:
+<ul><li>“<a href="https://tidbits.com/2025/12/07/hidden-setting-controls-what-happens-when-you-tap-a-call-in-the-phone-app/">Hidden Setting Controls What Happens When You Tap a Call in the Phone App</a>”.</li>
+<li>“<a href="https://tidbits.com/2025/11/10/comparing-the-classic-and-unified-views-in-ios-26s-phone-app/">Comparing the Classic and Unified Views in iOS 26’s Phone App</a>”.</li>
+<li><a href="https://daringfireball.net/linked/2026/01/28/comparing-the-classic-and-unified-views-in-ios-26s-phone-app">My link post, with some commentary</a>.</li></ul></li>
+<li><a href="https://tidbits.com/2025/12/08/tidbits-needs-your-support-in-2026/">Reader support for TidBITS in 2026</a>.</li>
+<li><a href="https://indieweb.social/@brentsimmons/115846213935605782">Brent Simmons, linking to code, on how to eliminate all the menu item icons in a Mac app built for MacOS 26 Tahoe</a>.</li>
+<li><a href="https://onefoottsunami.com/">Paul Kafasis’s One Foot Tsunami</a>.</li>
+<li>Nikita Prokopov: “<a href="https://tonsky.me/blog/tahoe-icons/">It’s Hard to Justify Tahoe (Menu Bar) Icons</a>”.
+<ul><li><a href="https://daringfireball.net/linked/2026/01/05/hard-to-justify-tahoe-icons">Yours truly, linking to Prokopov</a>: “A shitty idea that works against usability, inconsistently implemented, all in the name of adding some ugly visual bling to the UI.”</li></ul></li>
+<li>Jim Nielsen on Tahoe’s menu-item icons: “<a href="https://blog.jim-nielsen.com/2025/icons-in-menus/">Icons in Menus Everywhere — Send Help</a>”.
+<ul><li><a href="https://daringfireball.net/linked/2026/01/06/nielsen-icons-in-menus">Yours truly, linking to Nielsen</a>: “Well, who’s laughing now?”</li></ul></li>
+<li>Norbert Heger: “<a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/">The Struggle of Resizing Windows on macOS Tahoe</a>” — <a href="https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/">and a follow-up</a>.</li>
+<li>Daring Fireball: “<a href="https://daringfireball.net/2026/01/resizing_windows_macos_26">Why It’s Difficult to Resize Windows on MacOS 26 Dyehoe</a>”.</li>
+<li>Daring Fireball: “<a href="https://daringfireball.net/2025/12/bad_dye_job">Bad Dye Job</a>”.</li>
+<li>Episode sponsor Sentry’s two-minute video <a href="https://www.youtube.com/watch?v=awpCpQPQxbE">showing how to use Seer, their AI debugging agent</a>.</li>
+<li><a href="https://developer.apple.com/documentation/tipkit/">TipKit Apple Developer documentation</a>.</li>
+<li><a href="https://512pixels.net/2020/09/kbase-week-balloon-help/">Balloon Help in System 7</a>.</li>
+<li><a href="https://www.applefirst50.com">David Pogue’s soon-to-be-released book: “Apple: The First 50 Years”</a>.</li>
+</ul>
+
+<p><em>This episode of The Talk Show was edited by Caleb Sexton.</em></p>
+
+]]>
+		</content:encoded>
+		</item>
+
+<!-- /Latest -->
 		<item>
 			<title>440: ‘Flush a Radar’, With Brent Simmons</title>
 			<link>https://daringfireball.net/thetalkshow/2026/01/31/ep-440</link>
@@ -54,8 +109,6 @@
 ]]>	
 		</content:encoded>
 		</item>
-
-<!-- /Latest -->
 		<item>
 			<title>439: ‘A Mitigated Disaster’, With Daniel Jalkut</title>
 			<link>https://daringfireball.net/thetalkshow/2026/01/26/ep-439</link>
