@@ -8,8 +8,8 @@
     <description>A weekly news show where your favorite Engadget editors tear themselves away from their crippling technology addiction, to discuss our collective crippling technology addiction.</description>
     <copyright>© All rights reserved</copyright>
     <language>en</language>
-    <pubDate>Thu, 19 Feb 2026 23:40:01 +0000</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 23:40:12 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2026 22:01:03 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2026 22:01:13 +0000</lastBuildDate>
     <image>
       <link>https://art19.com/shows/engadget-pod</link>
       <title>The Engadget Podcast</title>
@@ -27,6 +27,44 @@
       <itunes:email>tips@engadget.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">602abe50-32c9-4c14-a375-490092e5a1cc</guid>
+      <title>Xbox&apos;s leadership shakeup + Samsung&apos;s Galaxy S26 is here</title>
+      <description><![CDATA[<p>This week, we're diving into the big changes at Xbox and what it all means for Microsoft's gaming future. Phil Spencer, the longtime face of Xbox, announced he's retiring last week. He'll be replaced by Microsoft's former CoreAI CEO Asha Sharma, instead of his longtime deputy Sarah Bond, who plans to leave the company. Will this change actually help the beleaguered Xbox division, or is it another example of Microsoft shoving AI into everything? </p>
+<p>Also, Samsung held its latest Galaxy Unpacked event this week to announce its new Galaxy S26 family. They look pretty much the same as last year, but the Ultra model includes a unique privacy feature that can instantly make the screen unreadable to bystanders. It's one of those features we expect to see in every phone eventually.</p>
+<p>Xbox leadership falls apart. what happens next with Phil Spencer and Sarah Bond out? – 1:53</p>
+<p>Samsung Galaxy Unpacked: Privacy display on the S26 Ultra looks amazing – 27:27</p>
+<p>U.S. Defense leadership gives Anthropic a Friday deadline to let it use Claude as it sees fit – 42:38</p>
+<p>MrBeast editor accused of insider trading on Kalshi – 50:40</p>
+<p>Discord delays age verification program after user revolt – 54:09</p>
+<p>Around Engadget – 1:04:04</p>
+<p>Working on – 1:05:16</p>
+<p>Pop culture picks – 1:08:21</p>
+]]></description>
+      <pubDate>Thu, 26 Feb 2026 22:01:03 +0000</pubDate>
+      <author>tips@engadget.com (Engadget)</author>
+      <link>https://art19.com/shows/engadget-pod</link>
+      <content:encoded><![CDATA[<p>This week, we're diving into the big changes at Xbox and what it all means for Microsoft's gaming future. Phil Spencer, the longtime face of Xbox, announced he's retiring last week. He'll be replaced by Microsoft's former CoreAI CEO Asha Sharma, instead of his longtime deputy Sarah Bond, who plans to leave the company. Will this change actually help the beleaguered Xbox division, or is it another example of Microsoft shoving AI into everything? </p>
+<p>Also, Samsung held its latest Galaxy Unpacked event this week to announce its new Galaxy S26 family. They look pretty much the same as last year, but the Ultra model includes a unique privacy feature that can instantly make the screen unreadable to bystanders. It's one of those features we expect to see in every phone eventually.</p>
+<p>Xbox leadership falls apart. what happens next with Phil Spencer and Sarah Bond out? – 1:53</p>
+<p>Samsung Galaxy Unpacked: Privacy display on the S26 Ultra looks amazing – 27:27</p>
+<p>U.S. Defense leadership gives Anthropic a Friday deadline to let it use Claude as it sees fit – 42:38</p>
+<p>MrBeast editor accused of insider trading on Kalshi – 50:40</p>
+<p>Discord delays age verification program after user revolt – 54:09</p>
+<p>Around Engadget – 1:04:04</p>
+<p>Working on – 1:05:16</p>
+<p>Pop culture picks – 1:08:21</p>
+]]></content:encoded>
+      <enclosure length="69831764" type="audio/mpeg" url="https://injector.simplecastaudio.com/d3dc597c-2303-4fd3-8d9f-9066bd1aaa52/episodes/d3f05802-78a9-4421-9c5b-83b66df1963b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d3dc597c-2303-4fd3-8d9f-9066bd1aaa52&amp;awEpisodeId=d3f05802-78a9-4421-9c5b-83b66df1963b&amp;feed=GyJnPUxL"/>
+      <itunes:title>Xbox&apos;s leadership shakeup + Samsung&apos;s Galaxy S26 is here</itunes:title>
+      <itunes:author>Engadget</itunes:author>
+      <itunes:duration>01:12:13</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>300</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">3ed2ea1a-d1eb-4184-8413-a9ccb7da590e</guid>
       <title>Instagram on trial + RAMaggedon rages on</title>

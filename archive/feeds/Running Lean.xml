@@ -15,11 +15,11 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.runningleanpodcast.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://www.runningleanpodcast.com/</link>
 	<description>Get leaner and get stronger so you can run faster and run longer than you ever thought possible.</description>
-	<lastBuildDate>Fri, 20 Feb 2026 06:00:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Feb 2026 06:00:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.8.3</generator>
+		<generator>https://wordpress.org/?v=6.9.1</generator>
 
 <image>
 	<url>https://www.runningleanpodcast.com/wp-content/uploads/2023/04/cropped-running-lean-favicon-32x32.png</url>
@@ -64,6 +64,41 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:guid>7e9af8c4-7838-5b7d-a1aa-cc6b26b9836a</podcast:guid>
 	<rawvoice:subscribe feed="https://www.runningleanpodcast.com/feed/podcast/" html="https://www.runningleanpodcast.com/subscribe/" itunes="https://podcasts.apple.com/us/podcast/running-lean/id1492819721" blubrry="https://blubrry.com/therunningmindpodcast/" spotify="https://open.spotify.com/show/72KqZFtcRSoZFpPVTgJYvZ" amazon_music="https://music.amazon.com/podcasts/76caec9b-04e9-4831-8e9f-4eaed959742c/Running-Lean" iheart="https://www.iheart.com/podcast/269-the-running-mind-podcast-55298488/" deezer="https://www.deezer.com/us/show/753172"></rawvoice:subscribe>
 	<item>
+		<title>322. How to Build Unshakable Self-Trust</title>
+		<link>https://www.runningleanpodcast.com/322-how-to-build-unshakable-self-trust/</link>
+		<pubDate>Fri, 27 Feb 2026 06:00:23 +0000</pubDate>
+		<guid isPermaLink="false">https://www.runningleanpodcast.com/?p=2372</guid>
+		<description><![CDATA[<p>Today we’re talking about something that impacts every single workout, every food choice, and every goal you set—but almost nobody trains directly: self-trust.</p>
+<p>In this episode, How to Build Unshakable Self-Trust, I’m breaking down what self-trust actually is, what it’s not, why so many runners quietly lose it, and—most importantly—how to build it back stronger than ever.</p>
+<p>Because here’s the truth: if you don’t trust yourself, you’ll second-guess your training, sabotage your nutrition, overcommit, underdeliver, and keep starting over.</p>
+<p>And this isn’t about hype or affirmations.</p>
+<p>It’s about integrity.</p>
+<p>It’s about alignment.</p>
+<p>It’s about becoming someone who does what they say they’re going to do.</p>
+<p>If you want to lose weight, get stronger, and become a better runner, you have to solve this first.</p>
+<h2>Start The Leaner, Stronger Runner Project</h2>
+<p>Ready to stop guessing and start making real progress?</p>
+<p>If you’re training hard but not getting the results you want…<br />
+If running feels harder than it should…<br />
+If you know you <em>could</em> be leaner, stronger, and more confident — but you’re not sure what to fix first…</p>
+<p>That’s exactly why I created <strong>The Leaner, Stronger Runner Project</strong>.</p>
+<p>This is a step-by-step coaching program for runners who want to:</p>
+<ul>
+<li>Lose fat without wrecking their training</li>
+<li>Build real, functional strength that makes running feel easier</li>
+<li>Fuel their body the right way so energy stays high and cravings calm down</li>
+<li>Develop the mindset and habits that make progress stick for life</li>
+</ul>
+<p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
+<p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<p>The post <a href="https://www.runningleanpodcast.com/322-how-to-build-unshakable-self-trust/">322. How to Build Unshakable Self-Trust</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
+		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/322_How_to_Build_Unshakable_Self-Trust.mp3" length="19977965" type="audio/mpeg" />
+		<itunes:author>Patrick McGilvray</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>19:49</itunes:duration>
+	</item>
+	<item>
 		<title>321. Run Faster Without Getting Fitter: The Truth About Running Economy</title>
 		<link>https://www.runningleanpodcast.com/321-run-faster-without-getting-fitter-the-truth-about-running-economy/</link>
 		<pubDate>Fri, 20 Feb 2026 06:00:46 +0000</pubDate>
@@ -91,7 +126,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/321-run-faster-without-getting-fitter-the-truth-about-running-economy/">321. Run Faster Without Getting Fitter: The Truth About Running Economy</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/321_Run_Faster_Without_Getting_Fitter_The_Truth_About_Running_Economy.mp3" length="21466132" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -123,7 +158,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/320-your-weak-links-are-slowing-you-down/">320. Your Weak Links Are Slowing You Down</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/320_Your_Weak_Links_Are_Slowing_You_Down.mp3" length="22306403" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -155,7 +190,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/319-the-winter-running-survival-guide/">319. The Winter Running Survival Guide</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/319_The_Winter_Running_Survival_Guide.mp3" length="20585028" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -196,7 +231,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/318-if-youre-always-struggling-youre-doing-it-wrong/">318. If You’re Always Struggling, You’re Doing It Wrong</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/318_If_You_re_Always_Struggling_You_re_Doing_It_Wrong.mp3" length="25195263" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -230,7 +265,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/317-you-cant-rush-progress/">317. You Can’t Rush Progress</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/317_You_Cant_Rush_Progress.mp3" length="22441779" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -264,7 +299,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/316-the-leaner-stronger-runner-framework-part-3-why-motivation-isnt-the-problem/">316. The Leaner, Stronger Runner Framework Part 3: Why Motivation Isn’t the Problem</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/316_The_Leaner_Stronger_Runner_Framework_Part_3_Why_Motivation_Isnt_the_Problem.mp3" length="5242880" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -297,7 +332,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/315-the-leaner-stronger-runner-framework-part-2-how-runners-should-actually-eat/">315. The Leaner, Stronger Runner Framework Part 2: How Runners Should Actually Eat</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/15_The_Leaner_Stronger_Runner_Framework_Part_2_How_Runners_Should_Actually_Eat.mp3" length="26674907" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -333,7 +368,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/314-the-leaner-stronger-runner-framework-part-1-why-running-more-isnt-the-answer/">314. The Leaner, Stronger Runner Framework Part 1: Why Running More Isn’t the Answer</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/314_The_Leaner_Stronger_Runner_Framework_Part_1_Why_Running_More_Isn_t_the_Answer.mp3" length="12569900" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -367,7 +402,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>The post <a href="https://www.runningleanpodcast.com/313-what-this-year-taught-you-if-youre-willing-to-look/">313. What This Year Taught You (If You’re Willing to Look)</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/313_What_This_Year_Taught_You_If_You_re_Willing_to_Look.mp3" length="16896861" type="audio/mpeg" />
 		<itunes:author>Patrick McGilvray</itunes:author>
@@ -400,7 +435,7 @@ If you know you <em>could</em> be leaner, stronger, and more confident — but y
 </ul>
 <p>You’ll get clear guidance, proven strategies, and ongoing coaching — all designed specifically for runners. No extremes. No random plans. No spinning your wheels.</p>
 <p>If you’re ready to train smarter, fuel better, and finally feel strong in your body again,<br />
-<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
+<img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> to learn more and get started today.</strong></p>
 <p>That’s how you stop starting over — and start running lean.</p>
 <p>The post <a href="https://www.runningleanpodcast.com/312-why-starting-over-every-january-never-works-and-what-actually-does/">312. Why Starting Over Every January Never Works (And What Actually Does)</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
 		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/312_Why_Starting_Over_Every_January_Never_Works_And_What_Actually_Does.mp3" length="15967607" type="audio/mpeg" />
@@ -8826,24 +8861,6 @@ The Run Smarter Series website: <a href="https://www.runsmarter.online" target="
 		<itunes:author>Patrick McGilvray</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>39:27</itunes:duration>
-	</item>
-	<item>
-		<title>24. A Weight Loss Coach? For Runners?</title>
-		<link>https://www.runningleanpodcast.com/24-a-weight-loss-coach-for-runners/</link>
-		<pubDate>Fri, 12 Jun 2020 05:00:23 +0000</pubDate>
-		<guid isPermaLink="false">https://www.therunningmindpodcast.com/?p=246</guid>
-		<description><![CDATA[<p>A lot of people, especially non-runners, believe that running is a cure-all for every health ailment out there today, especially being overweight. People think that if they are overweight, all they have to do is start running and they will magically lose all the weight and live happily ever after&#8230; the end.</p>
-<p>The truth is very different though. Running is NOT the magic pill for weight loss. It’s just not. There’s a lot more going on that we have to look at. Running is amazing though, and it definitely plays a role in living a healthy vibrant life, but it’s not everything.</p>
-<p>So&#8230; yes runners, just like everyone else, need a coach to show them the way.</p>
-<p>Today I’m going to talk about why I decided to become a weight loss coach for runners, what this means for you, and the AHA moment I had that completely shifted my thinking around running, health, fitness, and diet.</p>
-<p>If you enjoy this episode and it inspires you in some way, I&#8217;d love to hear about it and know your biggest takeaway! Take a screenshot of you listening on your device, post it to your Instagram Stories, and tag me <a href="https://instagram.com/pmcgilvray" target="_blank" rel="noopener noreferrer">@pmcgilvray</a>.</p>
-<p>Be sure to join the discussion in the <strong>Running Lean Community</strong> on Facebook! If you listen to this podcast, you HAVE to come check out our Facebook group, the two go hand-in-hand. Join here (it&#8217;s totally free!): <a href="https://www.facebook.com/groups/runninglean/" target="_blank" rel="noopener noreferrer">www.facebook.com/groups/runninglean</a></p>
-<p>Haven&#8217;t left a review yet? All you need to do is go to <a href="https://www.runningleanpodcast.com/itunes">www.runningleanpodcast.com/itunes</a>, scroll down, and tap the stars! You can also write a quick review. Thank you for your support of the show!</p>
-<p>The post <a href="https://www.runningleanpodcast.com/24-a-weight-loss-coach-for-runners/">24. A Weight Loss Coach? For Runners?</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
-		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/A_Weight_Loss_Coach_For_Runners.mp3" length="27763035" type="audio/mpeg" />
-		<itunes:author>Patrick McGilvray</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>28:21</itunes:duration>
 	</item>
 </channel>
 </rss>

@@ -29,7 +29,7 @@
     <atom:link href="https://feedpress.me/9to5machappyhour" rel="self" type="application/rss+xml"/>
     <link>https://www.9to5mac.com</link>
     <description>A weekly podcast discussing the latest in Apple and technology. Hosted by 9to5Mac's Benjamin Mayo and Chance Miller.</description>
-    <lastBuildDate>Fri, 20 Feb 2026 13:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 21:19:18 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
@@ -47,6 +47,398 @@ hourly</sy:updatePeriod>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://static.feedpress.com/logo/9to5machappyhour-65ce9512a63ea.jpg"/>
     <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
+    <item>
+      <title>Touchscreen MacBook Pro details, deep red iPhone 18, US Mac mini production </title>
+      <link>https://9to5mac.com/2026/02/26/happy-hour-579/</link>
+      <comments>https://9to5mac.com/2026/02/26/happy-hour-579/#respond</comments>
+      <dc:creator>9to5Mac</dc:creator>
+      <pubDate>Thu, 26 Feb 2026 20:14:24 +0000</pubDate>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://9to5mac.com/?p=1040884</guid>
+      <description><![CDATA[
+<p>Benjamin and Chance are back, with a news-packed episode just before an exciting week of Apple hardware launches. But first, iOS 26.4 beta is here, a deep red color is rumored for the iPhone 18 Pro, and Bloomberg details some of the software affordances coming to macOS to support the touch screen MacBook Pro. Also, Samsung surprises with a clever dynamic privacy display on their new flagship phones.</p>
+
+
+
+<p><a href="https://9to5mac.com/join/">And in Happy Hour Plus</a>, the creators of Dark Sky have left Apple to form a new weather app for enthusiasts, Acme Weather. Subscribe at <a href="http://9to5mac.com/join">9to5mac.com/join</a>. </p>
+
+
+
+<ul class="wp-block-list">
+<li><strong><a href="https://apps.apple.com/app/apple-store/id904237743?pt=13942&ct=Podcast_9to5&mt=8" target="_blank" rel="noreferrer noopener">Sponsored by Things</a></strong>: The award-winning to-do app, with a fresh look for OS 26, new features, and more. </li>
+
+
+
+<li><a href="https://shopify.com/happyhour"><strong>Sponsored by Shopify</strong></a>: See less carts go abandoned and more sales. Sign up for a $1 per month trial at <a href="https://shopify.com/happyhour" target="_blank" rel="noreferrer noopener">shopify.com/happyhour</a>.</li>
+
+
+
+<li><a href="https://stamps.com/"><strong>Sponsored by Stamps.com</strong></a>: Send from your computer or phone 24/7. Try <a href="https://stamps.com/">Stamps.com</a> risk-free for sixty days with code happyhour.</li>
+
+
+
+<li><a href="https://nordstellar.com/happyhour"><strong>Sponsored by NordStellar</strong></a>: Defend your business with NordStellar. Unlock a 10% discount with coupon code nordhappyhour-10 at <a href="https://nordstellar.com/happyhour" target="_blank" rel="noreferrer noopener">nordstellar.com/happyhour</a>.</li>
+</ul>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://dts.podtrac.com/redirect.mp3/pfx.vpixl.com/sla7w/pscrb.fm/rss/p/9to5mac.com/wp-content/uploads/sites/6/2026/02/HH-579.mp3"></audio></figure>
+
+
+
+<!--more-->
+
+
+
+<h2 class="wp-block-heading" id="h-hosts">Hosts</h2>
+
+
+
+<p><strong>Chance Miller </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://x.com/chancehmiller" target="_blank" rel="noreferrer noopener">@ChanceHMiller on Twitter</a></li>
+
+
+
+<li><a href="https://www.instagram.com/chancehmiller/">@ChanceHMiller on Instagram </a></li>
+
+
+
+<li><a href="https://www.threads.net/@ChanceHMiller">@ChanceHMiller on Threads</a></li>
+</ul>
+
+
+
+<p><strong>Benjamin Mayo</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="http://twitter.com/bzamayo">@bzamayo on Twitter</a></li>
+
+
+
+<li><a href="https://spacey.space/@bzamayo@mastodon.social">@bzamayo@mastodon.social</a></li>
+
+
+
+<li><a href="https://www.threads.net/@bzamayo">@bzamayo on Threads</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Subscribe, Rate, and Review</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://itunes.apple.com/us/podcast/9to5mac-happy-hour/id641836403?mt=2">Apple Podcasts</a></li>
+
+
+
+<li><a href="https://overcast.fm/itunes641836403/9to5mac-happy-hour">Overcast</a></li>
+
+
+
+<li><a href="https://open.spotify.com/show/3SnFGJhK1o1WG822SN0y7f">Spotify</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-9to5mac-happy-hour-plus">9to5Mac Happy Hour Plus</h2>
+
+
+
+<p><a href="https://9to5mac.com/join/">Subscribe to 9to5Mac Happy Hour Plus</a>! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Ad-free versions of every episode </li>
+
+
+
+<li>Pre- and post-show content</li>
+
+
+
+<li>Bonus episodes</li>
+</ul>
+
+
+
+<p>Join for $5 per month or $50 a year at <a href="http://9to5mac.com/join">9to5mac.com/join</a>. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-feedback">Feedback </h2>
+
+
+
+<ul class="wp-block-list">
+<li>Submit #Ask9to5Mac questions on Twitter, <a href="https://mastodon.social/@ChanceHMiller/110623113919600059">Mastodon</a>, or Threads</li>
+
+
+
+<li>Email us feedback and questions to happyhour@9to5mac.com </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-links">Links</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://9to5mac.com/2026/02/26/new-apple-product-launch-starts-monday-tim-cook-confirms/">New Apple product launch starts Monday, Tim Cook confirms</a></li>
+
+
+
+<li><a href="https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/">Galaxy S26 Ultra's Privacy Display is the best new feature in years</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/23/ios-26-4-beta-2-heres-whats-new/">iOS 26.4 beta 2: Here's what's new</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/23/ios-26-4-beta-2-adds-support-for-testing-encrypted-rcs-between-iphone-and-android/">iOS 26.4 beta 2 adds support for testing encrypted RCS between iPhone and Android</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/22/iphone-18-pro-rumored-to-come-in-new-red-color-iphone-fold-details/">Apple testing 'deep red' color for iPhone 18 Pro, but iPhone Fold may skip the fun: report</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/23/why-red-iphone-18-pro-would-be-an-exciting-first-despite-its-many-red-predecessors/">iPhone 18 Pro design could include an exciting first</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/24/new-m6-macbook-pro-details-revealed-including-dynamic-island-touch-more/">New M6 MacBook Pro details revealed, including Dynamic Island, touch, more</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/23/apple-announces-plans-to-manufacture-mac-mini-in-united-states-this-year/">Apple announces plans to manufacture some new Macs in the United States this year</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/24/apple-shares-more-details-photos-and-video-of-us-mac-mini-plant/">Apple shares more details, photos, and video of US Mac mini plant</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/25/apples-low-cost-macbook-might-lack-these-key-features/">Apple’s low-cost MacBook might lack these features</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/25/apple-battling-rising-component-costs-in-low-cost-macbook-production/">Apple battling rising component costs in low-cost MacBook production</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/02/23/new-weather-app-from-dark-sky-forecasts/">New ‘Acme Weather’ app from Dark Sky creators wants to fix weather apps’ biggest problem</a></li>
+</ul>
+]]></description>
+      <wfw:commentRss>https://9to5mac.com/2026/02/26/happy-hour-579/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">1040884</post-id>
+      <itunes:author>9to5Mac</itunes:author>
+      <itunes:owner>
+        <itunes:email>webmaster@9to5mac.com</itunes:email>
+      </itunes:owner>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="http://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1024"/>
+      <itunes:summary>Benjamin and Chance are back, with a news-packed episode just before an exciting week of Apple hardware launches. But first, iOS 26.4 beta is here, a deep red color is rumored for the iPhone 18 Pro, and Bloomberg details some of the software affordances coming to macOS to support the touch screen MacBook Pro. Also, Samsung surprises with a clever dynamic privacy display on their new flagship phones.
+
+
+
+And in Happy Hour Plus, the creators of Dark Sky have left Apple to form a new weather app for enthusiasts, Acme Weather. Subscribe at 9to5mac.com/join. 
+
+
+
+
+Sponsored by Things: The award-winning to-do app, with a fresh look for OS 26, new features, and more. 
+
+
+
+Sponsored by Shopify: See less carts go abandoned and more sales. Sign up for a $1 per month trial at shopify.com/happyhour.
+
+
+
+Sponsored by Stamps.com: Send from your computer or phone 24/7. Try Stamps.com risk-free for sixty days with code happyhour.
+
+
+
+Sponsored by NordStellar: Defend your business with NordStellar. Unlock a 10% discount with coupon code nordhappyhour-10 at nordstellar.com/happyhour.
+
+
+
+
+
+
+
+
+
+
+
+
+Hosts
+
+
+
+Chance Miller 
+
+
+
+
+@ChanceHMiller on Twitter
+
+
+
+@ChanceHMiller on Instagram 
+
+
+
+@ChanceHMiller on Threads
+
+
+
+
+Benjamin Mayo
+
+
+
+
+@bzamayo on Twitter
+
+
+
+@bzamayo@mastodon.social
+
+
+
+@bzamayo on Threads
+
+
+
+
+Subscribe, Rate, and Review
+
+
+
+
+Apple Podcasts
+
+
+
+Overcast
+
+
+
+Spotify
+
+
+
+
+9to5Mac Happy Hour Plus
+
+
+
+Subscribe to 9to5Mac Happy Hour Plus! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: 
+
+
+
+
+Ad-free versions of every episode 
+
+
+
+Pre- and post-show content
+
+
+
+Bonus episodes
+
+
+
+
+Join for $5 per month or $50 a year at 9to5mac.com/join. 
+
+
+
+Feedback 
+
+
+
+
+Submit #Ask9to5Mac questions on Twitter, Mastodon, or Threads
+
+
+
+Email us feedback and questions to happyhour@9to5mac.com 
+
+
+
+
+Links
+
+
+
+
+New Apple product launch starts Monday, Tim Cook confirms
+
+
+
+Galaxy S26 Ultra's Privacy Display is the best new feature in years
+
+
+
+iOS 26.4 beta 2: Here's what's new
+
+
+
+iOS 26.4 beta 2 adds support for testing encrypted RCS between iPhone and Android
+
+
+
+Apple testing 'deep red' color for iPhone 18 Pro, but iPhone Fold may skip the fun: report
+
+
+
+iPhone 18 Pro design could include an exciting first
+
+
+
+New M6 MacBook Pro details revealed, including Dynamic Island, touch, more
+
+
+
+Apple announces plans to manufacture some new Macs in the United States this year
+
+
+
+Apple shares more details, photos, and video of US Mac mini plant
+
+
+
+Apple’s low-cost MacBook might lack these features
+
+
+
+Apple battling rising component costs in low-cost MacBook production
+
+
+
+New ‘Acme Weather’ app from Dark Sky creators wants to fix weather apps’ biggest problem</itunes:summary>
+      <itunes:subtitle>Benjamin and Chance are back, with a news-packed episode just...</itunes:subtitle>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/pfx.vpixl.com/sla7w/pscrb.fm/rss/p/9to5mac.com/wp-content/uploads/sites/6/2026/02/HH-579.mp3" length="0" type="audio/mpeg"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>579</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>3224</itunes:duration>
+      <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
+    </item>
     <item>
       <title>Apple event confirmed, iOS 26.4 features, Apple AI devices </title>
       <link>https://9to5mac.com/2026/02/19/happy-hour-578/</link>
@@ -36621,358 +37013,6 @@ Apple sues former iOS engineer for leaking Journal app, Vision Pro details, and 
       <itunes:episode>480</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>3518</itunes:duration>
-      <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
-    </item>
-    <item>
-      <title>WWDC 2024 announced, DOJ sues Apple</title>
-      <link>https://9to5mac.com/2024/03/28/happy-hour-479/</link>
-      <comments>https://9to5mac.com/2024/03/28/happy-hour-479/#respond</comments>
-      <dc:creator>9to5Mac</dc:creator>
-      <pubDate>Thu, 28 Mar 2024 19:28:57 +0000</pubDate>
-      <category><![CDATA[News]]></category>
-      <guid isPermaLink="false">https://9to5mac.com/?p=940423</guid>
-      <description><![CDATA[
-<p>Benjamin and Chance go deep on the Department of Justice vs. Apple suit, in which the DOJ alleges Apple’s iPhone monopoly is illegally maintained. In happier news, Apple announced the dates for WWDC 2024 where we expect to see major AI announcements as part of iOS 18, and much more.</p>
-
-
-
-<p><a href="https://9to5mac.com/join" target="_blank" rel="noreferrer noopener">And in Happy Hour Plus</a>, we rank our favorite WWDC invite artwork from the last decade. Subscribe at <a href="https://9to5mac.com/join" target="_blank" rel="noreferrer noopener">9to5mac.com/join</a>.</p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://linkedin.com/HAPPYHOUR" target="_blank" rel="noreferrer noopener"><strong>Sponsored by LinkedIn Jobs:</strong></a> LinkedIn Jobs helps you find the candidates you want to talk to, faster. Post your job for free at <a href="https://linkedin.com/HAPPYHOUR" target="_blank" rel="noreferrer noopener"><strong>LinkedIn.com/HAPPYHOUR</strong></a>.</li>
-
-
-
-<li><a href="https://www.fast-growing-trees.com/collections/sale?utm_source=podcast&utm_medium=description&utm_campaign=9to5" target="_blank" rel="noreferrer noopener">Sponsored by Fast Growing Trees</a>: Fast Growing Trees makes it easy to order online, and your plants are shipped directly to your door in 1-2 days. Get an <a href="https://www.fast-growing-trees.com/collections/sale?utm_source=podcast&utm_medium=description&utm_campaign=9to5" target="_blank" rel="noreferrer noopener">additional 15% off</a> with code <strong><a href="https://www.fast-growing-trees.com/collections/sale?utm_source=podcast&utm_medium=description&utm_campaign=9to5" target="_blank" rel="noreferrer noopener">HAPPYHOUR at checkout</a></strong>. </li>
-</ul>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://9to5mac.com/wp-content/uploads/sites/6/2024/03/HH-479.mp3"></audio></figure>
-
-
-
-<!--more-->
-
-
-
-<h2 class="wp-block-heading" id="h-9to5mac-happy-hour-plus">9to5Mac Happy Hour Plus</h2>
-
-
-
-<p><a href="https://9to5mac.com/join/">Introducing 9to5Mac Happy Hour Plus</a>! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: </p>
-
-
-
-<ul class="wp-block-list">
-<li>Ad-free versions of every episode </li>
-
-
-
-<li>Pre- and post-show content</li>
-
-
-
-<li>Monthly bonus episodes</li>
-</ul>
-
-
-
-<p>Join for $5 per month or $50 a year at <a href="http://9to5mac.com/join">9to5mac.com/join</a>. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-hosts">Hosts</h2>
-
-
-
-<p><strong>Chance Miller </strong></p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="http://twitter.com/ChanceHMiller">@ChanceHMiller on Twitter</a></li>
-
-
-
-<li><a href="https://mastodon.social/@ChanceHMiller" target="_blank" rel="noreferrer noopener">@chancehmiller@mastodon.social</a></li>
-
-
-
-<li><a href="https://www.instagram.com/chancehmiller/">@ChanceHMiller on Instagram </a></li>
-
-
-
-<li><a href="https://www.threads.net/@ChanceHMiller">@ChanceHMiller on Threads</a></li>
-</ul>
-
-
-
-<p><strong>Benjamin Mayo</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="http://twitter.com/bzamayo">@bzamayo on Twitter</a></li>
-
-
-
-<li><a href="https://spacey.space/@bzamayo@mastodon.social">@bzamayo@mastodon.social</a></li>
-
-
-
-<li><a href="https://www.threads.net/@bzamayo">@bzamayo on Threads</a></li>
-</ul>
-
-
-
-<h2 class="wp-block-heading">Subscribe, Rate, and Review</h2>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://itunes.apple.com/us/podcast/9to5mac-happy-hour/id641836403?mt=2">Apple Podcasts</a></li>
-
-
-
-<li><a href="https://overcast.fm/itunes641836403/9to5mac-happy-hour">Overcast</a></li>
-
-
-
-<li><a href="https://open.spotify.com/show/3SnFGJhK1o1WG822SN0y7f">Spotify</a></li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-feedback">Feedback </h2>
-
-
-
-<ul class="wp-block-list">
-<li>Submit #Ask9to5Mac questions on Twitter, <a href="https://mastodon.social/@ChanceHMiller/110623113919600059">Mastodon</a>, or Threads</li>
-
-
-
-<li>Email us feedback and questions to happyhour@9to5mac.com </li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-links">Links</h2>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://9to5mac.com/2024/03/26/wwdc-2024-official-date-confirmed/">WWDC 2024 confirmed for June 10: iOS 18 and more expected</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/03/26/wwdc-2024-ai-features/">Apple teases 'Absolutely Incredible' AI-focused WWDC</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/03/21/apple-says-doj-lawsuit-threatens-who-we-are-as-it-vows-to-vigorously-defend-against-it/">Apple says DOJ 'threatens who we are' as it vows to 'vigorously defend' against iPhone antitrust lawsuit</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/03/21/doj-sues-apple-full-lawsuit-document-here/">United States sues Apple: Read the full DOJ lawsuit document here</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/03/21/apple-watch-android-apple-work/">Apple says it spent three years trying to bring Apple Watch to Android</a></li>
-
-
-
-<li><a href="https://www.macstories.net/stories/understanding-the-dojs-antitrust-complaint-against-apple/">Understanding the DOJ's Antitrust Complaint Against Apple - MacStories</a></li>
-
-
-
-<li><a href="https://9to5mac.com/wp-content/uploads/sites/6/2024/03/wwdc-art-across-the-years.jpg" target="_blank" rel="noreferrer noopener">WWDC artwork over the years</a></li>
-
-
-
-<li><a href="https://bzamayo.com/osx-wwdc-banner" target="_blank" rel="noreferrer noopener">Mac OS X Mavericks banner</a></li>
-</ul>
-]]></description>
-      <wfw:commentRss>https://9to5mac.com/2024/03/28/happy-hour-479/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <post-id xmlns="com-wordpress:feed-additions:1">940423</post-id>
-      <itunes:author>9to5Mac</itunes:author>
-      <itunes:owner>
-        <itunes:email>webmaster@9to5mac.com</itunes:email>
-      </itunes:owner>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="http://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1024"/>
-      <itunes:summary>Benjamin and Chance go deep on the Department of Justice vs. Apple suit, in which the DOJ alleges Apple’s iPhone monopoly is illegally maintained. In happier news, Apple announced the dates for WWDC 2024 where we expect to see major AI announcements as part of iOS 18, and much more.
-
-
-
-And in Happy Hour Plus, we rank our favorite WWDC invite artwork from the last decade. Subscribe at 9to5mac.com/join.
-
-
-
-
-Sponsored by LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Post your job for free at LinkedIn.com/HAPPYHOUR.
-
-
-
-Sponsored by Fast Growing Trees: Fast Growing Trees makes it easy to order online, and your plants are shipped directly to your door in 1-2 days. Get an additional 15% off with code HAPPYHOUR at checkout. 
-
-
-
-
-
-
-
-
-
-
-
-
-9to5Mac Happy Hour Plus
-
-
-
-Introducing 9to5Mac Happy Hour Plus! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: 
-
-
-
-
-Ad-free versions of every episode 
-
-
-
-Pre- and post-show content
-
-
-
-Monthly bonus episodes
-
-
-
-
-Join for $5 per month or $50 a year at 9to5mac.com/join. 
-
-
-
-Hosts
-
-
-
-Chance Miller 
-
-
-
-
-@ChanceHMiller on Twitter
-
-
-
-@chancehmiller@mastodon.social
-
-
-
-@ChanceHMiller on Instagram 
-
-
-
-@ChanceHMiller on Threads
-
-
-
-
-Benjamin Mayo
-
-
-
-
-@bzamayo on Twitter
-
-
-
-@bzamayo@mastodon.social
-
-
-
-@bzamayo on Threads
-
-
-
-
-Subscribe, Rate, and Review
-
-
-
-
-Apple Podcasts
-
-
-
-Overcast
-
-
-
-Spotify
-
-
-
-
-Feedback 
-
-
-
-
-Submit #Ask9to5Mac questions on Twitter, Mastodon, or Threads
-
-
-
-Email us feedback and questions to happyhour@9to5mac.com 
-
-
-
-
-Links
-
-
-
-
-WWDC 2024 confirmed for June 10: iOS 18 and more expected
-
-
-
-Apple teases 'Absolutely Incredible' AI-focused WWDC
-
-
-
-Apple says DOJ 'threatens who we are' as it vows to 'vigorously defend' against iPhone antitrust lawsuit
-
-
-
-United States sues Apple: Read the full DOJ lawsuit document here
-
-
-
-Apple says it spent three years trying to bring Apple Watch to Android
-
-
-
-Understanding the DOJ's Antitrust Complaint Against Apple - MacStories
-
-
-
-WWDC artwork over the years
-
-
-
-Mac OS X Mavericks banner</itunes:summary>
-      <itunes:subtitle>Benjamin and Chance go deep on the Department of Justice...</itunes:subtitle>
-      <enclosure url="http://chrt.fm/track/C52FCG/dts.podtrac.com/redirect.mp3/9to5mac.com/wp-content/uploads/sites/6/2024/03/HH-479.mp3" length="0" type="audio/mpeg"/>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>479</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>5509</itunes:duration>
       <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
     </item>
   </channel>

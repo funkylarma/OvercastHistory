@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/34357/destinations/81636.xml" rel="self" type="application/rss+xml"/>
     <title>Official PlayStation Podcast</title>
-    <pubDate>Fri, 13 Feb 2026 18:27:47 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 18:27:47 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 17:52:22 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 17:52:22 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>https://blog.playstation.com</link>
     <language>en</language>
@@ -52,6 +52,31 @@
     
     
     
+    
+    <item>
+      <title>Episode  535: Returning Residents</title>
+      <itunes:title>Episode  535: Returning Residents</itunes:title>
+      <pubDate>Fri, 27 Feb 2026 17:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[12951eda-c1f5-4aef-a167-032e24b1795d]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-535-returning-residents]]></link>
+      <description><![CDATA[<p>Hey, everybody! Tim, Kristen, and O'Dell are back this week to talk about the horrors of Racoon City, Reanimal, and trying to conquer your backlog before a wave of new games comes for us all. Along with our various journeys through Greece in God of War Sons of Sparta. </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Tim, Kristen, and O'Dell are back this week to talk about the horrors of Racoon City, Reanimal, and trying to conquer your backlog before a wave of new games comes for us all. Along with our various journeys through Greece in God of War Sons of Sparta. </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_535.mp3?dest-id=81636" length="59781457" type="audio/mpeg" />
+      <itunes:duration>31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
     
     <item>
       <title>Episode 534: State of Sparta</title>
@@ -1266,31 +1291,6 @@
       
       <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_486.mp3?dest-id=81636" length="61743147" type="audio/mpeg" />
       <itunes:duration>42:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Episode 485: Hope For Humanity</title>
-      <itunes:title>Episode 485: Hope For Humanity</itunes:title>
-      <pubDate>Fri, 24 May 2024 16:22:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[6df545e7-5e63-401f-883f-26e814c2ba77]]></guid>
-      <link><![CDATA[https://playstation.libsyn.com/episode-485-hope-for-humanity]]></link>
-      <description><![CDATA[<p>Hey y'all! The team returns for a punchy pod covering this week's news in gaming. Plus a listener writes in, prompting a deep dive into challenging puzzle game recommendations.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>Hey y'all! The team returns for a punchy pod covering this week's news in gaming. Plus a listener writes in, prompting a deep dive into challenging puzzle game recommendations.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_485.mp3?dest-id=81636" length="38667411" type="audio/mpeg" />
-      <itunes:duration>26:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       
       <itunes:keywords />

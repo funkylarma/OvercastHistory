@@ -2,7 +2,7 @@
   <channel>
     <title>Reconcilable Differences</title>
     <link>https://www.relay.fm/rd</link>
-    <pubDate>Thu, 12 Feb 2026 22:00:00 GMT</pubDate>
+    <pubDate>Fri, 27 Feb 2026 05:00:00 GMT</pubDate>
     <description>John Siracusa and Merlin Mann try to figure out exactly how they got this way. Hosted by Merlin Mann and John Siracusa.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -16,6 +16,39 @@
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>281: I’m the Hero</title>
+      <description/>
+      <pubDate>Fri, 27 Feb 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/recdiffs/recdifferences281v2.mp3" length="92831306" type="audio/mp3"/>
+      <link>http://relay.fm/rd/281</link>
+      <guid>http://relay.fm/rd/281</guid>
+      <itunes:title>I’m the Hero</itunes:title>
+      <itunes:episode>281</itunes:episode>
+      <itunes:author>Merlin Mann and John Siracusa</itunes:author>
+      <itunes:subtitle>On holes, art, and the nature of friendship.</itunes:subtitle>
+      <itunes:summary>On holes, art, and the nature of friendship.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>5780</itunes:duration>
+      <content:encoded>
+        <![CDATA[<h4>Subtitle: John's systems are a problem.</h4><p>On holes, art, and the nature of friendship.</p>
+ <h4>Links and Show Notes:</h4> <p>On holes, art, and the nature of friendship.</p>
+
+<p>(<em>Recorded on Tuesday, February 3, 2026</em>)</p>
+
+<hr>
+
+<h5>Credits</h5>
+
+<ul>
+<li><strong>Beloved Audio Editor</strong>: <a href="https://www.threads.net/@jmetzendorf">Jim Metzendorf</a><br></li>
+<li><strong>Admin Assistance</strong>: <a href="https://www.linkedin.com/in/kerry-provenzano-b1605085/">Kerry Provenzano</a><br></li>
+<li><strong>Music</strong>: <a href="https://mastodon.social/@hotdogsladies">Merlin Mann</a></li>
+<li><strong>The Suits</strong>: <a href="https://eworld.social/@ismh86">Stephen Hackett</a>, <a href="http://threads.net/imyke">Myke Hurley</a></li>
+</ul>
+ <h5><a href='https://relay.fm/rd/join'>Get an ad-free version of the show, plus a monthly extended episode.</a></h5> <h5><a href="https://en.wikipedia.org/wiki/Five_Short_Graybles" target="_blank">Five Short Graybles - Wikipedia</a></h5> <h5><a href="https://namingschemes.com/Main_Page" target="_blank">Naming Schemes</a></h5> <h5><a href="https://www.fergusonhome.com/product/summary/1184554" target="_blank">Elkay Dayton 25" Drop In Single Basin Stainless Steel Kitchen Sink</a></h5> <h5><a href="https://s3.img-b.com/image/private/t_base,c_pad,f_auto,dpr_2,w_570,h_570/product/elkay/elkay-d125224-115168.jpg" target="_blank">An image of a sink with 4 holes on the rim and one drain hole</a></h5> <h5><a href="https://hachyderm.io/@quiddle/116076144622700639" target="_blank">Thaddeus Quintin’s sink hole advice</a></h5> <h5><a href="https://thegalley.com/models/tap/isd-1/" target="_blank">Todd’s soap dispenser</a></h5> <h5><a href="https://en.wikipedia.org/wiki/Joris-Karl_Huysmans" target="_blank">Joris-Karl Huysmans - Wikipedia</a></h5> <h5><a href="https://www.youtube.com/watch?v=dRr5iVjMfqs" target="_blank">Colin from This Does Not Compute converts his Maclock into a working Mac</a></h5> <h5><a href="https://www.etsy.com/listing/4336553523/corgi-261-aston-martin-db5-model-car-007" target="_blank">Corgi 261 Aston Martin DB5 model car</a></h5> <h5><a href="https://www.youtube.com/watch?v=Pm19250ihO8" target="_blank">Maize. You call it corn.</a></h5> <h5><a href="https://www.youtube.com/watch?v=KlNAYCcxgUw" target="_blank">Wednesday is Prince spaghetti day</a></h5>]]>
+      </content:encoded>
+    </item>
     <item>
       <title>280: How Dangerous I Can Be</title>
       <description/>
