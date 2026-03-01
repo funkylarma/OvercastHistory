@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Domestique Cycling Podcast</title>
 
-  <lastBuildDate>Mon, 23 Feb 2026 19:10:23 +0100</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 06:05:10 -0500</lastBuildDate>
   <link>https://www.domestiquecycling.com/</link>
   <language>en-gb</language>
   <copyright>© 2026 Domestique Cycling Podcast</copyright>
@@ -36,6 +36,24 @@
   <itunes:category text="Sports">
     <itunes:category text="Fantasy Sports" />
   </itunes:category>
+  <item>
+    <itunes:title>Zac Marriage, the guy who went 2nd fastest up Coll de Rates - Domestique Hotseat Podcast</itunes:title>
+    <title>Zac Marriage, the guy who went 2nd fastest up Coll de Rates - Domestique Hotseat Podcast</title>
+    <itunes:summary><![CDATA[Zac Marriage is 22 years old, from Adelaide, and he is quietly building one of the more interesting careers in the peloton right now. He started on the track, won Australia's biggest one-day race, raced across Asia and Africa, landed a stagiaire contract with Israel Premier Tech — and watched the Vuelta a España descend into chaos from his house in Girona. Now he's riding for the NSN development team with one clear goal: make it to the WorldTour by the end of the year. In this Hotseat, Zac ta...]]></itunes:summary>
+    <description><![CDATA[<p>Zac Marriage is 22 years old, from Adelaide, and he is quietly building one of the more interesting careers in the peloton right now. He started on the track, won Australia&apos;s biggest one-day race, raced across Asia and Africa, landed a stagiaire contract with Israel Premier Tech — and watched the Vuelta a España descend into chaos from his house in Girona. Now he&apos;s riding for the NSN development team with one clear goal: make it to the WorldTour by the end of the year.</p><p>In this Hotseat, Zac talks about what it&apos;s like to uproot your life at 22 and move to Spain, what he learned riding alongside Chris Froome at a training camp in Italy, the Pro Velo Superleague and whether Australia&apos;s domestic scene has finally found its feet, and why Africa might be cycling&apos;s most exciting frontier right now.</p>]]></description>
+    <content:encoded><![CDATA[<p>Zac Marriage is 22 years old, from Adelaide, and he is quietly building one of the more interesting careers in the peloton right now. He started on the track, won Australia&apos;s biggest one-day race, raced across Asia and Africa, landed a stagiaire contract with Israel Premier Tech — and watched the Vuelta a España descend into chaos from his house in Girona. Now he&apos;s riding for the NSN development team with one clear goal: make it to the WorldTour by the end of the year.</p><p>In this Hotseat, Zac talks about what it&apos;s like to uproot your life at 22 and move to Spain, what he learned riding alongside Chris Froome at a training camp in Italy, the Pro Velo Superleague and whether Australia&apos;s domestic scene has finally found its feet, and why Africa might be cycling&apos;s most exciting frontier right now.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498436/episodes/18751217-zac-marriage-the-guy-who-went-2nd-fastest-up-coll-de-rates-domestique-hotseat-podcast.mp3" length="44817665" type="audio/mpeg" />
+    <itunes:image href="https://storage.buzzsprout.com/39qwkc7ammhnwoxka6rxt4aiqp4x?.jpg" />
+    <itunes:author>Domestique Cycling</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18751217</guid>
+    <pubDate>Thu, 26 Feb 2026 12:00:00 +0100</pubDate>
+    <itunes:duration>3731</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>New aliens have landed in cycling - Domestique Cycling Podcast</itunes:title>
     <title>New aliens have landed in cycling - Domestique Cycling Podcast</title>

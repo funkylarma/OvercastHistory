@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/101338/destinations/535577.xml" rel="self" type="application/rss+xml"/>
     <title>THEMOVE</title>
-    <pubDate>Mon, 23 Feb 2026 19:09:33 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 19:09:33 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 20:11:43 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 20:11:43 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>https://wedu.team/themove</link>
     <language>en</language>
@@ -32,10 +32,10 @@ THEMOVE is an audio-video experience that transforms every listener from fan and
 		
 <itunes:category text="Arts" />
     <itunes:image href="https://static.libsyn.com/p/assets/0/6/8/a/068a9fff4dbfa68a/THEMOVE_2000pix.jpg" />
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>true</itunes:explicit>
     <itunes:owner>
       <itunes:name>Lance Armstrong</itunes:name>
-      <itunes:email>jb@wedu.team</itunes:email>
+      <itunes:email>spencer@wedu.team</itunes:email>
     </itunes:owner>
     <description><![CDATA[Lance Armstrong presents a singular perspective on the world's most iconic cycling races, including the Tour de France and the Classics, as well as the broader endurance sports scene. Not your typical cycling or sports podcast, THEMOVE brings listeners deep inside the racing action, imparting insights from someone who knows the suffering and splendor like no one else. In addition to  course previews and timely race analysis from Armstrong's distinct point of view, the audience also gets to hear from featured guests, who regularly swing by the THEMOVE studio to join the always-lively conversation. Guests have included former teammates like George Hincapie during the Tour de France, and Mark Allen and Dave Scott in advance of the IRONMAN World Championship. 
 
@@ -49,11 +49,36 @@ THEMOVE is an audio-video experience that transforms every listener from fan and
     
 
     
-    <podcast:locked owner="jb@wedu.team">no</podcast:locked>
+    <podcast:locked owner="spencer@wedu.team">no</podcast:locked>
     
     
     
     
+    
+    <item>
+      <title>Mathieu van der Poel's Surprise Season Debut | Omloop &amp; Kuurne Preview | THEMOVE+</title>
+      <itunes:title>Mathieu van der Poel&#39;s Surprise Season Debut | Omloop &amp;amp; Kuurne Preview | THEMOVE+</itunes:title>
+      <pubDate>Fri, 27 Feb 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b5373c80-32d9-48a1-a4bc-d9aedad0866e]]></guid>
+      <link><![CDATA[https://stages.libsyn.com/mathieu-van-der-poels-surprise-season-debut-omloop-kuurne-preview-themove]]></link>
+      <description><![CDATA[<p>Spencer Martin and Johan Bruyneel look ahead to preview cycling's opening Spring Classics weekend, with Mathieu van der Poel making his season debut at Saturday's Omloop Nieuwsblad and the sport's best sprinters facing off at Sunday's Kuurne-Brussels-Kuurne. They discuss who they think will win, share their riders and plots to watch, and then speed-rank the 10 best riders of all time.</p> <p>Become a WEDŪ Member Today to Unlock VIP Access & Benefits: <a href="https://access.wedu.team">https://access.wedu.team</a></p> <p>Gusto: Try Gusto today at <a href= "https://gusto.com/themove"><span class= "s1">https://gusto.com/themove</span></a>, and get three months free when you run your first payroll. That's three months of free payroll at <a href="https://gusto.com/themove"><span class= "s1">https://gusto.com/themove</span></a></p> <p>Rugiet Ready: Over one hundred fifty thousand men have already made the switch to Rugiet. Getting started is simple. Rugiet connects you with a board-certified doctor online and your treatment gets shipped discreetly to your door. For a limited time only, head to <a href="https://rugiet.com/THEMOVE"><span class= "s1">https://Rugiet.com/THEMOVE</span></a> to get 15% off your order.</p> <p>Rag & Bone: Upgrade your denim game with Rag & Bone! Get 20% off sitewide with code THEMOVE at <a href= "https://www.rag-bone.com/"><span class= "s1">https://www.rag-bone.com</span></a> #ragandbonepod</p> <p> </p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Spencer Martin and Johan Bruyneel look ahead to preview cycling's opening Spring Classics weekend, with Mathieu van der Poel making his season debut at Saturday's Omloop Nieuwsblad and the sport's best sprinters facing off at Sunday's Kuurne-Brussels-Kuurne. They discuss who they think will win, share their riders and plots to watch, and then speed-rank the 10 best riders of all time.</p> <p>Become a WEDŪ Member Today to Unlock VIP Access & Benefits: <a href="https://access.wedu.team">https://access.wedu.team</a></p> <p>Gusto: Try Gusto today at <a href= "https://gusto.com/themove">https://gusto.com/themove</a>, and get three months free when you run your first payroll. That's three months of free payroll at <a href="https://gusto.com/themove">https://gusto.com/themove</a></p> <p>Rugiet Ready: Over one hundred fifty thousand men have already made the switch to Rugiet. Getting started is simple. Rugiet connects you with a board-certified doctor online and your treatment gets shipped discreetly to your door. For a limited time only, head to <a href="https://rugiet.com/THEMOVE">https://Rugiet.com/THEMOVE</a> to get 15% off your order.</p> <p>Rag & Bone: Upgrade your denim game with Rag & Bone! Get 20% off sitewide with code THEMOVE at <a href= "https://www.rag-bone.com/">https://www.rag-bone.com</a> #ragandbonepod</p> <p> </p>]]></content:encoded>
+      
+      
+      <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/clrtpod.com/m/pscrb.fm/rss/p/traffic.libsyn.com/secure/stages/Mathieu_van_der_Poels_Surprise_Season_Debut__Omloop__Kuurne_Preview__THEMOVE.mp3?dest-id=535577" length="58054550" type="audio/mpeg" />
+      <itunes:duration>01:00:20</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
     
     <item>
       <title>Did We Just See Pro Cycling's Future? | UAE Tour, Algarve &amp; Ruta del Sol | THEMOVE</title>
@@ -2520,31 +2545,6 @@ THEMOVE is an audio-video experience that transforms every listener from fan and
       
       <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/clrtpod.com/m/pscrb.fm/rss/p/traffic.libsyn.com/secure/stages/tdf_26_stage_9.mp3?dest-id=535577" length="56810442" type="audio/mpeg" />
       <itunes:duration>59:05</itunes:duration>
-      <itunes:explicit>true</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Tour de France Stage 9 Preview | OŪTCOMES</title>
-      <itunes:title>Tour de France Stage 9 Preview | OŪTCOMES</itunes:title>
-      <pubDate>Sat, 12 Jul 2025 20:16:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[52e1b86c-fd13-4321-b69c-e97d9bd341a8]]></guid>
-      <link><![CDATA[https://stages.libsyn.com/tour-de-france-stage-9-preview-otcomes]]></link>
-      <description><![CDATA[<p>Johan Bruyneel and Spencer Martin reveal their picks for tomorrow's Stage 9 of the Tour de France. Listen in to see how the duo thinks the action will play out, who will come out on top, and which riders present the best betting value.</p> <div>Use our special link to see where you can bet in your area and claim the best sign-up offers</div> <div><a href="https://nxtbets.com/betoutcomes/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://nxtbets.com/betoutcomes/&source=gmail&ust=1751746058188000&usg=AOvVaw3hkon2CuKhyTSYc4MKQHA1"> https://nxtbets.com/<wbr />betoutcomes/</a></div>]]></description>
-      
-      <content:encoded><![CDATA[<p>Johan Bruyneel and Spencer Martin reveal their picks for tomorrow's Stage 9 of the Tour de France. Listen in to see how the duo thinks the action will play out, who will come out on top, and which riders present the best betting value.</p> Use our special link to see where you can bet in your area and claim the best sign-up offers <a href="https://nxtbets.com/betoutcomes/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://nxtbets.com/betoutcomes/&source=gmail&ust=1751746058188000&usg=AOvVaw3hkon2CuKhyTSYc4MKQHA1"> https://nxtbets.com/betoutcomes/</a>]]></content:encoded>
-      
-      
-      <enclosure url="https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/35/clrtpod.com/m/pscrb.fm/rss/p/traffic.libsyn.com/secure/stages/stage_9_opreview.mp3?dest-id=535577" length="13440669" type="audio/mpeg" />
-      <itunes:duration>13:54</itunes:duration>
       <itunes:explicit>true</itunes:explicit>
       
       <itunes:keywords />

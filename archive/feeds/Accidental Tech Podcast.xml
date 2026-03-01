@@ -1,5 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Fri, 20 Feb 2026 15:21:58 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">ble2n012bzqxdwix</guid><pubDate>Mon, 16 Feb 2026 17:04:18 +0000</pubDate><title>679: An Adversarial Relationship With Myself</title><itunes:title>An Adversarial Relationship With Myself</itunes:title><itunes:episode>679</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:00:49</itunes:duration><enclosure url="https://atp.fm/audio/ble2n012bzqxdwix/atp679.mp3" length="116159352" type="audio/mpeg"/><link>https://atp.fm/679</link><description><![CDATA[<ul>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Fri, 27 Feb 2026 01:08:26 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">skfmu1pkmusycwr6</guid><pubDate>Fri, 27 Feb 2026 01:08:26 +0000</pubDate><title>680: A Lot of Holes in That Cheese</title><itunes:title>A Lot of Holes in That Cheese</itunes:title><itunes:episode>680</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:34:33</itunes:duration><enclosure url="https://atp.fm/audio/skfmu1pkmusycwr6/atp680.mp3" length="149180044" type="audio/mpeg"/><link>https://atp.fm/680</link><description><![CDATA[<ul>
+<li>Pre-show: Marco&#8217;s Watch and snow <s>blows</s> woes
+
+<ul>
+<li><a href="https://trufuel50.com/">TruFuel</a></li>
+</ul></li>
+<li>Follow-up: 
+
+<ul>
+<li>Casey got the <a href="https://en.wikipedia.org/wiki/CableCARD">CableCARD</a> email 😭</li>
+<li><a href="https://shop.yosmart.com/">YoLink</a> alternatives (via Joe)
+
+<ul>
+<li><a href="https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/">IKEA Matter-over-Thread announcement</a></li>
+<li><a href="https://www.ikea.com/us/en/p/klippbok-water-leak-sensor-smart-50617769/">KLIPPBOK (leak sensor)</a></li>
+<li><a href="https://www.ikea.com/us/en/p/bilresa-remote-control-white-smart-dual-button-80617876/">BILRESA (remote control)</a></li>
+<li><a href="https://www.ikea.com/us/en/p/myggspray-wireless-motion-sensor-smart-80619451/">MYGGSPRAY (motion sensor)</a></li>
+</ul></li>
+<li>House batteries &amp; <a href="https://en.wikipedia.org/wiki/Vehicle-to-grid#Backup_power">V2H</a>/<a href="https://en.wikipedia.org/wiki/Vehicle-to-grid#Bidirectional_local_V2G_(V2H,_V2L,_V2B,_V2X)">V2L</a> (via Russel Prouse)
+
+<ul>
+<li><a href="https://www.ford.com/trucks/f150-lightning/">F-150 Lightning</a></li>
+</ul></li>
+<li>On the value of M𝑥 Pro processors (via <a href="https://toad.social/@rick_baumhauer/116101478563157974">Rick Baumhauer</a>)</li>
+<li>Tahoe window resizing workaround (via <a href="https://mas.to/@Cykelero/116119429099622872">Nathan Manceaux-Panot</a>)
+
+<ul>
+<li><code>defaults write -g AppleEdgeResizeExteriorSize 8</code></li>
+<li><code>defaults delete -g AppleEdgeResizeExteriorSize</code></li>
+</ul></li>
+<li>macOS document model
+
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2011/07/mac-os-x-10-7/#page-7">…was actually introduced in Mac OS X 10.7</a></li>
+<li><a href="http://arstechnica.com/apple/2011/07/mac-os-x-10-7/7/#document-model">…and noted in the beginning of the Mac OS X 10.8 review</a></li>
+<li>Final Cut Pro X <em>does</em> auto-save (via <a href="https://mastodon.social/@ianRobinson/116085265078848913">Ian Robinson</a>)
+
+<ul>
+<li>Technical details (via <a href="https://mastodon.social/@Videoalex/116100153358621966">Videoalex</a>)</li>
+</ul></li>
+<li>Microsoft Office 365 also auto-saves <em>onto OneDrive in Windows</em> (via <a href="https://piaille.fr/@Feersum/116105267900918267">Éric</a>)</li>
+<li>Saving files in Xcode (via Alex Kent)</li>
+<li>Returning to <code>Save As…</code> (via <a href="https://mastodon.social/@ridogi/116086781490505340">Eric deRuiter</a>)
+
+<ul>
+<li><code>System Settings</code>
+
+<ul>
+<li><code>Desktop &amp; Dock</code> → disable <code>Close windows when quitting an application</code></li>
+<li><code>Keyboard</code> → <code>Keyboard Shortcuts</code> create an entry under <code>All Applications</code> for <code>Save As…</code> (using an ellipsis by typing <code>⌥ ;</code>) and assign it to <code>⌘⇧S</code></li>
+</ul></li>
+</ul></li>
+<li><a href="https://notepad-plus-plus.org/">Notepad++</a> (via Emily Campbell)</li>
+</ul></li>
+<li>Alternative to <a href="https://www.dueapp.com/">Due</a> (via <a href="https://bsky.app/profile/dumontel.com/post/3meyn7q53sk22">Patrick Dumontel</a>)
+
+<ul>
+<li><a href="https://goodtaskapp.com/">GoodTask</a></li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026">Apple March 4 &#8220;experience&#8221;</a>
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/02/25/lower-cost-macbook-alleged-limitations/">MacRumors&#8217; roundup of low-cost MacBook limitations</a></li>
+</ul></li>
+<li><a href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/">Apple to manufacture <strong>some</strong> Mac minis in the US</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ktFlaBhpMu8">Wall Street Journal video</a></li>
+<li><a href="https://www.wsj.com/tech/what-i-saw-inside-apples-effort-to-rebuild-the-u-s-chip-supply-chain-28fb65de">Accompanying article</a>
+
+<ul>
+<li><a href="https://apple.news/AnojEseq7RYito9wuYp0J5w">Apple News link</a></li>
+</ul></li>
+<li><a href="https://appleinsider.com/articles/26/02/24/apples-us-mac-mini-assembly-plant-was-planned-during-the-biden-administration">This predates this administration?</a></li>
+</ul></li>
+<li>Ask ATP:
+
+<ul>
+<li>What are our current home &amp; lock screens? (via <a href="https://mastodon.social/@sagarpatel/116113655750367820">Sagar Patel</a>)
+
+<ul>
+<li><a href="https://atp.fm/atp-insider-roast-my-home-screen">ATP Insider: Roast My Home Screen</a></li>
+<li>John: <a href="https://cdn.atp.fm/images/20260224-johns-lock-screen-2026-02-24.png">lock</a> &amp; <a href="https://cdn.atp.fm/images/20260224-johns-home-screen-2026-02-24.png">home</a></li>
+<li>Casey: <a href="https://cdn.atp.fm/images/20260225-casey-lock-screen.jpg?v1">lock</a> &amp; <a href="https://cdn.atp.fm/images/20260225-casey-home-screen.png">home</a>
+
+<ul>
+<li><a href="https://indigosocial.app">Indigo</a></li>
+<li><a href="https://croissantapp.com">Croissant</a></li>
+</ul></li>
+<li>Marco: <a href="https://cdn.atp.fm/images/20260225-marco-lock-screen.jpg">lock</a> &amp; <a href="https://cdn.atp.fm/images/20260225-marco-home-screen.png">home</a></li>
+</ul></li>
+<li>What&#8217;s our current desktop headphone setup? (via <a href="https://mastodon.social/@potatoDOTzip/115971401161875970">ziplyne</a>)
+
+<ul>
+<li>Overtime on <a href="https://atp.fm/675">ATP #675</a></li>
+<li>Casey
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/AirPods_Pro#Third_Generation">AirPods Pro 3</a></li>
+<li><a href="https://amzn.to/4cfbrzO">Beyerdynamic DT770 Pro 32Ω</a></li>
+<li>Desktop speakers
+
+<ul>
+<li><a href="https://www.sonos.com/en-us/shop/era-100-black">Sonos Era 100</a> × 2</li>
+<li><a href="https://www.sonos.com/en-us/shop/sub-mini">Sonos Sub Mini</a></li>
+<li><a href="https://www.sonos.com/en-us/shop/sonos-combo-adapter-black">Sonos Combo Adapter</a></li>
+</ul></li>
+</ul></li>
+<li>John: 
+
+<ul>
+<li><a href="https://amzn.to/4scbb9m">Sony MDR-7506</a></li>
+<li><a href="https://amzn.to/43nSeHz">Kanto ORA4</a></li>
+<li><a href="https://atp.fm/630">ATP #630</a></li>
+</ul></li>
+<li>Marco: 
+
+<ul>
+<li>Podcasting
+
+<ul>
+<li><a href="https://www.amazon.com/dp/B07H48TGYM?tag=marcoorg-20">Beyerdynamic DT775 Pro 250Ω</a></li>
+<li><a href="https://www.thomannmusic.com/beyerdynamic_edt_1770d_ear_pads.htm">Beyerdynamic EDT1770D Earpads</a></li>
+<li>Schiit Jotunheim 2 (an older model; current is <a href="https://www.schiit.com/products/jotunheim-3">Jotunheim 3</a>)</li>
+</ul></li>
+<li>Music
+
+<ul>
+<li><a href="https://www.hifiman.com/products/detail/75">HifiMan HE6</a></li>
+</ul></li>
+<li>Speakers
+
+<ul>
+<li>KEF <a href="https://international.kef.com/products/q150-bookshelf-speaker">Q150</a> / <a href="https://us.kef.com/products/lsx-2">LSX II</a> &amp; <a href="https://us.kef.com/products/kc62-subwoofer">KC62</a></li>
+<li>Amp for Q150: <a href="https://www.amazon.com/dp/B07K7NJ4QN?tag=marcoorg-20">Fosi Audio BT30D</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Post-show: Casey&#8217;s driven more cars
+
+<ul>
+<li><a href="https://www.bmwusa.com/content/bmw/marketUS/bmwusa_com/en_US/vehicles/all-electric/i4/gran-coupe/electric-bmw-m.html">BMW i4 M50</a></li>
+<li><a href="https://www.audiusa.com/en/models/e-tron-gt/">Audi e-tron GT</a></li>
+</ul></li>
+<li><a href="https://atp.fm/join">Members-only</a> ATP Overtime: Skill shortages, Apple Silicon, and AI
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=PKfYCWLfMWA">Empowering the Next Wave of Silicon Engineers</a></li>
+</ul></li>
+</ul>
+
+<p>Sponsored by:</p>
+
+<ul>
+<li><a href="https://squarespace.com/atp">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>atp</strong>.</li>
+<li><a href="https://on.auraframes.com/ATP">Aura Frames</a>: Frames for every memory, gifts for every occasion</li>
+<li><a href="https://joindeleteme.com/ATP">DeleteMe</a>: Making it quick, easy and safe to remove your personal data online.</li>
+</ul>
+
+<p><a href="https://atp.fm/join">Become a member</a> for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!</p>
+]]></description><itunes:subtitle>Our home screens, desktop audio setups, document-saving models, what we hope to “experience” next week, and where not to aim snow.</itunes:subtitle></item><item><guid isPermaLink="false">ble2n012bzqxdwix</guid><pubDate>Mon, 16 Feb 2026 17:04:18 +0000</pubDate><title>679: An Adversarial Relationship With Myself</title><itunes:title>An Adversarial Relationship With Myself</itunes:title><itunes:episode>679</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:00:49</itunes:duration><enclosure url="https://atp.fm/audio/ble2n012bzqxdwix/atp679.mp3" length="116159352" type="audio/mpeg"/><link>https://atp.fm/679</link><description><![CDATA[<ul>
 <li>Pre-show: 
 
 <ul>
