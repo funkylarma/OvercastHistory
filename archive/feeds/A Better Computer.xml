@@ -8,8 +8,8 @@
     <description>A weekly dive into the best of tech.</description>
     <copyright>2026 Birchtree Productions, LLC</copyright>
     <language>en</language>
-    <pubDate>Tue, 24 Feb 2026 19:55:08 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 19:58:29 +0000</lastBuildDate>
+    <pubDate>Mon, 2 Mar 2026 10:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 2 Mar 2026 10:00:12 +0000</lastBuildDate>
     <image>
       <link>https://a-better-computer.simplecast.com</link>
       <title>A Better Computer</title>
@@ -28,6 +28,40 @@
       <itunes:email>matt@birchtree.me</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">04f93167-e937-4188-880b-5d38f8446e2b</guid>
+      <title>Why killing the iPad isn&apos;t what you think it is</title>
+      <description><![CDATA[<ul>
+ <li><a href="https://birchtree.me/blog/apple-will-kill-ipados/" rel="noopener noreferrer">Apple will kill iPadOS</a></li>
+ <li><a href="https://x.com/khanhduytran0/status/1989626181109653702" rel="noopener noreferrer">iPadOS already running on an iPhone</a></li>
+ <li><a href="https://birchtree.me/blog/rog-xbox-ally-x-review-amazing-performance-but-the-worst-software-ive-ever-used/" rel="noopener noreferrer">My Xbox Ally X review</a><br><a href="https://birchtree.nyc3.digitaloceanspaces.com/2026/simulator-says-ios.png" rel="noopener noreferrer">- Screenshot of the Simulator app bundling iPhones and iPads as "iOS"</a></li>
+ <li><a href="https://birchtree.nyc3.digitaloceanspaces.com/2026/ipad-on-mac.png" rel="noopener noreferrer">Screenshot of iPad buttons on top of Mac buttons</a></li>
+</ul>
+<p><a href="https://youtu.be/49oAwqT9llY" rel="noopener noreferrer">This episode is also on YouTube</a></p>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></description>
+      <pubDate>Mon, 2 Mar 2026 10:00:00 +0000</pubDate>
+      <author>matt@birchtree.me (Matt Birchler)</author>
+      <link>https://a-better-computer.simplecast.com/episodes/why-killing-the-ipad-isn-t-what-you-think-it-is-A_q8DvR4</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/dee401a2-e623-4d8c-bc87-97a8e03aab8a/001.jpg" width="1280"/>
+      <content:encoded><![CDATA[<ul>
+ <li><a href="https://birchtree.me/blog/apple-will-kill-ipados/" rel="noopener noreferrer">Apple will kill iPadOS</a></li>
+ <li><a href="https://x.com/khanhduytran0/status/1989626181109653702" rel="noopener noreferrer">iPadOS already running on an iPhone</a></li>
+ <li><a href="https://birchtree.me/blog/rog-xbox-ally-x-review-amazing-performance-but-the-worst-software-ive-ever-used/" rel="noopener noreferrer">My Xbox Ally X review</a><br><a href="https://birchtree.nyc3.digitaloceanspaces.com/2026/simulator-says-ios.png" rel="noopener noreferrer">- Screenshot of the Simulator app bundling iPhones and iPads as "iOS"</a></li>
+ <li><a href="https://birchtree.nyc3.digitaloceanspaces.com/2026/ipad-on-mac.png" rel="noopener noreferrer">Screenshot of iPad buttons on top of Mac buttons</a></li>
+</ul>
+<p><a href="https://youtu.be/49oAwqT9llY" rel="noopener noreferrer">This episode is also on YouTube</a></p>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></content:encoded>
+      <enclosure length="23075622" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/e9b28540-9f72-4695-adae-637977d0d9bf/eec05e93-3340-4802-8979-b845f667b6ea/episodes/audio/group/abbb3174-3033-4187-b7af-67e326d6114f/group-item/d4b79508-1f50-410e-bde7-c8ec69fce729/128_default_tc.mp3?aid=rss_feed&amp;feed=kULRmujj"/>
+      <itunes:title>Why killing the iPad isn&apos;t what you think it is</itunes:title>
+      <itunes:author>Matt Birchler</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/764daacc-20e0-4cb7-8dc1-7c7ec726caf1/3000x3000/abc_podcast.jpg?aid=rss_feed"/>
+      <itunes:duration>00:15:42</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">eebb8e7f-df24-4b01-a00e-982d9c2a2a41</guid>
       <title>This is a podcast?</title>

@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/19835/destinations/18088.xml" rel="self" type="application/rss+xml"/>
     <title>Marathon Talk</title>
-    <pubDate>Fri, 20 Feb 2026 00:07:55 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 00:07:55 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2026 07:09:34 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:09:34 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://www.worldmarathonmajors.com/marathontalk</link>
     <language>en</language>
@@ -54,6 +54,35 @@
     
     
     
+    
+    <item>
+      <title>Marathon Talk Extra | Tokyo Marathon Special</title>
+      <itunes:title>Marathon Talk Extra | Tokyo Marathon Special</itunes:title>
+      <pubDate>Mon, 02 Mar 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[af2ca43a-20ce-465a-80a2-7817491752d2]]></guid>
+      <link><![CDATA[https://marathontalk.libsyn.com/marathon-talk-extra-tokyo-marathon-special]]></link>
+      <description><![CDATA[<p>Our first Marathon Talk Extra of the new season, and on this Tokyo Special, Martin and Deena are joined by David Macnamara from Abbott World Marathon Majors, and they look back on a great day of racing, which saw Tadese Takele, Brigid Kosgei, Marcel Hug and Catherine Debrunner claim victory in the Japanese capital.</p> <p>David also gives some insight into what the race week has been like and makes a frankly embarassing attempt to speak Japanese. See if you can figure out who wrote this bit!</p> <p>All this, and more, on Marathon Talk Extra!</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Our first Marathon Talk Extra of the new season, and on this Tokyo Special, Martin and Deena are joined by David Macnamara from Abbott World Marathon Majors, and they look back on a great day of racing, which saw Tadese Takele, Brigid Kosgei, Marcel Hug and Catherine Debrunner claim victory in the Japanese capital.</p> <p>David also gives some insight into what the race week has been like and makes a frankly embarassing attempt to speak Japanese. See if you can figure out who wrote this bit!</p> <p>All this, and more, on Marathon Talk Extra!</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/secure/marathontalk/Sequence_02.mp3?dest-id=18088" length="42935947" type="audio/mpeg" />
+      <itunes:duration>29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:image href="https://static.libsyn.com/p/assets/1/7/d/f/17df95b183a75e71d959afa2a1bf1c87/MT_Tokyo_EXTRA-2-MT_EXTRA.png" />
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      <itunes:author>Abbott World Marathon Majors</itunes:author>
+      
+      
+      
+    </item>
     
     <item>
       <title>EP84 | Hall In For Tokyo! - Marathon Talk meets Sara Hall as we preview the Tokyo Marathon</title>
