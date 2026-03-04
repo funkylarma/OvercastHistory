@@ -2,7 +2,7 @@
   <channel>
     <title>Upgrade</title>
     <link>https://www.relay.fm/upgrade</link>
-    <pubDate>Mon, 23 Feb 2026 22:15:00 GMT</pubDate>
+    <pubDate>Mon, 02 Mar 2026 22:15:00 GMT</pubDate>
     <description>Upgrade looks at how technology shapes our lives, from the devices in our hands and pockets to the streaming services that keep us entertained. Hosted by Jason Snell and Myke Hurley.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -16,6 +16,32 @@
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Technology"/>
+    <item>
+      <title>605: The 2026 March Experience Draft</title>
+      <description/>
+      <pubDate>Mon, 02 Mar 2026 22:15:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/clrtpod.com/m/pscrb.fm/rss/p/traffic.libsyn.com/upgrade/upgrade605.mp3" length="127659166" type="audio/mp3"/>
+      <link>http://relay.fm/upgrade/605</link>
+      <guid>http://relay.fm/upgrade/605</guid>
+      <itunes:title>The 2026 March Experience Draft</itunes:title>
+      <itunes:episode>605</itunes:episode>
+      <itunes:author>Jason Snell and Myke Hurley</itunes:author>
+      <itunes:subtitle>Jason and Myke try to predict what Apple will be announcing this week, except for the stuff that was announced Monday. But they discuss the new iPad Air and iPhone 17e too! Also: Apple's F1 plans and some Report Card follow-up.</itunes:subtitle>
+      <itunes:summary>Jason and Myke try to predict what Apple will be announcing this week, except for the stuff that was announced Monday. But they discuss the new iPad Air and iPhone 17e too! Also: Apple's F1 plans and some Report Card follow-up.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>6262</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>Jason and Myke try to predict what Apple will be announcing this week, except for the stuff that was announced Monday. But they discuss the new iPad Air and iPhone 17e too! Also: Apple&#39;s F1 plans and some Report Card follow-up.</p>
+ <h4>This episode of Upgrade is sponsored by:</h4> <ul>
+<li><a href="https://sentry.io/">Sentry</a>: Mobile crash reporting and app monitoring. New users get $100 in Sentry credits with code upgrade26.</li>
+<li><a href="http://fitbod.me/upgrade">Fitbod</a>: Get stronger, faster with a fitness plan that fits you. Get 25% off your membership.</li>
+<li><a href="http://squarespace.com/upgrade">Squarespace</a>: Save 10% off your first purchase of a website or domain using code UPGRADE.</li>
+<li><a href="https://factormeals.com/upgrade50off">Factor</a>: Healthy, fully-prepared food delivered to your door. Use code upgrade50off</li>
+</ul>
+<h4>Links and Show Notes:</h4>  <h5><a href='https://relay.fm/upgrade/join'>Get Upgrade+. More content, no ads. </a></h5> <h5><a href='https://relay.fm/upgrade/feedback'>Submit Feedback</a></h5> <h5><a href="https://bonnemaman.us/products/blackberry-preserves" target="_blank">Blackberry Preserves – Bonne Maman USA</a></h5> <h5><a href="https://bonnemaman.us/products/strawberry-preserves" target="_blank">Strawberry Preserves – Bonne Maman USA</a></h5> <h5><a href="https://sixcolors.com/post/2026/02/charting-the-vibes-in-the-2025-apple-report-card/" target="_blank">Charting the vibes in the 2025 Apple Report Card – Six Colors</a></h5> <h5><a href="https://daringfireball.net/thetalkshow/2026/02/28/ep-442" target="_blank">The Talk Show ✪: Ep. 442, With Jason Snell</a></h5> <h5><a href="https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/" target="_blank">Apple accelerates U.S. manufacturing with Mac mini production - Apple</a></h5> <h5><a href="https://www.youtube.com/watch?v=ktFlaBhpMu8" target="_blank">Inside Apple’s Multibillion-Dollar Push to Make Chips in the U.S. | WSJ - YouTube</a></h5> <h5><a href="https://atp.fm/680" target="_blank">ATP 680: A Lot of Holes in That Cheese — Accidental Tech Podcast</a></h5> <h5><a href="https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/" target="_blank">Apple announces F1 details, and a surprising Netflix partnership – Six Colors</a></h5> <h5><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/" target="_blank">Apple introduces iPhone 17e - Apple</a></h5> <h5><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/" target="_blank">Apple introduces the new iPad Air, powered by M4 - Apple</a></h5> <h5><a href="https://upgrade.cards/" target="_blank">Upgrade Scorecards</a></h5> <h5><a href="https://cottonbureau.com/p/JXR9DD/shirt/the-upgrade-draft#/28873623/tee-men-premium-lightweight-premium-heather-tri-blend-s" target="_blank">The Upgrade Draft Tee</a></h5> <h5><a href="https://x.com/TechEmails/status/1397709444801302529/photo/3" target="_blank">Internal Tech Email: "Phil Schiller forwards a Six Colors report card to other Apple execs, highlighting App Store/developer comments"</a></h5> <h5><a href="https://www.theverge.com/tech/883837/1password-price-increase" target="_blank">1Password is going up in price | The Verge</a></h5>]]>
+      </content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/episode/image/15967/upgrade_artwork_9f719836-0ad8-4b13-87af-374ac41d31ce.png"/>
+    </item>
     <item>
       <title>604: The Shifting Sands of Liquid Glass</title>
       <description/>
@@ -34,7 +60,7 @@
         <![CDATA[<h4>Subtitle: The 2025 Six Colors Apple Report Card</h4><p>We discuss the results of the Six Colors Apple Report Card for 2025 in depth, with our added opinions on every category. Jason chooses to be a rascal, and Myke tries to give ten out of five.</p>
  <h4>This episode of Upgrade is sponsored by:</h4> <ul>
 <li><a href="https://joindeleteme.com/UPGRADE20">DeleteMe</a>: Get 20% off your plan when you use this link and code UPGRADE20.</li>
-<li><a href="https://claude.ai/upgradepod">Claude</a>: Get 50% off Claude Pro, including access to Claude Code.</li>
+<li><a href="https://claude.ai/upgradepod">Claude</a>: Ready to tackle bigger problems? Get started with Claude today.</li>
 <li><a href="https://insta360.com">Insta360</a>: Introducing the Insta360 Wave and the Link 2 Pro.</li>
 <li><a href="https://thepetstable.com">The Pets Table</a>: Healthy Dog Food Developed With Vets. Get 55% off your first box PLUS 10% off your next two with code upgrade55</li>
 </ul>

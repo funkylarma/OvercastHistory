@@ -3,8 +3,8 @@
   <channel>
     <title>Wheel Talk</title>
     <link>https://escapecollective.com</link>
-    <pubDate>Tue, 24 Feb 2026 16:06:12 -0000</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 23:07:00 -0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 16:30:00 -0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 20:04:01 -0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>Escape Collective 2022</copyright>
@@ -50,6 +50,27 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     <podcast:guid>ff16b46d-38f6-5417-80ac-d66465f0560a</podcast:guid>
     <podcast:podping usesPodping="true"/>
     <podcast:locked>yes</podcast:locked>
+    <item>
+      <guid isPermaLink="false">prx_16098_37448150-d0d7-407d-8989-d0541e3b01eb</guid>
+      <title>The Omloop did not disappoint</title>
+      <pubDate>Tue, 03 Mar 2026 16:30:00 -0000</pubDate>
+      <link>https://play.prx.org/listen?ge=prx_16098_37448150-d0d7-407d-8989-d0541e3b01eb&amp;uf=https%3A%2F%2Fpublicfeeds.net%2Ff%2F16098%2Fwheel-talk</link>
+      <description>
+        <![CDATA[<p>A lot was learning during Opening Weekend, and Abby, Loren, and Gracie are here to break it all down. From FDJ United-Suez's seamless tactics to a promising spring ahead for Kasia Niewiadoma-Phinney and our favourite storylines to look forward to this Classics season. Up next: Strade Bianche!</p>]]>
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/16098/37448150-d0d7-407d-8989-d0541e3b01eb/Escape_Collective_Wheel_Talk_3_Mar_2026_v1.mp3" type="audio/mpeg" length="91308760"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>01:03:23</itunes:duration>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:summary>
+        <![CDATA[A lot was learning during Opening Weekend, and Abby, Loren, and Gracie are here to break it all down. From FDJ United-Suez's seamless tactics to a promising spring ahead for Kasia Niewiadoma-Phinney and our favourite storylines to look forward to this Classics season. Up next: Strade Bianche!]]>
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/16098/images/2b2b9de5-9b50-4a1b-9935-6be64a174725/NjJiZS5wbmc.jpg"/>
+      <media:content fileSize="91308760" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/16098/37448150-d0d7-407d-8989-d0541e3b01eb/Escape_Collective_Wheel_Talk_3_Mar_2026_v1.mp3"/>
+      <content:encoded>
+        <![CDATA[<p>A lot was learning during Opening Weekend, and Abby, Loren, and Gracie are here to break it all down. From FDJ United-Suez's seamless tactics to a promising spring ahead for Kasia Niewiadoma-Phinney and our favourite storylines to look forward to this Classics season. Up next: Strade Bianche!</p>]]>
+      </content:encoded>
+    </item>
     <item>
       <guid isPermaLink="false">59192523-13c4-4565-8a20-e88f32ac1f90</guid>
       <title>The power of social media</title>
