@@ -6,8 +6,8 @@
     <description>A podcast about the web, games, and terrible food.</description>
     <copyright>Robb Knight and John Voorhees</copyright>
     <language>en</language>
-    <pubDate>Tue, 10 Feb 2026 21:26:37 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 21:26:37 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2026 21:51:54 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2026 21:51:54 +0000</lastBuildDate>
     <image>
         <link>https://ruminatepodcast.com</link>
         <title>Ruminate</title>
@@ -27,6 +27,37 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:applepodcastsverify>26f05c10-5044-11f0-b7ac-37b1c324c77d</itunes:applepodcastsverify>
+        <item>
+            <guid isPermaLink="false">48305269-3a21-4899-9a32-36017f948372</guid>
+            <title>224 - Shake the Shoe</title>
+            <description><![CDATA[ <p>Robb is happy Scrubs is back and John updates his wearables.</p>
+<p><a href="https://www.imdb.com/title/tt40197357/">Scrubs (TV Series 2026– ) - IMDb</a></p>
+<p><a href="https://www.youtube.com/watch?v=_StpDQecoss">Inside The Rebuilt Scrubs Hospital With Zach Braff, Donald Faison, and Sarah Chalke | Arch Digest - YouTube</a></p>
+<p><a href="https://www.imdb.com/title/tt36153709/">The Fall and Rise of Reggie Dinkins (TV Series 2026– ) - IMDb</a></p>
+<p><a href="https://www.cheapcharts.com/us">All iTunes movie deals at a glance - Your price tracker for iTunes and Vudu</a></p>
+<p><a href="https://www.kickstarter.com/projects/avelorunning/avelo-meet-the-worlds-smartest-running-shoe">Avelo: Meet the world's smartest running shoe by Avelo — Kickstarter</a></p>
+ ]]></description>
+            <pubDate>Tue, 03 Mar 2026 21:51:54 +0000</pubDate>
+            <author>Robb Knight and John Voorhees</author>
+            <link>https://ruminatepodcast.com/224/</link>
+            <content:encoded><![CDATA[ <p>Robb is happy Scrubs is back and John updates his wearables.</p>
+<p><a href="https://www.imdb.com/title/tt40197357/">Scrubs (TV Series 2026– ) - IMDb</a></p>
+<p><a href="https://www.youtube.com/watch?v=_StpDQecoss">Inside The Rebuilt Scrubs Hospital With Zach Braff, Donald Faison, and Sarah Chalke | Arch Digest - YouTube</a></p>
+<p><a href="https://www.imdb.com/title/tt36153709/">The Fall and Rise of Reggie Dinkins (TV Series 2026– ) - IMDb</a></p>
+<p><a href="https://www.cheapcharts.com/us">All iTunes movie deals at a glance - Your price tracker for iTunes and Vudu</a></p>
+<p><a href="https://www.kickstarter.com/projects/avelorunning/avelo-meet-the-worlds-smartest-running-shoe">Avelo: Meet the world's smartest running shoe by Avelo — Kickstarter</a></p>
+ ]]></content:encoded>
+            <enclosure length="14361162" type="audio/mpeg" url="https://op3.dev/e,pg=375cd521-835a-5bd1-b747-1fed411c228b/https://cdn.rknight.me/podcasts/ruminate/episodes/224.mp3"/>
+            <itunes:title>224 - Shake the Shoe</itunes:title>
+            <itunes:author>Robb Knight and John Voorhees</itunes:author>
+            <itunes:duration>00:29:37</itunes:duration>
+            <itunes:summary>Robb is happy Scrubs is back and John updates his wearables.</itunes:summary>
+            <itunes:subtitle>Robb is happy Scrubs is back and John updates his wearables.</itunes:subtitle>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>224</itunes:episode>
+        </item>
+    
         <item>
             <guid isPermaLink="false">851829bc-da92-4f41-b592-7d8fdfdf7455</guid>
             <title>223 - Known for Clean Bathrooms</title>

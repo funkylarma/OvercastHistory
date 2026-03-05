@@ -15,7 +15,7 @@
 		<atom:link href="https://wptavern.com/feed/podcast/wp-tavern/" rel="self" type="application/rss+xml"/>
 		<link>https://wptavern.com/series/wp-tavern</link>
 		<description>The WP Tavern Jukebox is a podcast for the WordPress community. We interview people who are pushing change in how WordPress evolves. Plugins, Blocks, Themes, Community, Events, Accessibility and Diversity; we try to cover all the bases. Subscribe to be updated when we bring you new content.</description>
-		<lastBuildDate>Wed, 25 Feb 2026 15:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 04 Mar 2026 17:08:17 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2021 WordPress Tavern</copyright>
 		<itunes:subtitle>A podcast about WordPress and the WordPress community.</itunes:subtitle>
@@ -48,6 +48,31 @@
 		<!-- podcast_generator="SSP by Castos/3.14.2" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
 		
 <site xmlns="com-wordpress:feed-additions:1">9006382</site>
+<item>
+	<title>#207 &#8211; Rob Ruiz on WP Rig and the Future of Theme Development</title>
+	<link>https://wptavern.com/podcast/207-rob-ruiz-on-wp-rig-and-the-future-of-theme-development</link>
+	<pubDate>Wed, 04 Mar 2026 17:08:13 +0000</pubDate>
+	<dc:creator><![CDATA[WordPress Tavern]]></dc:creator>
+	<guid isPermaLink="false">255d12aa-e166-5479-a9e2-d80c403a1bfd</guid>
+	<description><![CDATA[In this episode, Nathan Wrigley interviews Rob Ruiz, current maintainer of WP Rig, a free WordPress theme development toolkit and starter theme. Rob Ruiz shares his journey from designer to theme developer, discusses the benefits of WP Rig for both beginners and agencies, and highlights how it teaches best practices, supports modern tools, and adapts to both classic and block-based WordPress themes. The episode focuses on empowering users to learn, contribute, and better understand theme development within the evolving WordPress ecosystem. Go listen.]]></description>
+	<itunes:subtitle><![CDATA[In this episode, Nathan Wrigley interviews Rob Ruiz, current maintainer of WP Rig, a free WordPress theme development toolkit and starter theme. Rob Ruiz shares his journey from designer to theme developer, discusses the benefits of WP Rig for both begin]]></itunes:subtitle>
+	<content:encoded><![CDATA[In this episode, Nathan Wrigley interviews Rob Ruiz, current maintainer of WP Rig, a free WordPress theme development toolkit and starter theme. Rob Ruiz shares his journey from designer to theme developer, discusses the benefits of WP Rig for both beginners and agencies, and highlights how it teaches best practices, supports modern tools, and adapts to both classic and block-based WordPress themes. The episode focuses on empowering users to learn, contribute, and better understand theme development within the evolving WordPress ecosystem. Go listen.]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/601a97348e9993-63339407/2382733/c1e-41krkb8gkmdt8nwqw-1prwmmr2anm-o9waua.mp3" length="47297939" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[In this episode, Nathan Wrigley interviews Rob Ruiz, current maintainer of WP Rig, a free WordPress theme development toolkit and starter theme. Rob Ruiz shares his journey from designer to theme developer, discusses the benefits of WP Rig for both beginners and agencies, and highlights how it teaches best practices, supports modern tools, and adapts to both classic and block-based WordPress themes. The episode focuses on empowering users to learn, contribute, and better understand theme development within the evolving WordPress ecosystem. Go listen.]]></itunes:summary>
+	<itunes:image href="https://wptavern.com/wp-content/uploads/2026/03/207-Rob-Ruiz-on-WP-Rig-and-the-Future-of-Theme-Development.jpg"></itunes:image>
+	<image>
+		<url>https://wptavern.com/wp-content/uploads/2026/03/207-Rob-Ruiz-on-WP-Rig-and-the-Future-of-Theme-Development.jpg</url>
+		<title>#207 &#8211; Rob Ruiz on WP Rig and the Future of Theme Development</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:48:49</itunes:duration>
+	<itunes:author><![CDATA[WordPress Tavern]]></itunes:author>	<googleplay:description><![CDATA[In this episode, Nathan Wrigley interviews Rob Ruiz, current maintainer of WP Rig, a free WordPress theme development toolkit and starter theme. Rob Ruiz shares his journey from designer to theme developer, discusses the benefits of WP Rig for both beginners and agencies, and highlights how it teaches best practices, supports modern tools, and adapts to both classic and block-based WordPress themes. The episode focuses on empowering users to learn, contribute, and better understand theme development within the evolving WordPress ecosystem. Go listen.]]></googleplay:description>
+	<googleplay:image href="https://wptavern.com/wp-content/uploads/2026/03/207-Rob-Ruiz-on-WP-Rig-and-the-Future-of-Theme-Development.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
 <item>
 	<title>#206 &#8211; Jonathan Desrosiers on WordPress Sustainability, Community Engagement, and Release Strategies</title>
 	<link>https://wptavern.com/podcast/206-jonathan-desrosiers-on-wordpress-sustainability-community-engagement-and-release-strategies</link>

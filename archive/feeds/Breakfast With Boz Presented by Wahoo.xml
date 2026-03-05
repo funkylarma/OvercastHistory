@@ -8,8 +8,8 @@
     <description>Breakfast with Boz is hosted by Ian Boswell, former cycling World Tour racer and now converted gravel racer. Breakfast with Boz brings you interviews with inspiring athletes and news from inside the race. It may not always be breakfast during the podcast but it will always be entertaining.</description>
     <copyright>2020-2024, Breakfast With Boz Presented by Wahoo</copyright>
     <language>en</language>
-    <pubDate>Wed, 11 Feb 2026 13:00:00 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 21:34:33 +0000</lastBuildDate>
+    <pubDate>Wed, 4 Mar 2026 13:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 4 Mar 2026 13:00:13 +0000</lastBuildDate>
     <image>
       <link>https://www.wahoofitness.com/podcasts</link>
       <title>Breakfast With Boz Presented by Wahoo</title>
@@ -34,6 +34,27 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Fitness"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">c97b0b17-3103-4a7d-8833-141616027d43</guid>
+      <title>State of Gravel with Kimo Seymour</title>
+      <description><![CDATA[Kimo Seymour is the President of Life Time Events and Media. As one of the largest stakeholders in off-road racing — through events such as UNBOUND Gravel and Leadville Trail 100 — Kimo and his team are at the forefront of shaping the off-road racing landscape. In this episode, Ian and Kimo discuss the introduction of new “super teams,” event safety, evolving rules, and how to keep the sport equitable for all. Hosted by Simplecast, an AdsWizz company. See https://pcm.adswizz.com
+for information about our collection and use of personal data for
+advertising.
+]]></description>
+      <pubDate>Wed, 4 Mar 2026 13:00:00 +0000</pubDate>
+      <author>ian.boswell@wahoofitness.com (Wahoo Fitness)</author>
+      <link>https://www.wahoofitness.com/podcasts</link>
+      <enclosure length="61301364" type="audio/mpeg" url="https://afp-920643-injected.calisto.simplecastaudio.com/8fabb4f8-7384-41d5-9ef3-8217d7a60e24/episodes/6bd42f2f-d872-4fb2-b4c1-3bc671693a27/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=8fabb4f8-7384-41d5-9ef3-8217d7a60e24&amp;awEpisodeId=6bd42f2f-d872-4fb2-b4c1-3bc671693a27&amp;feed=1MwzcYIa"/>
+      <itunes:title>State of Gravel with Kimo Seymour</itunes:title>
+      <itunes:author>Wahoo Fitness</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/a6ffdac2-e47f-48d5-9203-2da56414c742/af0acc35-6774-48ff-b3ac-c9a3a8bdb62b/3000x3000/bwbkimoseymour2026story1x1.jpg?aid=rss_feed"/>
+      <itunes:duration>01:03:47</itunes:duration>
+      <itunes:summary>Kimo Seymour is the President of Life Time Events and Media. As one of the largest stakeholders in off-road racing — through events such as UNBOUND Gravel and Leadville Trail 100 — Kimo and his team are at the forefront of shaping the off-road racing landscape. In this episode, Ian and Kimo discuss the introduction of new “super teams,” event safety, evolving rules, and how to keep the sport equitable for all.</itunes:summary>
+      <itunes:subtitle>Kimo Seymour is the President of Life Time Events and Media. As one of the largest stakeholders in off-road racing — through events such as UNBOUND Gravel and Leadville Trail 100 — Kimo and his team are at the forefront of shaping the off-road racing landscape. In this episode, Ian and Kimo discuss the introduction of new “super teams,” event safety, evolving rules, and how to keep the sport equitable for all.</itunes:subtitle>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>176</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">4eee82ba-7ac0-4b1b-b165-030dd0d17f82</guid>
       <title>Danni Shrosbree</title>

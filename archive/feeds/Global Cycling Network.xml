@@ -56,7 +56,7 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <atom:link href="https://audioboom.com/channels/5124996" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5124996.rss" rel="self" type="application/rss+xml" />
-<pubDate>Tue, 24 Feb 2026 17:58:10 +0000</pubDate>
+<pubDate>Tue, 03 Mar 2026 17:08:01 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://audioboom.com/i/41331674.jpg</url>
@@ -76,6 +76,22 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <itunes:new-feed-url>https://audioboom.com/channels/5124996.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>686: Are Pogačar And Van Der Poel From Another Planet? | GCN Show Ep. 686</title>
+  <link>https://audioboom.com/posts/8868905</link>
+  <itunes:episode>686</itunes:episode>
+  <itunes:title>Are Pogačar And Van Der Poel From Another Planet? | GCN Show Ep. 686</itunes:title>
+  <enclosure url="https://audioboom.com/posts/8868905.mp3?modified=1772557794&amp;sid=5124996&amp;source=rss" length="41834564" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43510555/s=1400x1400/el=1/rt=fill.jpg" />
+  <itunes:duration>2611</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description><![CDATA[<div><p>This week on the GCN Show, we dive into the incredible dominance of riders like Tadej Pogačar and Mathieu van der Poel, asking if they are truly "extraterrestrial" compared to the rest of the peloton. We also bring you the first look at the brand-new Shimano Tiagra groupset and discuss a controversial UCI disqualification involving bent brake levers. Plus, we celebrate a massive 1-million-bike milestone with World Bicycle Relief and unbox a very special surprise from YouTube!</p></div>]]></description>
+  <pubDate>Tue, 03 Mar 2026 17:08:01 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2026-03-03:/posts/8868905</guid>
+  <itunes:author>Global Cycling Network (GCN)</itunes:author>
+  <dc:creator>Global Cycling Network (GCN)</dc:creator>
+</item>
 <item>
   <title>685: &quot;Cycling Has Never Been So Cheap&quot; (WTF?!) | GCN Show Ep. 685</title>
   <link>https://audioboom.com/posts/8865411</link>
