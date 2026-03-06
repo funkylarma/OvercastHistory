@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>The Zane Lowe Interview Series</title>
     <description>
@@ -30,6 +30,26 @@
       <title>The Zane Lowe Interview Series</title>
     </image>
     <item>
+      <title>Harry Styles</title>
+      <description>
+        <![CDATA[<p>Zane travels to Paris to catch up with the artist ahead of his fourth album, Kiss All The Time. Disco, Occasionally.</p>]]>
+      </description>
+      <itunes:title>Harry Styles</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>196</itunes:episode>
+      <itunes:summary>Zane travels to Paris to catch up with the artist ahead of his fourth album, Kiss All The Time. Disco, Occasionally.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>Zane travels to Paris to catch up with the artist ahead of his fourth album, Kiss All The Time. Disco, Occasionally.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/sv_NlpYQY4bI81eryrp2RRiYzucK4mj4LmkmD53fNo8</guid>
+      <pubDate>Wed, 04 Mar 2026 08:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/b4/60/c9/91/b460c991-ab99-425f-b953-ca4db2a0e666/0c307c0652354b4795db095f56bacabe60feaf8ab6df20286c3aee323ad2d9b499e8d31c1569df6d0730915dc3854bf177748b10fe5d3117908d9217957ed7be.jpeg"/>
+      <itunes:duration>00:55:06</itunes:duration>
+      <enclosure url="https://rss.art19.com/episodes/de625dca-fa97-4086-b7f6-dc558843f9c6.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="52907363"/>
+      
+    </item>
+    <item>
       <title>Mumford &amp; Sons</title>
       <description>
         <![CDATA[<p>The band join Zane to talk about their album Prizefighter.</p>]]>
@@ -47,6 +67,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/ef/22/b3/03/ef22b303-01bf-43d8-9b1a-22086d5473ef/691d566add65bc41638d6cb1f3ed19f17c3fb316e7fec1141b8e6d67c3fb1ff61290c5af8d370508e21ea75d98c82f4c369c30cb27f1ca749c39a5084e719125.jpeg"/>
       <itunes:duration>00:44:14</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/7afca9df-9a18-4113-baf8-612d3ea624b2.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="42467996"/>
+      
     </item>
     <item>
       <title>Louis Tomlinson</title>
@@ -65,6 +86,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/d4/42/ca/b4/d442cab4-bfc4-49d6-aec5-b4ca2446e53f/683cbcc03ecc87689a052e4cdb3f1bd1c806e8d3343303bf20cc7cc4823838433eadd6f71941ef70f697030ce35901a21a4fd4c7038a0afee55a9ba9e7dfc2ed.jpeg"/>
       <itunes:duration>00:48:26</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/7ce512e6-1b11-4b78-8fd6-6b72ac3ab735.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="46507990"/>
+      
     </item>
     <item>
       <title>The Kid LAROI</title>
@@ -84,6 +106,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/34/e4/8a/bf/34e48abf-4727-4813-abcb-622b240377ed/f21bdff8f757a0628d43cca7a8d35c5607a17fd61d0b61c4f6624410f6485824920e7aab82eff6ba52fada758091789075e23fd9cd654866513a8b13b00d6cdf.jpeg"/>
       <itunes:duration>00:30:42</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/c793456a-08f6-483a-b6e1-9b72205c18ce.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="29481169"/>
+      
     </item>
     <item>
       <title>The Neighbourhood</title>
@@ -102,6 +125,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/92/c6/bd/c4/92c6bdc4-b8c6-4424-9718-75525a1454cb/79453d1850ae0bc7393aaaf7fb1fe62ab99fbe6b812401b27cf6d343f0838ee5cebfa741d038fcbf836f7bf4bb9d9b55ac3acf56e4313086da7e935d220674d4.jpeg"/>
       <itunes:duration>00:38:41</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/f2c37fdd-06d2-4c8a-9488-8cf003faf41b.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="37149884"/>
+      
     </item>
     <item>
       <title>Selena Gomez</title>
@@ -120,6 +144,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/ab/df/94/c3/abdf94c3-e4c2-41ec-b015-441418d3ec7b/87e46f95b29ee25a7d7bff80745b09f99b31e2cbac0e12789d788e0043193b00c1cd9935361e8708ac3f13fff2aea582cfadef20889d40d011e5c53addd0583b.jpeg"/>
       <itunes:duration>00:27:30</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/59809798-868a-4989-8901-94542ac985cf.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="26403735"/>
+      
     </item>
     <item>
       <title>Geese</title>
@@ -138,6 +163,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/ab/3a/78/9e/ab3a789e-dc50-4c6f-9b57-33ffbf8d70ba/9acaaaa5cd359ff5ad95372fcfe614bed3a29e2cbea9e115a9021a581f93d2963bb031eafa6aa062955de250829a71bbb43ef3f913209c4debfeba0f6ae05567.jpeg"/>
       <itunes:duration>00:44:16</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/29b9a497-396f-4f23-9a6a-53a1efbcebc7.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="42501433"/>
+      
     </item>
     <item>
       <title>ROSALÍA</title>
@@ -156,6 +182,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/e1/55/bd/a8/e155bda8-f6a5-4f35-b361-718f08a6cefd/2d754d84a01e05200a161a7bcd48b3d3baf7556d429dcc35cd3e9bb70f85494d8ddd15f4668648e0d01dbb153fd46036628025b2ac9f148ddf1f062761295f5c.jpeg"/>
       <itunes:duration>00:57:38</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/89d6a2a0-0fb8-4611-8541-625bfb4b069d.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="55332780"/>
+      
     </item>
     <item>
       <title>Armin van Buuren</title>
@@ -174,6 +201,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/88/4d/dc/7a/884ddc7a-e5d7-429b-96d7-777cd147c6f4/52bed24aa765b884df9939ff0932177fe0f37de41a96b53a11c5ab7f16909913c6655da62cadeacd47ded75fb77f507543a387f1837dc74b2107182bcb81f08a.jpeg"/>
       <itunes:duration>00:42:04</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/81904371-0fce-4ccd-a8c8-c4f365be6821.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="40393665"/>
+      
     </item>
     <item>
       <title>Gracie Abrams</title>
@@ -192,6 +220,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/69/56/b8/ce/6956b8ce-d61d-4416-82f9-4e8a8cb1ce81/60ab3352ab83a6d037d9e128d562b350e7e182f14ce2d81875280e20a4d549b66383bf1b7af0babdafe0855c537f61646ae11256beacef619b874716ff1955ad.jpeg"/>
       <itunes:duration>00:42:21</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/0fbd012b-6306-42d1-a7a8-02ae2bf6efaa.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="40667428"/>
+      
     </item>
     <item>
       <title>Cameron Crowe</title>
@@ -219,6 +248,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/24/e2/1f/f0/24e21ff0-374d-4c36-9e6b-dfce8730ef74/d2e66c87973ebb5fa9f11b21adc082e546635fddac9a03c51196ea747a41e540139fc8d345fa946d724be58d95d2cf02909345c39534180b03a15e52dd5c2ce3.jpeg"/>
       <itunes:duration>00:59:08</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/96413af7-ffa7-46ef-98ec-205db3647715.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="56776829"/>
+      
     </item>
     <item>
       <title>Florence + the Machine</title>
@@ -237,6 +267,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/ec/0c/e3/12/ec0ce312-9945-422b-b358-11b91467c774/ef5a2916df989003760a156e7162141f95e9ddda57776814cf03a9225d13b93f3f38fe9fed96a03b61796bc392f960631bfe904723be9382442c89ba7e717459.jpeg"/>
       <itunes:duration>00:44:11</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/00d2eee6-fcf4-4c5a-b491-9617987f88e6.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="42421185"/>
+      
     </item>
     <item>
       <title>Brandi Carlile</title>
@@ -255,6 +286,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/90/4d/17/61/904d1761-29b5-40c3-b4fa-1a07a93f4ede/7a012869b7f00631169163eafb140ff25785463ef2f8bf528828a31cb0de64bb869e031cd633a8ad745c65358286dc6122dcf4d1507f9d1608d37122158eecb1.jpeg"/>
       <itunes:duration>01:07:12</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/cb4b150f-2c0b-43cb-b4fa-03c7e65f0626.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="64514089"/>
+      
     </item>
     <item>
       <title>Silvana Estrada</title>
@@ -273,6 +305,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/97/ce/ab/d6/97ceabd6-32ef-466a-8afa-b4ce260580f3/e493a016a5f97e69a2322e04914ef0154afe6876dc636c57b51bc431ed8650ebb75e6dc61164d607ee51e663d97eff2c096e5f01a317262130ea20679e06ca0c.jpeg"/>
       <itunes:duration>00:51:22</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/f106ae60-e9ed-473f-b70f-dc7ad416da63.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="49326289"/>
+      
     </item>
     <item>
       <title>Tame Impala</title>
@@ -291,6 +324,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/bf/63/19/98/bf631998-d490-48f1-8e16-55945d72cb37/00cadbf18fded42def203b610fb91c01c17996ed025fa1bae55260a2b9774ee3776fceacc4b16c75d5d50c064fb1015e470ece4ba7deff449a8ea5b26cf1744e.jpeg"/>
       <itunes:duration>00:52:31</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/28788f39-e678-4ef9-b458-2f93f406d73d.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="50428865"/>
+      
     </item>
     <item>
       <title>Mobb Deep</title>
@@ -309,6 +343,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/37/36/3b/4e/37363b4e-2e51-4052-8bb3-a7894d29bd9c/472024ad6b45145daf5ea9123dc475dadbe7e5fc2eebdeb1c19270162a10b92cf9024f66f045289a6e279c702e976b9222ed6a851f2aa44f292d1eb22819e77b.jpeg"/>
       <itunes:duration>00:46:10</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/8d585b72-758b-4728-999c-7cecbf212db7.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="44323735"/>
+      
     </item>
     <item>
       <title>Bryson Tiller</title>
@@ -336,6 +371,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/20/21/90/05/20219005-f35d-4736-885c-d96655e289fd/d82be545b7ffd4927d3b5d07143e94677d609a47019febd1b8d6da44c030238d5aeaead3ba1bac4bcae4041d1caa1b0a5dcb87ba61705bae70030847aee4738a.jpeg"/>
       <itunes:duration>00:36:19</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/a9df1b69-b563-4be7-ba6b-0497a435c73c.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="34877857"/>
+      
     </item>
     <item>
       <title>Dijon</title>
@@ -354,6 +390,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/d8/e8/be/eb/d8e8beeb-2871-4bc1-8de4-d0795efef007/b4201e9d1cef891ffdaf81651502b4b9d68fd2059c4b926e95fbe14799d66b82938ee99a26f634fc37a8da08610f17f5a3f45d884ca2e31d13f80796adaca6cb.jpeg"/>
       <itunes:duration>01:03:40</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/a2ab9a17-43c7-40a1-9966-d8ebf99f15c5.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="61131128"/>
+      
     </item>
     <item>
       <title>Rauw Alejandro</title>
@@ -372,6 +409,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/b1/c1/1b/9e/b1c11b9e-2e6e-40f4-8381-10646df50fb5/731a248ef898c96d4182063eb1d124df94ab39e27edea8446c14fbfece1f12ab46479622fc807c58fb568ed8da9653f34205a07557100f582ad1292a601baf3f.jpeg"/>
       <itunes:duration>00:48:55</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/dfcbe79f-1812-42e8-b6c8-283b80eca371.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="46966073"/>
+      
     </item>
     <item>
       <title>Halsey</title>
@@ -390,6 +428,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/86/f6/6a/22/86f66a22-6fa1-4c61-bb66-1dc48fbd5738/f9ff29f696ba8838b08ee28437124312a54d1a8900c9424e5240ce54357a9784c0aa7a7bd63b0424fd2debb074e140bae85560b28b1c0d4f12c2246847cacb8f.jpeg"/>
       <itunes:duration>00:58:25</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/c77847c1-f100-4192-9a0c-9eb7ec8233c3.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="56085106"/>
+      
     </item>
     <item>
       <title>Spinal Tap</title>
@@ -408,6 +447,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/7d/b8/9c/1e/7db89c1e-6a1d-4dd6-b140-50f61886cec2/4cb5fcdab21e1fe76e277dddbcc652f5669800d992a6eb253d6c577c08df795f2fac291708deafe8f6f4a4101a2fe2639e15bced9c0db71217db0e0eacfd76ec.jpeg"/>
       <itunes:duration>00:29:09</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/516e6391-651a-4637-bd29-38f449f4dc98.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="27996160"/>
+      
     </item>
     <item>
       <title>Ed Sheeran</title>
@@ -426,6 +466,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/02/5f/4a/49/025f4a49-3ba1-4a08-84a9-6d119dd97acd/19d80f7f68c270de5ed22503f074b3bd838d069241e245653d5b99d6358f45374c0e546ce68c2146e913c56d2dc0315a4d61852428b15712a1edc8317239ed97.jpeg"/>
       <itunes:duration>00:54:07</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/a0056662-bde5-4d02-b059-bf20b7481c49.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="51968626"/>
+      
     </item>
     <item>
       <title>David Byrne</title>
@@ -444,6 +485,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/52/68/ac/9b/5268ac9b-c028-407f-b3dc-86570f41e544/ce48f3460ce16e5ee1f87a080f67b6c711388d6b5845544dd2b66665b7c8e14ce290e8301dc80414f92e946bc58deeb6499a3ef8693196fbd2715d9c0ef2b180.jpeg"/>
       <itunes:duration>00:49:20</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/8b3ea99e-7eb0-4343-882c-5798d47bd0c3.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="47369404"/>
+      
     </item>
     <item>
       <title>Sabrina Carpenter</title>
@@ -463,6 +505,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/84/c9/86/52/84c98652-56ce-4459-989e-e3ff47391fa2/3b5f144a98933b0592f81cc3c8dfd48e05eb52d2d950c078b239efeba032d16684298cc345db5b19f6974b17d25fe922b70b19c67f1e9c0b9d11607ad01a9a68.jpeg"/>
       <itunes:duration>00:54:29</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/8cf995f9-e8a1-4b60-b703-eff437709307.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="52305084"/>
+      
     </item>
     <item>
       <title>Tim McGraw</title>

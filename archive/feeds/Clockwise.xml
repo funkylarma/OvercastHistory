@@ -2,7 +2,7 @@
   <channel>
     <title>Clockwise</title>
     <link>https://www.relay.fm/clockwise</link>
-    <pubDate>Wed, 25 Feb 2026 19:45:00 GMT</pubDate>
+    <pubDate>Wed, 04 Mar 2026 18:00:00 GMT</pubDate>
     <description>Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -19,6 +19,29 @@
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
+    <item>
+      <title>646: An Email Job</title>
+      <description/>
+      <pubDate>Wed, 04 Mar 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/clockwiserelay/clockwise646.mp3" length="21959178" type="audio/mp3"/>
+      <link>http://relay.fm/clockwise/646</link>
+      <guid>http://relay.fm/clockwise/646</guid>
+      <itunes:title>An Email Job</itunes:title>
+      <itunes:episode>646</itunes:episode>
+      <itunes:author>Dan Moren and Mikah Sargent</itunes:author>
+      <itunes:subtitle>Checking in with "The Sims," whether hardware colors sway our buying choices, Apple's new pricing strategy with the iPhone 17e and MacBook Neo, and whether the Studio Display XDR is a bad deal.</itunes:subtitle>
+      <itunes:summary>Checking in with "The Sims," whether hardware colors sway our buying choices, Apple's new pricing strategy with the iPhone 17e and MacBook Neo, and whether the Studio Display XDR is a bad deal.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>1799</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>Checking in with &quot;The Sims,&quot; whether hardware colors sway our buying choices, Apple&#39;s new pricing strategy with the iPhone 17e and MacBook Neo, and whether the Studio Display XDR is a bad deal.</p>
+ <h4>This episode of Clockwise is sponsored by:</h4> <ul>
+<li><a href="https://www.ecamm.com/clockwise/">Ecamm</a>: Powerful live streaming platform for Mac.</li>
+</ul>
+<h4 style='display: inline;'>Guest Starring:</h4> <p style='display: inline;'><a href='http://www.relay.fm/people/stephenrobles'>Stephen Robles</a> and <a href='http://www.relay.fm/people/amandasilberling'>Amanda Silberling</a></p>
+<h4>Links and Show Notes:</h4>  <h5><a href='https://relay.fm/clockwise/join'>Support Clockwise with a Relay Membership</a></h5> <h5><a href='https://relay.fm/clockwise/feedback'>Submit Feedback</a></h5>]]>
+      </content:encoded>
+    </item>
     <item>
       <title>645: A Fan of the Fan</title>
       <description/>

@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/overnight-success" title="MP3 Audio"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://feeds.transistor.fm/overnight-success" title="MP3 Audio"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <podcast:podping usesPodping="true"/>
     <title>Overnight Success</title>
@@ -16,8 +16,8 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
     <itunes:applepodcastsverify>c0987cb0-3093-11f0-8b78-a59f235de6de</itunes:applepodcastsverify>
     <language>en</language>
-    <pubDate>Sun, 08 Feb 2026 19:41:18 -0700</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 19:42:11 -0700</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 13:49:53 -0700</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 13:50:15 -0700</lastBuildDate>
     <link>https://escapecollective.com</link>
     <image>
       <url>https://img.transistorcdn.com/Z-0MqnuZhVEuwgh80FPrPypwQd9UDHLXV-1u-_URwJw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDI0/NWNlM2Y3OTdhODhm/MDcwZDg5NGZkNDUy/YmE0Yy5wbmc.jpg</url>
@@ -42,6 +42,34 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Uplift - The Woman Lifting Women in the Bike Industry</title>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>Uplift - The Woman Lifting Women in the Bike Industry</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d386aa77-cad2-4c8b-b33c-e7f606238c98</guid>
+      <link>https://share.transistor.fm/s/9d464f3f</link>
+      <description>
+        <![CDATA[<p>This episode's guest is Rachel Burnside, who is the creator and force behind Uplift, a mentoring and networking program she built from scratch to support women working in the cycling industry.</p><p>Uplift started simply: connect women early in their careers with senior women who'd already navigated the road ahead. But it's grown into something much bigger - a global community with over a thousand women in the bike industry, and  live events at Sea Otter, Eurobike, the Tour de France Femmes and many other smaller ones. All of it built in Rachel's spare time, powered by goodwill, and kept free for everyone involved.</p><p><br>We talk about how Uplift works, what she's learned across five rounds of mentoring, the role of male allies, and what it'll take to keep more women in cycling for the long haul. </p><p>Find out more at www.shiftactivemedia.com/uplift/ and you can get in touch directly by emailing uplift@shiftactivemedia.com.</p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>This episode's guest is Rachel Burnside, who is the creator and force behind Uplift, a mentoring and networking program she built from scratch to support women working in the cycling industry.</p><p>Uplift started simply: connect women early in their careers with senior women who'd already navigated the road ahead. But it's grown into something much bigger - a global community with over a thousand women in the bike industry, and  live events at Sea Otter, Eurobike, the Tour de France Femmes and many other smaller ones. All of it built in Rachel's spare time, powered by goodwill, and kept free for everyone involved.</p><p><br>We talk about how Uplift works, what she's learned across five rounds of mentoring, the role of male allies, and what it'll take to keep more women in cycling for the long haul. </p><p>Find out more at www.shiftactivemedia.com/uplift/ and you can get in touch directly by emailing uplift@shiftactivemedia.com.</p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Wed, 04 Mar 2026 13:49:53 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/9d464f3f/f0a29a1d.mp3" length="64159720" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:image href="https://img.transistorcdn.com/FcGnyanL1eT09caB7uDqlaDN5JeSK7RJrkOK45eNMDo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iY2Fl/NTlmZmIyODg2MWY5/NWViZTRjNWNmNTM2/MzhkZi5wbmc.jpg"/>
+      <itunes:duration>2671</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>This episode's guest is Rachel Burnside, who is the creator and force behind Uplift, a mentoring and networking program she built from scratch to support women working in the cycling industry.</p><p>Uplift started simply: connect women early in their careers with senior women who'd already navigated the road ahead. But it's grown into something much bigger - a global community with over a thousand women in the bike industry, and  live events at Sea Otter, Eurobike, the Tour de France Femmes and many other smaller ones. All of it built in Rachel's spare time, powered by goodwill, and kept free for everyone involved.</p><p><br>We talk about how Uplift works, what she's learned across five rounds of mentoring, the role of male allies, and what it'll take to keep more women in cycling for the long haul. </p><p>Find out more at www.shiftactivemedia.com/uplift/ and you can get in touch directly by emailing uplift@shiftactivemedia.com.</p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>Cycling,bikeindustry,business,cyclingindustry,entrepreneur,startup</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>The remarkable life of Phil Liggett (replay)</title>
       <itunes:season>2</itunes:season>

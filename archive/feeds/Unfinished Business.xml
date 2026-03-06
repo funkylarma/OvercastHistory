@@ -8,8 +8,8 @@
     <description>Andy Clarke and Richard Rutter have Unfinished Business.</description>
     <copyright>℗ &amp; © 2015 Stuff and Nonsense Ltd.</copyright>
     <language>en-gb</language>
-    <pubDate>Fri, 6 Feb 2026 00:03:28 +0000</pubDate>
-    <lastBuildDate>Fri, 6 Feb 2026 11:48:05 +0000</lastBuildDate>
+    <pubDate>Thu, 5 Mar 2026 15:09:03 +0000</pubDate>
+    <lastBuildDate>Thu, 5 Mar 2026 15:09:13 +0000</lastBuildDate>
     <image>
       <link>http://unfinished.bz</link>
       <title>Unfinished Business</title>
@@ -32,6 +32,38 @@
       <itunes:category text="Design"/>
     </itunes:category>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">e1a6163e-0ad1-4744-b818-abbc03fab61a</guid>
+      <title>Unfinished Business 140: Orangutan covered in coconuts</title>
+      <description><![CDATA[<ul>
+ <li><a href="https://sholio.app" rel="noopener noreferrer">Sho!io</a></li>
+ <li><a href="https://sholio.app/signup" rel="noopener noreferrer">Join Sho!io</a></li>
+ <li><a href="https://webdayout.com" rel="noopener noreferrer">Web Day Out in Brighton, March 12th 2026</a></li>
+</ul>
+<p>Get 10% off your ticket using the discount code CLEARLEFT10.</p>
+]]></description>
+      <pubDate>Thu, 5 Mar 2026 15:09:03 +0000</pubDate>
+      <author>andy.clarke@stuffandnonsense.co.uk (Andy Clarke)</author>
+      <link>http://unfinished.bz</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/6b706f8a-e7c0-4368-8531-b18ab36ae59c/958366ee-fbef-4ef4-b6a4-1b96587c9c03/artwork_ws.png" width="1280"/>
+      <content:encoded><![CDATA[<ul>
+ <li><a href="https://sholio.app" rel="noopener noreferrer">Sho!io</a></li>
+ <li><a href="https://sholio.app/signup" rel="noopener noreferrer">Join Sho!io</a></li>
+ <li><a href="https://webdayout.com" rel="noopener noreferrer">Web Day Out in Brighton, March 12th 2026</a></li>
+</ul>
+<p>Get 10% off your ticket using the discount code CLEARLEFT10.</p>
+]]></content:encoded>
+      <enclosure length="34830732" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/850962a8-225a-46d0-9fca-f93f3a5e759b/36b1778b-97c6-493a-8c34-1b73c922224c/episodes/audio/group/1bfe566a-bf6a-43bc-a44b-80e6022f0c41/group-item/c123de37-2127-465a-97d5-4159f79096ac/128_default_tc.mp3?aid=rss_feed&amp;feed=FRQZxP6k"/>
+      <itunes:title>Unfinished Business 140: Orangutan covered in coconuts</itunes:title>
+      <itunes:author>Andy Clarke</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/6b706f8a-e7c0-4368-8531-b18ab36ae59c/a533254b-ece2-4f6f-a923-43fdde8a686d/3000x3000/artwork.jpg?aid=rss_feed"/>
+      <itunes:duration>00:36:16</itunes:duration>
+      <itunes:summary>In this episode of Unfinished Business, Andy and Rich talk about how AI coding tools fit into their workflows at ClearLeft and Stuff &amp; Nonsense. Then, Andy explains how he used AI to help him build Sho!io, his new app for sharing designs. This episode is sponsored by Web Day Out. Get 10% off your ticket using the discount code CLEARLEFT10.</itunes:summary>
+      <itunes:subtitle>In this episode of Unfinished Business, Andy and Rich talk about how AI coding tools fit into their workflows at ClearLeft and Stuff &amp; Nonsense. Then, Andy explains how he used AI to help him build Sho!io, his new app for sharing designs. This episode is sponsored by Web Day Out. Get 10% off your ticket using the discount code CLEARLEFT10.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>140</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">70c28f92-a8df-4b4c-b34a-cc90423ce28f</guid>
       <title>Unfinished Business 139. Dave Letorey:  I like red and I like hats</title>

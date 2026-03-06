@@ -2,13 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="/feed.xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 19 Feb 2026 02:48:39 -0600</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Thu, 05 Mar 2026 02:49:31 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Hemispheric Views</title>
     <link>https://listen.hemisphericviews.com</link>
     <atom:link href="https://feeds.fireside.fm/hemisphericviews/rss" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Feb 2026 00:45:04 -0800</pubDate>
+    <pubDate>Thu, 05 Mar 2026 00:45:04 -0800</pubDate>
     <description>Contrary to stereotypes, not all tech enthusiasts are the same.
 Join Andrew 'The Business' Canion (https://andrewcanion.com/), tech-creative Jason Burk (https://grepjason.sh) and podcast researcher Martin Feld (https://loungeruminator.net/) as they take a light-hearted approach to technology, media, food, cultural differences and family life.
 Hemispheric Views is released fortnightly (bi-weekly) with a general run-time of around 45 minutes. We also make exclusive content available for paid supporters through our One Prime Plus (https://oneprimeplus.com) membership program.
@@ -39,6 +39,342 @@ Subscribe today!
   <itunes:category text="Hobbies"/>
 </itunes:category>
 <itunes:category text="Society &amp; Culture"/>
+    <item>
+      <title>158: Every Day Is Email Day!</title>
+      <link>https://listen.hemisphericviews.com/158</link>
+      <guid isPermaLink="false">aca874c2-fa42-43d1-a0d9-8f883bccc0db</guid>
+      <pubDate>Thu, 05 Mar 2026 00:15:00 -0800</pubDate>
+      <author>andrew@andrewcanion.com (Hemispheric Views)</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/d9d996f5-b681-4fe1-9e6b-f720a1a7c6c6/aca874c2-fa42-43d1-a0d9-8f883bccc0db.mp3" length="33501744" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Hemispheric Views</itunes:author>
+      <itunes:subtitle>Contrary to stereotypes, not all tech enthusiasts are the same. Join Andrew 'The Business' Canion, tech-creative Jason Burk and media researcher Martin Feld as they take a light-hearted approach to technology, media, food, cultural differences and family life.</itunes:subtitle>
+      <itunes:duration>45:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/d/d9d996f5-b681-4fe1-9e6b-f720a1a7c6c6/cover.jpg?v=3"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/d/d9d996f5-b681-4fe1-9e6b-f720a1a7c6c6/episodes/a/aca874c2-fa42-43d1-a0d9-8f883bccc0db/transcript.txt" type="text/plain"/>
+      <description>
+        <![CDATA[<p>Martin in back this week with CD&#39;s in hand! What was once the foot and then became a magnet is now a foot again! One Prime Plus is cheaper? It&#39;s in the Long Tail! Pigeons, pasta, post, and passwords. Say that five times. Yodelayheehoo!</p>
+
+<h2><em>Long Weekend</em> 00:00:00</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Labour_Day" rel="nofollow">Labour Day</a> 😴</li>
+</ul>
+
+<h2><em>Follow-up: While Martin Was Away</em> 00:01:15</h2>
+
+<ul>
+<li>The foot is back! 🦶</li>
+<li><a href="https://emojipedia.org/apple/ios-18.4/foot" rel="nofollow">The Apple Foot Emoji</a></li>
+<li><a href="https://emojipedia.org" rel="nofollow">Emojipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sock#Crew_socks" rel="nofollow">Crew Sock</a> 🧦</li>
+</ul>
+
+<h2><em>Livin’ in the Long Tail</em> 00:07:25</h2>
+
+<ul>
+<li>Congrats again Marius! 🥳</li>
+<li><a href="https://oneprimeplus.com" rel="nofollow">One Prime Plus Dot Com</a> 🛡️</li>
+<li>Thanks Matthew G! ❤️</li>
+<li>One Prime Plus! Now with 50% less price! 💰</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">Long live the forum!</a> 🎉</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">https://chat.hemisphericviews.com</a></li>
+</ul>
+
+<h2><em>App Corner: Handy and Updatest</em> 00:14:45</h2>
+
+<ul>
+<li><a href="https://handy.computer" rel="nofollow">Handy</a> ✋</li>
+<li><a href="https://en.wikipedia.org/wiki/Speech_recognition" rel="nofollow">Speech to Text</a></li>
+<li><a href="https://updatest.app" rel="nofollow">Updatest</a> ⬇️</li>
+<li><a href="https://www.corecode.io/macupdater/" rel="nofollow">MacUpdater</a> 🪦</li>
+</ul>
+
+<h2><em>Pod Duration</em> 00:21:15</h2>
+
+<ul>
+<li>THIS IS NOT UNANNOUNCED TRIVIA CORNER 🚨</li>
+<li><a href="https://podduration.rknight.me" rel="nofollow">Pod Duration</a> 💾</li>
+<li><a href="https://www.youtube.com/watch?v=bWEGNe104To" rel="nofollow">The Yodeling Game</a></li>
+<li>Thanks Robb! 😃</li>
+<li><a href="https://rsspod.net" rel="nofollow">Really Specific Stories</a></li>
+</ul>
+
+<h2><em>Pigeons, Pasta and Post</em> 00:26:10</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Domestic_pigeon" rel="nofollow">Pigeons</a> 🐦</li>
+<li><a href="https://loungeruminator.net" rel="nofollow">Lounge Ruminator</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fusilli" rel="nofollow">Fusilli Pasta</a> 🍝</li>
+</ul>
+
+<h2><em>Passwords ‘n’ Shit</em> 00:30:25</h2>
+
+<ul>
+<li><a href="https://1password.com" rel="nofollow">1Password</a> 🔒</li>
+<li><a href="https://en.wikipedia.org/wiki/Passwords_(Apple)" rel="nofollow">Apple Passwords</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Enshittification" rel="nofollow">Enshittification</a></li>
+</ul>
+
+<h2><em>Andrew’s 15 Pro</em> 00:37:05</h2>
+
+<ul>
+<li>Can you believe Andrew was doing Financial Analysis? 🤯</li>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_13" rel="nofollow">iPhone 13 mini</a></li>
+</ul>
+
+<h2><em>Follow-up (Again?): CDs!</em> 00:40:50</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Sigur_R%C3%B3s" rel="nofollow">Sigur Rós</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Cat_Empire" rel="nofollow">The Cat Empire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Corrs" rel="nofollow">The Corrs</a></li>
+<li>⛰️</li>
+</ul>
+
+<h2>Extras</h2>
+
+<p>Curious how editing one of these episodes is done? <a href="https://www.youtube.com/watch?v=eMSRXU3_Cvo" rel="nofollow">Check out this video Martin posted</a> of his editing process and flow!</p>
+
+<h2>Credits</h2>
+
+<p><strong><em>This episode was edited by Martin using</em></strong> <a href="https://www.wooji-juice.com/products/ferrite" rel="nofollow"><strong><em>Ferrite</em></strong></a>.</p>
+
+<p><img src="https://cdn.hemisphericviews.com/Hemispheric%20Views%20Episode%20158%20Edit.png" alt="Martin&#39;s Edit In Ferrite"></p>
+
+<hr>
+
+<p>📧 <a href="mailto:hello@hemisphericviews.com" rel="nofollow">hello@hemisphericviews.com</a><br>
+🕸 <a href="https://hemisphericviews.com" rel="nofollow">hemisphericviews.com</a><br>
+📣 <a href="https://chat.hemisphericviews.com" rel="nofollow">Chat with everyone on the Forum</a><br>
+🐘 <a href="https://social.lol/@hemisphericviews" rel="nofollow">Chat with us on Mastodon</a><br>
+⭐️ <a href="https://micro.blog/hemisphericviews" rel="nofollow">Chat with us on Micro.blog</a><br>
+🐦 <a href="https://twitter.com/hemisphericpod" rel="nofollow">Chat with us on Twitter</a><br>
+💬 <a href="https://andrewcanion.com" rel="nofollow">Catch up with Andrew</a><br>
+💬 <a href="https://loungeruminator.net" rel="nofollow">Catch up with Martin</a><br>
+💬 <a href="https://grepjason.sh" rel="nofollow">Catch up with Jason</a><br>
+💸 <a href="https://hemisphericviews.supercast.com" rel="nofollow">Support the Show on Supercast!</a><br>
+🛍️ <a href="https://hemisphericviews.bigcartel.com/" rel="nofollow">Get one of our cool stickers!</a></p>]]>
+      </description>
+      <itunes:keywords>technology, apple, mac, australia</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Martin in back this week with CD&#39;s in hand! What was once the foot and then became a magnet is now a foot again! One Prime Plus is cheaper? It&#39;s in the Long Tail! Pigeons, pasta, post, and passwords. Say that five times. Yodelayheehoo!</p>
+
+<h2><em>Long Weekend</em> 00:00:00</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Labour_Day" rel="nofollow">Labour Day</a> 😴</li>
+</ul>
+
+<h2><em>Follow-up: While Martin Was Away</em> 00:01:15</h2>
+
+<ul>
+<li>The foot is back! 🦶</li>
+<li><a href="https://emojipedia.org/apple/ios-18.4/foot" rel="nofollow">The Apple Foot Emoji</a></li>
+<li><a href="https://emojipedia.org" rel="nofollow">Emojipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sock#Crew_socks" rel="nofollow">Crew Sock</a> 🧦</li>
+</ul>
+
+<h2><em>Livin’ in the Long Tail</em> 00:07:25</h2>
+
+<ul>
+<li>Congrats again Marius! 🥳</li>
+<li><a href="https://oneprimeplus.com" rel="nofollow">One Prime Plus Dot Com</a> 🛡️</li>
+<li>Thanks Matthew G! ❤️</li>
+<li>One Prime Plus! Now with 50% less price! 💰</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">Long live the forum!</a> 🎉</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">https://chat.hemisphericviews.com</a></li>
+</ul>
+
+<h2><em>App Corner: Handy and Updatest</em> 00:14:45</h2>
+
+<ul>
+<li><a href="https://handy.computer" rel="nofollow">Handy</a> ✋</li>
+<li><a href="https://en.wikipedia.org/wiki/Speech_recognition" rel="nofollow">Speech to Text</a></li>
+<li><a href="https://updatest.app" rel="nofollow">Updatest</a> ⬇️</li>
+<li><a href="https://www.corecode.io/macupdater/" rel="nofollow">MacUpdater</a> 🪦</li>
+</ul>
+
+<h2><em>Pod Duration</em> 00:21:15</h2>
+
+<ul>
+<li>THIS IS NOT UNANNOUNCED TRIVIA CORNER 🚨</li>
+<li><a href="https://podduration.rknight.me" rel="nofollow">Pod Duration</a> 💾</li>
+<li><a href="https://www.youtube.com/watch?v=bWEGNe104To" rel="nofollow">The Yodeling Game</a></li>
+<li>Thanks Robb! 😃</li>
+<li><a href="https://rsspod.net" rel="nofollow">Really Specific Stories</a></li>
+</ul>
+
+<h2><em>Pigeons, Pasta and Post</em> 00:26:10</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Domestic_pigeon" rel="nofollow">Pigeons</a> 🐦</li>
+<li><a href="https://loungeruminator.net" rel="nofollow">Lounge Ruminator</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fusilli" rel="nofollow">Fusilli Pasta</a> 🍝</li>
+</ul>
+
+<h2><em>Passwords ‘n’ Shit</em> 00:30:25</h2>
+
+<ul>
+<li><a href="https://1password.com" rel="nofollow">1Password</a> 🔒</li>
+<li><a href="https://en.wikipedia.org/wiki/Passwords_(Apple)" rel="nofollow">Apple Passwords</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Enshittification" rel="nofollow">Enshittification</a></li>
+</ul>
+
+<h2><em>Andrew’s 15 Pro</em> 00:37:05</h2>
+
+<ul>
+<li>Can you believe Andrew was doing Financial Analysis? 🤯</li>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_13" rel="nofollow">iPhone 13 mini</a></li>
+</ul>
+
+<h2><em>Follow-up (Again?): CDs!</em> 00:40:50</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Sigur_R%C3%B3s" rel="nofollow">Sigur Rós</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Cat_Empire" rel="nofollow">The Cat Empire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Corrs" rel="nofollow">The Corrs</a></li>
+<li>⛰️</li>
+</ul>
+
+<h2>Extras</h2>
+
+<p>Curious how editing one of these episodes is done? <a href="https://www.youtube.com/watch?v=eMSRXU3_Cvo" rel="nofollow">Check out this video Martin posted</a> of his editing process and flow!</p>
+
+<h2>Credits</h2>
+
+<p><strong><em>This episode was edited by Martin using</em></strong> <a href="https://www.wooji-juice.com/products/ferrite" rel="nofollow"><strong><em>Ferrite</em></strong></a>.</p>
+
+<p><img src="https://cdn.hemisphericviews.com/Hemispheric%20Views%20Episode%20158%20Edit.png" alt="Martin&#39;s Edit In Ferrite"></p>
+
+<hr>
+
+<p>📧 <a href="mailto:hello@hemisphericviews.com" rel="nofollow">hello@hemisphericviews.com</a><br>
+🕸 <a href="https://hemisphericviews.com" rel="nofollow">hemisphericviews.com</a><br>
+📣 <a href="https://chat.hemisphericviews.com" rel="nofollow">Chat with everyone on the Forum</a><br>
+🐘 <a href="https://social.lol/@hemisphericviews" rel="nofollow">Chat with us on Mastodon</a><br>
+⭐️ <a href="https://micro.blog/hemisphericviews" rel="nofollow">Chat with us on Micro.blog</a><br>
+🐦 <a href="https://twitter.com/hemisphericpod" rel="nofollow">Chat with us on Twitter</a><br>
+💬 <a href="https://andrewcanion.com" rel="nofollow">Catch up with Andrew</a><br>
+💬 <a href="https://loungeruminator.net" rel="nofollow">Catch up with Martin</a><br>
+💬 <a href="https://grepjason.sh" rel="nofollow">Catch up with Jason</a><br>
+💸 <a href="https://hemisphericviews.supercast.com" rel="nofollow">Support the Show on Supercast!</a><br>
+🛍️ <a href="https://hemisphericviews.bigcartel.com/" rel="nofollow">Get one of our cool stickers!</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Martin in back this week with CD&#39;s in hand! What was once the foot and then became a magnet is now a foot again! One Prime Plus is cheaper? It&#39;s in the Long Tail! Pigeons, pasta, post, and passwords. Say that five times. Yodelayheehoo!</p>
+
+<h2><em>Long Weekend</em> 00:00:00</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Labour_Day" rel="nofollow">Labour Day</a> 😴</li>
+</ul>
+
+<h2><em>Follow-up: While Martin Was Away</em> 00:01:15</h2>
+
+<ul>
+<li>The foot is back! 🦶</li>
+<li><a href="https://emojipedia.org/apple/ios-18.4/foot" rel="nofollow">The Apple Foot Emoji</a></li>
+<li><a href="https://emojipedia.org" rel="nofollow">Emojipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sock#Crew_socks" rel="nofollow">Crew Sock</a> 🧦</li>
+</ul>
+
+<h2><em>Livin’ in the Long Tail</em> 00:07:25</h2>
+
+<ul>
+<li>Congrats again Marius! 🥳</li>
+<li><a href="https://oneprimeplus.com" rel="nofollow">One Prime Plus Dot Com</a> 🛡️</li>
+<li>Thanks Matthew G! ❤️</li>
+<li>One Prime Plus! Now with 50% less price! 💰</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">Long live the forum!</a> 🎉</li>
+<li><a href="https://chat.hemisphericviews.com" rel="nofollow">https://chat.hemisphericviews.com</a></li>
+</ul>
+
+<h2><em>App Corner: Handy and Updatest</em> 00:14:45</h2>
+
+<ul>
+<li><a href="https://handy.computer" rel="nofollow">Handy</a> ✋</li>
+<li><a href="https://en.wikipedia.org/wiki/Speech_recognition" rel="nofollow">Speech to Text</a></li>
+<li><a href="https://updatest.app" rel="nofollow">Updatest</a> ⬇️</li>
+<li><a href="https://www.corecode.io/macupdater/" rel="nofollow">MacUpdater</a> 🪦</li>
+</ul>
+
+<h2><em>Pod Duration</em> 00:21:15</h2>
+
+<ul>
+<li>THIS IS NOT UNANNOUNCED TRIVIA CORNER 🚨</li>
+<li><a href="https://podduration.rknight.me" rel="nofollow">Pod Duration</a> 💾</li>
+<li><a href="https://www.youtube.com/watch?v=bWEGNe104To" rel="nofollow">The Yodeling Game</a></li>
+<li>Thanks Robb! 😃</li>
+<li><a href="https://rsspod.net" rel="nofollow">Really Specific Stories</a></li>
+</ul>
+
+<h2><em>Pigeons, Pasta and Post</em> 00:26:10</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Domestic_pigeon" rel="nofollow">Pigeons</a> 🐦</li>
+<li><a href="https://loungeruminator.net" rel="nofollow">Lounge Ruminator</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fusilli" rel="nofollow">Fusilli Pasta</a> 🍝</li>
+</ul>
+
+<h2><em>Passwords ‘n’ Shit</em> 00:30:25</h2>
+
+<ul>
+<li><a href="https://1password.com" rel="nofollow">1Password</a> 🔒</li>
+<li><a href="https://en.wikipedia.org/wiki/Passwords_(Apple)" rel="nofollow">Apple Passwords</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Enshittification" rel="nofollow">Enshittification</a></li>
+</ul>
+
+<h2><em>Andrew’s 15 Pro</em> 00:37:05</h2>
+
+<ul>
+<li>Can you believe Andrew was doing Financial Analysis? 🤯</li>
+<li><a href="https://en.wikipedia.org/wiki/IPhone_13" rel="nofollow">iPhone 13 mini</a></li>
+</ul>
+
+<h2><em>Follow-up (Again?): CDs!</em> 00:40:50</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Sigur_R%C3%B3s" rel="nofollow">Sigur Rós</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Cat_Empire" rel="nofollow">The Cat Empire</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Corrs" rel="nofollow">The Corrs</a></li>
+<li>⛰️</li>
+</ul>
+
+<h2>Extras</h2>
+
+<p>Curious how editing one of these episodes is done? <a href="https://www.youtube.com/watch?v=eMSRXU3_Cvo" rel="nofollow">Check out this video Martin posted</a> of his editing process and flow!</p>
+
+<h2>Credits</h2>
+
+<p><strong><em>This episode was edited by Martin using</em></strong> <a href="https://www.wooji-juice.com/products/ferrite" rel="nofollow"><strong><em>Ferrite</em></strong></a>.</p>
+
+<p><img src="https://cdn.hemisphericviews.com/Hemispheric%20Views%20Episode%20158%20Edit.png" alt="Martin&#39;s Edit In Ferrite"></p>
+
+<hr>
+
+<p>📧 <a href="mailto:hello@hemisphericviews.com" rel="nofollow">hello@hemisphericviews.com</a><br>
+🕸 <a href="https://hemisphericviews.com" rel="nofollow">hemisphericviews.com</a><br>
+📣 <a href="https://chat.hemisphericviews.com" rel="nofollow">Chat with everyone on the Forum</a><br>
+🐘 <a href="https://social.lol/@hemisphericviews" rel="nofollow">Chat with us on Mastodon</a><br>
+⭐️ <a href="https://micro.blog/hemisphericviews" rel="nofollow">Chat with us on Micro.blog</a><br>
+🐦 <a href="https://twitter.com/hemisphericpod" rel="nofollow">Chat with us on Twitter</a><br>
+💬 <a href="https://andrewcanion.com" rel="nofollow">Catch up with Andrew</a><br>
+💬 <a href="https://loungeruminator.net" rel="nofollow">Catch up with Martin</a><br>
+💬 <a href="https://grepjason.sh" rel="nofollow">Catch up with Jason</a><br>
+💸 <a href="https://hemisphericviews.supercast.com" rel="nofollow">Support the Show on Supercast!</a><br>
+🛍️ <a href="https://hemisphericviews.bigcartel.com/" rel="nofollow">Get one of our cool stickers!</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/6MInpziV+fZiXEoxi</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/6MInpziV+fZiXEoxi" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/hemisphericviews/json/episodes/aca874c2-fa42-43d1-a0d9-8f883bccc0db/chapters" type="application/json"/>
+      <podcast:person email="" href="https://grepjason.sh" role="host">Jason Burk</podcast:person>
+      <podcast:person email="" href="https://loungeruminator.net" role="host">Martin Feld</podcast:person>
+      <podcast:person email="" href="https://canion.omg.lol" role="host">Andrew Canion</podcast:person>
+    </item>
     <item>
       <title>157: We've Only Got Room For One Toobies!</title>
       <link>https://listen.hemisphericviews.com/157</link>

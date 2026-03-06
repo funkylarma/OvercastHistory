@@ -4,7 +4,7 @@
 		<description><![CDATA[Daily livestreams recorded in front of a live virtual audience. Mostly runners. Sometimes, we talk about running.]]></description>
 		<link>https://www.youtube.com/kofuzi</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 02 Mar 2026 21:00:58 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 05 Mar 2026 13:02:27 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1dc575c0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Michael Ko]]></author>
 		<copyright><![CDATA[Michael Ko]]></copyright>
@@ -22,6 +22,22 @@
 			<itunes:category text="Running"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+		<item>
+			<title><![CDATA[Women's Half Marathon Championships Aftermath. March 2, 2026]]></title>
+			<description><![CDATA[<p>the USATF Half Marathon Championships Women&#39;s race was a fiasco</p><p>also, i almost broke embargo</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/kofuzi/episodes/Womens-Half-Marathon-Championships-Aftermath--March-2--2026-e3frfgi</link>
+			<guid isPermaLink="false">dffab8a9-ef42-4109-84d4-b4f21b44ebad</guid>
+			<dc:creator><![CDATA[Michael Ko]]></dc:creator>
+			<pubDate>Thu, 05 Mar 2026 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1dc575c0/podcast/play/116292562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F419152952-44100-2-89b2ce2ecd888.mp3" length="67460283" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;the USATF Half Marathon Championships Women&amp;#39;s race was a fiasco&lt;/p&gt;&lt;p&gt;also, i almost broke embargo&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:10:16</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Shoe Sheet Shenanigans. Thurs Feb 26, 2026]]></title>
 			<description><![CDATA[<p>unboxing the Cloudmonster 3 family and also adding a bunch of shoes to the shoe sheet</p>
