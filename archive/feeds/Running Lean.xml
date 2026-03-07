@@ -15,7 +15,7 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.runningleanpodcast.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://www.runningleanpodcast.com/</link>
 	<description>Get leaner and get stronger so you can run faster and run longer than you ever thought possible.</description>
-	<lastBuildDate>Fri, 27 Feb 2026 06:00:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Mar 2026 06:00:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -63,6 +63,46 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<podcast:guid>7e9af8c4-7838-5b7d-a1aa-cc6b26b9836a</podcast:guid>
 	<rawvoice:subscribe feed="https://www.runningleanpodcast.com/feed/podcast/" html="https://www.runningleanpodcast.com/subscribe/" itunes="https://podcasts.apple.com/us/podcast/running-lean/id1492819721" blubrry="https://blubrry.com/therunningmindpodcast/" spotify="https://open.spotify.com/show/72KqZFtcRSoZFpPVTgJYvZ" amazon_music="https://music.amazon.com/podcasts/76caec9b-04e9-4831-8e9f-4eaed959742c/Running-Lean" iheart="https://www.iheart.com/podcast/269-the-running-mind-podcast-55298488/" deezer="https://www.deezer.com/us/show/753172"></rawvoice:subscribe>
+	<item>
+		<title>323. How to Lose Weight Without Tanking Your Running</title>
+		<link>https://www.runningleanpodcast.com/323-how-to-lose-weight-without-tanking-your-running/</link>
+		<pubDate>Fri, 06 Mar 2026 06:00:37 +0000</pubDate>
+		<guid isPermaLink="false">https://www.runningleanpodcast.com/?p=2378</guid>
+		<description><![CDATA[<p>If you’re a runner trying to lose weight, you’ve probably run into this frustrating experience: you start cutting calories, trying to “eat clean,” maybe even running more… and suddenly your runs feel terrible.</p>
+<p>Your energy drops.</p>
+<p>Your pace slows down.</p>
+<p>Workouts feel harder than they should.</p>
+<p>And sometimes you end up gaining the weight back anyway.</p>
+<p>This happens all the time.</p>
+<p>Runners assume the solution is to eat less and run more. But that approach almost always backfires.</p>
+<p>Today I’m going to walk you through how to approach fat loss in a way that actually supports your running instead of sabotaging it.</p>
+<p>We’ll talk about why so many runners tank their performance when they try to lose weight, what’s actually going wrong, and the smarter strategy that helps you lean out while staying strong and consistent with your training.</p>
+<p>If you want to get leaner and run better, this episode is for you.</p>
+<h2>Start The Leaner, Stronger Runner Project</h2>
+<p>If you’re putting in the miles but not getting the results you want… something is off.</p>
+<p>Maybe you’re running a lot but the weight isn’t changing.<br />
+Maybe you feel tired all the time.<br />
+Maybe running actually feels harder than it should.</p>
+<p>And deep down you know this:</p>
+<p>You shouldn’t have to grind this hard just to stay the same.</p>
+<p>That’s exactly why I created <strong>The Leaner, Stronger Runner Project.</strong></p>
+<p>This is a step-by-step coaching program designed specifically for runners who want to:</p>
+<ul>
+<li><strong>Lose fat</strong> without sabotaging their running</li>
+<li><strong>Build real strength</strong> so running actually feels easier</li>
+<li><strong>Fuel their body properly</strong> so energy stays high and cravings calm down</li>
+<li><strong>Develop the mindset and habits</strong> that make progress stick long-term</li>
+</ul>
+<p>This isn’t another random training plan or nutrition hack.</p>
+<p>It’s a clear, structured coaching program that shows you <strong>exactly what to do — and why — so you can finally start feeling strong, lean, and confident again.</strong></p>
+<p>If you’re ready to stop guessing and start making real progress…</p>
+<p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> and learn how to get started today.</strong></p>
+<p>The post <a href="https://www.runningleanpodcast.com/323-how-to-lose-weight-without-tanking-your-running/">323. How to Lose Weight Without Tanking Your Running</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
+		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/323_How_to_Lose_Weight_Without_Tanking_Your_Running.mp3" length="27829975" type="audio/mpeg" />
+		<itunes:author>Patrick McGilvray</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>27:59</itunes:duration>
+	</item>
 	<item>
 		<title>322. How to Build Unshakable Self-Trust</title>
 		<link>https://www.runningleanpodcast.com/322-how-to-build-unshakable-self-trust/</link>
@@ -8844,23 +8884,6 @@ The Run Smarter Series website: <a href="https://www.runsmarter.online" target="
 		<itunes:author>Patrick McGilvray</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>53:28</itunes:duration>
-	</item>
-	<item>
-		<title>25. Why Diets Don&#8217;t Work</title>
-		<link>https://www.runningleanpodcast.com/why-diets-dont-work/</link>
-		<pubDate>Fri, 19 Jun 2020 05:00:07 +0000</pubDate>
-		<guid isPermaLink="false">https://www.therunningmindpodcast.com/?p=253</guid>
-		<description><![CDATA[<p>There are more diets out there in the world right now (and more conflicting information about those diets) than I even care to think about. There also seems to be a common recurring theme about all of these diets &#8211; the fact that they just don’t work.</p>
-<p>Why is this? Why don’t diets work? Every one of them claims they are <em>the</em> answer to our weight loss problems, and basically every one of them fails to produce lasting results.</p>
-<p>Today, I’m going to dive into the five biggest reasons why diets don’t work and give you a few options for what you should focus on instead.</p>
-<p>If you enjoy this episode and it inspires you in some way, I&#8217;d love to hear about it and know your biggest takeaway! Take a screenshot of you listening on your device, post it to your Instagram Stories, and tag me <a href="https://instagram.com/pmcgilvray" target="_blank" rel="noopener noreferrer">@pmcgilvray</a>.</p>
-<p>Be sure to join the discussion in the <strong>Running Lean Community</strong> on Facebook! If you listen to this podcast, you HAVE to come check out our Facebook group, the two go hand-in-hand. Join here (it&#8217;s totally free!): <a href="https://www.facebook.com/groups/runninglean/" target="_blank" rel="noopener noreferrer">www.facebook.com/groups/runninglean</a></p>
-<p>Haven&#8217;t left a review yet? All you need to do is go to <a href="https://www.runningleanpodcast.com/itunes">www.runningleanpodcast.com/itunes</a>, scroll down, and tap the stars! You can also write a quick review. Thank you for your support of the show!</p>
-<p>The post <a href="https://www.runningleanpodcast.com/why-diets-dont-work/">25. Why Diets Don&#8217;t Work</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
-		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/025_Why_Diets_Don_t_Work.mp3" length="38423775" type="audio/mpeg" />
-		<itunes:author>Patrick McGilvray</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>39:27</itunes:duration>
 	</item>
 </channel>
 </rss>

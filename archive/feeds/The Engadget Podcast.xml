@@ -8,8 +8,8 @@
     <description>A weekly news show where your favorite Engadget editors tear themselves away from their crippling technology addiction, to discuss our collective crippling technology addiction.</description>
     <copyright>© All rights reserved</copyright>
     <language>en</language>
-    <pubDate>Thu, 26 Feb 2026 22:01:03 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 22:01:13 +0000</lastBuildDate>
+    <pubDate>Fri, 6 Mar 2026 00:03:28 +0000</pubDate>
+    <lastBuildDate>Fri, 6 Mar 2026 00:03:38 +0000</lastBuildDate>
     <image>
       <link>https://art19.com/shows/engadget-pod</link>
       <title>The Engadget Podcast</title>
@@ -27,6 +27,48 @@
       <itunes:email>tips@engadget.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">0d34d2ef-02cb-40dd-9859-301c99582496</guid>
+      <title>Is the MacBook Neo the one? + Anthropic vs DoD</title>
+      <description><![CDATA[<p>It's been a wild week for Apple. After announcing a slew of new hardware, the company capped things off with its cheapest laptop ever: the $599 MacBook Neo. It's low on specs, but high on character and value. In this episode, Devindra and Engadget Deputy Editor Nathan Ingraham dive into the MacBook Neo, as well as the refreshed MacBook Air M5, MacBook Pro M5 Pro/Max and iPad Air M4. </p>
+<p>Also, Devindra chats with Spencer Ackerman, author of The Forever Wars and recent Iron Man comics, about the ongoing battle between Anthropic and the Department of Defense. It turns out the DOD still used Claude for attacks on Iran, after banning Anthropic'/s AI last week. And really, what do these AI companies expect to happen when they jump at military contracts?</p>
+<p>Apple announces a the MacBook Neo priced at $599 and it’s shockingly great – 0:53</p>
+<p>MacBook Air got the M5, MacBook Pro got the M5 Pro and M5 Max, and who needs the new iPad Air now? – 22:31</p>
+<p>Anthropic vs. DoD with Spencer Ackerman, author of The Forever Wars – 30:34</p>
+<p>Gemini encouraged a man to end his own life to be with his ‘AI wife’ – 58:53</p>
+<p>Polymarket nixes bets on nuclear detonation after public outcry – 1:01:55</p>
+<p>No Yōtei on PC: Sony closes down first party titles outside of PS5 – 1:03:56</p>
+<p>Wildlight Studios’ Highguard shuts down after 46 days live – 1:08:23</p>
+<p>Working on: Dell’s XPS 14 will be great when the keyboard fix coms through – 1:15:09</p>
+<p>Pop culture picks – 1:15:58</p>
+<p> </p>
+]]></description>
+      <pubDate>Fri, 6 Mar 2026 00:03:28 +0000</pubDate>
+      <author>tips@engadget.com (Engadget)</author>
+      <link>https://art19.com/shows/engadget-pod</link>
+      <content:encoded><![CDATA[<p>It's been a wild week for Apple. After announcing a slew of new hardware, the company capped things off with its cheapest laptop ever: the $599 MacBook Neo. It's low on specs, but high on character and value. In this episode, Devindra and Engadget Deputy Editor Nathan Ingraham dive into the MacBook Neo, as well as the refreshed MacBook Air M5, MacBook Pro M5 Pro/Max and iPad Air M4. </p>
+<p>Also, Devindra chats with Spencer Ackerman, author of The Forever Wars and recent Iron Man comics, about the ongoing battle between Anthropic and the Department of Defense. It turns out the DOD still used Claude for attacks on Iran, after banning Anthropic'/s AI last week. And really, what do these AI companies expect to happen when they jump at military contracts?</p>
+<p>Apple announces a the MacBook Neo priced at $599 and it’s shockingly great – 0:53</p>
+<p>MacBook Air got the M5, MacBook Pro got the M5 Pro and M5 Max, and who needs the new iPad Air now? – 22:31</p>
+<p>Anthropic vs. DoD with Spencer Ackerman, author of The Forever Wars – 30:34</p>
+<p>Gemini encouraged a man to end his own life to be with his ‘AI wife’ – 58:53</p>
+<p>Polymarket nixes bets on nuclear detonation after public outcry – 1:01:55</p>
+<p>No Yōtei on PC: Sony closes down first party titles outside of PS5 – 1:03:56</p>
+<p>Wildlight Studios’ Highguard shuts down after 46 days live – 1:08:23</p>
+<p>Working on: Dell’s XPS 14 will be great when the keyboard fix coms through – 1:15:09</p>
+<p>Pop culture picks – 1:15:58</p>
+<p> </p>
+]]></content:encoded>
+      <enclosure length="84140557" type="audio/mpeg" url="https://injector.simplecastaudio.com/d3dc597c-2303-4fd3-8d9f-9066bd1aaa52/episodes/700789af-5258-4923-8854-f2428abcbb25/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d3dc597c-2303-4fd3-8d9f-9066bd1aaa52&amp;awEpisodeId=700789af-5258-4923-8854-f2428abcbb25&amp;feed=GyJnPUxL"/>
+      <itunes:title>Is the MacBook Neo the one? + Anthropic vs DoD</itunes:title>
+      <itunes:author>Engadget</itunes:author>
+      <itunes:duration>01:27:08</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>301</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">602abe50-32c9-4c14-a375-490092e5a1cc</guid>
       <title>Xbox&apos;s leadership shakeup + Samsung&apos;s Galaxy S26 is here</title>

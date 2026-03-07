@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>That Triathlon Life Podcast</title>
 
-  <lastBuildDate>Thu, 26 Feb 2026 03:05:09 -0500</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 03:05:11 -0500</lastBuildDate>
   <link>http://ThatTriathlonLife.com</link>
   <language>en-us</language>
   <copyright>© 2026 That Triathlon Life Podcast</copyright>
@@ -40,6 +40,22 @@
   <podcast:person role="host" href="http://www.nickgoldston.com/" img="https://storage.buzzsprout.com/1q43uexwk1yjw8g1667kyeiyo20s">Nick Goldston</podcast:person>
   <podcast:person role="host" href="https://paulafindlay.ca/" img="https://storage.buzzsprout.com/rk4wc2v3jtaueu040nadd0cpx9ku">Paula Findlay</podcast:person>
   <item>
+    <itunes:title>Triathlon training recovery tools, increasing swimming stamina, and more!</itunes:title>
+    <title>Triathlon training recovery tools, increasing swimming stamina, and more!</title>
+    <itunes:summary><![CDATA[This week we kick things off with updates on Eric’s hip labrum surgery, then put him through a hip anatomy themed TTL Spelling Bee before diving into your listener-submitted questions. This week we discussed: Building swimming stamina from sprint to Olympic distance racingOur favorite strength and recovery toolsTraveling internationally for a race: bike box or rental?Taking a leap of faithWhat shoes to race in on a golf course runRacing socksUsing a run background to make you a stronger cycli...]]></itunes:summary>
+    <description><![CDATA[<p>This week we kick things off with updates on Eric’s hip labrum surgery, then put him through a hip anatomy themed TTL Spelling Bee before diving into your listener-submitted questions. This week we discussed:</p><ul><li>Building swimming stamina from sprint to Olympic distance racing</li><li>Our favorite strength and recovery tools</li><li>Traveling internationally for a race: bike box or rental?</li><li>Taking a leap of faith</li><li>What shoes to race in on a golf course run</li><li>Racing socks</li><li>Using a run background to make you a stronger cyclist</li></ul><p>A big thank you to our podcast supporters who keep the podcast alive! To submit a question for the podcast and to become a podcast supporter, head over to <a href='https://thattriathlonlife.com/products/podcast?selling_plan=645464203&amp;variant=40850061361291'>ThatTriathlonLife.com/podcast</a></p><p>—————————</p><p><a href='https://prf.hn/l/W4ARw0o/'>On Cloudboom Max</a></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>This week we kick things off with updates on Eric’s hip labrum surgery, then put him through a hip anatomy themed TTL Spelling Bee before diving into your listener-submitted questions. This week we discussed:</p><ul><li>Building swimming stamina from sprint to Olympic distance racing</li><li>Our favorite strength and recovery tools</li><li>Traveling internationally for a race: bike box or rental?</li><li>Taking a leap of faith</li><li>What shoes to race in on a golf course run</li><li>Racing socks</li><li>Using a run background to make you a stronger cyclist</li></ul><p>A big thank you to our podcast supporters who keep the podcast alive! To submit a question for the podcast and to become a podcast supporter, head over to <a href='https://thattriathlonlife.com/products/podcast?selling_plan=645464203&amp;variant=40850061361291'>ThatTriathlonLife.com/podcast</a></p><p>—————————</p><p><a href='https://prf.hn/l/W4ARw0o/'>On Cloudboom Max</a></p><p><br/></p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/1922707/episodes/18792666-triathlon-training-recovery-tools-increasing-swimming-stamina-and-more.mp3" length="41887585" type="audio/mpeg" />
+    <itunes:author></itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18792666</guid>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 -0800</pubDate>
+    <itunes:duration>3485</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>207</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <itunes:title>Moments before Eric heads into hip labral repair surgery </itunes:title>
     <title>Moments before Eric heads into hip labral repair surgery </title>
     <itunes:summary><![CDATA[This week Eric tells us all about his hip labral repair surgery, recorded the very morning he heads into the operating room. He’s been dealing with this chronic injury throughout his triathlon career for nearly a decade and is finally getting it fixed. In addition to talking through the surgery, we also dove into some broader triathlon questions. This week we discussed: The consequences of crashing on the bikeNavigating the pressure of body image in sportHow to use your arms while runningStra...]]></itunes:summary>
@@ -51,6 +67,7 @@
     <pubDate>Thu, 26 Feb 2026 00:00:00 -0800</pubDate>
     <itunes:duration>3000</itunes:duration>
     <itunes:keywords></itunes:keywords>
+    <itunes:episode>206</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>

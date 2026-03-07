@@ -2,7 +2,7 @@
   <channel>
     <title>Connected</title>
     <link>https://www.relay.fm/connected</link>
-    <pubDate>Thu, 26 Feb 2026 21:45:00 GMT</pubDate>
+    <pubDate>Thu, 05 Mar 2026 21:45:00 GMT</pubDate>
     <description>Connected is a weekly panel discussion on Apple and the impact of technology on our lives. With each co-host having a unique background — and accent — Connected provides a perspective that no other show can. Hosted by Federico Viticci, Stephen Hackett, and Myke Hurley.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -19,6 +19,31 @@
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
+    <item>
+      <title>593: John Ternus Was Deployed Tactically</title>
+      <description/>
+      <pubDate>Thu, 05 Mar 2026 21:45:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/pscrb.fm/rss/p/traffic.libsyn.com/connected/connected593.mp3" length="94836259" type="audio/mp3"/>
+      <link>http://relay.fm/connected/593</link>
+      <guid>http://relay.fm/connected/593</guid>
+      <itunes:title>John Ternus Was Deployed Tactically</itunes:title>
+      <itunes:episode>593</itunes:episode>
+      <itunes:author>Federico Viticci, Stephen Hackett, and Myke Hurley</itunes:author>
+      <itunes:subtitle>Apple has released an avalanche of new and updated products, and the guys come up for air to judge their predictions.</itunes:subtitle>
+      <itunes:summary>Apple has released an avalanche of new and updated products, and the guys come up for air to judge their predictions.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>4698</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>Apple has released an avalanche of new and updated products, and the guys come up for air to judge their predictions.</p>
+ <h4>This episode of Connected is sponsored by:</h4> <ul>
+<li><a href="http://fitbod.me/connected">Fitbod</a>: Get stronger, faster with a fitness plan that fits you. Get 25% off your membership.</li>
+<li><a href="http://squarespace.com/connected">Squarespace</a>: Save 10% off your first purchase of a website or domain using code CONNECTED.</li>
+</ul>
+<h4 style='display: inline;'>Guest Starring:</h4> <p style='display: inline;'><a href='http://www.relay.fm/people/dicebypcalc'>Dice by PCalc</a></p>
+<h4>Links and Show Notes:</h4>  <h5><a href='https://relay.fm/connected/join'>Get Connected Pro: Preshow, postshow, no ads.</a></h5> <h5><a href='https://relay.fm/connected/feedback'>Submit Feedback</a></h5> <h5><a href="https://cottonbureau.com/people/relay" target="_blank">🚨 New Relay Merch! 🚨</a></h5> <h5><a href="https://archive.org/details/apple-collection-1986-1987/mode/2up" target="_blank">The Apple Collection (1986-1987)</a></h5> <h5><a href="https://cottonbureau.com/p/7QECYE/challenge-coin/the-relay-10-challenge-coin-final-call#/20389766/silver-brass-1.75in" target="_blank">The Relay 10 Challenge Coin (Final Call!)</a></h5> <h5><a href="https://connectedintro.com/" target="_blank">Who's Connected Intro Is It Today?</a></h5> <h5><a href="https://rickies.co/keynote-mar-2026" target="_blank">Keynote Rickies, March 2026 – Rickies.co</a></h5> <h5><a href="https://rickies.net/#2026%20March%20Rickies:%5B%5B2026%20March%20Rickies%5D%5D" target="_blank">2026 March Rickies – Rickies.net</a></h5> <h5><a href="https://www.macstories.net/news/apple-takes-the-wraps-off-the-macbook-neo/" target="_blank">Apple Takes the Wraps Off the MacBook Neo - MacStories</a></h5> <h5><a href="https://512pixels.net/2026/03/at-599-is-the-macbook-neo-the-one/" target="_blank">At $599, Is the MacBook Neo the One? - 512 Pixels</a></h5> <h5><a href="https://www.macrumors.com/2026/03/05/apple-explains-macbook-neo-name/" target="_blank">Apple Explains 'MacBook Neo' Name - MacRumors</a></h5> <h5><a href="https://512pixels.net/2026/03/the-differences-between-the-macbook-neo-and-macbook-air/" target="_blank">The Technical Differences Between the MacBook Neo and MacBook Air - 512 Pixels</a></h5> <h5><a href="https://www.theverge.com/the-vergecast" target="_blank">The Vergecast Podcast | The Verge</a></h5> <h5><a href="https://www.macstories.net/news/apple-unveils-iphone-17e/" target="_blank">Apple Unveils iPhone 17e - MacStories</a></h5> <h5><a href="https://9to5mac.com/2026/03/03/apple-touts-fusion-architecture-for-m5-pro-and-m5-max-chips-with-super-cores/" target="_blank">Apple touts Fusion Architecture for M5 Pro and M5 Max chips with 'super cores' – 9to5mac</a></h5> <h5><a href="https://en.wikipedia.org/wiki/2.5D_integrated_circuit" target="_blank">2.5D integrated circuit - Wikipedia</a></h5> <h5><a href="https://9to5mac.com/2026/03/05/john-ternus-talks-apple-ceo-speculation-macbook-neo-more/" target="_blank">John Ternus talks Apple CEO speculation, MacBook Neo, more - 9to5Mac</a></h5> <h5><a href="https://sixcolors.com/post/2025/07/about-that-a16-macbook-rumor/" target="_blank">About that A18 Pro MacBook rumor… – Six Colors</a></h5> <h5><a href="https://sixcolors.com/post/2025/09/charting-the-path-of-the-a19-pro/" target="_blank">Charting the path of the A19 Pro – Six Colors</a></h5>]]>
+      </content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/episode/image/15968/connected_artwork_eff9e8c9-71c7-4fa2-9642-b4042bc642cf.png"/>
+    </item>
     <item>
       <title>592: The Rickies (March 2026)</title>
       <description/>

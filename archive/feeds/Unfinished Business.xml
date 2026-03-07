@@ -8,8 +8,8 @@
     <description>Andy Clarke and Richard Rutter have Unfinished Business.</description>
     <copyright>℗ &amp; © 2015 Stuff and Nonsense Ltd.</copyright>
     <language>en-gb</language>
-    <pubDate>Thu, 5 Mar 2026 15:09:03 +0000</pubDate>
-    <lastBuildDate>Thu, 5 Mar 2026 15:09:13 +0000</lastBuildDate>
+    <pubDate>Fri, 6 Mar 2026 11:11:43 +0000</pubDate>
+    <lastBuildDate>Fri, 6 Mar 2026 11:11:54 +0000</lastBuildDate>
     <image>
       <link>http://unfinished.bz</link>
       <title>Unfinished Business</title>
@@ -32,6 +32,37 @@
       <itunes:category text="Design"/>
     </itunes:category>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">47a7ade7-d2a6-4302-bb02-bd5c2e8a3cdb</guid>
+      <title>Unfinished Business 141: One Footer Unfinished Troika: Music crossover Special</title>
+      <description><![CDATA[<ul>
+ <li><a href="https://onefooter.show" rel="noopener noreferrer">One Footer in the Grave</a></li>
+ <li><a href="https://hicks.design/troika" rel="noopener noreferrer">Troika</a></li>
+ <li><a href="https://unfinished.bz" rel="noopener noreferrer">Unfinished Business</a></li>
+</ul>
+<p>Listen to all tracks from this episode on Apple Music:<br><a href="https://music.apple.com/gb/playlist/one-footer-in-the-unfinished-troika/pl.u-V5ojdSKNkPA" rel="noopener noreferrer">https://music.apple.com/gb/playlist/one-footer-in-the-unfinished-troika/pl.u-V5ojdSKNkPA</a></p>
+]]></description>
+      <pubDate>Fri, 6 Mar 2026 11:11:43 +0000</pubDate>
+      <author>andy.clarke@stuffandnonsense.co.uk (Andy Clarke)</author>
+      <link>http://unfinished.bz</link>
+      <content:encoded><![CDATA[<ul>
+ <li><a href="https://onefooter.show" rel="noopener noreferrer">One Footer in the Grave</a></li>
+ <li><a href="https://hicks.design/troika" rel="noopener noreferrer">Troika</a></li>
+ <li><a href="https://unfinished.bz" rel="noopener noreferrer">Unfinished Business</a></li>
+</ul>
+<p>Listen to all tracks from this episode on Apple Music:<br><a href="https://music.apple.com/gb/playlist/one-footer-in-the-unfinished-troika/pl.u-V5ojdSKNkPA" rel="noopener noreferrer">https://music.apple.com/gb/playlist/one-footer-in-the-unfinished-troika/pl.u-V5ojdSKNkPA</a></p>
+]]></content:encoded>
+      <enclosure length="68420788" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/850962a8-225a-46d0-9fca-f93f3a5e759b/36b1778b-97c6-493a-8c34-1b73c922224c/episodes/audio/group/3efe3d28-785f-4b02-85d7-17e4360a313e/group-item/32c681de-fb86-4677-a8aa-d1062843282e/128_default_tc.mp3?aid=rss_feed&amp;feed=FRQZxP6k"/>
+      <itunes:title>Unfinished Business 141: One Footer Unfinished Troika: Music crossover Special</itunes:title>
+      <itunes:author>Andy Clarke</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/6b706f8a-e7c0-4368-8531-b18ab36ae59c/a3bbab0a-a17f-49d4-9c42-f180705ec817/3000x3000/img4619.jpg?aid=rss_feed"/>
+      <itunes:duration>01:11:10</itunes:duration>
+      <itunes:summary>Three podcasts for the price of one. One Footer in The Grave, Troika, and Unfinished Business. In this special crossover episode, Andy and Rich are joined by Jon Hicks and Marcus Lillington to discuss which three tracks they’d want with them if they were marooned on a deserted planet.</itunes:summary>
+      <itunes:subtitle>Three podcasts for the price of one. One Footer in The Grave, Troika, and Unfinished Business. In this special crossover episode, Andy and Rich are joined by Jon Hicks and Marcus Lillington to discuss which three tracks they’d want with them if they were marooned on a deserted planet.</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>141</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">e1a6163e-0ad1-4744-b818-abbc03fab61a</guid>
       <title>Unfinished Business 140: Orangutan covered in coconuts</title>
