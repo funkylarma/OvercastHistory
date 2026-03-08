@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/pretty-serious-bike-racing-podcast" title="MP3 Audio"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://feeds.transistor.fm/pretty-serious-bike-racing-podcast" title="MP3 Audio"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <podcast:podping usesPodping="true"/>
     <title>How the Race was Won</title>
@@ -13,22 +13,22 @@
 Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</description>
     <copyright>Escape Collective 2022</copyright>
     <podcast:guid>c621e3f6-3db6-5594-9a65-844e257a2615</podcast:guid>
-    <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
+    <podcast:locked>yes</podcast:locked>
     <itunes:applepodcastsverify>a8d7dc10-3093-11f0-a8bd-75b588fc0c67</itunes:applepodcastsverify>
     <podcast:trailer pubdate="Mon, 29 May 2023 11:48:44 -0600" url="https://media.transistor.fm/f1f71ad9/37dd7116.mp3" length="56137979" type="audio/mpeg">The Giro's thrilling finale</podcast:trailer>
     <language>en</language>
-    <pubDate>Sun, 23 Nov 2025 22:52:33 -0700</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 19:52:39 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2026 12:10:20 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2026 12:11:16 -0700</lastBuildDate>
     <link>https://escapecollective.com</link>
     <image>
-      <url>https://img.transistor.fm/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg</url>
+      <url>https://img.transistorcdn.com/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg</url>
       <title>How the Race was Won</title>
       <link>https://escapecollective.com</link>
     </image>
     <itunes:category text="Sports"/>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Escape Collective</itunes:author>
-    <itunes:image href="https://img.transistor.fm/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg"/>
+    <itunes:image href="https://img.transistorcdn.com/95r6PfbvQ3pRF3c0jyzeR3hxpjH9SP1RXPlN2hwv8AE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYjMw/ZDAxNTE3OWQ3YmRk/NjI4YzMzMjI2NmM1/YjA5Ni5wbmc.jpg"/>
     <itunes:summary>How the Race was Won is back for 2025. This year, we have evolved from being solely a podcast to being a post-race video show that you can watch live over on YouTube, although of course you can still just listen to the show in podcast form if you'd prefer. In any case, we will once again be bringing you the same analysis you love, taking a closer look into the key moments of key races and the how and the why behind tactics and results. 
 
 Escape Collective is member-funded. If you like this podcast please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
@@ -40,6 +40,31 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Did Pogačar actually attack at Strade Bianche?</title>
+      <itunes:episode>86</itunes:episode>
+      <podcast:episode>86</podcast:episode>
+      <itunes:title>Did Pogačar actually attack at Strade Bianche?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8be961e4-d5ca-4505-be8f-ca32764a9728</guid>
+      <link>https://share.transistor.fm/s/ab928728</link>
+      <description>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano are back for 2026 to break down all the action from Strade Bianche.</p><p>To get access to the full member's only show, sign up over at <a href="http://escapecollective.com/htrww">escapecollective.com/htrww</a>!</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano are back for 2026 to break down all the action from Strade Bianche.</p><p>To get access to the full member's only show, sign up over at <a href="http://escapecollective.com/htrww">escapecollective.com/htrww</a>!</p>]]>
+      </content:encoded>
+      <pubDate>Sat, 07 Mar 2026 12:10:18 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/ab928728/892d0993.mp3" length="27164817" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Dane Cash and Cosmo Catalano are back for 2026 to break down all the action from Strade Bianche.</p><p>To get access to the full member's only show, sign up over at <a href="http://escapecollective.com/htrww">escapecollective.com/htrww</a>!</p>]]>
+      </itunes:summary>
+      <itunes:keywords>cycling, pro cycling,professional cycling,road cycling,road racing,WorldTour,Tour de France,Paris-Roubaix,Giro d'Italia</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>Keep calm and make history at Il Lombardia</title>
       <itunes:episode>85</itunes:episode>
@@ -1383,7 +1408,7 @@ Escape Collective is member-funded. If you like this podcast please consider sup
       <author>Escape Collective</author>
       <enclosure url="https://media.transistor.fm/cc2f830c/260017f9.mp3" length="61827418" type="audio/mpeg"/>
       <itunes:author>Escape Collective</itunes:author>
-      <itunes:image href="https://img.transistor.fm/PYocKMJ7c8Utig9KwpoNVy5NlHaIfxcnc3ePxEPpDa8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NjEzODEv/MTY5ODEzNTgxMS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:image href="https://img.transistorcdn.com/PYocKMJ7c8Utig9KwpoNVy5NlHaIfxcnc3ePxEPpDa8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NjEzODEv/MTY5ODEzNTgxMS1h/cnR3b3JrLmpwZw.jpg"/>
       <itunes:duration>2556</itunes:duration>
       <itunes:summary>
         <![CDATA[<p>Ruth Winder joins Dane Cash and Cosmo Catalano to wrap up the 2023 road racing campaign. The crew talks Guangxi and Chongming Island, and ponders some of the broader questions of the season.</p>]]>
@@ -2105,7 +2130,7 @@ Escape Collective is member-funded. If you like this podcast please consider sup
       <author>Escape Collective</author>
       <enclosure url="https://media.transistor.fm/0f387b01/909f5de5.mp3" length="64011504" type="audio/mpeg"/>
       <itunes:author>Escape Collective</itunes:author>
-      <itunes:image href="https://img.transistor.fm/o7JN6r7MZQRPuoi_tmY9TFETFeWN19EBh5qFx3L8_kQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjQv/MTY5Nzc0NzIyNS1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:image href="https://img.transistorcdn.com/o7JN6r7MZQRPuoi_tmY9TFETFeWN19EBh5qFx3L8_kQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjQv/MTY5Nzc0NzIyNS1h/cnR3b3JrLmpwZw.jpg"/>
       <itunes:duration>4001</itunes:duration>
       <itunes:summary>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...Tadej Pogačar's Paris-Nice dominancePrimož Roglič's return to form at Tirreno-AdriaticoLorena Wiebes and another big win for SD Worx at the Ronde van DrentheThe fast-approaching Milan-San Remo and Trofeo Alfredo Binda Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
       <itunes:subtitle>For whatever reason, someone is still letting us talk about bike racing. In episode two of the PSBRP, Ronan Mc Laughlin and Abby Mickey join Dane Cash and Cosmo Catalano to cover...Tadej Pogačar's Paris-Nice dominancePrimož Roglič's return to form at Tirr</itunes:subtitle>
@@ -2130,7 +2155,7 @@ Escape Collective is member-funded. If you like this podcast please consider sup
       <author>Escape Collective</author>
       <enclosure url="https://media.transistor.fm/00c6ea0e/35a9370c.mp3" length="62831613" type="audio/mpeg"/>
       <itunes:author>Escape Collective</itunes:author>
-      <itunes:image href="https://img.transistor.fm/CyL2mEuGiNqLCm7HBoT_4LGPoiSMTb1gombRqt1p_KQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjMv/MTY5Nzc0NzIwMi1h/cnR3b3JrLmpwZw.jpg"/>
+      <itunes:image href="https://img.transistorcdn.com/CyL2mEuGiNqLCm7HBoT_4LGPoiSMTb1gombRqt1p_KQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lcGlz/b2RlLzE1NTU5MjMv/MTY5Nzc0NzIwMi1h/cnR3b3JrLmpwZw.jpg"/>
       <itunes:duration>3927</itunes:duration>
       <itunes:summary>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first episode of the show, Dane Cash, Cosmo Catalano, Caley Fretz, and Ruth Winder cover...The tactics, the drama, the horse on the course, the heralded and the unheralded, and so much more from Strade BiancheThe early returns from the action at Paris-NiceA busy week of racing ahead that includes Tirreno-Adriatico and the Ronde van Drenthe Hosted on Acast. See acast.com/privacy for more information.</itunes:summary>
       <itunes:subtitle>If you've been waiting for the Placeholders to get a bit more serious about bike racing, we've got just the show for you. In a brand new podcast, we take a closer look into the key moments of key races, and then discuss what's coming up. In the very first</itunes:subtitle>

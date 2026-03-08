@@ -11,8 +11,8 @@
 
 <language>en</language>
 
-<pubDate>Fri, 31 November 2025 12:00:00 +0000</pubDate>
-<lastBuildDate>Fri, 31 November 2025 12:00:00 +0000</lastBuildDate>
+<pubDate>Fri, 6 March 2026 12:00:00 +0000</pubDate>
+<lastBuildDate>Fri, 6 March 2026 12:00:00 +0000</lastBuildDate>
 
 <image>
 <link>https://onefooter.show</link>
@@ -40,6 +40,25 @@
 <itunes:category text="Arts">
 <itunes:category text="Design"/>
 </itunes:category>
+
+<item>
+<guid isPermaLink="false">3c892ab9-3e1c-4463-8e33-642c004fd12f</guid>
+<title>One Footer Unfinished Troika: Music crossover special</title>
+<description><![CDATA[Three podcasts for the price of one. One Footer in The Grave, Troika, and Unfinished Business. In this special crossover episode, Andy, Jon, and Marcus are joined by Rich Rutter to discuss which three tracks they’d want with them if they were marooned on a deserted planet.]]></description>
+<pubDate>Friday, 6 March 2026 12:00:00 +0000</pubDate>
+<author>andy.clarke@stuffandnonsense.co.uk (Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington)</author>
+<link>https://onefooter.show/episode-019.html</link>
+<enclosure length="68501793" type="audio/mpeg" url="https://onefooter.show/episodes/one-footer-in-the-grave-019.mp3"/>
+<itunes:title>One Footer Unfinished Troika: Music crossover special</itunes:title>
+<itunes:author>Paul Boag, Andy Clarke, Jon Hicks, and Marcus Lillington</itunes:author>
+<itunes:duration>01:11:10</itunes:duration>
+<itunes:summary>Three podcasts for the price of one. One Footer in The Grave, Troika, and Unfinished Business. In this special crossover episode, Andy, Jon, and Marcus are joined by Rich Rutter to discuss which three tracks they’d want with them if they were marooned on a deserted planet.</itunes:summary>
+<itunes:subtitle>Three podcasts for the price of one. One Footer in The Grave, Troika, and Unfinished Business. In this special crossover episode, Andy, Jon, and Marcus are joined by Rich Rutter to discuss which three tracks they’d want with them if they were marooned on a deserted planet.</itunes:subtitle>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>19</itunes:episode>
+</item>
+
 
 <item>
 <guid isPermaLink="false">3c892ab9-3e1c-4463-8e33-642c004fd12e</guid>
