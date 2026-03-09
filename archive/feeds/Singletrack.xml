@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Singletrack</title>
 
-  <lastBuildDate>Mon, 02 Mar 2026 02:05:10 -0500</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 03:05:10 -0400</lastBuildDate>
   <link>https://www.runsingletrack.com/</link>
   <language>en-us</language>
   <copyright>© 2026 Singletrack</copyright>
@@ -38,6 +38,23 @@
     <itunes:category text="Wilderness" />
   </itunes:category>
   <podcast:person role="host" href="https://www.finnmelanson.com/">Finn Melanson</podcast:person>
+  <item>
+    <itunes:title>Have 200-Mile Ultras Earned Their Place in the Sport Yet? Kilian Korth Weighs In</itunes:title>
+    <title>Have 200-Mile Ultras Earned Their Place in the Sport Yet? Kilian Korth Weighs In</title>
+    <itunes:summary><![CDATA[In this episode, Kilian Korth joins the show to discuss the evolving competitive landscape of 200-mile ultramarathons. We examine whether performances at the distance can currently be used to judge greatness in the sport, how the depth of competition compares to more established races like Western States and UTMB, and what it will take for the discipline to gain broader legitimacy. Kilian also shares his own philosophy around pursuing ambitious goals, the “No Limits” mindset, and why he belie...]]></itunes:summary>
+    <description><![CDATA[<p>In this episode, Kilian Korth joins the show to discuss the evolving competitive landscape of 200-mile ultramarathons. We examine whether performances at the distance can currently be used to judge greatness in the sport, how the depth of competition compares to more established races like Western States and UTMB, and what it will take for the discipline to gain broader legitimacy. Kilian also shares his own philosophy around pursuing ambitious goals, the “No Limits” mindset, and why he believes the 200-mile scene represents a collective experiment in testing the boundaries of human endurance.<br/><br/>In the second half of the conversation, we explore Kilian’s path into the sport, his recent success across multi-day races, and the realities of racing at this distance - from sleep strategy and pacing philosophy to logistics, fueling, and managing the psychological demands of moving for multiple days. We also discuss the role of competition in pushing the sport forward, the future of races like Cocodona, and how the next generation of athletes may redefine what’s possible in 200-mile racing.</p><p><br/></p><p><b>Partners:</b></p><ul><li>Precision Fuel and Hydration - use code SINGLETRACK at checkout for 15% off your next order (https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack)</li><li>Norda - check out the 005: the lightest, fastest, most stable trail racing shoe ever made (https://nordarun.com/)</li><li>Raide - Making equipment for efficient human-powered movement in the mountains (https://raideresearch.com/singletrack)</li><li>Janji - premium trail running apparel (https://janji.com/pages/singletrack)</li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this episode, Kilian Korth joins the show to discuss the evolving competitive landscape of 200-mile ultramarathons. We examine whether performances at the distance can currently be used to judge greatness in the sport, how the depth of competition compares to more established races like Western States and UTMB, and what it will take for the discipline to gain broader legitimacy. Kilian also shares his own philosophy around pursuing ambitious goals, the “No Limits” mindset, and why he believes the 200-mile scene represents a collective experiment in testing the boundaries of human endurance.<br/><br/>In the second half of the conversation, we explore Kilian’s path into the sport, his recent success across multi-day races, and the realities of racing at this distance - from sleep strategy and pacing philosophy to logistics, fueling, and managing the psychological demands of moving for multiple days. We also discuss the role of competition in pushing the sport forward, the future of races like Cocodona, and how the next generation of athletes may redefine what’s possible in 200-mile racing.</p><p><br/></p><p><b>Partners:</b></p><ul><li>Precision Fuel and Hydration - use code SINGLETRACK at checkout for 15% off your next order (https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack)</li><li>Norda - check out the 005: the lightest, fastest, most stable trail racing shoe ever made (https://nordarun.com/)</li><li>Raide - Making equipment for efficient human-powered movement in the mountains (https://raideresearch.com/singletrack)</li><li>Janji - premium trail running apparel (https://janji.com/pages/singletrack)</li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></content:encoded>
+    <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/1794638/episodes/18807772-have-200-mile-ultras-earned-their-place-in-the-sport-yet-kilian-korth-weighs-in.mp3" length="77509028" type="audio/mpeg" />
+    <itunes:author>Finn Melanson</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18807772</guid>
+    <pubDate>Sun, 08 Mar 2026 00:00:00 -0700</pubDate>
+    <itunes:duration>6455</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>443</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Is the Double Back? Kilian’s 2026 Schedule, Ironman’s Content Ban + Western States Depth (Singletrack News)</itunes:title>
     <title>Is the Double Back? Kilian’s 2026 Schedule, Ironman’s Content Ban + Western States Depth (Singletrack News)</title>

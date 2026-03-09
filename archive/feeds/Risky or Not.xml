@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/233006/destinations/1723082.xml" rel="self" type="application/rss+xml"/>
     <title>Risky or Not?</title>
-    <pubDate>Wed, 04 Mar 2026 20:11:42 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 20:11:42 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2026 12:06:09 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2026 12:06:09 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>http://riskyornot.co</link>
     <language>en</language>
@@ -52,6 +52,37 @@
     
     
     
+    
+    <item>
+      <title>898. Flipping Veggie Wings With Unwashed Hands</title>
+      <itunes:title>Flipping Veggie Wings With Unwashed Hands</itunes:title>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[864a139d-637c-46b2-88dd-7c13e484731d]]></guid>
+      <link><![CDATA[https://riskyornot.libsyn.com/898-flipping-veggie-wings-with-unwashed-hands]]></link>
+      <description><![CDATA[<p>Dr. Don and Professor Ben talk about the risks from flipping veggie wings with unwashed hands.</p> <p>Fedica text: Dr. Don - not risky 👍🏼<br /> Professor Ben - not risky 👍🏼</p> <ul> <li><a href= "https://www.morningstarfarms.com/en_US/products/chikn/morningstar-farms-buffalo-wings-product.html"> Vegan Buffalo Nuggets | MorningStar Farms®</a></li> <li><a href="https://www.kouroshdini.com/">Kourosh Dini | Mind, Music, and Productivity</a></li> </ul>]]></description>
+      
+      <content:encoded><![CDATA[<p>Dr. Don and Professor Ben talk about the risks from flipping veggie wings with unwashed hands.</p> <p>Fedica text: Dr. Don - not risky 👍🏼 Professor Ben - not risky 👍🏼</p> <ul> <li><a href= "https://www.morningstarfarms.com/en_US/products/chikn/morningstar-farms-buffalo-wings-product.html"> Vegan Buffalo Nuggets | MorningStar Farms®</a></li> <li><a href="https://www.kouroshdini.com/">Kourosh Dini | Mind, Music, and Productivity</a></li> </ul>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/secure/riskyornot/RoN898.mp3?dest-id=1723082" length="8956469" type="audio/mpeg" />
+      <itunes:duration>09:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      <itunes:episode>898</itunes:episode>
+      
+      
+      <itunes:image href="https://static.libsyn.com/p/assets/b/8/2/e/b82e0371eb86e44ad959afa2a1bf1c87/898._Not_ChatGPT_IMG_7130_1400.jpg" />
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      <itunes:author>Don Schaffner and Ben Chapman</itunes:author>
+      
+      
+      
+    </item>
     
     <item>
       <title>897. Cooked Brown Rice Infested With Pantry Moths</title>

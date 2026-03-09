@@ -2,7 +2,7 @@
   <channel>
     <title>Downstream</title>
     <link>https://www.relay.fm/downstream</link>
-    <pubDate>Thu, 19 Feb 2026 02:00:00 GMT</pubDate>
+    <pubDate>Fri, 06 Mar 2026 22:00:00 GMT</pubDate>
     <description>Jason Snell and a rotating group of experts break down the present and future of television. Hosted by Jason Snell.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -19,6 +19,32 @@
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
+    <item>
+      <title>114: Ted Sarandos Says a Lot of Things</title>
+      <description/>
+      <pubDate>Fri, 06 Mar 2026 22:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/relaydownstream/downstream114.mp3" length="47059062" type="audio/mp3"/>
+      <link>http://relay.fm/downstream/114</link>
+      <guid>http://relay.fm/downstream/114</guid>
+      <itunes:title>Ted Sarandos Says a Lot of Things</itunes:title>
+      <itunes:episode>114</itunes:episode>
+      <itunes:author>Jason Snell</itunes:author>
+      <itunes:subtitle>We break down the aftermath of the Warner Bros. Discovery sale, including positives for Netflix and questions for Paramount Skydance.</itunes:subtitle>
+      <itunes:summary>We break down the aftermath of the Warner Bros. Discovery sale, including positives for Netflix and questions for Paramount Skydance.</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>3879</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>We break down the aftermath of the Warner Bros. Discovery sale, including positives for Netflix and questions for Paramount Skydance.</p>
+ <h4 style='display: inline;'>Guest Starring:</h4> <p style='display: inline;'><a href='http://www.relay.fm/people/josefadalian'>Josef Adalian</a></p>
+<h4>Links and Show Notes:</h4> <p>TV Picks: </p>
+
+<ul>
+<li>Joe: Traitors UK (Peacock)</li>
+<li>Jason: Shrinking (Apple TV)</li>
+</ul>
+ <h5><a href='https://relay.fm/downstream/join'>Get Downstream+ and don't miss a segment!</a></h5> <h5><a href='https://relay.fm/downstream/feedback'>Submit Feedback</a></h5>]]>
+      </content:encoded>
+    </item>
     <item>
       <title>113: Just Get an Antenna</title>
       <description/>

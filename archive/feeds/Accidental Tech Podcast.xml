@@ -1,5 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Fri, 27 Feb 2026 01:08:26 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">skfmu1pkmusycwr6</guid><pubDate>Fri, 27 Feb 2026 01:08:26 +0000</pubDate><title>680: A Lot of Holes in That Cheese</title><itunes:title>A Lot of Holes in That Cheese</itunes:title><itunes:episode>680</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:34:33</itunes:duration><enclosure url="https://atp.fm/audio/skfmu1pkmusycwr6/atp680.mp3" length="149180044" type="audio/mpeg"/><link>https://atp.fm/680</link><description><![CDATA[<ul>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Thu, 05 Mar 2026 23:55:16 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">bzzrslv3qwt0vhkw</guid><pubDate>Thu, 05 Mar 2026 23:55:16 +0000</pubDate><title>681: The Price of Your Nightmares</title><itunes:title>The Price of Your Nightmares</itunes:title><itunes:episode>681</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:46:54</itunes:duration><enclosure url="https://atp.fm/audio/bzzrslv3qwt0vhkw/atp681.mp3" length="160236299" type="audio/mpeg"/><link>https://atp.fm/681</link><description><![CDATA[<ul>
+<li>Pre-show: <a href="https://autocatalogarchive.com/">The best (but slowest) website on the internet</a>
+
+<ul>
+<li><a href="https://milliondollarhomepage.com/">Million Dollar Homepage</a></li>
+<li><a href="https://autocatalogarchive.com/wp-content/uploads/2016/07/BMW-M5-2013-.pdf">2013 BMW M5</a> (PDF)</li>
+<li><a href="https://autocatalogarchive.com/wp-content/uploads/2016/09/Honda-Accord-2014-USA.pdf">2014 Honda Accord</a> (PDF)</li>
+</ul></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/">M4 iPad Air</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/">iPhone 17e</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/">New displays</a> (‼️)
+
+<ul>
+<li>Studio Display 2
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/03/04/new-apple-studio-display-chips/">A19 per MacRumors</a></li>
+<li><a href="https://mastodon.social/@jackwellborn/116166020002234878">Some excellent throwback snark from Jack Wellborn</a></li>
+</ul></li>
+<li>Studio Display XDR
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/03/04/new-studio-display-firmware-update/">Day-one software update</a></li>
+<li><a href="https://www.apple.com/studio-display-xdr/specs/">Mac support</a>
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/03/03/studio-display-xdr-120hz-limits/">120Hz-worthy Macs</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/">M5 MacBook Air</a>
+
+<ul>
+<li><a href="https://9to5mac.com/2026/03/03/apple-macbook-price-increase-ram-same/">No change in RAM upgrade pricing</a>?</li>
+</ul></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/">M5 Pro &amp; M5 Max</a>
+
+<ul>
+<li><a href="https://mastodon.online/@andrew_writes/116166138500968674">Efficiency cores still exist</a></li>
+</ul></li>
+<li><a href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/">M5 Pro &amp; M5 Max MacBook Pros</a>
+
+<ul>
+<li>If you squint, a 64GB MBP <a href="https://daringfireball.net/linked/2026/03/03/apple-introduces-macbook-pro-models-with-m5-pro-and-m5-max-chips">got cheaper</a></li>
+</ul></li>
+<li><a href="https://www.apple.com/macbook-neo">MacBook Neo</a>
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/">Name leak</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Surface_Neo">Prior art</a></li>
+<li><a href="https://sixcolors.com/post/2026/03/apple-introduces-colorful-macbook-neo-at-599/">Jason&#8217;s review &amp; charts</a></li>
+<li><a href="https://www.macrumors.com/guide/macbook-neo-vs-air/">No indicator light</a></li>
+<li><a href="https://zeppelin.flights/@jsnell/116171907856261725">Jason&#8217;s observation about the Apple logo</a></li>
+<li><a href="https://www.youtube.com/watch?v=u3SIKAmPXY4">Announcement video</a></li>
+</ul></li>
+<li>Post-show: John had <a href="https://mastodon.social/@siracusa/116171778118888641">a post</a> break containment
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Context_collapse#In_social_media">Context collapse</a></li>
+</ul></li>
+<li><a href="https://atp.fm/join">Members-only</a> ATP Overtime: Apple&#8217;s <a href="https://www.apple.com/newsroom/2026/02/apple-introduces-a-new-video-podcast-experience-on-apple-podcasts/">video podcast experience</a>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/HTTP_Live_Streaming">HLS</a></li>
+<li><a href="https://sixcolors.com/link/2026/02/apple-updates-video-support-for-podcasts/">Dan Moren notes prior art</a></li>
+<li><a href="https://www.manton.org/2026/02/16/this-thread-started-by-john.html">Not based on RSS, laments Manton Reece</a></li>
+<li><a href="https://www.youtube.com/watch?v=xu_kFFv3y2s">Stephen Robles&#8217; video</a></li>
+</ul></li>
+</ul>
+
+<p>Sponsored by:</p>
+
+<ul>
+<li><a href="https://www.masterclass.com/atp">Masterclass</a>: Learn from the world’s best. Video lessons that inspire.</li>
+<li><a href="https://factormeals.com/atp50off">Factor</a>: Healthy Eating, Made Easy. Get 50% off your first box, plus free breakfast for 1 year.</li>
+<li><a href="https://joindeleteme.com/ATP">DeleteMe</a>: Making it quick, easy and safe to remove your personal data online.</li>
+</ul>
+
+<p><a href="https://atp.fm/join">Become a member</a> for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!</p>
+]]></description><itunes:subtitle>The MacBook Neo, M5 MacBook Air, M4 iPad Air, MacBook Pro with M5 Pro and M5 Max, the new Studio Display XDR, and the “new” Studio Display.</itunes:subtitle></item><item><guid isPermaLink="false">skfmu1pkmusycwr6</guid><pubDate>Fri, 27 Feb 2026 01:08:26 +0000</pubDate><title>680: A Lot of Holes in That Cheese</title><itunes:title>A Lot of Holes in That Cheese</itunes:title><itunes:episode>680</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:34:33</itunes:duration><enclosure url="https://atp.fm/audio/skfmu1pkmusycwr6/atp680.mp3" length="149180044" type="audio/mpeg"/><link>https://atp.fm/680</link><description><![CDATA[<ul>
 <li>Pre-show: Marco&#8217;s Watch and snow <s>blows</s> woes
 
 <ul>
@@ -149,6 +228,7 @@
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=PKfYCWLfMWA">Empowering the Next Wave of Silicon Engineers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Michael_Crichton#Gell-Mann_amnesia_effect">Gell-Mann amnesia effect</a></li>
 </ul></li>
 </ul>
 
