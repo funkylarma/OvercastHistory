@@ -2,11 +2,11 @@
 <?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://feeds.buzzsprout.com/2092855.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rss.buzzsprout.com/2092855.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Podcast Awesome </title>
 
-  <lastBuildDate>Mon, 23 Feb 2026 14:36:10 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 17:14:15 -0400</lastBuildDate>
   <link>https://www.podcastawesome.com/</link>
   <language>en-us</language>
   <copyright>© 2026 Podcast Awesome </copyright>
@@ -36,6 +36,25 @@
   </itunes:category>
   <podcast:person role="host" href="https://www.therealmattjohnson.com/" img="https://storage.buzzsprout.com/v8mwgz8im181l614phwg0dhbfh41">Matt Johnson</podcast:person>
   <podcast:person role="co-host" href="https://www.sensibleworld.com/" img="https://storage.buzzsprout.com/jbv786n3muyaz76n7no3pdnxzhcp">Jory Raphael</podcast:person>
+  <item>
+    <itunes:title>Eleventy Is Rebranding to Build Awesome: What Changes (and What Doesn’t)</itunes:title>
+    <title>Eleventy Is Rebranding to Build Awesome: What Changes (and What Doesn’t)</title>
+    <itunes:summary><![CDATA[Eleventy is becoming Build Awesome — and Zach Leatherman is here to explain what that actually means. In this episode of Podcast Awesome, Matt has a chat with Zach about the Build Awesome Kickstarter, why this rebrand is part of building a sustainable future for the open source project, and what changes (and what doesn’t) for people already running Eleventy sites. You’ll hear Zach break down the backwards compatibility promise, the Eleventy v3 → Build Awesome v4 upgrade path, and what Build A...]]></itunes:summary>
+    <description><![CDATA[<p>Eleventy is becoming <b>Build Awesome</b> — and Zach Leatherman is here to explain what that actually means.</p><p>In this episode of <em>Podcast Awesome</em>, Matt has a chat with Zach about the Build Awesome Kickstarter, why this rebrand is part of building a sustainable future for the open source project, and what changes (and what <em>doesn’t</em>) for people already running Eleventy sites.</p><p>You’ll hear Zach break down the <b>backwards compatibility</b> promise, the <b>Eleventy v3 → Build Awesome v4</b> upgrade path, and what <b>Build Awesome Pro</b> adds—especially for teams who want an easier publishing workflow and a smoother way for non-technical collaborators to edit content.</p><p>Plus: behind-the-scenes stories from filming the Kickstarter video in LA, including the cast/crew magic, a hot dog cake, and the origin story of the <b>Awesome &apos;Possum</b>.</p><p><br/></p><p>🗒️ <b>What We Cover in This Episode</b></p><p>🚀 Eleventy is becoming <b>Build Awesome</b> (and why Zach says this is the sustainable future of the project)<br/> 🧩 What changes vs. what stays the same (and the “no panic” promise)<br/> 🔁 <b>Backwards compatibility</b>: your existing Eleventy sites still work<br/> ⬆️ Upgrade path: what moving from <b>Eleventy v3 → Build Awesome v4</b> looks like<br/> 🧰 What Build Awesome is (website generation that can be simple <em>or</em> powerful)<br/> 🧑‍🤝‍🧑 Build Awesome Pro: one-stop publishing + collab for non-technical editors<br/> ✍️ In-browser editing: fixing content directly on page w/o a separate CMS feel)<br/> 💸 Funding open source without burnout (+ why the “Font Awesome formula” works)<br/> 🎬 Kickstarter fun: filming in LA, cast/crew magic, and the cake/hot dog metaphor<br/> 🦝 Meet the <b>Awesome &apos;Possum</b> (mascot origins + brand homage)<br/> 🎁 How to support: tiers, swag, and where to go next</p><p>⏱️ <b>Timestamps</b></p><p>0:00 - Cold Open: Build Awesome Kickstarter Announcement<br/> 0:08 - Eleventy → Build Awesome (What This Episode Covers)<br/> 0:40 - The Big News (Zach’s Announcement)<br/> 1:25 - Joining the Awesomeverse (and why it matters)<br/> 2:50 - Funding Open Source Without Burnout<br/> 4:20 - What Build Awesome Is (and who it’s for)<br/> 6:05 - Build Awesome Pro: Publishing + Collaboration Tools<br/> 7:20 - Backwards Compatibility: Your Eleventy Sites Still Work<br/> 8:10 - Upgrade Path: Eleventy v3 → Build Awesome v4<br/> 10:05 - Why Pro Features Make the Free Core Better<br/> 12:10 - In-Browser Editing: The “edit right on the site” experience<br/> 13:25 - Kickstarter Fun: Shooting the Launch Video in LA<br/> 15:40 - Cast, Crew, and the Cake/Hot Dog Metaphor<br/> 18:55 - Meet the Awesome Possum (Mascot Origins + Brand Homage)<br/> 20:40 - How to Support: Where to Go + Tiers + Swag<br/> 22:40 - Wrap-Up + What to Watch Next</p><p><b>Links &amp; Resources</b></p><ul><li>Build Awesome Kickstarter: (link)</li><li>Eleventy / Build Awesome: <a href='https://eleven.dev/'>https://eleven.dev/</a></li><li>Font Awesome: <a href='https://fontawesome.com/'>https://fontawesome.com/</a></li><li>Web Awesome: <a href='https://webawesome.com/'>https://webawesome.com/</a></li></ul><p>Stay up to date on all the <a href='https://twitter.com/fontawesome'>Font Awesomeness</a>! </p>]]></description>
+    <content:encoded><![CDATA[<p>Eleventy is becoming <b>Build Awesome</b> — and Zach Leatherman is here to explain what that actually means.</p><p>In this episode of <em>Podcast Awesome</em>, Matt has a chat with Zach about the Build Awesome Kickstarter, why this rebrand is part of building a sustainable future for the open source project, and what changes (and what <em>doesn’t</em>) for people already running Eleventy sites.</p><p>You’ll hear Zach break down the <b>backwards compatibility</b> promise, the <b>Eleventy v3 → Build Awesome v4</b> upgrade path, and what <b>Build Awesome Pro</b> adds—especially for teams who want an easier publishing workflow and a smoother way for non-technical collaborators to edit content.</p><p>Plus: behind-the-scenes stories from filming the Kickstarter video in LA, including the cast/crew magic, a hot dog cake, and the origin story of the <b>Awesome &apos;Possum</b>.</p><p><br/></p><p>🗒️ <b>What We Cover in This Episode</b></p><p>🚀 Eleventy is becoming <b>Build Awesome</b> (and why Zach says this is the sustainable future of the project)<br/> 🧩 What changes vs. what stays the same (and the “no panic” promise)<br/> 🔁 <b>Backwards compatibility</b>: your existing Eleventy sites still work<br/> ⬆️ Upgrade path: what moving from <b>Eleventy v3 → Build Awesome v4</b> looks like<br/> 🧰 What Build Awesome is (website generation that can be simple <em>or</em> powerful)<br/> 🧑‍🤝‍🧑 Build Awesome Pro: one-stop publishing + collab for non-technical editors<br/> ✍️ In-browser editing: fixing content directly on page w/o a separate CMS feel)<br/> 💸 Funding open source without burnout (+ why the “Font Awesome formula” works)<br/> 🎬 Kickstarter fun: filming in LA, cast/crew magic, and the cake/hot dog metaphor<br/> 🦝 Meet the <b>Awesome &apos;Possum</b> (mascot origins + brand homage)<br/> 🎁 How to support: tiers, swag, and where to go next</p><p>⏱️ <b>Timestamps</b></p><p>0:00 - Cold Open: Build Awesome Kickstarter Announcement<br/> 0:08 - Eleventy → Build Awesome (What This Episode Covers)<br/> 0:40 - The Big News (Zach’s Announcement)<br/> 1:25 - Joining the Awesomeverse (and why it matters)<br/> 2:50 - Funding Open Source Without Burnout<br/> 4:20 - What Build Awesome Is (and who it’s for)<br/> 6:05 - Build Awesome Pro: Publishing + Collaboration Tools<br/> 7:20 - Backwards Compatibility: Your Eleventy Sites Still Work<br/> 8:10 - Upgrade Path: Eleventy v3 → Build Awesome v4<br/> 10:05 - Why Pro Features Make the Free Core Better<br/> 12:10 - In-Browser Editing: The “edit right on the site” experience<br/> 13:25 - Kickstarter Fun: Shooting the Launch Video in LA<br/> 15:40 - Cast, Crew, and the Cake/Hot Dog Metaphor<br/> 18:55 - Meet the Awesome Possum (Mascot Origins + Brand Homage)<br/> 20:40 - How to Support: Where to Go + Tiers + Swag<br/> 22:40 - Wrap-Up + What to Watch Next</p><p><b>Links &amp; Resources</b></p><ul><li>Build Awesome Kickstarter: (link)</li><li>Eleventy / Build Awesome: <a href='https://eleven.dev/'>https://eleven.dev/</a></li><li>Font Awesome: <a href='https://fontawesome.com/'>https://fontawesome.com/</a></li><li>Web Awesome: <a href='https://webawesome.com/'>https://webawesome.com/</a></li></ul><p>Stay up to date on all the <a href='https://twitter.com/fontawesome'>Font Awesomeness</a>! </p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2092855/episodes/18785266-eleventy-is-rebranding-to-build-awesome-what-changes-and-what-doesn-t.mp3" length="17559470" type="audio/mpeg" />
+    <itunes:image href="https://storage.buzzsprout.com/g53olct5u6fxnu6ckrxs6akgq356?.jpg" />
+    <itunes:author>Font Awesome</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18785266</guid>
+    <pubDate>Mon, 09 Mar 2026 10:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/18785266/transcript" type="text/html" />
+    <itunes:duration>1459</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>4</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Vic Bell on Designing Graphite: Hand-Drawn Icons for Font Awesome </itunes:title>
     <title>Vic Bell on Designing Graphite: Hand-Drawn Icons for Font Awesome </title>
@@ -140,6 +159,7 @@
     <itunes:author>Matt Johnson</itunes:author>
     <guid isPermaLink="false">Buzzsprout-18179381</guid>
     <pubDate>Thu, 13 Nov 2025 09:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/18179381/transcript" type="text/html" />
     <itunes:duration>1399</itunes:duration>
     <itunes:keywords>web design systems, web awesome, figma design, theme builder, UI components, prototyping, open source, developer tools, Eleventy, accessibility, CSS, component libraries, UX design, frontend development</itunes:keywords>
     <itunes:season>3</itunes:season>
@@ -1043,6 +1063,7 @@
     <itunes:author>Font Awesome</itunes:author>
     <guid isPermaLink="false">Buzzsprout-14739052</guid>
     <pubDate>Tue, 26 Mar 2024 07:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/14739052/transcript" type="text/html" />
     <itunes:duration>1869</itunes:duration>
     <itunes:keywords>Working Genius, Teamwork, Leadership, Mentoring, Team Dynamics, Trust, Empathy, Collaboration, Productivity, Creativity, Problem-Solving, Figma, Iterative Process, Project Management, Communication, Personal Development, Workplace Culture, Professional De</itunes:keywords>
     <itunes:season>2</itunes:season>
@@ -1156,6 +1177,7 @@
     <itunes:author>Matt Johnson</itunes:author>
     <guid isPermaLink="false">Buzzsprout-12837791</guid>
     <pubDate>Tue, 24 Oct 2023 05:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/12837791/transcript" type="text/html" />
     <itunes:duration>2196</itunes:duration>
     <itunes:keywords>Working Genius, Dave Gandy, Patrick Lencioni, Organizational Health, Remote Work Culture, Team Dynamics, Font Awesome Leadership, Workplace Productivity, Leadership Development, Six Types of Working Genius, Podcast Awesome</itunes:keywords>
     <itunes:season>1</itunes:season>
@@ -1304,6 +1326,7 @@
     <itunes:author>Matt Johnson</itunes:author>
     <guid isPermaLink="false">Buzzsprout-12818316</guid>
     <pubDate>Tue, 11 Jul 2023 07:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/12818316/transcript" type="text/html" />
     <itunes:duration>1755</itunes:duration>
     <itunes:keywords>programming, svg, icon design, design tools, marble machine x, martin molin, meditative coding, mindfulness for developers, podcast awesome, font awesome, mike wilkerson, developer life, nerd culture, creative process</itunes:keywords>
     <itunes:season>1</itunes:season>
@@ -1360,6 +1383,7 @@
     <itunes:author>Matt Johnson</itunes:author>
     <guid isPermaLink="false">Buzzsprout-12762683</guid>
     <pubDate>Thu, 01 Jun 2023 07:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/12762683/transcript" type="text/html" />
     <itunes:duration>1224</itunes:duration>
     <itunes:keywords>career change tech, Font Awesome support, tech support podcast, real human support, coffee roasting hobby, Ethiopian coffee ceremony, QA testing, remote team culture, Trevor Chase, Nerd Show and Tell, debugging tips, educational leadership to tech, popcor</itunes:keywords>
     <itunes:season>1</itunes:season>
@@ -1452,6 +1476,7 @@
     <itunes:author></itunes:author>
     <guid isPermaLink="false">Buzzsprout-12227090</guid>
     <pubDate>Mon, 13 Mar 2023 08:00:00 -0700</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/12227090/transcript" type="text/html" />
     <itunes:duration>1015</itunes:duration>
     <itunes:keywords>icon design, Font Awesome 6, Figma workflow, UI icons, UX design, humanitarian icons, remote design teams, creative culture, software design, Jory Raphael, Travis Chase, podcast awesome</itunes:keywords>
     <itunes:season>1</itunes:season>
@@ -1508,6 +1533,7 @@
     <itunes:author>Font Awesome</itunes:author>
     <guid isPermaLink="false">Buzzsprout-12126884</guid>
     <pubDate>Tue, 14 Feb 2023 07:00:00 -0800</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2092855/12126884/transcript" type="text/html" />
     <itunes:duration>2339</itunes:duration>
     <itunes:keywords></itunes:keywords>
     <itunes:season>1</itunes:season>

@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/rabbit-holes" title="MP3 Audio"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://feeds.transistor.fm/rabbit-holes" title="MP3 Audio"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <podcast:podping usesPodping="true"/>
     <title>Rabbit Holes</title>
@@ -17,11 +17,11 @@ Escape Collective is member-funded. If you like this podcast, please consider su
     <itunes:applepodcastsverify>be485130-2f8d-11f0-a4a0-93a13dc15545</itunes:applepodcastsverify>
     <podcast:trailer pubdate="Thu, 01 May 2025 21:14:18 -0700" url="https://media.transistor.fm/05fc48c6/51b3c2db.mp3" length="2337765" type="audio/mpeg">Trailer: Who shot Greg LeMond?</podcast:trailer>
     <language>en</language>
-    <pubDate>Sun, 30 Nov 2025 17:56:08 -0800</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2025 17:57:01 -0800</lastBuildDate>
+    <pubDate>Sun, 08 Mar 2026 15:15:11 -0700</pubDate>
+    <lastBuildDate>Sun, 08 Mar 2026 15:16:23 -0700</lastBuildDate>
     <link>https://escapecollective.com/</link>
     <image>
-      <url>https://img.transistor.fm/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg</url>
+      <url>https://img.transistorcdn.com/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg</url>
       <title>Rabbit Holes</title>
       <link>https://escapecollective.com/</link>
     </image>
@@ -31,7 +31,7 @@ Escape Collective is member-funded. If you like this podcast, please consider su
     <itunes:category text="News"/>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Escape Collective</itunes:author>
-    <itunes:image href="https://img.transistor.fm/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg"/>
+    <itunes:image href="https://img.transistorcdn.com/JUoCtgctC5ZzT0ECX3chyY7MrmGAec2FgTr6v-U0Roo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZTVl/NDRjYjE1YTdlYzkw/NTE3N2QxNDhkNzg0/ZTUzYi5wbmc.jpg"/>
     <itunes:summary>Welcome to Rabbit Holes, a podcast presented by Escape Collective. Each episode, we'll be diving into a fascinating story from the world of cycling, telling it in a way you may never have heard it before. Hosted by Iain Treloar and Jonny Long, this is a monthly (for now) exploration of stories that are big, weird, wonderful, and emotional – sometimes all at once. Curious? Dive into the Rabbit Holes with us.
 
 Escape Collective is member-funded. If you like this podcast, please consider supporting us by becoming a member: https://escapecollective.com/member/</itunes:summary>
@@ -43,6 +43,31 @@ Escape Collective is member-funded. If you like this podcast, please consider su
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>A stolen bike's journey home</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>A stolen bike's journey home</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">702e1edd-cf14-4f5b-aa9e-a523cca1a11f</guid>
+      <link>https://share.transistor.fm/s/a98fdb15</link>
+      <description>
+        <![CDATA[<p>Iain buys a stolen bike on Facebook Marketplace, with a plan to return it to its owner. But his good act takes an ominous turn when he meets the seller, an erratic man with a troubled past and a head full of conspiracies and violence. </p><p>To read the written piece and see pictures, visit EscapeCollective.com. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/RabbitHoles. And sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Iain buys a stolen bike on Facebook Marketplace, with a plan to return it to its owner. But his good act takes an ominous turn when he meets the seller, an erratic man with a troubled past and a head full of conspiracies and violence. </p><p>To read the written piece and see pictures, visit EscapeCollective.com. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/RabbitHoles. And sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </content:encoded>
+      <pubDate>Sun, 08 Mar 2026 15:15:07 -0700</pubDate>
+      <author>Escape Collective</author>
+      <enclosure url="https://media.transistor.fm/a98fdb15/88bbc5d8.mp3" length="46309520" type="audio/mpeg"/>
+      <itunes:author>Escape Collective</itunes:author>
+      <itunes:duration>1923</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Iain buys a stolen bike on Facebook Marketplace, with a plan to return it to its owner. But his good act takes an ominous turn when he meets the seller, an erratic man with a troubled past and a head full of conspiracies and violence. </p><p>To read the written piece and see pictures, visit EscapeCollective.com. </p><p>This podcast is an Escape Collective production, and is only possible through the support of our members. To become one of those, sign up at EscapeCollective.com/RabbitHoles. And sign up to the Rabbit Holes feed for future episodes - we've got a great one in the works. </p>]]>
+      </itunes:summary>
+      <itunes:keywords>Escape Collective, bike theft, stolen bike, investigative, </itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>What's it like buying a bike on AliExpress?</title>
       <itunes:episode>4</itunes:episode>

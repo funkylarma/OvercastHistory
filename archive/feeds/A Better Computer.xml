@@ -8,8 +8,8 @@
     <description>A weekly dive into the best of tech.</description>
     <copyright>2026 Birchtree Productions, LLC</copyright>
     <language>en</language>
-    <pubDate>Mon, 2 Mar 2026 10:00:00 +0000</pubDate>
-    <lastBuildDate>Mon, 2 Mar 2026 10:00:12 +0000</lastBuildDate>
+    <pubDate>Mon, 9 Mar 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 9 Mar 2026 09:00:13 +0000</lastBuildDate>
     <image>
       <link>https://a-better-computer.simplecast.com</link>
       <title>A Better Computer</title>
@@ -28,6 +28,30 @@
       <itunes:email>matt@birchtree.me</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">d952ff0f-dea1-4d5a-89c0-dba9d9613696</guid>
+      <title>They said Apple would never make this</title>
+      <description><![CDATA[<p>Last week, Apple unveiled 7 new product updates, including a brand new MacBook at a price point they've literally never done before. In today's episode, I discuss why things do change and how Apple punditry tends to assume whatever Apple currently does is everything they will ever do. Oh, I also have some opinions on all 7 products.</p>
+<p>Video version here <a href="https://youtu.be/qsxE3jy6lDk" rel="noopener noreferrer">https://youtu.be/qsxE3jy6lDk</a></p>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></description>
+      <pubDate>Mon, 9 Mar 2026 09:00:00 +0000</pubDate>
+      <author>matt@birchtree.me (Matt Birchler)</author>
+      <link>https://a-better-computer.simplecast.com/episodes/they-said-apple-would-never-make-this-pH5p5eO8</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/dee401a2-e623-4d8c-bc87-97a8e03aab8a/001.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>Last week, Apple unveiled 7 new product updates, including a brand new MacBook at a price point they've literally never done before. In today's episode, I discuss why things do change and how Apple punditry tends to assume whatever Apple currently does is everything they will ever do. Oh, I also have some opinions on all 7 products.</p>
+<p>Video version here <a href="https://youtu.be/qsxE3jy6lDk" rel="noopener noreferrer">https://youtu.be/qsxE3jy6lDk</a></p>
+<p><p>Most episodes are <a href="https://www.youtube.com/@ABetterComputer">available on YouTube</a> as well.</p></p>]]></content:encoded>
+      <enclosure length="19769067" type="audio/mpeg" url="https://cdn.simplecast.com/media/audio/transcoded/e9b28540-9f72-4695-adae-637977d0d9bf/eec05e93-3340-4802-8979-b845f667b6ea/episodes/audio/group/2d161de3-f6e0-40b4-adcc-3620ca3a3bbe/group-item/f8ebffc3-6f30-46b9-96ec-8a4f42892799/128_default_tc.mp3?aid=rss_feed&amp;feed=kULRmujj"/>
+      <itunes:title>They said Apple would never make this</itunes:title>
+      <itunes:author>Matt Birchler</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/c03f6323-6642-4d76-baa5-e3577c22b9ae/2c116e53-c413-49c7-a882-fb1ef67f7370/3000x3000/neo.jpg?aid=rss_feed"/>
+      <itunes:duration>00:15:48</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">04f93167-e937-4188-880b-5d38f8446e2b</guid>
       <title>Why killing the iPad isn&apos;t what you think it is</title>

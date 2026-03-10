@@ -15,7 +15,7 @@
 		        <description><![CDATA[AppStories is a weekly exploration of the world of apps by MacStories&#8217; Federico Viticci and John Voorhees. Each week, they discuss the best new apps, the impact of apps on our culture, and cover the stories behind popular apps. Hosted by Federico Viticci and John Voorhees.]]></description>
         <link>https://www.macstories.net/show/appstories/</link>
         <generator>MacStories.net</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 16:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:36:53 GMT</lastBuildDate>
 
         <atom:link href="https://www.macstories.net/podcasts/appstories/feed" rel="self" type="application/rss+xml" />
 
@@ -36,6 +36,64 @@
 		<itunes:category text="Technology" />        <itunes:image href="https://cdn.macstories.net/appstories-1628212459872.png" />
 
                 <item>
+            <title><![CDATA[Apple’s Big Neo Week]]></title>
+            <description><![CDATA[AppStories Episode 475 – Apple’s Big Neo Week]]></description>
+            <link>https://www.macstories.net/podcasts/appstories/475/</link>
+            <guid isPermaLink="false">https://www.macstories.net/?post_type=podcasts&#038;p=196362</guid>
+            <pubDate>Mon, 09 Mar 2026 11:35:13 GMT</pubDate>
+
+                        <enclosure url="https://pscrb.fm/rss/p/traffic.libsyn.com/appstories/AppStories_regular_Episdoe_475.mp3"
+                       length="25472699"
+                       type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<div class="media-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8Md3YCKtgNg?si=Ouxshj0T0QkI2xpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p id="p2">This week on AppStories, Federico and John discuss Apple’s latest hardware announcements.</p>
+<p id="p3">Then on AppStories+, Federico explains Notion Agents and Workers and how he’s using them.</p>
+<hr id="hr4"><div class="media-wrapper"><img decoding="async" src="https://cdn.macstories.net/banneras-1629219199428.png" alt="Subscribe here."><p class="image-caption">Subscribe here.</p></div>
+<p id="p6"><a href="https://appstories.net/plans" rel="noopener noreferrer">We deliver AppStories+ to subscribers</a> with bonus content, ad-free, and at a high bitrate early every week.</p>
+<p id="p7">To learn more about an AppStories+ subscription, visit our [Plans page](<a href="https://www.macstories.net/appstories-plans/" rel="noopener noreferrer">https://appstories.net/plans</a>, or <a href="https://appstories.net/faq" rel="noopener noreferrer">read the AppStories+ FAQ</a>.</p>
+<hr id="hr8"><p id="p9"><!--more--></p>
+<hr id="hr10"><h2 id="links-and-show-notes">Links and Show Notes</h2>
+<ul id="ul11"><li><a href="https://www.macstories.net/news/apple-takes-the-wraps-off-the-macbook-neo/" rel="noopener noreferrer">Apple Takes the Wraps Off the MacBook Neo</a></li>
+<li><a href="https://www.macstories.net/news/apple-reveals-the-new-m5-macbook-air/" rel="noopener noreferrer">Apple Reveals the New M5 MacBook Air</a></li>
+<li><a href="https://www.macstories.net/news/apple-announces-m5-pro-and-m5-max-macbook-pros/" rel="noopener noreferrer">Apple Announces M5 Pro and M5 Max MacBook Pros</a></li>
+<li><a href="https://www.macstories.net/news/apple-introduces-two-new-studio-displays/" rel="noopener noreferrer">Apple Introduces Two New Studio Displays</a></li>
+<li><a href="https://www.macstories.net/news/apple-unveils-iphone-17e/" rel="noopener noreferrer">Apple Unveils iPhone 17e</a></li>
+<li><a href="https://www.macstories.net/news/apple-introduces-m4-powered-ipad-air/" rel="noopener noreferrer">Apple Introduces M4-Powered iPad Air</a></li>
+</ul><h3 id="appstories-post-show">AppStories+ Post-Show</h3>
+<ul id="ul12"><li><a href="https://www.notion.com/product/ai" rel="noopener noreferrer">Notion AI</a></li>
+<li><a href="https://www.notion.com/help/guides/get-started-with-your-personal-agent-in-notion" rel="noopener noreferrer">Notion Agents</a></li>
+<li><a href="https://github.com/makenotion/workers-template" rel="noopener noreferrer">Notion Workers</a></li>
+</ul><hr id="hr13"><h3 id="leave-feedback-for-john-and-federico">Leave Feedback for John and Federico</h3>
+<ul id="ul14"><li><a href="https://forms.gle/BLN5ZSFTWo8jScmH9" rel="noopener noreferrer">AppStories Feedback Form</a></li>
+</ul><h3 id="follow-us-on-mastodon">Follow us on Mastodon</h3>
+<ul id="ul15"><li><a href="https://mastodon.macstories.net/@appstories" rel="noopener noreferrer">AppStories</a></li>
+<li><a href="https://mastodon.macstories.net/@viticci" rel="noopener noreferrer">Federico Viticci</a></li>
+<li><a href="https://mastodon.macstories.net/@johnvoorhees" rel="noopener noreferrer">John Voorhees</a></li>
+</ul><h3 id="follow-us-on-bluesky">Follow us on Bluesky</h3>
+<ul id="ul16"><li><a href="https://bsky.app/profile/appstories.macstories.net" rel="noopener noreferrer">AppStories</a></li>
+<li><a href="https://bsky.app/profile/macstories.net" rel="noopener noreferrer">MacStories</a> </li>
+<li><a href="https://bsky.app/profile/viticci.macstories.net" rel="noopener noreferrer">Federico Viticci</a> </li>
+<li><a href="https://bsky.app/profile/johnvoorhees.macstories.net" rel="noopener noreferrer">John Voorhees</a></li>
+</ul><p id="p17"></p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Federico Viticci, John Voorhees]]></itunes:author>
+            <itunes:subtitle><![CDATA[Thoughts on Apple's New Hardware]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Thoughts on Apple's New Hardware]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>00:34:39</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/appstories-1628212459872.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>475</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
             <title><![CDATA[Our Apple Hardware Wish List for 2026]]></title>
             <description><![CDATA[AppStories Episode 474 – Our Apple Hardware Wish List for 2026]]></description>
             <link>https://www.macstories.net/podcasts/appstories/474/</link>
@@ -46,7 +104,7 @@
                        length="22391880"
                        type="audio/mpeg" />
             
-            <content:encoded><![CDATA[<div class="media-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/inBmVMJR3DM?si=eWHD4RcAH1jdVZHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+            <content:encoded><![CDATA[<div class="media-wrapper"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/inBmVMJR3DM?si=eWHD4RcAH1jdVZHu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <p id="p2">This week on AppStories, Federico and John cast our wishes for Apple hardware in 2026, covering everything from the latest rumored gear to more outrageous hopes.</p>
 <p id="p3">On AppStories+, John and Federico share their top three everyday uses of AI tools.</p>
 <hr id="hr4"><h2 id="this-episode-is-sponsored-by">This episode is sponsored by:</h2>

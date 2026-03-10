@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/stylesheet.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/bookworm" title="MP3 Audio"/>
+    <atom:link rel="self" type="application/rss+xml" href="https://feeds.transistor.fm/bookworm" title="MP3 Audio"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <podcast:podping usesPodping="true"/>
     <title>Bookworm</title>
@@ -14,8 +14,8 @@
     <podcast:locked>yes</podcast:locked>
     <itunes:applepodcastsverify>d00d3a80-d53b-11f0-9bd4-4b3c68a18525</itunes:applepodcastsverify>
     <language>en-us</language>
-    <pubDate>Fri, 13 Feb 2026 06:00:23 -0600</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 06:02:29 -0600</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 06:00:24 -0600</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 06:02:34 -0600</lastBuildDate>
     <link>https://bookworm.fm</link>
     <image>
       <url>https://img.transistorcdn.com/kYmcO8g4u8KRq858LvwepraKAbJmsk5c47Yx1fNK-9s/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNTc2/NGQzMGNmOTAxYWRj/NDBlMWY5ZjQ5ZmY2/ODU2My5wbmc.jpg</url>
@@ -36,6 +36,31 @@
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>243: The End of Burnout by Jonathan Malesic</title>
+      <itunes:title>243: The End of Burnout by Jonathan Malesic</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">9df956d3-464a-4c38-988c-e6757d433335</guid>
+      <link>https://share.transistor.fm/s/259b350e</link>
+      <description>
+        <![CDATA[<p>Have you ever felt "burnt out?" Burnout<em> </em>has become our go-to term for talking about the pressure and dissatisfaction we experience. Today's author shares his own experience and proposes an alternative to our cultural obsession with work. Join Mike &amp; Cory as they explore a new way to think about work, ideals, and dignity.</p><p><a href="https://geni.us/end-of-burnout">The End of Burnout by Jonathan Malesic</a><br><a href="https://geni.us/read-burnout">Burnout by Christina Maslach</a><br><a href="https://geni.us/read-intentional">Intentional by Chris Bailey</a><br><a href="https://geni.us/master-motivation">Master Your Motivation by Susan Fowler</a><br><a href="https://geni.us/read-coaching-habit">The Coaching Habit by Michael Bungay Stanier</a><br><a href="https://geni.us/science-storytelling">The Science of Storytelling by Will Storr</a></p><p>Mike's Rating: ⭐⭐<br>Cory's Rating: ⭐⭐⭐</p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>Have you ever felt "burnt out?" Burnout<em> </em>has become our go-to term for talking about the pressure and dissatisfaction we experience. Today's author shares his own experience and proposes an alternative to our cultural obsession with work. Join Mike &amp; Cory as they explore a new way to think about work, ideals, and dignity.</p><p><a href="https://geni.us/end-of-burnout">The End of Burnout by Jonathan Malesic</a><br><a href="https://geni.us/read-burnout">Burnout by Christina Maslach</a><br><a href="https://geni.us/read-intentional">Intentional by Chris Bailey</a><br><a href="https://geni.us/master-motivation">Master Your Motivation by Susan Fowler</a><br><a href="https://geni.us/read-coaching-habit">The Coaching Habit by Michael Bungay Stanier</a><br><a href="https://geni.us/science-storytelling">The Science of Storytelling by Will Storr</a></p><p>Mike's Rating: ⭐⭐<br>Cory's Rating: ⭐⭐⭐</p>]]>
+      </content:encoded>
+      <pubDate>Fri, 27 Feb 2026 06:00:00 -0600</pubDate>
+      <author>Mike Schmitz and Cory Hixson</author>
+      <enclosure url="https://media.transistor.fm/259b350e/dcfb42f9.mp3" length="91867004" type="audio/mpeg"/>
+      <itunes:author>Mike Schmitz and Cory Hixson</itunes:author>
+      <itunes:image href="https://img.transistorcdn.com/z2HJFPN5aPYeJi9xpPB-Ss_zPgGkQ0qhEYn9M8ps5ig/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZTIx/Y2M4MjZmNGY1ZWRi/NDZlMjA2OTRmNWFh/MjNhMy5wbmc.jpg"/>
+      <itunes:duration>5730</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>Have you ever felt "burnt out?" Burnout<em> </em>has become our go-to term for talking about the pressure and dissatisfaction we experience. Today's author shares his own experience and proposes an alternative to our cultural obsession with work. Join Mike &amp; Cory as they explore a new way to think about work, ideals, and dignity.</p><p><a href="https://geni.us/end-of-burnout">The End of Burnout by Jonathan Malesic</a><br><a href="https://geni.us/read-burnout">Burnout by Christina Maslach</a><br><a href="https://geni.us/read-intentional">Intentional by Chris Bailey</a><br><a href="https://geni.us/master-motivation">Master Your Motivation by Susan Fowler</a><br><a href="https://geni.us/read-coaching-habit">The Coaching Habit by Michael Bungay Stanier</a><br><a href="https://geni.us/science-storytelling">The Science of Storytelling by Will Storr</a></p><p>Mike's Rating: ⭐⭐<br>Cory's Rating: ⭐⭐⭐</p>]]>
+      </itunes:summary>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:chapters url="https://share.transistor.fm/s/259b350e/chapters.json" type="application/json+chapters"/>
+    </item>
     <item>
       <title>242: The Overthinker's Guide to Making Decisions by Joseph Nguyen</title>
       <itunes:title>242: The Overthinker's Guide to Making Decisions by Joseph Nguyen</itunes:title>
