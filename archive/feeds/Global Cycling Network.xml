@@ -56,7 +56,7 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <atom:link href="https://audioboom.com/channels/5124996" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5124996.rss" rel="self" type="application/rss+xml" />
-<pubDate>Tue, 03 Mar 2026 17:08:01 +0000</pubDate>
+<pubDate>Tue, 10 Mar 2026 17:40:51 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://audioboom.com/i/41331674.jpg</url>
@@ -76,6 +76,22 @@ Elitewheels: <a href="https://gcn.eu/Elitewheels">https://gcn.eu/Elitewheels</a>
 <itunes:new-feed-url>https://audioboom.com/channels/5124996.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>687:  Why A Heavier Cyclist Is A Better Cyclist | GCN Show Ep. 687</title>
+  <link>https://audioboom.com/posts/8872142</link>
+  <itunes:episode>687</itunes:episode>
+  <itunes:title> Why A Heavier Cyclist Is A Better Cyclist | GCN Show Ep. 687</itunes:title>
+  <enclosure url="https://audioboom.com/posts/8872142.mp3?modified=1773164587&amp;sid=5124996&amp;source=rss" length="42783864" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43523684/s=1400x1400/el=1/rt=fill.jpg" />
+  <itunes:duration>2671</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description><![CDATA[<div>Tadej Pogačar looks unstoppable after his Strade Bianche masterclass, but is his new "beefier" physique the secret to his success? This week on the GCN Show, we dive into the data suggesting that gaining weight might actually be the next big marginal gain in pro cycling. We also check out 5 brand-new bike launches from Giant, Merida, and Bianchi, find out which bike Ed Sheeran just bought, and Dan compares his Strava times to Pogačar on the infamous Le Tolfe climb!</div>]]></description>
+  <pubDate>Tue, 10 Mar 2026 17:40:51 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2026-03-10:/posts/8872142</guid>
+  <itunes:author>Global Cycling Network (GCN)</itunes:author>
+  <dc:creator>Global Cycling Network (GCN)</dc:creator>
+</item>
 <item>
   <title>686: Are Pogačar And Van Der Poel From Another Planet? | GCN Show Ep. 686</title>
   <link>https://audioboom.com/posts/8868905</link>

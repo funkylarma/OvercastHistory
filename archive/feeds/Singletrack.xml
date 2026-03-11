@@ -2,11 +2,11 @@
 <?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://feeds.buzzsprout.com/1794638.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rss.buzzsprout.com/1794638.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Singletrack</title>
 
-  <lastBuildDate>Sun, 08 Mar 2026 03:05:10 -0400</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 14:36:09 -0600</lastBuildDate>
   <link>https://www.runsingletrack.com/</link>
   <language>en-us</language>
   <copyright>© 2026 Singletrack</copyright>
@@ -38,6 +38,48 @@
     <itunes:category text="Wilderness" />
   </itunes:category>
   <podcast:person role="host" href="https://www.finnmelanson.com/">Finn Melanson</podcast:person>
+  <item>
+    <itunes:title>LA Marathon Experience / Gear Recap + Future of Conversational Pace Chatter </itunes:title>
+    <title>LA Marathon Experience / Gear Recap + Future of Conversational Pace Chatter </title>
+    <itunes:summary><![CDATA[This is a crossover episode from Conversational Pace. Brett Hornig interviews me about my LA Marathon experience + we speculate a bit in the second half about the future of CP.  Partners: Precision Fuel and Hydration - use code SINGLETRACK at checkout for 15% off your next orderNorda - check out the 005: the lightest, fastest, most stable trail racing shoe ever madeRaide - Making equipment for efficient human-powered movement in the mountains Janji - premium trail running apparelKod...]]></itunes:summary>
+    <description><![CDATA[<p>This is a crossover episode from Conversational Pace. Brett Hornig interviews me about my LA Marathon experience + we speculate a bit in the second half about the future of CP. </p><p><b>Partners:</b></p><ul><li><a href='https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack'>Precision Fuel and Hydration</a> - use code SINGLETRACK at checkout for 15% off your next order</li><li><a href='https://nordarun.com/'>Norda </a>- check out the 005: the lightest, fastest, most stable trail racing shoe ever made</li><li><a href='https://raideresearch.com/singletrack'>Raide</a> - Making equipment for efficient human-powered movement in the mountains </li><li><a href='https://janji.com/pages/singletrack'>Janji</a> - premium trail running apparel</li><li><a href='https://kodiakcakes.com?utm_source=SingleTrack&amp;utm_medium=Awareness'>Kodiak Cakes</a> - my favorite oatmeal and pancakes </li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></description>
+    <content:encoded><![CDATA[<p>This is a crossover episode from Conversational Pace. Brett Hornig interviews me about my LA Marathon experience + we speculate a bit in the second half about the future of CP. </p><p><b>Partners:</b></p><ul><li><a href='https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack'>Precision Fuel and Hydration</a> - use code SINGLETRACK at checkout for 15% off your next order</li><li><a href='https://nordarun.com/'>Norda </a>- check out the 005: the lightest, fastest, most stable trail racing shoe ever made</li><li><a href='https://raideresearch.com/singletrack'>Raide</a> - Making equipment for efficient human-powered movement in the mountains </li><li><a href='https://janji.com/pages/singletrack'>Janji</a> - premium trail running apparel</li><li><a href='https://kodiakcakes.com?utm_source=SingleTrack&amp;utm_medium=Awareness'>Kodiak Cakes</a> - my favorite oatmeal and pancakes </li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></content:encoded>
+    <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/1794638/episodes/18825350-la-marathon-experience-gear-recap-future-of-conversational-pace-chatter.mp3" length="47930048" type="audio/mpeg" />
+    <itunes:author>Finn Melanson</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18825350</guid>
+    <pubDate>Tue, 10 Mar 2026 14:00:00 -0600</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18825350/transcript" type="text/html" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18825350/transcript.json" type="application/json" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18825350/transcript.srt" type="application/x-subrip" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18825350/transcript.vtt" type="text/vtt" />
+    <itunes:duration>3990</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>445</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Is It Fair to Change a Race Course After Selling Out? Snowdonia Drama + JFK 50’s Future (Singletrack News)</itunes:title>
+    <title>Is It Fair to Change a Race Course After Selling Out? Snowdonia Drama + JFK 50’s Future (Singletrack News)</title>
+    <itunes:summary><![CDATA[In this week’s edition of Singletrack News, controversy erupts around the Ultra-Trail Snowdonia 100K after organizers announced a major course change - which removes roughly 2,000 meters of climbing from the originally advertised route - after the race had already sold out.  We also discuss the uncertain future of the historic JFK 50 Mile, which could relocate from Washington County, Maryland, for the first time in more than 60 years after the county ended hotel-tax funding that traditio...]]></itunes:summary>
+    <description><![CDATA[<p>In this week’s edition of Singletrack News, controversy erupts around the Ultra-Trail Snowdonia 100K after organizers announced a major course change - which removes roughly 2,000 meters of climbing from the originally advertised route - after the race had already sold out. </p><p>We also discuss the uncertain future of the historic JFK 50 Mile, which could relocate from Washington County, Maryland, for the first time in more than 60 years after the county ended hotel-tax funding that traditionally covered police and medical services. </p><p>Elsewhere, we break down Kilian Jornet’s 2026 season preview, including his plans to race Sierre-Zinal, Western States, and UTMB, and what he said about the training stimulus from last year’s States of Elevation project.</p><p>We also cover:</p><ul><li>A chaotic finish at the USATF Half Marathon Championships after lead runners were sent off course</li><li>The Los Angeles Marathon, where the men’s race came down to 0.18 seconds at the line</li><li>Speedgoat by UTMB adding a new uphill race</li><li>Transgrancanaria, where Jon Albon and Henriette Albon claimed victories in brutal weather</li><li>Lotti Brinks and Sean Riedel winning Way Too Cool 50K</li><li>New athlete signings - Hunter Leninger (Only Fans) and Tessa Chesser (Merrell)</li><li>Hayden Hawks’ pivot to Canyons 100K and what it could mean for Western States</li><li>Cirque Series teasing a new championship format</li><li>Prize money across major trail series surpassing €1.15 million</li></ul><p>Plus, we share our favorite content from the week, including Francesco Puppi’s latest vlog about his background, training philosophy, and upcoming projects.</p><p><br/></p><p><b>Partners:</b></p><ul><li>Precision Fuel and Hydration - use code SINGLETRACK at checkout for 15% off your next order (https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack)</li><li>Norda - check out the 005: the lightest, fastest, most stable trail racing shoe ever made (https://nordarun.com/)</li><li>Raide - Making equipment for efficient human-powered movement in the mountains (https://raideresearch.com/singletrack)</li><li>Janji - premium trail running apparel (https://janji.com/pages/singletrack)</li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In this week’s edition of Singletrack News, controversy erupts around the Ultra-Trail Snowdonia 100K after organizers announced a major course change - which removes roughly 2,000 meters of climbing from the originally advertised route - after the race had already sold out. </p><p>We also discuss the uncertain future of the historic JFK 50 Mile, which could relocate from Washington County, Maryland, for the first time in more than 60 years after the county ended hotel-tax funding that traditionally covered police and medical services. </p><p>Elsewhere, we break down Kilian Jornet’s 2026 season preview, including his plans to race Sierre-Zinal, Western States, and UTMB, and what he said about the training stimulus from last year’s States of Elevation project.</p><p>We also cover:</p><ul><li>A chaotic finish at the USATF Half Marathon Championships after lead runners were sent off course</li><li>The Los Angeles Marathon, where the men’s race came down to 0.18 seconds at the line</li><li>Speedgoat by UTMB adding a new uphill race</li><li>Transgrancanaria, where Jon Albon and Henriette Albon claimed victories in brutal weather</li><li>Lotti Brinks and Sean Riedel winning Way Too Cool 50K</li><li>New athlete signings - Hunter Leninger (Only Fans) and Tessa Chesser (Merrell)</li><li>Hayden Hawks’ pivot to Canyons 100K and what it could mean for Western States</li><li>Cirque Series teasing a new championship format</li><li>Prize money across major trail series surpassing €1.15 million</li></ul><p>Plus, we share our favorite content from the week, including Francesco Puppi’s latest vlog about his background, training philosophy, and upcoming projects.</p><p><br/></p><p><b>Partners:</b></p><ul><li>Precision Fuel and Hydration - use code SINGLETRACK at checkout for 15% off your next order (https://www.precisionhydration.com/planner/?utm_source=partner&amp;utm_medium=podcast&amp;utm_campaign=singletrack)</li><li>Norda - check out the 005: the lightest, fastest, most stable trail racing shoe ever made (https://nordarun.com/)</li><li>Raide - Making equipment for efficient human-powered movement in the mountains (https://raideresearch.com/singletrack)</li><li>Janji - premium trail running apparel (https://janji.com/pages/singletrack)</li></ul><p><a rel="payment" href="https://www.patreon.com/runsingletrack">Support the show</a></p>]]></content:encoded>
+    <enclosure url="https://pscrb.fm/rss/p/www.buzzsprout.com/1794638/episodes/18818943-is-it-fair-to-change-a-race-course-after-selling-out-snowdonia-drama-jfk-50-s-future-singletrack-news.mp3" length="24392632" type="audio/mpeg" />
+    <itunes:author>Finn Melanson</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18818943</guid>
+    <pubDate>Mon, 09 Mar 2026 16:00:00 -0600</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18818943/transcript" type="text/html" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18818943/transcript.json" type="application/json" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18818943/transcript.srt" type="application/x-subrip" />
+    <podcast:transcript url="https://www.buzzsprout.com/1794638/18818943/transcript.vtt" type="text/vtt" />
+    <itunes:duration>2028</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>444</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Have 200-Mile Ultras Earned Their Place in the Sport Yet? Kilian Korth Weighs In</itunes:title>
     <title>Have 200-Mile Ultras Earned Their Place in the Sport Yet? Kilian Korth Weighs In</title>

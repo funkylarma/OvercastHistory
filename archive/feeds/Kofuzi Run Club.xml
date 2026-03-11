@@ -4,7 +4,7 @@
 		<description><![CDATA[Daily livestreams recorded in front of a live virtual audience. Mostly runners. Sometimes, we talk about running.]]></description>
 		<link>https://www.youtube.com/kofuzi</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 05 Mar 2026 13:02:27 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Mar 2026 13:21:25 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/1dc575c0/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Michael Ko]]></author>
 		<copyright><![CDATA[Michael Ko]]></copyright>
@@ -22,6 +22,22 @@
 			<itunes:category text="Running"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+		<item>
+			<title><![CDATA[I went to LA for Hyperboost Edge Launch (and also to watch the marathon) AMA]]></title>
+			<description><![CDATA[<p>today we&#39;ll talk about hyperboost edge launch, the LA marathon weather and the multiple layers of incredibility at the finish</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/kofuzi/episodes/I-went-to-LA-for-Hyperboost-Edge-Launch-and-also-to-watch-the-marathon-AMA-e3g7j9f</link>
+			<guid isPermaLink="false">befe5407-5a32-40e1-8bbf-f1d6b6a7a45a</guid>
+			<dc:creator><![CDATA[Michael Ko]]></dc:creator>
+			<pubDate>Tue, 10 Mar 2026 13:17:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1dc575c0/podcast/play/116689647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419697167-44100-2-fd3729d24185a.mp3" length="62239972" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;today we&amp;#39;ll talk about hyperboost edge launch, the LA marathon weather and the multiple layers of incredibility at the finish&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:04:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/4894800/4894800-1587419125313-2f5779dc1ec6b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Women's Half Marathon Championships Aftermath. March 2, 2026]]></title>
 			<description><![CDATA[<p>the USATF Half Marathon Championships Women&#39;s race was a fiasco</p><p>also, i almost broke embargo</p>

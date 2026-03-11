@@ -16,8 +16,8 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     <podcast:locked owner="info@escapecollective.com">no</podcast:locked>
     <itunes:applepodcastsverify>c0987cb0-3093-11f0-8b78-a59f235de6de</itunes:applepodcastsverify>
     <language>en</language>
-    <pubDate>Wed, 04 Mar 2026 13:49:53 -0700</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2026 13:50:15 -0700</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 16:40:42 -0600</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:41:02 -0600</lastBuildDate>
     <link>https://escapecollective.com</link>
     <image>
       <url>https://img.transistorcdn.com/Z-0MqnuZhVEuwgh80FPrPypwQd9UDHLXV-1u-_URwJw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZDI0/NWNlM2Y3OTdhODhm/MDcwZDg5NGZkNDUy/YmE0Yy5wbmc.jpg</url>
@@ -42,6 +42,34 @@ Escape Collective is member-funded. If you like this podcast please consider sup
     </itunes:owner>
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Building Cannondale</title>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>Building Cannondale</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bcaee574-dc4c-4e4d-aab7-38a9ae0a20d8</guid>
+      <link>https://share.transistor.fm/s/9f979d76</link>
+      <description>
+        <![CDATA[<p>In this episode, we are going deep inside the founding story of Cannondale, which has arguably been one of the most innovative bike companies in the world to this day.</p><p>The founder who is the main character in this story is Joe Montgomery. But he wasn’t a hardcore cyclist as you might expect. He was an entrepreneur who liked building things, hired his customer, and figuring it out as he went. Sadly, Joe passed away peacefully on January 2, 2026. </p><p>Telling Cannondale's origin story in this episode is Joe's son, Scott Montgomery. Scott lived and breathed Cannondale for most of his career, is synonymous with leadership of his father, and is more than able to do the story justice. </p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, we are going deep inside the founding story of Cannondale, which has arguably been one of the most innovative bike companies in the world to this day.</p><p>The founder who is the main character in this story is Joe Montgomery. But he wasn’t a hardcore cyclist as you might expect. He was an entrepreneur who liked building things, hired his customer, and figuring it out as he went. Sadly, Joe passed away peacefully on January 2, 2026. </p><p>Telling Cannondale's origin story in this episode is Joe's son, Scott Montgomery. Scott lived and breathed Cannondale for most of his career, is synonymous with leadership of his father, and is more than able to do the story justice. </p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Mon, 09 Mar 2026 16:39:04 -0600</pubDate>
+      <author>Wade Wallace</author>
+      <enclosure url="https://media.transistor.fm/9f979d76/44e5236d.mp3" length="130323156" type="audio/mpeg"/>
+      <itunes:author>Wade Wallace</itunes:author>
+      <itunes:image href="https://img.transistorcdn.com/WZBf2Sn341AfYFMWmk2DIXD5yOajbhe_crZxQ3k2ZBk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82NjU5/MTRlMGVmNjY2ZGY1/OWIwYjI2NDA4MzE4/MTUwMS5wbmc.jpg"/>
+      <itunes:duration>5416</itunes:duration>
+      <itunes:summary>
+        <![CDATA[<p>In this episode, we are going deep inside the founding story of Cannondale, which has arguably been one of the most innovative bike companies in the world to this day.</p><p>The founder who is the main character in this story is Joe Montgomery. But he wasn’t a hardcore cyclist as you might expect. He was an entrepreneur who liked building things, hired his customer, and figuring it out as he went. Sadly, Joe passed away peacefully on January 2, 2026. </p><p>Telling Cannondale's origin story in this episode is Joe's son, Scott Montgomery. Scott lived and breathed Cannondale for most of his career, is synonymous with leadership of his father, and is more than able to do the story justice. </p><p>If you like this podcast and want to hear more, please support our work by becoming a member: https://escapecollective.com/join/</p><p><br></p>]]>
+      </itunes:summary>
+      <itunes:keywords>Cannondale, Joe Montgomery, Scott Montgomery</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
     <item>
       <title>Uplift - The Woman Lifting Women in the Bike Industry</title>
       <itunes:season>2</itunes:season>

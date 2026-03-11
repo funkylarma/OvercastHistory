@@ -2,11 +2,11 @@
 <?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://feeds.buzzsprout.com/2498436.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rss.buzzsprout.com/2498436.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Domestique Cycling Podcast</title>
 
-  <lastBuildDate>Sat, 07 Mar 2026 20:10:50 -0500</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 10:33:08 -0400</lastBuildDate>
   <link>https://www.domestiquecycling.com/</link>
   <language>en-gb</language>
   <copyright>© 2026 Domestique Cycling Podcast</copyright>
@@ -36,6 +36,24 @@
   <itunes:category text="Sports">
     <itunes:category text="Fantasy Sports" />
   </itunes:category>
+  <item>
+    <itunes:title>Ayuso vs. Vingegaard in France and del Toro vs. Roglic in Italy - Domestique Cycling Podcast</itunes:title>
+    <title>Ayuso vs. Vingegaard in France and del Toro vs. Roglic in Italy - Domestique Cycling Podcast</title>
+    <itunes:summary><![CDATA[Tadej Pogačar did it again. A 79-kilometre solo effort into Siena, a fourth Strade Bianche title, and a peloton left wondering what the point is. Bram and Ethan dig into the race, the fight for second between Paul Seixas and Isaac del Toro, and why the women's race was frankly more entertaining. Then: two of the biggest stage races of the early season are underway. Jonas Vingegaard makes his 2026 debut at Paris-Nice with a disrupted winter behind him. At Tirreno-Adriatico, del Toro leads UAE ...]]></itunes:summary>
+    <description><![CDATA[<p>Tadej Pogačar did it again. A 79-kilometre solo effort into Siena, a fourth Strade Bianche title, and a peloton left wondering what the point is. Bram and Ethan dig into the race, the fight for second between Paul Seixas and Isaac del Toro, and why the women&apos;s race was frankly more entertaining.</p><p>Then: two of the biggest stage races of the early season are underway. Jonas Vingegaard makes his 2026 debut at Paris-Nice with a disrupted winter behind him. At Tirreno-Adriatico, del Toro leads UAE Team Emirates-XRG without Pogačar — and that could get complicated. Roglic, Ayuso, Pellizzari, and a parcours built for punchers. Who wins what?</p>]]></description>
+    <content:encoded><![CDATA[<p>Tadej Pogačar did it again. A 79-kilometre solo effort into Siena, a fourth Strade Bianche title, and a peloton left wondering what the point is. Bram and Ethan dig into the race, the fight for second between Paul Seixas and Isaac del Toro, and why the women&apos;s race was frankly more entertaining.</p><p>Then: two of the biggest stage races of the early season are underway. Jonas Vingegaard makes his 2026 debut at Paris-Nice with a disrupted winter behind him. At Tirreno-Adriatico, del Toro leads UAE Team Emirates-XRG without Pogačar — and that could get complicated. Roglic, Ayuso, Pellizzari, and a parcours built for punchers. Who wins what?</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498436/episodes/18822061-ayuso-vs-vingegaard-in-france-and-del-toro-vs-roglic-in-italy-domestique-cycling-podcast.mp3" length="32370688" type="audio/mpeg" />
+    <itunes:image href="https://storage.buzzsprout.com/lqt9i0epn9w2t7ujv65o8au4jqwa?.jpg" />
+    <itunes:author>Domestique Cycling</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18822061</guid>
+    <pubDate>Tue, 10 Mar 2026 13:00:00 +0100</pubDate>
+    <itunes:duration>2693</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Simon Geschke: &#39;I don&#39;t want to see that polka dot jersey&#39; - Domestique Hotseat Podcast</itunes:title>
     <title>Simon Geschke: &#39;I don&#39;t want to see that polka dot jersey&#39; - Domestique Hotseat Podcast</title>

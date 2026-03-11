@@ -2,7 +2,7 @@
   <channel>
     <title>Upgrade</title>
     <link>https://www.relay.fm/upgrade</link>
-    <pubDate>Mon, 02 Mar 2026 22:15:00 GMT</pubDate>
+    <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
     <description>Upgrade looks at how technology shapes our lives, from the devices in our hands and pockets to the streaming services that keep us entertained. Hosted by Jason Snell and Myke Hurley.</description>
     <language>en-US</language>
     <copyright>Copyright © 2026 Relay FM, LLC</copyright>
@@ -16,6 +16,32 @@
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Technology"/>
+    <item>
+      <title>606: Photogenic Lemon</title>
+      <description/>
+      <pubDate>Tue, 10 Mar 2026 13:00:00 GMT</pubDate>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/613/clrtpod.com/m/pscrb.fm/rss/p/traffic.libsyn.com/upgrade/upgrade606-nicelemon.mp3" length="131128052" type="audio/mp3"/>
+      <link>http://relay.fm/upgrade/606</link>
+      <guid>http://relay.fm/upgrade/606</guid>
+      <itunes:title>Photogenic Lemon</itunes:title>
+      <itunes:episode>606</itunes:episode>
+      <itunes:author>Jason Snell and Myke Hurley</itunes:author>
+      <itunes:subtitle>This week, Jason reviews the MacBook Neo! Plus: Draft results, Jason is (back) in print, and new MacBook Pros and Studio Displays. But it's mostly about MacBook Neo!</itunes:subtitle>
+      <itunes:summary>This week, Jason reviews the MacBook Neo! Plus: Draft results, Jason is (back) in print, and new MacBook Pros and Studio Displays. But it's mostly about MacBook Neo!</itunes:summary>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:duration>6432</itunes:duration>
+      <content:encoded>
+        <![CDATA[<p>This week, Jason reviews the MacBook Neo! Plus: Draft results, Jason is (back) in print, and new MacBook Pros and Studio Displays. But it&#39;s mostly about MacBook Neo!</p>
+ <h4>This episode of Upgrade is sponsored by:</h4> <ul>
+<li><a href="https://claude.ai/upgrade">Claude</a>: Ready to tackle bigger problems? Get started with Claude today.</li>
+<li><a href="https://joindeleteme.com/UPGRADE20">DeleteMe</a>: Get 20% off your plan when you use this link and code UPGRADE20.</li>
+<li><a href="https://sentry.io/">Sentry</a>: Mobile crash reporting and app monitoring. New users get $100 in Sentry credits with code upgrade26.</li>
+<li><a href="https://1password.com/upgrade">1Password</a>: Take the first step to better security by securing your team’s credentials.</li>
+</ul>
+<h4>Links and Show Notes:</h4>  <h5><a href='https://relay.fm/upgrade/join'>Get Upgrade+. More content, no ads. </a></h5> <h5><a href='https://relay.fm/upgrade/feedback'>Submit Feedback</a></h5> <h5><a href="https://upgrade.cards/card/apple032026" target="_blank">The Upgrade March 2025 Experience Draft Scorecard</a></h5> <h5><a href="https://www.wsj.com/arts-culture/books/apple-review-reinvention-incorporated-c171071b" target="_blank">‘Apple’ by David Pogue | Book Review - WSJ</a></h5> <h5><a href="https://apple.news/Alq97M-DCRgiqLwqrrA-V9w" target="_blank">‘Apple’ by David Pogue | Book Review - WSJ (Apple News)</a></h5> <h5><a href="https://www.macrumors.com/2026/03/05/mac-studio-no-512gb-ram-upgrade/" target="_blank">Mac Studio 512GB RAM Option Disappears Amid Global DRAM Shortage - MacRumors</a></h5> <h5><a href="https://9to5mac.com/2026/03/06/apple-adds-steve-lemay-and-molly-anderson-to-its-leadership-page/" target="_blank">Apple adds Steve Lemay and Molly Anderson to its leadership page - 9to5Mac</a></h5> <h5><a href="https://sixcolors.com/post/2026/03/macbook-neo-review/" target="_blank">Jason's MacBook Neo review</a></h5> <h5><a href="https://512pixels.net/2026/03/the-differences-between-the-macbook-neo-and-macbook-air/" target="_blank">The Technical Differences Between the MacBook Neo and MacBook Air - 512 Pixels</a></h5> <h5><a href="https://www.theenthusiast.net/riding-the-press-release-tidal-wave/" target="_blank">Riding the Press Release Tidal Wave – The Enthusiast</a></h5> <h5><a href="https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/" target="_blank">Apple gives in to temptation and renames its CPU cores – Six Colors</a></h5> <h5><a href="https://sixcolors.com/post/2026/03/macbook-neo-review/" target="_blank">MacBook Neo review: Fresh-squeezed laptop – Six Colors</a></h5> <h5><a href="https://sixcolors.com/post/2026/03/m5-pro-macbook-pro-review-fast-familiar-friend/" target="_blank">M5 Pro MacBook Pro review: Fast, familiar friend – Six Colors</a></h5>]]>
+      </content:encoded>
+      <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/episode/image/15982/upgrade_artwork_0f93515c-92c3-4711-a798-0f267a15768a.png"/>
+    </item>
     <item>
       <title>605: The 2026 March Experience Draft</title>
       <description/>
