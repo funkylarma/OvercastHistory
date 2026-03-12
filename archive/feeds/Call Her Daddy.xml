@@ -7,8 +7,8 @@
     <title>Call Her Daddy</title>
     <description>The most-listened to podcast by women, Alex Cooper’s Call Her Daddy has been creating conversation since 2018. From deep, honest discussions to laugh-out-loud moments, Cooper cuts through the BS with exciting guests and bold topics. New episodes drop every Wednesday, with throwback episodes every Friday. Want more? Join the Daddy Gang @callherdaddy.</description>
     <language>en</language>
-    <pubDate>Sun, 8 Mar 2026 08:00:00 +0000</pubDate>
-    <lastBuildDate>Sun, 8 Mar 2026 17:58:04 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:00:14 +0000</lastBuildDate>
     <image>
       <link>https://iamunwell.com/</link>
       <title>Call Her Daddy</title>
@@ -26,6 +26,24 @@
       <itunes:email>callherdaddyoperations@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Comedy"/>
+    <item>
+      <guid isPermaLink="false">00294cd5-b5af-4f62-b3a5-c46167db8700</guid>
+      <title>Alex Warren: The Grammys, Hype House &amp; Homelessness</title>
+      <description><![CDATA[<p>Join Alex in the studio for an interview with Alex Warren. For the first time, Alex opens up about what happened during his Grammy performance and how he felt in the immediate aftermath. He also discusses falling in love with his wife, his chaotic experiences in the Hype House, overcoming past insecurities, and navigating grief. Alex also gives an exclusive preview of an unreleased song. Enjoy!</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></description>
+      <pubDate>Wed, 11 Mar 2026 09:00:00 +0000</pubDate>
+      <author>callherdaddyoperations@gmail.com (Alex Cooper)</author>
+      <link>https://iamunwell.com/</link>
+      <content:encoded><![CDATA[<p>Join Alex in the studio for an interview with Alex Warren. For the first time, Alex opens up about what happened during his Grammy performance and how he felt in the immediate aftermath. He also discusses falling in love with his wife, his chaotic experiences in the Hype House, overcoming past insecurities, and navigating grief. Alex also gives an exclusive preview of an unreleased song. Enjoy!</p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></content:encoded>
+      <enclosure length="92558833" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/f09b6967-f720-4383-a6cf-42d1f475bd95/episodes/92202628-4918-4381-b1ca-88e50f44996d/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=f09b6967-f720-4383-a6cf-42d1f475bd95&amp;awEpisodeId=92202628-4918-4381-b1ca-88e50f44996d&amp;feed=mKn_QmLS"/>
+      <itunes:title>Alex Warren: The Grammys, Hype House &amp; Homelessness</itunes:title>
+      <itunes:author>Alex Cooper</itunes:author>
+      <itunes:duration>01:19:34</itunes:duration>
+      <itunes:summary>Join Alex in the studio for an interview with Alex Warren. For the first time, Alex opens up about what happened during his Grammy performance and how he felt in the immediate aftermath. He also discusses falling in love with his wife, his chaotic experiences in the Hype House, overcoming past insecurities, and navigating grief. Alex also gives an exclusive preview of an unreleased song. Enjoy!</itunes:summary>
+      <itunes:subtitle>Join Alex in the studio for an interview with Alex Warren. For the first time, Alex opens up about what happened during his Grammy performance and how he felt in the immediate aftermath. He also discusses falling in love with his wife, his chaotic experiences in the Hype House, overcoming past insecurities, and navigating grief. Alex also gives an exclusive preview of an unreleased song. Enjoy!</itunes:subtitle>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>553</itunes:episode>
+    </item>
     <item>
       <guid isPermaLink="false">954ec260-2a15-4322-ad55-239ea3cef19f</guid>
       <title>&quot;I Got Out of An Abusive Relationship&quot;</title>
@@ -142,6 +160,7 @@ Unwell Foundation: https://iamunwell.com/foundation
 </itunes:subtitle>
       <itunes:explicit>true</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>552</itunes:episode>
     </item>
     <item>
       <guid isPermaLink="false">9d671266-924e-4edf-8115-21ed57b08572</guid>
