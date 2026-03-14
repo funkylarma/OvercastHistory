@@ -2,11 +2,11 @@
 <?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://feeds.buzzsprout.com/2434832.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rss.buzzsprout.com/2434832.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>All in Triathlon with Jelle Geens and Aaron Royle</title>
 
-  <lastBuildDate>Wed, 04 Mar 2026 20:02:27 -0500</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 16:31:01 -0400</lastBuildDate>
   <link>https://www.buzzsprout.com/2434832</link>
   <language>en-us</language>
   <copyright>© 2026 All in Triathlon with Jelle Geens and Aaron Royle</copyright>
@@ -28,6 +28,24 @@
   <itunes:image href="https://storage.buzzsprout.com/s30opkupfu6hi7kppt154ntucr4q?.jpg" />
   <itunes:category text="Sports" />
   <podcast:person role="host" img="https://storage.buzzsprout.com/m7w78vkc9oc5vbclda4dp9tduual">All in Triathlon with Aaron Royle and Jelle Geens</podcast:person>
+  <item>
+    <itunes:title>Jelle Vs Hayden Vs KB</itunes:title>
+    <title>Jelle Vs Hayden Vs KB</title>
+    <itunes:summary><![CDATA[This episode of All In Triathlon is sponsored by Precision Fuel and Hydration. If you want to dial in your race nutrition head to https://www.precisionhydration.com and use the code allintriathlon at checkout for 15% off. This week we break down the epic crit battle between Aaron and Brando. In what can only be described as the cycling equivalent of two mates refusing to let the other one win a town sign sprint, Aaron managed to take down Brando to claim this year’s very prestigious (and defi...]]></itunes:summary>
+    <description><![CDATA[<p>This episode of All In Triathlon is sponsored by Precision Fuel and Hydration. If you want to dial in your race nutrition head to <a href='https://www.precisionhydration.com/'>https://www.precisionhydration.com</a> and use the code allintriathlon at checkout for 15% off.</p><p>This week we break down the epic crit battle between Aaron and Brando. In what can only be described as the cycling equivalent of two mates refusing to let the other one win a town sign sprint, Aaron managed to take down Brando to claim this year’s very prestigious (and definitely very serious) crit champion title. The rivalry between Aaron and Brando continues, with bragging rights now firmly in Aaron’s hands… at least until the next rematch.</p><p>Jelle gives us an update on how training has been going since getting sick a few weeks ago and lets us know he’s now back on track as he builds toward his Geelong battle.</p><p>We also preview the world champs showdown between Jelle Geens, Kristian Blummenfelt and Hayden Wilde. Three of the best middle distance athletes in the world lining up against each other so early in the season should make for an epic race.</p><p>We also review the Ironman New Zealand results and finish off answering your questions.</p>]]></description>
+    <content:encoded><![CDATA[<p>This episode of All In Triathlon is sponsored by Precision Fuel and Hydration. If you want to dial in your race nutrition head to <a href='https://www.precisionhydration.com/'>https://www.precisionhydration.com</a> and use the code allintriathlon at checkout for 15% off.</p><p>This week we break down the epic crit battle between Aaron and Brando. In what can only be described as the cycling equivalent of two mates refusing to let the other one win a town sign sprint, Aaron managed to take down Brando to claim this year’s very prestigious (and definitely very serious) crit champion title. The rivalry between Aaron and Brando continues, with bragging rights now firmly in Aaron’s hands… at least until the next rematch.</p><p>Jelle gives us an update on how training has been going since getting sick a few weeks ago and lets us know he’s now back on track as he builds toward his Geelong battle.</p><p>We also preview the world champs showdown between Jelle Geens, Kristian Blummenfelt and Hayden Wilde. Three of the best middle distance athletes in the world lining up against each other so early in the season should make for an epic race.</p><p>We also review the Ironman New Zealand results and finish off answering your questions.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2434832/episodes/18827865-jelle-vs-hayden-vs-kb.mp3" length="42226789" type="audio/mpeg" />
+    <itunes:image href="https://storage.buzzsprout.com/u8zd2dh98q9365gyao6hcxppdbub?.jpg" />
+    <itunes:author></itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18827865</guid>
+    <pubDate>Thu, 12 Mar 2026 10:00:00 +1000</pubDate>
+    <itunes:duration>3515</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>44</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Our top 10 race locations </itunes:title>
     <title>Our top 10 race locations </title>

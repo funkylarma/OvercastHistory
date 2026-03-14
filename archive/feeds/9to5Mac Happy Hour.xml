@@ -29,13 +29,13 @@
     <atom:link href="https://feedpress.me/9to5machappyhour" rel="self" type="application/rss+xml"/>
     <link>https://www.9to5mac.com</link>
     <description>A weekly podcast discussing the latest in Apple and technology. Hosted by 9to5Mac's Benjamin Mayo and Chance Miller.</description>
-    <lastBuildDate>Fri, 06 Mar 2026 12:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 19:44:37 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>
 hourly</sy:updatePeriod>
     <sy:updateFrequency>
 1</sy:updateFrequency>
-    <generator>https://wordpress.org/?v=6.9.1</generator>
+    <generator>https://wordpress.org/?v=6.9.4</generator>
     <site xmlns="com-wordpress:feed-additions:1">146091842</site>
     <itunes:subtitle>9to5Mac Happy Hour</itunes:subtitle>
     <itunes:author>9to5Mac</itunes:author>
@@ -47,6 +47,348 @@ hourly</sy:updatePeriod>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://static.feedpress.com/logo/9to5machappyhour-65ce9512a63ea.jpg"/>
     <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
+    <item>
+      <title>MacBook Neo review, Apple leadership changes, iPhone Fold rumors </title>
+      <link>https://9to5mac.com/2026/03/12/happy-hour-582/</link>
+      <comments>https://9to5mac.com/2026/03/12/happy-hour-582/#comments</comments>
+      <dc:creator>9to5Mac</dc:creator>
+      <pubDate>Thu, 12 Mar 2026 19:44:36 +0000</pubDate>
+      <category><![CDATA[News]]></category>
+      <guid isPermaLink="false">https://9to5mac.com/?p=1043356</guid>
+      <description><![CDATA[
+<p>Chance and Zac talk through changes to Apple’s leadership website and what they signal for the future. There’s also a pair of new Bloomberg reports focused on Apple’s delayed Siri smart display product, plus the looming iPhone Fold’s software interface. Finally, they go in-depth on MacBook Neo, discussing Chance’s review and answering some Ask9to5Mac questions.  </p>
+
+
+
+<p><a href="https://9to5mac.com/join/">And in Happy Hour Plus</a>, the pair do a check-in on Apple Vision Pro and whether there's about to a big boom in gaming. Subscribe at <a href="http://9to5mac.com/join">9to5mac.com/join</a>.</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://benqurl.biz/3WZyqpL" target="_blank" rel="noreferrer noopener">Sponsored by BenQ:</a> Check out BenQ’s smarter displays made for how Mac users actually work and sign up <a href="https://9to5mac.com/2026/02/26/9to5rewards-win-a-macbook-pro-and-benqs-27-4k-nano-gloss-monitor-giveaway/">for the giveaway here</a>.</li>
+
+
+
+<li><a href="https://shopify.com/happyhour"><strong>Sponsored by Shopify</strong></a>: See less carts go abandoned and more sales. Sign up for a $1 per month trial at <a href="https://shopify.com/happyhour" target="_blank" rel="noreferrer noopener">shopify.com/happyhour</a>.</li>
+
+
+
+<li><strong><a href="https://hellofresh.com/happyhour10fm" target="_blank" rel="noreferrer noopener">Sponsored by HelloFresh</a></strong>: America’s #1 meal kit! Get 10 free meals + a FREE Zwilling Knife (a $144.99 value) on your third box at <a href="https://hellofresh.com/happyhour10fm">HelloFresh.com/happyhour10fm</a>.</li>
+</ul>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://dts.podtrac.com/redirect.mp3/pfx.vpixl.com/sla7w/pscrb.fm/rss/p/9to5mac.com/wp-content/uploads/sites/6/2026/03/HH-582.mp3"></audio></figure>
+
+
+
+<!--more-->
+
+
+
+<h2 class="wp-block-heading" id="h-hosts">Hosts</h2>
+
+
+
+<p><strong>Chance Miller </strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://x.com/chancehmiller" target="_blank" rel="noreferrer noopener">@ChanceHMiller on Twitter</a></li>
+
+
+
+<li><a href="https://www.instagram.com/chancehmiller/">@ChanceHMiller on Instagram </a></li>
+
+
+
+<li><a href="https://www.threads.net/@ChanceHMiller">@ChanceHMiller on Threads</a></li>
+</ul>
+
+
+
+<p><strong>Benjamin Mayo</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="http://twitter.com/bzamayo">@bzamayo on Twitter</a></li>
+
+
+
+<li><a href="https://spacey.space/@bzamayo@mastodon.social">@bzamayo@mastodon.social</a></li>
+
+
+
+<li><a href="https://www.threads.net/@bzamayo">@bzamayo on Threads</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Subscribe, Rate, and Review</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://itunes.apple.com/us/podcast/9to5mac-happy-hour/id641836403?mt=2">Apple Podcasts</a></li>
+
+
+
+<li><a href="https://overcast.fm/itunes641836403/9to5mac-happy-hour">Overcast</a></li>
+
+
+
+<li><a href="https://open.spotify.com/show/3SnFGJhK1o1WG822SN0y7f">Spotify</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-9to5mac-happy-hour-plus">9to5Mac Happy Hour Plus</h2>
+
+
+
+<p><a href="https://9to5mac.com/join/">Subscribe to 9to5Mac Happy Hour Plus</a>! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: </p>
+
+
+
+<ul class="wp-block-list">
+<li>Ad-free versions of every episode </li>
+
+
+
+<li>Pre- and post-show content</li>
+
+
+
+<li>Bonus episodes</li>
+</ul>
+
+
+
+<p>Join for $5 per month or $50 a year at <a href="http://9to5mac.com/join">9to5mac.com/join</a>. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-feedback">Feedback </h2>
+
+
+
+<ul class="wp-block-list">
+<li>Submit #Ask9to5Mac questions on Twitter, <a href="https://mastodon.social/@ChanceHMiller/110623113919600059">Mastodon</a>, or Threads</li>
+
+
+
+<li>Email us feedback and questions to happyhour@9to5mac.com </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-links">Links</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://9to5mac.com/2026/03/06/apple-adds-steve-lemay-and-molly-anderson-to-its-leadership-page/">Apple adds Steve Lemay and Molly Anderson to its leadership page</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/03/09/apple-reportedly-targeting-smart-home-display-release-around-ios-27/">Apple reportedly targeting smart home display release around iOS 27</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/03/11/iphone-fold-expected-to-include-new-app-features-including-side-by-side-multitasking/">iPhone Fold expected to include new app features, including side-by-side multitasking</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/03/10/macbook-neo-review/">MacBook Neo review: A truly great Mac at an unbelievable price</a></li>
+
+
+
+<li><a href="https://www.youtube.com/watch?v=-4-wD0uRG8M">Julia Krist’s MacBook Neo Review</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/03/10/visionos-26-4-unlocks-support-for-worlds-most-advanced-flight-simulator-on-apple-vision-pro/">'World’s most advanced flight simulator' will soon work with Apple Vision Pro</a></li>
+
+
+
+<li><a href="https://9to5mac.com/2026/03/11/first-footage-shows-x-plane-12-on-vision-pro-including-an-arkit-trick-in-action/">First footage shows X-Plane 12 on Vision Pro, including an ARKit trick in action</a></li>
+</ul>
+]]></description>
+      <wfw:commentRss>https://9to5mac.com/2026/03/12/happy-hour-582/feed/</wfw:commentRss>
+      <slash:comments>1</slash:comments>
+      <post-id xmlns="com-wordpress:feed-additions:1">1043356</post-id>
+      <itunes:author>9to5Mac</itunes:author>
+      <itunes:owner>
+        <itunes:email>webmaster@9to5mac.com</itunes:email>
+      </itunes:owner>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="http://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1024"/>
+      <itunes:summary>Chance and Zac talk through changes to Apple’s leadership website and what they signal for the future. There’s also a pair of new Bloomberg reports focused on Apple’s delayed Siri smart display product, plus the looming iPhone Fold’s software interface. Finally, they go in-depth on MacBook Neo, discussing Chance’s review and answering some Ask9to5Mac questions.  
+
+
+
+And in Happy Hour Plus, the pair do a check-in on Apple Vision Pro and whether there's about to a big boom in gaming. Subscribe at 9to5mac.com/join.
+
+
+
+
+Sponsored by BenQ: Check out BenQ’s smarter displays made for how Mac users actually work and sign up for the giveaway here.
+
+
+
+Sponsored by Shopify: See less carts go abandoned and more sales. Sign up for a $1 per month trial at shopify.com/happyhour.
+
+
+
+Sponsored by HelloFresh: America’s #1 meal kit! Get 10 free meals + a FREE Zwilling Knife (a $144.99 value) on your third box at HelloFresh.com/happyhour10fm.
+
+
+
+
+
+
+
+
+
+
+
+
+Hosts
+
+
+
+Chance Miller 
+
+
+
+
+@ChanceHMiller on Twitter
+
+
+
+@ChanceHMiller on Instagram 
+
+
+
+@ChanceHMiller on Threads
+
+
+
+
+Benjamin Mayo
+
+
+
+
+@bzamayo on Twitter
+
+
+
+@bzamayo@mastodon.social
+
+
+
+@bzamayo on Threads
+
+
+
+
+Subscribe, Rate, and Review
+
+
+
+
+Apple Podcasts
+
+
+
+Overcast
+
+
+
+Spotify
+
+
+
+
+9to5Mac Happy Hour Plus
+
+
+
+Subscribe to 9to5Mac Happy Hour Plus! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: 
+
+
+
+
+Ad-free versions of every episode 
+
+
+
+Pre- and post-show content
+
+
+
+Bonus episodes
+
+
+
+
+Join for $5 per month or $50 a year at 9to5mac.com/join. 
+
+
+
+Feedback 
+
+
+
+
+Submit #Ask9to5Mac questions on Twitter, Mastodon, or Threads
+
+
+
+Email us feedback and questions to happyhour@9to5mac.com 
+
+
+
+
+Links
+
+
+
+
+Apple adds Steve Lemay and Molly Anderson to its leadership page
+
+
+
+Apple reportedly targeting smart home display release around iOS 27
+
+
+
+iPhone Fold expected to include new app features, including side-by-side multitasking
+
+
+
+MacBook Neo review: A truly great Mac at an unbelievable price
+
+
+
+Julia Krist’s MacBook Neo Review
+
+
+
+'World’s most advanced flight simulator' will soon work with Apple Vision Pro
+
+
+
+First footage shows X-Plane 12 on Vision Pro, including an ARKit trick in action</itunes:summary>
+      <itunes:subtitle>Chance and Zac talk through changes to Apple’s leadership website...</itunes:subtitle>
+      <enclosure url="http://dts.podtrac.com/redirect.mp3/pfx.vpixl.com/sla7w/pscrb.fm/rss/p/9to5mac.com/wp-content/uploads/sites/6/2026/03/HH-582.mp3" length="0" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>4173</itunes:duration>
+      <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
+    </item>
     <item>
       <title>Apple launches new MacBook Neo, Studio Display XDR, MacBook Pro, more</title>
       <link>https://9to5mac.com/2026/03/06/happy-hour-581/</link>
@@ -36601,382 +36943,6 @@ Yes, the YouTube app now hijacks your Apple TV's screen saver</itunes:summary>
       <itunes:episode>483</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>4616</itunes:duration>
-      <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
-    </item>
-    <item>
-      <title>iOS 17.5 beta 2, M4 Mac schedule, Humane Pin reviews</title>
-      <link>https://9to5mac.com/2024/04/17/happy-hour-482/</link>
-      <comments>https://9to5mac.com/2024/04/17/happy-hour-482/#respond</comments>
-      <dc:creator>9to5Mac</dc:creator>
-      <pubDate>Wed, 17 Apr 2024 17:00:00 +0000</pubDate>
-      <category><![CDATA[News]]></category>
-      <guid isPermaLink="false">https://9to5mac.com/?p=943242</guid>
-      <description><![CDATA[
-<p>Benjamin and Chance discuss the latest in Apple news, including Web Distribution for EU users launching in iOS 17.5 beta 2, we get our first sense of the M4 Mac release scheduled and the company opens up its third-party repair policies further. Also, the Humane Ai Pin debuts to a very mixed critical response.</p>
-
-
-
-<p><a href="https://9to5mac.com/join">And in Happy Hour Plus</a>, we talk about our multitasking and window management habits on macOS. Subscribe at <a href="https://9to5mac.com/join">9to5mac.com/join</a>.</p>
-
-
-
-<p><strong><em>Note from Chance</em></strong><em>: We had some technical difficulties this week, so the audio quality isn't up to our normal standards. We apologize and will be back to normal next time!</em></p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://ladderlife.com/happyhour" target="_blank" rel="noreferrer noopener"><strong>Sponsored by Ladder:</strong></a> Go to <a href="https://ladderlife.com/happyhour" target="_blank" rel="noreferrer noopener"><strong>Ladderlife.com/HappyHour</strong></a> today to see if you’re instantly approved.</li>
-
-
-
-<li><a href="https://linkedin.com/HAPPYHOUR" target="_blank" rel="noreferrer noopener"><strong>Sponsored by LinkedIn Jobs:</strong></a> LinkedIn Jobs helps you find the candidates you want to talk to, faster. Post your job for free at <a href="https://linkedin.com/HAPPYHOUR" target="_blank" rel="noreferrer noopener"><strong>LinkedIn.com/HAPPYHOUR</strong></a>.</li>
-</ul>
-
-
-
-<figure class="wp-block-audio"><audio controls src="https://9to5mac.com/wp-content/uploads/sites/6/2024/04/HH-482.mp3"></audio></figure>
-
-
-
-<!--more-->
-
-
-
-<h2 class="wp-block-heading" id="h-9to5mac-happy-hour-plus">9to5Mac Happy Hour Plus</h2>
-
-
-
-<p><a href="https://9to5mac.com/join/">Introducing 9to5Mac Happy Hour Plus</a>! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: </p>
-
-
-
-<ul class="wp-block-list">
-<li>Ad-free versions of every episode </li>
-
-
-
-<li>Pre- and post-show content</li>
-
-
-
-<li>Monthly bonus episodes</li>
-</ul>
-
-
-
-<p>Join for $5 per month or $50 a year at <a href="http://9to5mac.com/join">9to5mac.com/join</a>. </p>
-
-
-
-<h2 class="wp-block-heading" id="h-hosts">Hosts</h2>
-
-
-
-<p><strong>Chance Miller </strong></p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="http://twitter.com/ChanceHMiller">@ChanceHMiller on Twitter</a></li>
-
-
-
-<li><a href="https://mastodon.social/@ChanceHMiller" target="_blank" rel="noreferrer noopener">@chancehmiller@mastodon.social</a></li>
-
-
-
-<li><a href="https://www.instagram.com/chancehmiller/">@ChanceHMiller on Instagram </a></li>
-
-
-
-<li><a href="https://www.threads.net/@ChanceHMiller">@ChanceHMiller on Threads</a></li>
-</ul>
-
-
-
-<p><strong>Benjamin Mayo</strong></p>
-
-
-
-<ul class="wp-block-list">
-<li><a href="http://twitter.com/bzamayo">@bzamayo on Twitter</a></li>
-
-
-
-<li><a href="https://spacey.space/@bzamayo@mastodon.social">@bzamayo@mastodon.social</a></li>
-
-
-
-<li><a href="https://www.threads.net/@bzamayo">@bzamayo on Threads</a></li>
-</ul>
-
-
-
-<h2 class="wp-block-heading">Subscribe, Rate, and Review</h2>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://itunes.apple.com/us/podcast/9to5mac-happy-hour/id641836403?mt=2">Apple Podcasts</a></li>
-
-
-
-<li><a href="https://overcast.fm/itunes641836403/9to5mac-happy-hour">Overcast</a></li>
-
-
-
-<li><a href="https://open.spotify.com/show/3SnFGJhK1o1WG822SN0y7f">Spotify</a></li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-feedback">Feedback </h2>
-
-
-
-<ul class="wp-block-list">
-<li>Submit #Ask9to5Mac questions on Twitter, <a href="https://mastodon.social/@ChanceHMiller/110623113919600059">Mastodon</a>, or Threads</li>
-
-
-
-<li>Email us feedback and questions to happyhour@9to5mac.com </li>
-</ul>
-
-
-
-<h2 class="wp-block-heading" id="h-links">Links</h2>
-
-
-
-<ul class="wp-block-list">
-<li><a href="https://9to5mac.com/2024/04/14/iphone-game-boy-emulator-app-store/">Game Boy emulator now available on the iPhone following App Store rules change [update: gone]</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/15/igba-emulator-pulled-from-app-store/">iPhone 'iGBA' emulator removed from App Store, but we aren't sure why</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/15/heres-why-apple-removed-the-first-game-boy-emulator-from-the-app-store/">Here's why Apple removed the first Game Boy emulator from the App Store</a></li>
-
-
-
-<li><a href="https://www.theverge.com/24126502/humane-ai-pin-review">The Verge’s Humane AI Pin review</a></li>
-
-
-
-<li><a href="https://youtu.be/TitZV6k8zfA?si=ApOc5tBwcp3EaCJ9">MKBHD’s AI Pin review</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/16/ios-17-5-beta-2-web-distribution/">iOS 17.5 beta 2 coming today with new Web Distribution sideloading feature in the EU</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/11/iphone-used-parts-repair/">Apple will relax repair policy to allow used genuine parts with select iPhones</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/11/apple-iphone-parts-pairing-john-ternus/">Apple's John Ternus defends iPhone parts pairing as 'not evil'</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/14/m4-macs-launch-date-new-features/">Here's when to expect the first M4 Macs to launch</a></li>
-
-
-
-<li><a href="https://9to5mac.com/2024/04/11/apple-first-m4-mac-release-ai/">Apple aiming to release first M4-powered Macs this year with a focus on AI</a></li>
-</ul>
-]]></description>
-      <wfw:commentRss>https://9to5mac.com/2024/04/17/happy-hour-482/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-      <post-id xmlns="com-wordpress:feed-additions:1">943242</post-id>
-      <itunes:author>9to5Mac</itunes:author>
-      <itunes:owner>
-        <itunes:email>webmaster@9to5mac.com</itunes:email>
-      </itunes:owner>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="http://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1024"/>
-      <itunes:summary>Benjamin and Chance discuss the latest in Apple news, including Web Distribution for EU users launching in iOS 17.5 beta 2, we get our first sense of the M4 Mac release scheduled and the company opens up its third-party repair policies further. Also, the Humane Ai Pin debuts to a very mixed critical response.
-
-
-
-And in Happy Hour Plus, we talk about our multitasking and window management habits on macOS. Subscribe at 9to5mac.com/join.
-
-
-
-Note from Chance: We had some technical difficulties this week, so the audio quality isn't up to our normal standards. We apologize and will be back to normal next time!
-
-
-
-
-Sponsored by Ladder: Go to Ladderlife.com/HappyHour today to see if you’re instantly approved.
-
-
-
-Sponsored by LinkedIn Jobs: LinkedIn Jobs helps you find the candidates you want to talk to, faster. Post your job for free at LinkedIn.com/HAPPYHOUR.
-
-
-
-
-
-
-
-
-
-
-
-
-9to5Mac Happy Hour Plus
-
-
-
-Introducing 9to5Mac Happy Hour Plus! Support Benjamin and Chance directly with Happy Hour Plus! 9to5Mac Happy Hour Plus includes: 
-
-
-
-
-Ad-free versions of every episode 
-
-
-
-Pre- and post-show content
-
-
-
-Monthly bonus episodes
-
-
-
-
-Join for $5 per month or $50 a year at 9to5mac.com/join. 
-
-
-
-Hosts
-
-
-
-Chance Miller 
-
-
-
-
-@ChanceHMiller on Twitter
-
-
-
-@chancehmiller@mastodon.social
-
-
-
-@ChanceHMiller on Instagram 
-
-
-
-@ChanceHMiller on Threads
-
-
-
-
-Benjamin Mayo
-
-
-
-
-@bzamayo on Twitter
-
-
-
-@bzamayo@mastodon.social
-
-
-
-@bzamayo on Threads
-
-
-
-
-Subscribe, Rate, and Review
-
-
-
-
-Apple Podcasts
-
-
-
-Overcast
-
-
-
-Spotify
-
-
-
-
-Feedback 
-
-
-
-
-Submit #Ask9to5Mac questions on Twitter, Mastodon, or Threads
-
-
-
-Email us feedback and questions to happyhour@9to5mac.com 
-
-
-
-
-Links
-
-
-
-
-Game Boy emulator now available on the iPhone following App Store rules change [update: gone]
-
-
-
-iPhone 'iGBA' emulator removed from App Store, but we aren't sure why
-
-
-
-Here's why Apple removed the first Game Boy emulator from the App Store
-
-
-
-The Verge’s Humane AI Pin review
-
-
-
-MKBHD’s AI Pin review
-
-
-
-iOS 17.5 beta 2 coming today with new Web Distribution sideloading feature in the EU
-
-
-
-Apple will relax repair policy to allow used genuine parts with select iPhones
-
-
-
-Apple's John Ternus defends iPhone parts pairing as 'not evil'
-
-
-
-Here's when to expect the first M4 Macs to launch
-
-
-
-Apple aiming to release first M4-powered Macs this year with a focus on AI</itunes:summary>
-      <itunes:subtitle>Benjamin and Chance discuss the latest in Apple news, including...</itunes:subtitle>
-      <enclosure url="http://chrt.fm/track/C52FCG/dts.podtrac.com/redirect.mp3/9to5mac.com/wp-content/uploads/sites/6/2024/04/HH-482.mp3" length="0" type="audio/mpeg"/>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>482</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>3478</itunes:duration>
       <itunes:keywords>9to5Mac,Happy,Hour,Apple,iPhone,iPad,Mac,Watch,tech,TV,technoloy,health,fitness,HomePod,Music,design,developer,apps,Tim,Cook,</itunes:keywords>
     </item>
   </channel>

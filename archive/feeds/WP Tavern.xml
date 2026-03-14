@@ -15,7 +15,7 @@
 		<atom:link href="https://wptavern.com/feed/podcast/wp-tavern/" rel="self" type="application/rss+xml"/>
 		<link>https://wptavern.com/series/wp-tavern</link>
 		<description>The WP Tavern Jukebox is a podcast for the WordPress community. We interview people who are pushing change in how WordPress evolves. Plugins, Blocks, Themes, Community, Events, Accessibility and Diversity; we try to cover all the bases. Subscribe to be updated when we bring you new content.</description>
-		<lastBuildDate>Wed, 04 Mar 2026 17:08:17 +0000</lastBuildDate>
+		<lastBuildDate>Wed, 11 Mar 2026 14:00:00 +0000</lastBuildDate>
 		<language>en-US</language>
 		<copyright>© 2021 WordPress Tavern</copyright>
 		<itunes:subtitle>A podcast about WordPress and the WordPress community.</itunes:subtitle>
@@ -45,9 +45,34 @@
 			<podcast:locked owner="nathan@wptavern.com">yes</podcast:locked>
 		<podcast:guid>f00e0f5e-92f9-5149-a906-86d0fffa999e</podcast:guid>
 		
-		<!-- podcast_generator="SSP by Castos/3.14.2" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
+		<!-- podcast_generator="SSP by Castos/3.14.3" Seriously Simple Podcasting plugin for WordPress (https://wordpress.org/plugins/seriously-simple-podcasting/) -->
 		
 <site xmlns="com-wordpress:feed-additions:1">9006382</site>
+<item>
+	<title>#208 &#8211; Behind the Scenes at the CloudFest Hackathon</title>
+	<link>https://wptavern.com/podcast/208-behind-the-scenes-at-the-cloudfest-hackathon</link>
+	<pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+	<dc:creator><![CDATA[WordPress Tavern]]></dc:creator>
+	<guid isPermaLink="false">424c9712-a310-5771-8175-518bb33b005c</guid>
+	<description><![CDATA[In this WP Tavern episode, Nathan Wrigley explores the CloudFest Hackathon, an event bringing together open source enthusiasts to collaborate on innovative projects in just three days. Carole Olinger, the Hackathon lead, details the organising process and project selection, talking about cross-CMS collaboration and sustainability. Contributors like Javier Casares, Matthias Pfefferle, Milana Cap, and others share their diverse projects, ranging from AI-enhanced tools to accessibility solutions. The episode covers the energy, teamwork, and lasting impact of the Hackathon on the open web community. Go listen.]]></description>
+	<itunes:subtitle><![CDATA[In this WP Tavern episode, Nathan Wrigley explores the CloudFest Hackathon, an event bringing together open source enthusiasts to collaborate on innovative projects in just three days. Carole Olinger, the Hackathon lead, details the organising process an]]></itunes:subtitle>
+	<content:encoded><![CDATA[In this WP Tavern episode, Nathan Wrigley explores the CloudFest Hackathon, an event bringing together open source enthusiasts to collaborate on innovative projects in just three days. Carole Olinger, the Hackathon lead, details the organising process and project selection, talking about cross-CMS collaboration and sustainability. Contributors like Javier Casares, Matthias Pfefferle, Milana Cap, and others share their diverse projects, ranging from AI-enhanced tools to accessibility solutions. The episode covers the energy, teamwork, and lasting impact of the Hackathon on the open web community. Go listen.]]></content:encoded>
+	<enclosure url="https://episodes.castos.com/601a97348e9993-63339407/2390282/c1e-3gd9diwjv1xs6xpwd-1pr33093swz2-svxbs0.mp3" length="37676848" type="audio/mpeg"></enclosure>
+	<itunes:summary><![CDATA[In this WP Tavern episode, Nathan Wrigley explores the CloudFest Hackathon, an event bringing together open source enthusiasts to collaborate on innovative projects in just three days. Carole Olinger, the Hackathon lead, details the organising process and project selection, talking about cross-CMS collaboration and sustainability. Contributors like Javier Casares, Matthias Pfefferle, Milana Cap, and others share their diverse projects, ranging from AI-enhanced tools to accessibility solutions. The episode covers the energy, teamwork, and lasting impact of the Hackathon on the open web community. Go listen.]]></itunes:summary>
+	<itunes:image href="https://wptavern.com/wp-content/uploads/2026/03/208-Behind-the-Scenes-at-the-CloudFest-Hackathon.jpg"></itunes:image>
+	<image>
+		<url>https://wptavern.com/wp-content/uploads/2026/03/208-Behind-the-Scenes-at-the-CloudFest-Hackathon.jpg</url>
+		<title>#208 &#8211; Behind the Scenes at the CloudFest Hackathon</title>
+	</image>
+	<itunes:explicit>false</itunes:explicit>
+	<itunes:block>no</itunes:block>
+	<itunes:duration>00:26:10</itunes:duration>
+	<itunes:author><![CDATA[WordPress Tavern]]></itunes:author>	<googleplay:description><![CDATA[In this WP Tavern episode, Nathan Wrigley explores the CloudFest Hackathon, an event bringing together open source enthusiasts to collaborate on innovative projects in just three days. Carole Olinger, the Hackathon lead, details the organising process and project selection, talking about cross-CMS collaboration and sustainability. Contributors like Javier Casares, Matthias Pfefferle, Milana Cap, and others share their diverse projects, ranging from AI-enhanced tools to accessibility solutions. The episode covers the energy, teamwork, and lasting impact of the Hackathon on the open web community. Go listen.]]></googleplay:description>
+	<googleplay:image href="https://wptavern.com/wp-content/uploads/2026/03/208-Behind-the-Scenes-at-the-CloudFest-Hackathon.jpg"></googleplay:image>
+	<googleplay:explicit>No</googleplay:explicit>
+	<googleplay:block>no</googleplay:block>
+</item>
+
 <item>
 	<title>#207 &#8211; Rob Ruiz on WP Rig and the Future of Theme Development</title>
 	<link>https://wptavern.com/podcast/207-rob-ruiz-on-wp-rig-and-the-future-of-theme-development</link>

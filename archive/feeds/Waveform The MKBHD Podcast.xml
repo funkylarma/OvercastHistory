@@ -5,11 +5,11 @@
     <title>Waveform: The MKBHD Podcast</title>
     <link>https://www.youtube.com/c/Waveform</link>
     <language>en</language>
-    <copyright>Marques Brownlee</copyright>
+    <copyright>10061f80-1cae-11f1-a5b0-69ab4e2a1426</copyright>
     <description>A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network.
 We wanna make the podcast even better, help us learn how we can: https://bit.ly/2EcYbu4 </description>
     <image>
-      <url>https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/d8e2a9440713ac10f96ef4031bd5de84.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
+      <url>https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/9cf68abbd8abbaca57da27ccdb370882.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress</url>
       <title>Waveform: The MKBHD Podcast</title>
       <link>https://www.youtube.com/c/Waveform</link>
     </image>
@@ -26,7 +26,7 @@ We wanna make the podcast even better, help us learn how we can: https://bit.ly
       <itunes:name>Marques Brownlee</itunes:name>
       <itunes:email>podcast@mkbhd.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/d8e2a9440713ac10f96ef4031bd5de84.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+    <itunes:image href="https://megaphone.imgix.net/podcasts/ae6237e6-7e71-11e9-9c4d-3b02b0eab47c/image/9cf68abbd8abbaca57da27ccdb370882.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
     <itunes:category text="Technology">
     </itunes:category>
     <itunes:category text="News">
@@ -35,6 +35,217 @@ We wanna make the podcast even better, help us learn how we can: https://bit.ly
     <itunes:category text="Leisure">
       <itunes:category text="Hobbies"/>
     </itunes:category>
+    <item>
+      <title>The Apple Release Tier List</title>
+      <description>A lot happened this week! First, the crew falls down a rabbit hole discussing the Subaru UI and volume knobs before jumping right into all of the new Apple devices that were released. Then they talk about the Honor robot phone, Ray-Ban Meta privacy issues,  and Google's 30% Play Store tax. They wrap it up by explaining the Bam Adebayo record breaking performance in tech terms. 
+
+
+
+Shop the merch:
+
+https://shop.mkbhd.com
+
+
+
+Links:
+
+Verge - M5 MacBook Pro review
+
+Verge - Honor phone hands-on
+
+SVD - Meta x Raybans privacy article
+
+Verge - Tim Sweeney article
+
+The Studio - ⁠MKBHD Knockoff desk video⁠
+
+MKBHD - ⁠MacBook Neo⁠
+
+
+
+Music provided by: 
+
+Epidemic Sound 
+
+
+
+This episode brought to you by:
+
+This episode brought to you by:
+Framer: https://www.framer.com/wave
+Shopify: https://www.shopify.com/waveform
+
+
+
+Social:
+
+Waveform Threads: https://www.threads.net/@waveformpodcast
+
+Waveform Instagram: https://www.instagram.com/waveformpodcast/?hl=en
+
+Waveform TikTok: https://www.tiktok.com/@waveformpodcast
+
+
+
+Hosts:
+
+Marques: https://www.threads.net/@mkbhd
+
+Andrew: https://www.threads.net/@andrew_manganelli
+
+David: https://www.threads.net/@davidimel
+
+Adam: https://www.threads.net/@parmesanpapi17
+
+Ellis: https://twitter.com/EllisRovin
+
+
+
+Join the Discord:
+
+https://discord.gg/mkbhd
+
+
+
+Intro/Outro music by 20syl:
+
+https://bit.ly/2S53xlC
+
+
+
+Waveform is part of the Vox Media Podcast Network.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 -0000</pubDate>
+      <itunes:title>The Apple Release Tier List</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>340</itunes:episode>
+      <itunes:author>MKBHD</itunes:author>
+      <itunes:subtitle>The crew talks Apple devices, Meta glasses, and volume knobs!</itunes:subtitle>
+      <itunes:summary>A lot happened this week! First, the crew falls down a rabbit hole discussing the Subaru UI and volume knobs before jumping right into all of the new Apple devices that were released. Then they talk about the Honor robot phone, Ray-Ban Meta privacy issues,  and Google's 30% Play Store tax. They wrap it up by explaining the Bam Adebayo record breaking performance in tech terms. 
+
+
+
+Shop the merch:
+
+https://shop.mkbhd.com
+
+
+
+Links:
+
+Verge - M5 MacBook Pro review
+
+Verge - Honor phone hands-on
+
+SVD - Meta x Raybans privacy article
+
+Verge - Tim Sweeney article
+
+The Studio - ⁠MKBHD Knockoff desk video⁠
+
+MKBHD - ⁠MacBook Neo⁠
+
+
+
+Music provided by: 
+
+Epidemic Sound 
+
+
+
+This episode brought to you by:
+
+This episode brought to you by:
+Framer: https://www.framer.com/wave
+Shopify: https://www.shopify.com/waveform
+
+
+
+Social:
+
+Waveform Threads: https://www.threads.net/@waveformpodcast
+
+Waveform Instagram: https://www.instagram.com/waveformpodcast/?hl=en
+
+Waveform TikTok: https://www.tiktok.com/@waveformpodcast
+
+
+
+Hosts:
+
+Marques: https://www.threads.net/@mkbhd
+
+Andrew: https://www.threads.net/@andrew_manganelli
+
+David: https://www.threads.net/@davidimel
+
+Adam: https://www.threads.net/@parmesanpapi17
+
+Ellis: https://twitter.com/EllisRovin
+
+
+
+Join the Discord:
+
+https://discord.gg/mkbhd
+
+
+
+Intro/Outro music by 20syl:
+
+https://bit.ly/2S53xlC
+
+
+
+Waveform is part of the Vox Media Podcast Network.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>A lot happened this week! First, the crew falls down a rabbit hole discussing the Subaru UI and volume knobs before jumping right into all of the new Apple devices that were released. Then they talk about the Honor robot phone, Ray-Ban Meta privacy issues,  and Google's 30% Play Store tax. They wrap it up by explaining the Bam Adebayo record breaking performance in tech terms. </p>
+<p><br></p>
+<p>Shop the merch:</p>
+<p>https://shop.mkbhd.com</p>
+<p><br></p>
+<p>Links:</p>
+<p>Verge - <a href="https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review">M5 MacBook Pro review</a></p>
+<p>Verge - <a href="https://www.theverge.com/gadgets/889023/honor-robot-phone-gimbal-stabilization-mwc">Honor phone hands-on</a></p>
+<p>SVD - <a href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything">Meta x Raybans privacy article</a></p>
+<p>Verge - <a href="https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032">Tim Sweeney article</a></p>
+<p>The Studio - <a href="https://youtu.be/fMp3TPlEBQg?si=tgIxQsBkVMJHx-l3">⁠MKBHD Knockoff desk video⁠</a></p>
+<p>MKBHD - <a href="https://youtu.be/kBX5WH9b4M4?si=YK9DsLKtGYLSI_iA">⁠MacBook Neo⁠</a></p>
+<p><br></p>
+<p>Music provided by: </p>
+<p>Epidemic Sound </p>
+<p><br></p>
+<p>This episode brought to you by:</p>
+<p>This episode brought to you by:
+Framer: https://www.framer.com/wave
+Shopify: https://www.shopify.com/waveform</p>
+<p><br></p>
+<p>Social:</p>
+<p>Waveform Threads: https://www.threads.net/@waveformpodcast</p>
+<p>Waveform Instagram: https://www.instagram.com/waveformpodcast/?hl=en</p>
+<p>Waveform TikTok: https://www.tiktok.com/@waveformpodcast</p>
+<p><br></p>
+<p>Hosts:</p>
+<p>Marques: https://www.threads.net/@mkbhd</p>
+<p>Andrew: https://www.threads.net/@andrew_manganelli</p>
+<p>David: https://www.threads.net/@davidimel</p>
+<p>Adam: https://www.threads.net/@parmesanpapi17</p>
+<p>Ellis: https://twitter.com/EllisRovin</p>
+<p><br></p>
+<p>Join the Discord:</p>
+<p>https://discord.gg/mkbhd</p>
+<p><br></p>
+<p>Intro/Outro music by 20syl:</p>
+<p>https://bit.ly/2S53xlC</p>
+<p><br></p>
+<p>Waveform is part of the Vox Media Podcast Network.</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
+      </content:encoded>
+      <itunes:duration>5715</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[7fe208f8-b5cc-11f0-92f1-0fd89c6cc470]]></guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP2165234486.mp3?updated=1773338267" length="0" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Nothing Like a New MacBook!</title>
       <description>So much happened this week that it felt like Techtember all over again. First, the crew sits down to talk about the week of Apple product announcements including the new iPhone 17e and MacBook Neo. After that, it's all about Nothing which released the new 4a and 4a Pro along with a new pair of headphones. Then it gets existential as discussion turns to the future of AI and the internet. Enjoy!

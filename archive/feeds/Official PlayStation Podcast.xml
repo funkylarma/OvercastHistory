@@ -13,8 +13,8 @@
   <channel>
     <atom:link href="https://rss.libsyn.com/shows/34357/destinations/81636.xml" rel="self" type="application/rss+xml"/>
     <title>Official PlayStation Podcast</title>
-    <pubDate>Fri, 27 Feb 2026 17:52:22 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Feb 2026 17:52:22 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Mar 2026 16:55:39 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:55:39 +0000</lastBuildDate>
     <generator>Libsyn RSSgen 1.0</generator>
     <link>https://blog.playstation.com</link>
     <language>en</language>
@@ -52,6 +52,31 @@
     
     
     
+    
+    <item>
+      <title>Episode 536: Legendary Cooperation</title>
+      <itunes:title>Episode 536: Legendary Cooperation</itunes:title>
+      <pubDate>Fri, 13 Mar 2026 16:45:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f1077013-c280-4eab-83c6-a686453d5c56]]></guid>
+      <link><![CDATA[https://playstation.libsyn.com/episode-536-legendary-cooperation]]></link>
+      <description><![CDATA[<p>Hey, everybody! Tim and O'Dell are back this week to talk about the games they are playing, a busy news week, and some big contenders that are releasing soon. This week also features an interview with Darren Bridges, Lead Designer, Sucker Punch, for Ghost of Yōtei Legends.</p>]]></description>
+      
+      <content:encoded><![CDATA[<p>Hey, everybody! Tim and O'Dell are back this week to talk about the games they are playing, a busy news week, and some big contenders that are releasing soon. This week also features an interview with Darren Bridges, Lead Designer, Sucker Punch, for Ghost of Yōtei Legends.</p>]]></content:encoded>
+      
+      
+      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_536_.mp3?dest-id=81636" length="93878568" type="audio/mpeg" />
+      <itunes:duration>48:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      
+      <itunes:keywords />
+      
+      
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      
+      
+      
+    </item>
     
     <item>
       <title>Episode  535: Returning Residents</title>
@@ -1266,31 +1291,6 @@
       
       <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_487.mp3?dest-id=81636" length="80016532" type="audio/mpeg" />
       <itunes:duration>55:34</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Episode 486: Proof In The Play</title>
-      <itunes:title>Episode 486: Proof In The Play</itunes:title>
-      <pubDate>Fri, 07 Jun 2024 17:02:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[5ce8f3a4-3472-4c2a-952b-0b5a3d0cbc3f]]></guid>
-      <link><![CDATA[https://playstation.libsyn.com/episode-486-proof-in-the-play]]></link>
-      <description><![CDATA[<p>Howdy folks! This week the team recaps some of the biggest news from last week's State of Play and talks some of 2024's best indies so far. Plus: Which videogame worlds do you think smell the worst/best? The team nose dives into this topic and more.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>Howdy folks! This week the team recaps some of the biggest news from last week's State of Play and talks some of 2024's best indies so far. Plus: Which videogame worlds do you think smell the worst/best? The team nose dives into this topic and more.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/clean/secure/playstation/Episode_486.mp3?dest-id=81636" length="61743147" type="audio/mpeg" />
-      <itunes:duration>42:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       
       <itunes:keywords />

@@ -15,11 +15,11 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<atom:link href="https://www.runningleanpodcast.com/feed/podcast/" rel="self" type="application/rss+xml" />
 	<link>https://www.runningleanpodcast.com/</link>
 	<description>Get leaner and get stronger so you can run faster and run longer than you ever thought possible.</description>
-	<lastBuildDate>Fri, 06 Mar 2026 06:00:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Mar 2026 05:00:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>https://wordpress.org/?v=6.9.1</generator>
+		<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
 	<url>https://www.runningleanpodcast.com/wp-content/uploads/2023/04/cropped-running-lean-favicon-32x32.png</url>
@@ -63,6 +63,48 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<podcast:podping usesPodping="true" />
 	<podcast:guid>7e9af8c4-7838-5b7d-a1aa-cc6b26b9836a</podcast:guid>
 	<rawvoice:subscribe feed="https://www.runningleanpodcast.com/feed/podcast/" html="https://www.runningleanpodcast.com/subscribe/" itunes="https://podcasts.apple.com/us/podcast/running-lean/id1492819721" blubrry="https://blubrry.com/therunningmindpodcast/" spotify="https://open.spotify.com/show/72KqZFtcRSoZFpPVTgJYvZ" amazon_music="https://music.amazon.com/podcasts/76caec9b-04e9-4831-8e9f-4eaed959742c/Running-Lean" iheart="https://www.iheart.com/podcast/269-the-running-mind-podcast-55298488/" deezer="https://www.deezer.com/us/show/753172"></rawvoice:subscribe>
+	<item>
+		<title>324. The Strength Deficits That Cause Most Running Injuries</title>
+		<link>https://www.runningleanpodcast.com/324-the-strength-deficits-that-cause-most-running-injuries/</link>
+		<pubDate>Fri, 13 Mar 2026 05:00:08 +0000</pubDate>
+		<guid isPermaLink="false">https://www.runningleanpodcast.com/?p=2383</guid>
+		<description><![CDATA[<p>Let’s talk about something most runners completely misunderstand: injuries.</p>
+<p>Most runners think injuries are just bad luck.</p>
+<p>Or maybe the result of running too many miles too quickly.</p>
+<p>But in reality, most running injuries are predictable.</p>
+<p>They’re caused by specific strength deficits that quietly undermine your running mechanics.</p>
+<p>Weak hips.</p>
+<p>Poor single-leg stability.</p>
+<p>A core that can’t control rotational forces.</p>
+<p>These weaknesses don’t just affect how strong you are — they affect how you move.</p>
+<p>And when your body can’t control the forces created while running, something eventually breaks down.</p>
+<p>In this episode, The Strength Deficits That Cause Most Running Injuries, I’m breaking down the key weaknesses I see in runners every single day — and how they lead to knee pain, hip issues, Achilles problems, and more.</p>
+<p>Once you understand these strength deficits, you’ll start seeing injuries differently — and more importantly, you’ll know exactly what to do to prevent them.</p>
+<h2>Start The Leaner, Stronger Runner Project</h2>
+<p>If you’re putting in the miles but not getting the results you want… something is off.</p>
+<p>Maybe you’re running a lot but the weight isn’t changing.<br />
+Maybe you feel tired all the time.<br />
+Maybe running actually feels harder than it should.</p>
+<p>And deep down you know this:</p>
+<p>You shouldn’t have to grind this hard just to stay the same.</p>
+<p>That’s exactly why I created <strong>The Leaner, Stronger Runner Project.</strong></p>
+<p>This is a step-by-step coaching program designed specifically for runners who want to:</p>
+<ul>
+<li><strong>Lose fat</strong> without sabotaging their running</li>
+<li><strong>Build real strength</strong> so running actually feels easier</li>
+<li><strong>Fuel their body properly</strong> so energy stays high and cravings calm down</li>
+<li><strong>Develop the mindset and habits</strong> that make progress stick long-term</li>
+</ul>
+<p>This isn’t another random training plan or nutrition hack.</p>
+<p>It’s a clear, structured coaching program that shows you <strong>exactly what to do — and why — so you can finally start feeling strong, lean, and confident again.</strong></p>
+<p>If you’re ready to stop guessing and start making real progress…</p>
+<p><img src="https://s.w.org/images/core/emoji/17.0.2/72x72/1f449.png" alt="👉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <strong>Go to <a href="https://www.runningleancoaching.com/ready">runningleancoaching.com/ready</a> and learn how to get started today.</strong></p>
+<p>The post <a href="https://www.runningleanpodcast.com/324-the-strength-deficits-that-cause-most-running-injuries/">324. The Strength Deficits That Cause Most Running Injuries</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
+		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/324_The_Strength_Deficits_That_Cause_Most_Running_Injuries.mp3" length="26181493" type="audio/mpeg" />
+		<itunes:author>Patrick McGilvray</itunes:author>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:duration>26:16</itunes:duration>
+	</item>
 	<item>
 		<title>323. How to Lose Weight Without Tanking Your Running</title>
 		<link>https://www.runningleanpodcast.com/323-how-to-lose-weight-without-tanking-your-running/</link>
@@ -8849,41 +8891,6 @@ The Run Smarter Series website: <a href="https://www.runsmarter.online" target="
 		<itunes:author>Patrick McGilvray</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:duration>35:51</itunes:duration>
-	</item>
-	<item>
-		<title>26. Chris Wissman on Maintaining Peak Performance as a Real Human</title>
-		<link>https://www.runningleanpodcast.com/26-chris-wissman-on-maintaining-peak-performance-as-a-real-human/</link>
-		<pubDate>Fri, 26 Jun 2020 05:00:01 +0000</pubDate>
-		<guid isPermaLink="false">https://www.therunningmindpodcast.com/?p=259</guid>
-		<description><![CDATA[<p>Chris Wissman is co-founder and Director of Fitness Programs at <a href="http://www.realhumanperformance.com/" target="_blank" rel="noopener noreferrer">Real Human Performance</a> here in Cincinnati.</p>
-<p>Chris considers himself more of a holistic health coach than a personal trainer. His approach to health and fitness is a lot like mine &#8211; it’s not just about lifting weights or eating right, there’s so much more going on. In order to get to your ideal body weight and maintain peak performance, you have to consider the whole human.</p>
-<p>In this interview, we discuss…</p>
-<ul>
-<li>What the “chronic cardio” cycle is and what runners need to do to break out of it</li>
-<li>Why you should add in some high-intensity workouts like sprinting</li>
-<li>How running slower will help you to run faster</li>
-<li>Sugar-burning vs. fat-burning and the benefits of becoming a fat-adapted runner</li>
-<li>What happens when you don’t get enough sleep</li>
-<li>The importance of managing stress as an athlete</li>
-<li>Why you might want to rethink sucking down all those energy gels during a race</li>
-<li>Intermittent fasting and the surprising benefits of working out in a fasted state</li>
-<li>Why elite athletes practice periodization and why you should too</li>
-<li>And so much more!</li>
-</ul>
-<p>Chris is an all-around awesome human and a good friend. I think you’re going to dig this conversation!</p>
-<h3>Links</h3>
-<p><a href="https://www.facebook.com/chris.wissman" target="_blank" rel="noopener noreferrer">Connect with Chris on Facebook</a></p>
-<p><a href="https://www.marksdailyapple.com/mark-sisson/" target="_blank" rel="noopener noreferrer">Mark Sisson</a> is THE godfather of the paleo/primal lifestyle</p>
-<p><a href="https://powerspeedendurance.com/coaches/brian-mackenzie/" target="_blank" rel="noopener noreferrer">Brian McKenzie</a> is the founder of Power Speed Endurance, a programming, coaching &amp; educational platform for developing sports performance, fitness, and health.</p>
-<hr />
-<p>If you enjoy this episode and it inspires you in some way, I&#8217;d love to hear about it and know your biggest takeaway! Take a screenshot of you listening on your device, post it to your Instagram Stories, and tag me <a href="https://instagram.com/pmcgilvray" target="_blank" rel="noopener noreferrer">@pmcgilvray</a>.</p>
-<p>Be sure to join the discussion in the <strong>Running Lean Community</strong> on Facebook! If you listen to this podcast, you HAVE to come check out our Facebook group, the two go hand-in-hand. Join here (it&#8217;s totally free!): <a href="https://www.facebook.com/groups/runninglean/" target="_blank" rel="noopener noreferrer">www.facebook.com/groups/runninglean</a></p>
-<p>Haven&#8217;t left a review yet? All you need to do is go to <a href="https://www.runningleanpodcast.com/itunes">www.runningleanpodcast.com/itunes</a>, scroll down, and tap the stars! You can also write a quick review. Thank you for your support of the show!</p>
-<p>The post <a href="https://www.runningleanpodcast.com/26-chris-wissman-on-maintaining-peak-performance-as-a-real-human/">26. Chris Wissman on Maintaining Peak Performance as a Real Human</a> appeared first on <a href="https://www.runningleanpodcast.com">Running Lean with Patrick McGilvray</a>.</p>]]></description>
-		<enclosure url="https://media.blubrry.com/therunningmindpodcast/content.blubrry.com/therunningmindpodcast/026_Chris_Wissman.mp3" length="51875473" type="audio/mpeg" />
-		<itunes:author>Patrick McGilvray</itunes:author>
-		<itunes:episodeType>full</itunes:episodeType>
-		<itunes:duration>53:28</itunes:duration>
 	</item>
 </channel>
 </rss>

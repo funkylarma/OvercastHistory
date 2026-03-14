@@ -30,6 +30,26 @@
       <title>The Zane Lowe Interview Series</title>
     </image>
     <item>
+      <title>James Blake</title>
+      <description>
+        <![CDATA[<p>The artist talks Trying Times, his seventh studio album, his relationship with technology and playing live.</p>]]>
+      </description>
+      <itunes:title>James Blake</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>198</itunes:episode>
+      <itunes:summary>The artist talks Trying Times, his seventh studio album, his relationship with technology and playing live.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>The artist talks Trying Times, his seventh studio album, his relationship with technology and playing live.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/48IuFvpTDbQZ9qrIavOrjPOcrcq75GxpKHFQXiurtvA</guid>
+      <pubDate>Wed, 11 Mar 2026 07:00:00 -0000</pubDate>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/9e/34/a7/67/9e34a767-168a-400b-b683-027fd69c429d/db82d7ebd0cafc56d734d538ac7c92716a6694dcc66638ec35dfc7e11935a8251601f914a354e431acbb651697e4555f3db48f56b34a358dd71186eafd575062.jpeg"/>
+      <itunes:duration>00:37:09</itunes:duration>
+      <enclosure url="https://rss.art19.com/episodes/61bf3428-01d9-4e14-9341-89b9ac5c1533.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="35679503"/>
+      
+    </item>
+    <item>
       <title>Luke Combs</title>
       <description>
         <![CDATA[<p>Conversation with the country superstar on his album The Way I Am.</p><p><br></p><p><br></p><p><br></p>]]>
@@ -55,6 +75,7 @@
       <itunes:image href="https://content.production.cdn.art19.com/images/60/ae/a3/30/60aea330-ea81-4955-b0bb-0c784ba77725/74673057320547e2fe877b65b2929cd75ea23514315ae32a75527e60b92cf74365745c744bc06a274ff1fd8edbf6b916638ab5298932a339b196ac90fd83c66b.jpeg"/>
       <itunes:duration>00:59:07</itunes:duration>
       <enclosure url="https://rss.art19.com/episodes/5ba861df-6bb9-45c9-bfbd-345319fbd472.mp3?rss_browser=BAhJIhNBcHBsZSBQb2RjYXN0cwY6BkVU--e8bd0b3ec96e5ba7b397a6eefea604cc3cec06d2" type="audio/mpeg" length="56764290"/>
+      
     </item>
     <item>
       <title>Harry Styles</title>

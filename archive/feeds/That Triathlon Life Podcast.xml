@@ -2,11 +2,11 @@
 <?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://feeds.buzzsprout.com/1922707.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://rss.buzzsprout.com/1922707.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>That Triathlon Life Podcast</title>
 
-  <lastBuildDate>Thu, 05 Mar 2026 03:05:11 -0500</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 03:05:11 -0400</lastBuildDate>
   <link>http://ThatTriathlonLife.com</link>
   <language>en-us</language>
   <copyright>© 2026 That Triathlon Life Podcast</copyright>
@@ -39,6 +39,22 @@
   <podcast:person role="host" href="https://ericlagerstrom.com" img="https://storage.buzzsprout.com/ymrcbw3ymurpotj8709z8ylxzar1">Eric Lagerstrom</podcast:person>
   <podcast:person role="host" href="http://www.nickgoldston.com/" img="https://storage.buzzsprout.com/1q43uexwk1yjw8g1667kyeiyo20s">Nick Goldston</podcast:person>
   <podcast:person role="host" href="https://paulafindlay.ca/" img="https://storage.buzzsprout.com/rk4wc2v3jtaueu040nadd0cpx9ku">Paula Findlay</podcast:person>
+  <item>
+    <itunes:title>Botox in triathlon, racing injured, and choosing the right time to race a full ironman</itunes:title>
+    <title>Botox in triathlon, racing injured, and choosing the right time to race a full ironman</title>
+    <itunes:summary><![CDATA[This week we kick things off with some running, cycling, and triathlon news from the LA Marathon, Strade Bianche, and Ironman New Zealand before doing our best to answer as many listener questions as possible. Halfway through we try out a new segment: The Newlyshreds. Let us know in the comments if you’re into it! Our questions this week brought us to discussing: Racing the Ironman 70.3 World Championships while injuredOptimizing and clarifying how to qualify for WorldsWhat race shoes to wear...]]></itunes:summary>
+    <description><![CDATA[<p>This week we kick things off with some running, cycling, and triathlon news from the LA Marathon, Strade Bianche, and Ironman New Zealand before doing our best to answer as many listener questions as possible. Halfway through we try out a new segment: <em>The Newlyshreds</em>. Let us know in the comments if you’re into it! Our questions this week brought us to discussing:</p><ul><li>Racing the Ironman 70.3 World Championships while injured</li><li>Optimizing and clarifying how to qualify for Worlds</li><li>What race shoes to wear when running loops on clay or dirt</li><li>How much time to wait after a 70.3 before racing a full</li><li>Minimum swim volume to complete a sprint triathlon</li><li>When racing locally, how much to ride the course before race day</li><li>Strava “Athlete Intelligence”</li><li>If we were Pokémon, who would we be?</li><li>How to get maintenance tips when working on an older bike</li><li>Our go-to quick and healthy meals</li><li>Tidiness and OCD</li><li>The Alcatraz swim and how to approach it</li><li>Flying mounts for 70.3 and full Ironman racing</li><li>Botox and triathlon</li></ul><p>A big thank you to our podcast supporters who keep the podcast alive! To submit a question for the podcast and to become a podcast supporter, head over to <a href='https://thattriathlonlife.com/products/podcast?selling_plan=645464203&amp;variant=40850061361291'>ThatTriathlonLife.com/podcast</a></p><p>Wetsuit recommendation: <a href='https://orca.avln.me/c/XpuqjQSjcaTX'>Orca Float V2</a></p>]]></description>
+    <content:encoded><![CDATA[<p>This week we kick things off with some running, cycling, and triathlon news from the LA Marathon, Strade Bianche, and Ironman New Zealand before doing our best to answer as many listener questions as possible. Halfway through we try out a new segment: <em>The Newlyshreds</em>. Let us know in the comments if you’re into it! Our questions this week brought us to discussing:</p><ul><li>Racing the Ironman 70.3 World Championships while injured</li><li>Optimizing and clarifying how to qualify for Worlds</li><li>What race shoes to wear when running loops on clay or dirt</li><li>How much time to wait after a 70.3 before racing a full</li><li>Minimum swim volume to complete a sprint triathlon</li><li>When racing locally, how much to ride the course before race day</li><li>Strava “Athlete Intelligence”</li><li>If we were Pokémon, who would we be?</li><li>How to get maintenance tips when working on an older bike</li><li>Our go-to quick and healthy meals</li><li>Tidiness and OCD</li><li>The Alcatraz swim and how to approach it</li><li>Flying mounts for 70.3 and full Ironman racing</li><li>Botox and triathlon</li></ul><p>A big thank you to our podcast supporters who keep the podcast alive! To submit a question for the podcast and to become a podcast supporter, head over to <a href='https://thattriathlonlife.com/products/podcast?selling_plan=645464203&amp;variant=40850061361291'>ThatTriathlonLife.com/podcast</a></p><p>Wetsuit recommendation: <a href='https://orca.avln.me/c/XpuqjQSjcaTX'>Orca Float V2</a></p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/1922707/episodes/18832308-botox-in-triathlon-racing-injured-and-choosing-the-right-time-to-race-a-full-ironman.mp3" length="48399937" type="audio/mpeg" />
+    <itunes:author></itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18832308</guid>
+    <pubDate>Thu, 12 Mar 2026 00:00:00 -0700</pubDate>
+    <itunes:duration>4027</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episode>208</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Triathlon training recovery tools, increasing swimming stamina, and more!</itunes:title>
     <title>Triathlon training recovery tools, increasing swimming stamina, and more!</title>

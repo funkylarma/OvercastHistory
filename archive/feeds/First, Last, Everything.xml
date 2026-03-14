@@ -1,322 +1,648 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:cc="http://web.resource.org/cc/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:psc="http://podlove.org/simple-chapters"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:cc="http://web.resource.org/cc/"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:podcast="https://podcastindex.org/namespace/1.0"
-  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <channel>
+					<title><![CDATA[First, Last, Everything]]></title>
+		        <description><![CDATA[A seasonal interview show where you get to know the guest through the technology they care about most.
+Hosted by Jonathan Reed.]]></description>
+        <link>https://www.macstories.net/show/first-last-everything/</link>
+        <generator>MacStories.net</generator>
+        <lastBuildDate>Fri, 13 Mar 2026 19:56:23 GMT</lastBuildDate>
 
-  <channel>
-    <atom:link href="https://rss.libsyn.com/shows/591405/destinations/5137590.xml" rel="self" type="application/rss+xml"/>
-    <title>First, Last, Everything</title>
-    <pubDate>Fri, 02 Jan 2026 15:03:38 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Jan 2026 15:03:38 +0000</lastBuildDate>
-    <generator>Libsyn RSSgen 1.0</generator>
-    <link>https://www.macstories.net/podcasts</link>
-    <language>en</language>
-    <copyright><![CDATA[2025]]></copyright>
-    <docs>https://www.macstories.net/podcasts</docs>
-    <itunes:summary><![CDATA[First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.
+        <atom:link href="https://www.macstories.net/podcasts/first-last-everything/feed" rel="self" type="application/rss+xml" />
 
-In addition, each episode features the 'Something' segment; a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.
+        <copyright>© 2026 MacStories, Inc.</copyright>
+        <language>en-us</language>
 
-First, Last, Everything will introduce you to interesting people and get you thinking about the technology that's shaped your life.]]></itunes:summary>
-    <image>
-      <url>https://static.libsyn.com/p/assets/1/d/d/d/1dddf2e0b41dcbc0d959afa2a1bf1c87/FLE_Square.png</url>
-      <title>First, Last, Everything</title>
-      <link><![CDATA[https://www.macstories.net/podcasts]]></link>
-    </image>
-    <itunes:author>Jonathan Reed</itunes:author>
-		<itunes:category text="Technology" />
-<itunes:category text="News">
-  <itunes:category text="Tech News" />
-</itunes:category>
-    <itunes:image href="https://static.libsyn.com/p/assets/1/d/d/d/1dddf2e0b41dcbc0d959afa2a1bf1c87/FLE_Square.png" />
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>MacStories, Inc.</itunes:name>
-      <itunes:email>podcast@macstories.net</itunes:email>
-    </itunes:owner>
-    <description><![CDATA[First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.
+						<itunes:new-feed-url>https://www.macstories.net/podcasts/first-last-everything/feed</itunes:new-feed-url>
+			
+        <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+        <itunes:summary><![CDATA[A seasonal interview show where you get to know the guest through the technology they care about most.
+Hosted by Jonathan Reed.]]></itunes:summary>
 
-In addition, each episode features the 'Something' segment; a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.
+        <itunes:owner>
+            <itunes:name><![CDATA[MacStories, Inc.]]></itunes:name>
+            <itunes:email><![CDATA[podcast@macstories.net]]></itunes:email>
+        </itunes:owner>
 
-First, Last, Everything will introduce you to interesting people and get you thinking about the technology that's shaped your life.]]></description>
-    
-    <itunes:type>episodic</itunes:type>
-    
+        <itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Technology" /><itunes:category text="Tech News" />        <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
 
-    <itunes:keywords />
+                <item>
+            <title><![CDATA[Becca Farsace - YouTube Creator]]></title>
+            <description><![CDATA[Becca Farsace is an Emmy and Webby award-winning tech creator. She was formerly the senior video producer at The Verge before going solo in 2024, primarily via her self-titled YouTube channel, where she aims to ‘take tech outside’. [[audio_player]] This episode’s links Becca’s videos: Why I left The Verge I built an e-bike with unlimited...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/becca-farsace-youtube-creator/</link>
+            <guid isPermaLink="false">https://www.macstories.net/?post_type=podcasts&#038;p=196402</guid>
+            <pubDate>Wed, 11 Mar 2026 13:12:43 GMT</pubDate>
 
-    
+                        <enclosure url="https://traffic.libsyn.com/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_2.1_Becca_Farsace.mp3" length="86593046" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<div class="media-wrapper"><img decoding="async" src="https://cdn.macstories.net/fle_chapter_youtube_2-1_becca-farsace-1773146834304.png" alt=""><p class="image-caption"></p></div>
+<p id="p2">Becca Farsace is an Emmy and Webby award-winning tech creator. She was formerly the senior video producer at The Verge before going solo in 2024, primarily via her self-titled YouTube channel, where she aims to ‘take tech outside’.</p>
+<hr id="hr3"><p id="p4"><!--more--></p>
+<hr id="hr5"><h2 id="this-episodes-links"><strong>This episode’s links</strong></h2>
+<p id="p6">Becca’s videos:</p>
+<p id="p7"><a href="https://youtu.be/hjer379ONJo?si=ECKdU1m6w654oD0T" rel="noopener noreferrer">Why I left The Verge</a></p>
+<p id="p8"><a href="https://youtu.be/0Y4qlkciOcs?si=wF4ur9bG5z3wckSc" rel="noopener noreferrer">I built an e-bike with unlimited range and tried to ride 450 miles on it…</a></p>
+<p id="p9"><a href="https://youtu.be/CQhT2bZk-5w?si=ZyF3ii3QM90pBdn-" rel="noopener noreferrer">I quit my job to become a YouTuber, here is how much $$$ I made</a></p>
+<p id="p10"><a href="https://youtu.be/W1DWXEymcmk?si=LUawCIDgdvVbc5Ux" rel="noopener noreferrer">How an iPod Nano became my favorite camcorder</a></p>
+<p id="p11">Becca’s videos at The Verge:</p>
+<p id="p12"><a href="https://www.youtube.com/playlist?list=PL39u5ZEfYDEPvB9_NHfZEH5-z1YIZb6iE" rel="noopener noreferrer">All Full Frame with Becca Farsace videos</a></p>
+<hr id="hr13"><ul id="ul14"><li>Becca’s ‘First’: <a href="https://en.wikipedia.org/wiki/IPod_Touch_(1st_generation)" rel="noopener noreferrer">1st Gen iPod Touch</a></li>
+<li>Becca’s ‘Last’: Projectors<br><a href="https://us.xgimi.com/" rel="noopener noreferrer">XGIMI projectors</a><br><a href="https://us.xgimi.com/pages/mogo-4" rel="noopener noreferrer">MoGo 4 projector</a></li>
+<li>Becca’s ‘Everything’: Earbuds<br><a href="https://www.theverge.com/2020/8/13/21365335/samsung-galaxy-buds-live-interview-design-beans-yongseok-bang" rel="noopener noreferrer">Samsung Galaxy Buds Live (the beans!)</a><br><a href="https://nothing.tech/products/ear-open?Colour=White" rel="noopener noreferrer">nothing ear (open)</a><br><a href="https://www.beatsbydre.com/earbuds/powerbeats-pro-2/MX733/quick-sand" rel="noopener noreferrer">PowerBeats Pro 2</a><br><a href="https://en.wikipedia.org/wiki/AirPods" rel="noopener noreferrer">AirPods</a></li>
+<li>‘Something’: <a href="https://www.youtube.com/watch?v=4qqnHtH1RAs" rel="noopener noreferrer">First ever automatic car navigation system</a></li>
+</ul><hr id="hr15"><h3 id="follow-becca">Follow Becca</h3>
+<p id="p16"><a href="http://www.beccafarsace.com/" rel="noopener noreferrer">Website</a></p>
+<p id="p17"><a href="https://www.youtube.com/BeccaFarsace" rel="noopener noreferrer">YouTube</a></p>
+<p id="p18"><a href="https://www.instagram.com/becca.farsace/" rel="noopener noreferrer">Instagram</a></p>
+<p id="p19"><a href="https://bsky.app/profile/beccafarsace.bsky.social" rel="noopener noreferrer">Bluesky</a></p>
+<p id="p20"><a href="https://www.patreon.com/BeccaFarsace" rel="noopener noreferrer">Patreon</a></p>
+<hr id="hr21"><p id="p22"><a href="https://www.notion.so/2d235e3fe8d880129f22fb81cdd47acc?pvs=21" rel="noopener noreferrer">Leave Feedback for the show.</a></p>
+<h3 id="follow-us-on-mastodon">Follow us on Mastodon</h3>
+<p id="p23"><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan</a></p>
+<p id="p24"><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a></p>
+<h3 id="follow-us-on-bluesky">Follow us on Bluesky</h3>
+<p id="p25"><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan</a></p>
+<p id="p26"><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a></p>
+<h3 id="follow-us-on-instagram">Follow us on Instagram</h3>
+<p id="p27"><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan</a></p>
+<p id="p28"><a href="https://www.instagram.com/macstoriesnet/?hl=en" rel="noopener noreferrer">MacStories</a></p>
+<h3 id="download-my-app">Download my app</h3>
+<p id="p29"><a href="https://apps.apple.com/us/app/the-slate/id6758226311" rel="noopener noreferrer">The Slate</a></p>
+<p id="p30"><a href="https://youtu.be/F7PccH32pgg?si=Ferd-PxZKgCoOl7a" rel="noopener noreferrer">Watch the walkthrough video</a></p>
+<hr id="hr31"><p id="p32">Music: <a href="https://ghostdown.online/" rel="noopener noreferrer">Will LaPorte</a><br>
+First, Last, Everything is a MacStories podcast.</p>
+<p id="p33">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
 
-    
-    <podcast:locked owner="podcast@macstories.net">no</podcast:locked>
-    
-    
-    
-    
-    
-    <item>
-      <title>Brendon Bigley - Creator, Podcaster, and Blogger</title>
-      <itunes:title>Brendon Bigley - Creator, Podcaster, and Blogger</itunes:title>
-      <pubDate>Tue, 28 Oct 2025 16:11:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[71f64fb4-1169-42b5-a173-96d896a02180]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/brendon-bigley-creator-podcaster-and-blogger]]></link>
-      <description><![CDATA[<p>This episode's guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in general. He co-hosts the gaming podcasts Into the Aether and NPC, and he blogs and publishes videos under the Wavelengths banner.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <ul> <li>Spotify buys Gimlet and Anchor in podcast push, earmarks $500M for more deals - <a href= "https://techcrunch.com/2019/02/06/spotify-doubles-down-on-podcasts/"> TechCrunch</a></li> <li>Diggnation on <a href= "https://en.wikipedia.org/wiki/Diggnation">Wikipedia</a></li> <li>The Totally Rad Show on <a href= "https://en.wikipedia.org/wiki/The%3Cem%3ETotally%3C/em%3ERad_Show"> Wikipedia</a></li> <li>iFanboy official <a href="https://ifanboy.com/">site</a></li> <li>The Terrace House on <a href= "https://www.netflix.com/title/81077065">Netflix</a></li> <li><a href="https://rogueamoeba.com/audiohijack/">Audio Hijack</a></li> <li>Delta <a href="https://faq.deltaemulator.com/">User Guide</a></li> </ul> <p> </p> <ul> <li>Brendon on <a href= "https://mastodon.social/@brendonbigley">Mastodon</a></li> <li>Brendon on <a href= "https://www.instagram.com/brendonbigley">Instagram</a></li> <li>Brendon on <a href= "https://bsky.app/profile/bb.wavelengths.online">Bluesky</a></li> <li><a href= "https://wavelengths.online/">Wavelengths.online</a></li> <li>Wavelengths on <a href= "https://www.youtube.com/channel/UCrIIXXmVKMHocU1ZduZXezQ">YouTube</a></li> <li>Wavelengths <a href= "https://pod.link/wavelengths">Podcast</a></li> <li>Into The Aether <a href= "https://intothecast.online/">Podcast</a></li> <li>NPC Podcast on <a href= "https://www.macstories.net/npc/">MacStories.net</a></li> </ul> <p>----</p> <ul> <li>Brendon's 'First': MacBook Air on <a href= "https://en.wikipedia.org/wiki/MacBook_Air">Wikipedia</a></li> <li>Brendon's 'Last': Ayn Odin on Ayn <a href= "https://www.ayntec.com/">official site</a></li> <li>Brendon's 'Everything': Nintendo DS on <a href= "https://en.wikipedia.org/wiki/Nintendo%3Cem%3EDS">Wikipedia</a>, <a href= "https://www.nintendo.com/en-gb/Nintendo-DS/Nintendo-DS/Nintendo-DS-116439.html"> Nintendo.com</a>. Mario Kart DS on <a href= "https://en.wikipedia.org/wiki/Mario%3C/em%3EKart_DS">Wikipedia</a></li> <li>'Something': Eliza chatbot on <a href= "https://en.wikipedia.org/wiki/ELIZA">Wikipedia</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://ghostdown.online/">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>This episode's guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in general. He co-hosts the gaming podcasts Into the Aether and NPC, and he blogs and publishes videos under the Wavelengths banner.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <ul> <li>Spotify buys Gimlet and Anchor in podcast push, earmarks $500M for more deals - <a href= "https://techcrunch.com/2019/02/06/spotify-doubles-down-on-podcasts/"> TechCrunch</a></li> <li>Diggnation on <a href= "https://en.wikipedia.org/wiki/Diggnation">Wikipedia</a></li> <li>The Totally Rad Show on <a href= "https://en.wikipedia.org/wiki/The%3Cem%3ETotally%3C/em%3ERad_Show"> Wikipedia</a></li> <li>iFanboy official <a href="https://ifanboy.com/">site</a></li> <li>The Terrace House on <a href= "https://www.netflix.com/title/81077065">Netflix</a></li> <li><a href="https://rogueamoeba.com/audiohijack/">Audio Hijack</a></li> <li>Delta <a href="https://faq.deltaemulator.com/">User Guide</a></li> </ul> <p> </p> <ul> <li>Brendon on <a href= "https://mastodon.social/@brendonbigley">Mastodon</a></li> <li>Brendon on <a href= "https://www.instagram.com/brendonbigley">Instagram</a></li> <li>Brendon on <a href= "https://bsky.app/profile/bb.wavelengths.online">Bluesky</a></li> <li><a href= "https://wavelengths.online/">Wavelengths.online</a></li> <li>Wavelengths on <a href= "https://www.youtube.com/channel/UCrIIXXmVKMHocU1ZduZXezQ">YouTube</a></li> <li>Wavelengths <a href= "https://pod.link/wavelengths">Podcast</a></li> <li>Into The Aether <a href= "https://intothecast.online/">Podcast</a></li> <li>NPC Podcast on <a href= "https://www.macstories.net/npc/">MacStories.net</a></li> </ul> <p>----</p> <ul> <li>Brendon's 'First': MacBook Air on <a href= "https://en.wikipedia.org/wiki/MacBook_Air">Wikipedia</a></li> <li>Brendon's 'Last': Ayn Odin on Ayn <a href= "https://www.ayntec.com/">official site</a></li> <li>Brendon's 'Everything': Nintendo DS on <a href= "https://en.wikipedia.org/wiki/Nintendo%3Cem%3EDS">Wikipedia</a>, <a href= "https://www.nintendo.com/en-gb/Nintendo-DS/Nintendo-DS/Nintendo-DS-116439.html"> Nintendo.com</a>. Mario Kart DS on <a href= "https://en.wikipedia.org/wiki/Mario%3C/em%3EKart_DS">Wikipedia</a></li> <li>'Something': Eliza chatbot on <a href= "https://en.wikipedia.org/wiki/ELIZA">Wikipedia</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://ghostdown.online/">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_8_Brendon_Bigley.mp3?dest-id=5137590" length="79675885" type="audio/mpeg" />
-      <itunes:duration>01:17:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>8</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Joe Rosensteel, VFX Artist, Podcaster and writer</title>
-      <itunes:title>Joe Rosensteel, VFX Artist, Podcaster and writer</itunes:title>
-      <pubDate>Tue, 21 Oct 2025 16:31:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[3c51e1ae-7e50-431a-93c5-73849b78058f]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/joe-rosensteel-vfx-artist-podcaster-and-writer]]></link>
-      <description><![CDATA[<h1>Episode 7: Joe Rosensteel</h1> <p>On this episode, we're joined by Joe Rosensteel. Joe is a VFX artist who's worked on big-name Hollywood productions as well as smaller commercial projects. He's a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <ul> <li>Shake it off: Remembering Apple's Academy Award–winning failure - <a href= "https://sixcolors.com/member/2023/08/shake-it-off-remembering-apples-academy-award-winning-failure/"> Six Colors</a></li> <li>Stunt Copter game - Nostalgic Mac on <a href= "https://www.youtube.com/watch?v=1x0ZPaLBWKk">YouTube</a></li> <li>ClarisWorks on <a href= "https://en.wikipedia.org/wiki/Claris">Wikipedia</a></li> <li>'Cast Away' and the story behind Imageworks' in-house compositing software - <a href= "https://beforesandafters.com/2020/12/29/cast-away-and-the-story-behind-imageworks-in-house-compositing-software/"> before and afters</a></li> </ul> <p> </p> <ul> <li>Joe on <a href="https://duck.haus/@joesteel">Mastodon</a></li> <li>Joe's blog, <a href= "https://joe-steel.com/index.html">'Unauthoritative Pronouncements'</a></li> <li>Defocused podcast on <a href= "https://www.theincomparable.com/defocused/">The Incomparable</a></li> </ul> <p>----</p> <ul> <li>Joe's 'First': Macintosh Plus on <a href= "https://en.wikipedia.org/wiki/Macintosh_Plus">Wikipedia</a>, Official Apple tech specs <a href= "https://support.apple.com/en-us/112183">page</a></li> <li>Joe's 'Last': iPhone 16 Pro on <a href= "https://en.wikipedia.org/wiki/IPhone%3Cem%3E16%3C/em%3EPro">Wikipedia</a></li> <li>Joe's 'Everything': Twitter on <a href= "https://en.wikipedia.org/wiki/Twitter">Wikipedia</a></li> <li>'Something': Apple Pippin on <a href= "https://en.wikipedia.org/wiki/Apple%3Cem%3EPippin#System%3C/em%3Eoverview"> Wikipedia</a>, 512 Pixels: The Apple Pippin on <a href= "https://www.youtube.com/watch?v=y9pwX-j6dfw">YouTube</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://ghostdown.online/">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[Episode 7: Joe Rosensteel <p>On this episode, we're joined by Joe Rosensteel. Joe is a VFX artist who's worked on big-name Hollywood productions as well as smaller commercial projects. He's a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <ul> <li>Shake it off: Remembering Apple's Academy Award–winning failure - <a href= "https://sixcolors.com/member/2023/08/shake-it-off-remembering-apples-academy-award-winning-failure/"> Six Colors</a></li> <li>Stunt Copter game - Nostalgic Mac on <a href= "https://www.youtube.com/watch?v=1x0ZPaLBWKk">YouTube</a></li> <li>ClarisWorks on <a href= "https://en.wikipedia.org/wiki/Claris">Wikipedia</a></li> <li>'Cast Away' and the story behind Imageworks' in-house compositing software - <a href= "https://beforesandafters.com/2020/12/29/cast-away-and-the-story-behind-imageworks-in-house-compositing-software/"> before and afters</a></li> </ul> <p> </p> <ul> <li>Joe on <a href="https://duck.haus/@joesteel">Mastodon</a></li> <li>Joe's blog, <a href= "https://joe-steel.com/index.html">'Unauthoritative Pronouncements'</a></li> <li>Defocused podcast on <a href= "https://www.theincomparable.com/defocused/">The Incomparable</a></li> </ul> <p>----</p> <ul> <li>Joe's 'First': Macintosh Plus on <a href= "https://en.wikipedia.org/wiki/Macintosh_Plus">Wikipedia</a>, Official Apple tech specs <a href= "https://support.apple.com/en-us/112183">page</a></li> <li>Joe's 'Last': iPhone 16 Pro on <a href= "https://en.wikipedia.org/wiki/IPhone%3Cem%3E16%3C/em%3EPro">Wikipedia</a></li> <li>Joe's 'Everything': Twitter on <a href= "https://en.wikipedia.org/wiki/Twitter">Wikipedia</a></li> <li>'Something': Apple Pippin on <a href= "https://en.wikipedia.org/wiki/Apple%3Cem%3EPippin#System%3C/em%3Eoverview"> Wikipedia</a>, 512 Pixels: The Apple Pippin on <a href= "https://www.youtube.com/watch?v=y9pwX-j6dfw">YouTube</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://ghostdown.online/">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_7_Joe_Rosensteel.mp3?dest-id=5137590" length="69732730" type="audio/mpeg" />
-      <itunes:duration>01:07:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>7</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Robin Kanatzar, App accessibility speaker and developer</title>
-      <itunes:title>Robin Kanatzar, App accessibility speaker and developer</itunes:title>
-      <pubDate>Tue, 14 Oct 2025 15:09:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[e069fcd9-77d2-4157-b094-53c8e1b17cbe]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/robin-kanatzar-app-accessibility-speaker-and-educator]]></link>
-      <description><![CDATA[<p>Robin Kanatzar is this episode's guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled 'Appt News'.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <ul> <li>How to Navigate your iPhone or iPad with VoiceOver - <a href= "https://www.youtube.com/watch?v=ROIe49kXOc8">YouTube</a></li> <li>This is how Apple Vision Pro works with VoiceOver for a blind geek - <a href= "https://www.youtube.com/watch?v=3BLVxR_NiRk">YouTube</a></li> <li>Apple announces new accessibility features, including Eye Tracking - <a href= "https://www.apple.com/uk/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"> Press Release</a></li> <li><a href= "https://www.w3.org/WAI/about/groups/task-forces/matf/">W3C Mobile Accessibility Task Force</a></li> <li>iOS 26 "Liquid Glass" Design Is A Low Vision Nightmare - <a href="https://www.youtube.com/watch?v=-tbUNQZsWO0">The Blind Life on YouTube</a> (made during the beta period)</li> <li><a href= "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"> European accessibility act</a></li> <li>Robin Kanatzar <a href= "https://www.robinkanatzar.com/">website.</a></li> <li><a href="https://www.appt.news/">Appt Newsletter</a></li> <li>Robin Kanatzar on <a href= "https://mastodon.green/@Robinkanatzar">Mastodon</a></li> <li>Robin Kanatzar on <a href= "https://www.linkedin.com/in/robin-kanatzar-63851a58/">LinkedIn</a></li> <li>Robin Kanatzar on <a href= "https://robinkanatzar.blog/">Medium</a></li> <li>Robin Kanatzar on <a href= "https://www.youtube.com/@robinkanatzar">YouTube</a></li> </ul> <p>----</p> <ul> <li>Robin's 'First': Panda Guide on the <a href= "https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/edf-pulse/edf-pulse-start-up-awards/the-winners/panda-guide-the-first-virtual-assistant-for-people-with-impaired-vision#:~:text=PANDA%20Guide%2C%20an%20augmented%20reality%20audio%20headset%2C,is%20to%20restore%20the%20sight%20of%20visually"> EDF website.</a></li> </ul> <p>Panda Guide demo on <a href= "https://www.youtube.com/watch?v=VZYq8cTrq0U">YouTube</a> (in French)</p> <ul> <li>Robin's 'Last': <a href= "https://www.apple.com/apple-vision-pro/">Apple Vision Pro</a></li> <li>Robin's 'Everything': <a href= "https://www.garmin.com/en-GB/">Garmin Smart Watches</a></li> <li>'Something': Microsoft Zune on <a href= "https://en.wikipedia.org/wiki/Zune">Wikipedia</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>Robin Kanatzar is this episode's guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled 'Appt News'.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <ul> <li>How to Navigate your iPhone or iPad with VoiceOver - <a href= "https://www.youtube.com/watch?v=ROIe49kXOc8">YouTube</a></li> <li>This is how Apple Vision Pro works with VoiceOver for a blind geek - <a href= "https://www.youtube.com/watch?v=3BLVxR_NiRk">YouTube</a></li> <li>Apple announces new accessibility features, including Eye Tracking - <a href= "https://www.apple.com/uk/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/"> Press Release</a></li> <li><a href= "https://www.w3.org/WAI/about/groups/task-forces/matf/">W3C Mobile Accessibility Task Force</a></li> <li>iOS 26 "Liquid Glass" Design Is A Low Vision Nightmare - <a href="https://www.youtube.com/watch?v=-tbUNQZsWO0">The Blind Life on YouTube</a> (made during the beta period)</li> <li><a href= "https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en"> European accessibility act</a></li> <li>Robin Kanatzar <a href= "https://www.robinkanatzar.com/">website.</a></li> <li><a href="https://www.appt.news/">Appt Newsletter</a></li> <li>Robin Kanatzar on <a href= "https://mastodon.green/@Robinkanatzar">Mastodon</a></li> <li>Robin Kanatzar on <a href= "https://www.linkedin.com/in/robin-kanatzar-63851a58/">LinkedIn</a></li> <li>Robin Kanatzar on <a href= "https://robinkanatzar.blog/">Medium</a></li> <li>Robin Kanatzar on <a href= "https://www.youtube.com/@robinkanatzar">YouTube</a></li> </ul> <p>----</p> <ul> <li>Robin's 'First': Panda Guide on the <a href= "https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/edf-pulse/edf-pulse-start-up-awards/the-winners/panda-guide-the-first-virtual-assistant-for-people-with-impaired-vision#:~:text=PANDA%20Guide%2C%20an%20augmented%20reality%20audio%20headset%2C,is%20to%20restore%20the%20sight%20of%20visually"> EDF website.</a></li> </ul> <p>Panda Guide demo on <a href= "https://www.youtube.com/watch?v=VZYq8cTrq0U">YouTube</a> (in French)</p> <ul> <li>Robin's 'Last': <a href= "https://www.apple.com/apple-vision-pro/">Apple Vision Pro</a></li> <li>Robin's 'Everything': <a href= "https://www.garmin.com/en-GB/">Garmin Smart Watches</a></li> <li>'Something': Microsoft Zune on <a href= "https://en.wikipedia.org/wiki/Zune">Wikipedia</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> <li><a href= "https://www.instagram.com/macstoriesnet/?hl=en">MacStories</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_6_Robin_Kanatzar.mp3?dest-id=5137590" length="58299030" type="audio/mpeg" />
-      <itunes:duration>55:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>6</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Andrew Fyfe, CTO of Neutone</title>
-      <itunes:title>Andrew Fyfe, CTO of Neutone</itunes:title>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[fd8da6a6-47b9-43f7-a406-fbcb5dbfea3f]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/andrew-fyfe-cto-of-neutone]]></link>
-      <description><![CDATA[<p>Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do so in a way that respects artists and doesn't replace creativity.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <p><strong>This episode's links</strong></p> <p>Official Neutone <a href="https://neutone.ai/">website</a>.</p> <p>Neutone <a href="https://neutone.ai/blog">Blog</a>.</p> <p>Neutone on <a href= "https://www.instagram.com/neutone_ai/">Instagram</a>.</p> <p>Neutone on <a href= "https://www.tiktok.com/@neutone_ai">TikTok</a>.</p> <p>Neutone on <a href= "https://www.youtube.com/@neutone_ai">YouTube</a>.</p> <p><a href= "https://www.youtube.com/watch?v=mOTUNL3XOqs">'Introduction to Tone Morphing with Neutone Morpho'.</a> - YouTube</p> <p>Andrew on <a href= "https://x.com/%3Cem%3EAndrew%3C/em%3EFyfe">X</a>.</p> <p>Andrew on <a href= "https://www.linkedin.com/in/andrewfyfe93/">LinkedIn</a>.</p> <p>----</p> <p>Andrew's 'First': The Electric Guitar on <a href= "https://en.wikipedia.org/wiki/Electric_guitar">Wikipedia</a></p> <p>Andrew's 'Last': <a href= "https://lunacy.audio/products/beam/">BEAM by Lunacy Audio</a></p> <p>Andrew's 'Everything': <a href= "https://voxamps.com/en-gb/product/ac30-hand-wired-tube-amp-2/">VoxAC30 handwired</a></p> <p>'Something': <a href="https://en.wikipedia.org/wiki/JooJoo">The JooJoo Tablet</a></p> <p><a href="https://www.wired.com/2010/04/pr-joojoo-tablet/">Wired Review of the JooJoo Tablet</a></p> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a></p>]]></description>
-      
-      <content:encoded><![CDATA[<p>Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do so in a way that respects artists and doesn't replace creativity.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <p>This episode's links</p> <p>Official Neutone <a href="https://neutone.ai/">website</a>.</p> <p>Neutone <a href="https://neutone.ai/blog">Blog</a>.</p> <p>Neutone on <a href= "https://www.instagram.com/neutone_ai/">Instagram</a>.</p> <p>Neutone on <a href= "https://www.tiktok.com/@neutone_ai">TikTok</a>.</p> <p>Neutone on <a href= "https://www.youtube.com/@neutone_ai">YouTube</a>.</p> <p><a href= "https://www.youtube.com/watch?v=mOTUNL3XOqs">'Introduction to Tone Morphing with Neutone Morpho'.</a> - YouTube</p> <p>Andrew on <a href= "https://x.com/%3Cem%3EAndrew%3C/em%3EFyfe">X</a>.</p> <p>Andrew on <a href= "https://www.linkedin.com/in/andrewfyfe93/">LinkedIn</a>.</p> <p>----</p> <p>Andrew's 'First': The Electric Guitar on <a href= "https://en.wikipedia.org/wiki/Electric_guitar">Wikipedia</a></p> <p>Andrew's 'Last': <a href= "https://lunacy.audio/products/beam/">BEAM by Lunacy Audio</a></p> <p>Andrew's 'Everything': <a href= "https://voxamps.com/en-gb/product/ac30-hand-wired-tube-amp-2/">VoxAC30 handwired</a></p> <p>'Something': <a href="https://en.wikipedia.org/wiki/JooJoo">The JooJoo Tablet</a></p> <p><a href="https://www.wired.com/2010/04/pr-joojoo-tablet/">Wired Review of the JooJoo Tablet</a></p> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a></p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_5_Andrew_Fyfe.mp3?dest-id=5137590" length="72214245" type="audio/mpeg" />
-      <itunes:duration>01:10:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>5</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Esther Huybreghts, Co-Founder of Pok Pok</title>
-      <itunes:title>Esther Huybreghts, Co-Founder of Pok Pok</itunes:title>
-      <pubDate>Tue, 30 Sep 2025 19:27:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[399a55f3-272e-42f8-850c-b93d460cbf66]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/esther-huybreghts-co-founder-of-pok-pok]]></link>
-      <description><![CDATA[<p>This time, we're joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it's won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME's list of the 100 Most Influential Companies of 2025. Pok Pok is a really special app, and Esther talked about its inception, plans for the future, and staying strong against negative – and sometimes hateful – feedback.</p> <p>----</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <p>Get 25% off Pok Pok: <a href= "https://my.playpokpok.com/checkout?promocode=MACSTORIES25">https://my.playpokpok.com/checkout?promocode=MACSTORIES25</a></p> <p><a href="https://www.builtbysnowman.com/">Snowman Games</a></p> <p>Alto's Odyssey on the <a href= "https://itunes.apple.com/us/app/altos-adventure/id950812012?ls=1&mt=8&at=11lrPB&ct=web"> App Store</a> and <a href= "http://apple.co/-AltosAdventureTSM">Apple Arcade</a></p> <p>Pok Pok <a href="https://playpokpok.com/">Official Site</a></p> <p>Pok Pok on the <a href= "https://apps.apple.com/us/app/pok-pok-montessori-preschool/id1550204730"> App Store</a></p> <p>Pok Pok — Calm Learning Videos for Kids on <a href= "https://www.youtube.com/@studiopokpok">YouTube</a></p> <p>Pok Pok wins an Apple Design Award <a href= "https://developer.apple.com/videos/play/wwdc2021/103/">in 2021</a></p> <p>Time's 100 Most Influential Companies 2025: <a href= "https://time.com/collections/time100-companies-2025/7289651/pok-pok/"> Pok Pok</a></p> <p>----</p> <ul> <li>Esther's 'First' pick: <a href= "https://en.wikipedia.org/wiki/DIGITAL_Q1">FUJIFILM Digital Q1</a></li> <li>Esther's 'Last' pick: <a href= "https://uk.kobobooks.com/collections/ereaders">Kobo</a></li> <li>Esther's' Everything' pick: Apple iPad Pro on <a href= "https://en.wikipedia.org/wiki/IPad_Pro">Wikipedia</a></li> <li>'Something': Builder.ai - "How This A.I. Company Collapsed Amid Silicon Valley's Biggest Boom" - <a href= "https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html"> The New York Times</a>(Gift Article)</li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>This time, we're joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it's won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME's list of the 100 Most Influential Companies of 2025. Pok Pok is a really special app, and Esther talked about its inception, plans for the future, and staying strong against negative – and sometimes hateful – feedback.</p> <p>----</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <p>Get 25% off Pok Pok: <a href= "https://my.playpokpok.com/checkout?promocode=MACSTORIES25">https://my.playpokpok.com/checkout?promocode=MACSTORIES25</a></p> <p><a href="https://www.builtbysnowman.com/">Snowman Games</a></p> <p>Alto's Odyssey on the <a href= "https://itunes.apple.com/us/app/altos-adventure/id950812012?ls=1&mt=8&at=11lrPB&ct=web"> App Store</a> and <a href= "http://apple.co/-AltosAdventureTSM">Apple Arcade</a></p> <p>Pok Pok <a href="https://playpokpok.com/">Official Site</a></p> <p>Pok Pok on the <a href= "https://apps.apple.com/us/app/pok-pok-montessori-preschool/id1550204730"> App Store</a></p> <p>Pok Pok — Calm Learning Videos for Kids on <a href= "https://www.youtube.com/@studiopokpok">YouTube</a></p> <p>Pok Pok wins an Apple Design Award <a href= "https://developer.apple.com/videos/play/wwdc2021/103/">in 2021</a></p> <p>Time's 100 Most Influential Companies 2025: <a href= "https://time.com/collections/time100-companies-2025/7289651/pok-pok/"> Pok Pok</a></p> <p>----</p> <ul> <li>Esther's 'First' pick: <a href= "https://en.wikipedia.org/wiki/DIGITAL_Q1">FUJIFILM Digital Q1</a></li> <li>Esther's 'Last' pick: <a href= "https://uk.kobobooks.com/collections/ereaders">Kobo</a></li> <li>Esther's' Everything' pick: Apple iPad Pro on <a href= "https://en.wikipedia.org/wiki/IPad_Pro">Wikipedia</a></li> <li>'Something': Builder.ai - "How This A.I. Company Collapsed Amid Silicon Valley's Biggest Boom" - <a href= "https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html"> The New York Times</a>(Gift Article)</li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_4_Esther_Huybreghts.mp3?dest-id=5137590" length="76578184" type="audio/mpeg" />
-      <itunes:duration>01:14:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>4</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>David X Cohen, Co-Creator of Futurama</title>
-      <itunes:title>David X Cohen, Co-Creator of Futurama</itunes:title>
-      <pubDate>Tue, 23 Sep 2025 15:41:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[bcc9d5c5-b05a-453e-b414-a834c9248d0f]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/david-x-cohen-co-creator-of-futurama]]></link>
-      <description><![CDATA[<p>This time, it's the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed Futurama, which recently dropped its 13th season on Hulu and Disney+.</p> <p>But David's history is not just in television. He worked in the robotics lab while attending Harvard, studied theoretical computer science, and has a deep history with technology all the way back to the early days of home computers. As you can expect there was a lot for us to talk about.</p> <p>----</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <p>David on <a href= "https://en.wikipedia.org/wiki/David_X._Cohen">Wikipedia</a></p> <ul> <li>Alan Yuille on <a href= "https://en.wikipedia.org/wiki/Alan_Yuille">Wikipedia</a></li> <li>Ken Keeler on <a href= "https://en.wikipedia.org/wiki/Ken_Keeler">Wikipedia</a></li> <li>Homer3 on <a href= "https://www.youtube.com/watch?v=-cyf4RnjzTY">YouTube</a></li> <li>George Meyer on <a href= "https://en.wikipedia.org/wiki/George_Meyer">Wikipedia</a></li> </ul> <p>Futurama opening on <a href= "https://www.youtube.com/watch?v=ei9xrCykk_I&pp=ygUQZnV0dXJhbWEgb3BlbmluZw%3D%3D"> YouTube</a></p> <p>'Futurama - Welcome to the World of Tomorrow' BTS on <a href= "https://www.youtube.com/watch?v=pmkYYJboTPM&pp=ygUZZnV0dXJhbWEgYmVoaW5kIHRoZSBzY2VuZQ%3D%3D"> YouTube</a></p> <p><strong>Futurama References on The Infosphere:</strong></p> <ul> <li><a href="https://theinfosphere.org/Speed_of_light">The Speed of Light</a></li> <li><a href="https://theinfosphere.org/The_Prisoner_of_Benda">The Prisoner of Benda</a> and its <a href= "https://theinfosphere.org/Futurama_theorem">theorem</a></li> <li><a href="https://theinfosphere.org/The_Impossible_Stream">The Impossible Stream</a></li> <li><a href="https://theinfosphere.org/EyePhone">eyePhone</a></li> <li><a href= "https://theinfosphere.org/Hedonismbot">Hedonismbot</a></li> <li><a href="https://theinfosphere.org/Roberto">Roberto</a></li> <li><a href= "https://theinfosphere.org/Enema-bot">Enema-bot</a></li> <li><a href="https://theinfosphere.org/Acting_Unit_0.8">Acting Unit 0.8</a></li> <li><a href="https://theinfosphere.org/Head_jars">Head Jars</a></li> </ul> <p>Shut Up and Take My Money on <a href= "https://knowyourmeme.com/memes/shut-up-and-take-my-money">Know Your Meme</a></p> <p>Victor Wembanyama on <a href= "https://en.wikipedia.org/wiki/Victor_Wembanyama">Wikipedia</a></p> <p>'How Hollywood writers triumphed over AI – and why it matters' - <a href= "https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence"> The Guardian</a></p> <p>----</p> <ul> <li>David's 'First' pick: Arcade Games: Playthroughs on YouTube -  <a href= "https://www.youtube.com/watch?v=DFSQ0Pl4KDk">Berzerk</a>, <a href= "https://www.youtube.com/watch?v=rni0X2G_yEA">Space Guerrilla</a>, <a href="https://www.youtube.com/watch?v=ymrYkbEbnEQ">Battle Zone</a>, <a href= "https://www.youtube.com/watch?v=R8t1DpLFThQ">Qix</a>, <a href= "https://www.youtube.com/watch?v=ssMtp46afcE">Gorf</a>.</li> <li>David's 'Last' pick: <a href= "https://waymo.com/">Waymo</a></li> <li>David's 'Everything' pick: Apple II on <a href= "https://en.wikipedia.org/wiki/Apple_II">Wikipedia</a></li> <li>Apple II Reference Manual <a href= "http://cini.classiccmp.org/pdf/Apple/Apple%20II%20Reference%20Manual%20-%20Woz.pdf"> PDF</a></li> <li>'Something': TwitterPeek on <a href= "https://museumoffailure.com/exhibition/twitter-peek">Museum of Failure</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <h3>Follow us on Instagram</h3> <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>This time, it's the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed Futurama, which recently dropped its 13th season on Hulu and Disney+.</p> <p>But David's history is not just in television. He worked in the robotics lab while attending Harvard, studied theoretical computer science, and has a deep history with technology all the way back to the early days of home computers. As you can expect there was a lot for us to talk about.</p> <p>----</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <p>David on <a href= "https://en.wikipedia.org/wiki/David_X._Cohen">Wikipedia</a></p> <ul> <li>Alan Yuille on <a href= "https://en.wikipedia.org/wiki/Alan_Yuille">Wikipedia</a></li> <li>Ken Keeler on <a href= "https://en.wikipedia.org/wiki/Ken_Keeler">Wikipedia</a></li> <li>Homer3 on <a href= "https://www.youtube.com/watch?v=-cyf4RnjzTY">YouTube</a></li> <li>George Meyer on <a href= "https://en.wikipedia.org/wiki/George_Meyer">Wikipedia</a></li> </ul> <p>Futurama opening on <a href= "https://www.youtube.com/watch?v=ei9xrCykk_I&pp=ygUQZnV0dXJhbWEgb3BlbmluZw%3D%3D"> YouTube</a></p> <p>'Futurama - Welcome to the World of Tomorrow' BTS on <a href= "https://www.youtube.com/watch?v=pmkYYJboTPM&pp=ygUZZnV0dXJhbWEgYmVoaW5kIHRoZSBzY2VuZQ%3D%3D"> YouTube</a></p> <p>Futurama References on The Infosphere:</p> <ul> <li><a href="https://theinfosphere.org/Speed_of_light">The Speed of Light</a></li> <li><a href="https://theinfosphere.org/The_Prisoner_of_Benda">The Prisoner of Benda</a> and its <a href= "https://theinfosphere.org/Futurama_theorem">theorem</a></li> <li><a href="https://theinfosphere.org/The_Impossible_Stream">The Impossible Stream</a></li> <li><a href="https://theinfosphere.org/EyePhone">eyePhone</a></li> <li><a href= "https://theinfosphere.org/Hedonismbot">Hedonismbot</a></li> <li><a href="https://theinfosphere.org/Roberto">Roberto</a></li> <li><a href= "https://theinfosphere.org/Enema-bot">Enema-bot</a></li> <li><a href="https://theinfosphere.org/Acting_Unit_0.8">Acting Unit 0.8</a></li> <li><a href="https://theinfosphere.org/Head_jars">Head Jars</a></li> </ul> <p>Shut Up and Take My Money on <a href= "https://knowyourmeme.com/memes/shut-up-and-take-my-money">Know Your Meme</a></p> <p>Victor Wembanyama on <a href= "https://en.wikipedia.org/wiki/Victor_Wembanyama">Wikipedia</a></p> <p>'How Hollywood writers triumphed over AI – and why it matters' - <a href= "https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence"> The Guardian</a></p> <p>----</p> <ul> <li>David's 'First' pick: Arcade Games: Playthroughs on YouTube - <a href= "https://www.youtube.com/watch?v=DFSQ0Pl4KDk">Berzerk</a>, <a href= "https://www.youtube.com/watch?v=rni0X2G_yEA">Space Guerrilla</a>, <a href="https://www.youtube.com/watch?v=ymrYkbEbnEQ">Battle Zone</a>, <a href= "https://www.youtube.com/watch?v=R8t1DpLFThQ">Qix</a>, <a href= "https://www.youtube.com/watch?v=ssMtp46afcE">Gorf</a>.</li> <li>David's 'Last' pick: <a href= "https://waymo.com/">Waymo</a></li> <li>David's 'Everything' pick: Apple II on <a href= "https://en.wikipedia.org/wiki/Apple_II">Wikipedia</a></li> <li>Apple II Reference Manual <a href= "http://cini.classiccmp.org/pdf/Apple/Apple%20II%20Reference%20Manual%20-%20Woz.pdf"> PDF</a></li> <li>'Something': TwitterPeek on <a href= "https://museumoffailure.com/exhibition/twitter-peek">Museum of Failure</a></li> </ul> <p>----</p> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> Follow us on Instagram <ul> <li><a href="https://www.instagram.com/aylwardreed/">Jonathan Reed</a></li> </ul> <p>----</p> <p>Music: <a href="https://www.peachmgzn.com/will-laporte">Will LaPorte</a></p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_3_David_Cohen.mp3?dest-id=5137590" length="81825892" type="audio/mpeg" />
-      <itunes:duration>01:18:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>3</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Michael Flarup, Designer and Founder of Northplay</title>
-      <itunes:title>Michael Flarup, Designer and Founder of Northplay</itunes:title>
-      <pubDate>Tue, 16 Sep 2025 18:37:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[d7338176-dec7-4216-972d-594a13f867b2]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/michael-flarup-designer-and-founder-of-northplay]]></link>
-      <description><![CDATA[<p><p>This time we're talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He's most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS and macOS under his Pixel Resort banner. He's released two books on the history of the art form: first around iOS, then focusing on macOS. Now he runs a game studio, Northplay, where they're hard at work on their next game, Dinolords!</p></p> <p><p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p></p> <p><p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p></p> <p><p>---- </p></p> <p><h2><strong>This episode's links</strong></h2></p> <p><ul><li><a href="https://www.pixelresort.com/">Pixel Resort</a>.</li><li><a href="https://www.northplay.co/">Northplay</a>.</li><li><a href="https://flarup.shop/">Buy</a> The iOS Icon Book and The macOS Icon Book.</li><li><a href="https://www.flarup.email/">Sign up</a> for Michael's newsletter.</li><li><a href="https://pixelresort.gumroad.com/">Buy</a> Michael's design tools and icons.</li></ul><br /> <br><br /> <ul><li>Michael on <a href="https://dribbble.com/flarup">Dribble.</a></li><li>Michael on <a href="https://www.youtube.com/channel/UCfdvBQSfsopDb6l9rV5OjyA">YouTube.</a></li><li>Michael on <a href="https://www.instagram.com/flarup/?hl=en">Instagram.</a></li><li>Michael on <a href="https://www.linkedin.com/in/michaelflarup/">LinkedIn.</a></li><li>Michael on <a href="https://x.com/flarup?lang=en">X.</a></li><li>Michael on <a href="https://mastodon.social/@flarup">Mastodon.</a></li></ul><br />  <br><br /> <ul><li><a href="https://itunes.apple.com/us/app/conduct-this/id1151455384?ls=1&mt=8&at=1010lwVg&ct=conductthis-site">Download</a> Conduct This!</li><li>Dinolords <a href="https://dinolords.com/">website</a>.</li><li><a href="https://store.steampowered.com/app/2587620/Dinolords/">Wishlist</a> Dinolords on Steam</li></ul></p> <p><p>---- </p></p> <p><ul><li>Michael's 'First' pick: <a href="https://en.wikipedia.org/wiki/Amiga_2000">Amiga 2000</a></li><li>Michael's 'Last' pick: <a href="https://www.apple.com/apple-vision-pro/">Apple Vision Pro</a></li><li>Michael's 'Everything' pick: Adobe Photoshop on <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">Wikipedia</a></li><li>'Something': <a href="https://spectrum.ieee.org/first-digital-camera-history">'The First Digital Camera Was the Size of a Toaster'</a> - IEEE Spectrum</li><li>Interview with creator Steve Sasson: <a href="https://www.youtube.com/watch?v=tCd4i10nI14">Linda Hall Library on YouTube</a></li></ul><br /> <hr><br /> <h2>Contact the show</h2></p> <p><p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p></p> <p><h3>Follow us on Mastodon</h3><br /> <ul><li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li><li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li></ul></p> <p><h3>Follow us on Bluesky</h3><br /> <ul><li><a href="https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li><li><a href="https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li></ul><br /> <p>--- </p><br /> <p>First, Last, Everything is a MacStories podcast.  </p><br /> <p>Check out other podcasts from <a href="https://www.macstories.net/podcasts/">MacStories</a>.</p></p>]]></description>
-      
-      <content:encoded><![CDATA[<p><p>This time we're talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He's most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS and macOS under his Pixel Resort banner. He's released two books on the history of the art form: first around iOS, then focusing on macOS. Now he runs a game studio, Northplay, where they're hard at work on their next game, Dinolords!</p></p> <p><p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p></p> <p><p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p></p> <p><p>---- </p></p> <p>This episode's links</p> <p><ul><li><a href="https://www.pixelresort.com/">Pixel Resort</a>.</li><li><a href="https://www.northplay.co/">Northplay</a>.</li><li><a href="https://flarup.shop/">Buy</a> The iOS Icon Book and The macOS Icon Book.</li><li><a href="https://www.flarup.email/">Sign up</a> for Michael's newsletter.</li><li><a href="https://pixelresort.gumroad.com/">Buy</a> Michael's design tools and icons.</li></ul> <ul><li>Michael on <a href="https://dribbble.com/flarup">Dribble.</a></li><li>Michael on <a href="https://www.youtube.com/channel/UCfdvBQSfsopDb6l9rV5OjyA">YouTube.</a></li><li>Michael on <a href="https://www.instagram.com/flarup/?hl=en">Instagram.</a></li><li>Michael on <a href="https://www.linkedin.com/in/michaelflarup/">LinkedIn.</a></li><li>Michael on <a href="https://x.com/flarup?lang=en">X.</a></li><li>Michael on <a href="https://mastodon.social/@flarup">Mastodon.</a></li></ul> <ul><li><a href="https://itunes.apple.com/us/app/conduct-this/id1151455384?ls=1&mt=8&at=1010lwVg&ct=conductthis-site">Download</a> Conduct This!</li><li>Dinolords <a href="https://dinolords.com/">website</a>.</li><li><a href="https://store.steampowered.com/app/2587620/Dinolords/">Wishlist</a> Dinolords on Steam</li></ul></p> <p><p>---- </p></p> <p><ul><li>Michael's 'First' pick: <a href="https://en.wikipedia.org/wiki/Amiga_2000">Amiga 2000</a></li><li>Michael's 'Last' pick: <a href="https://www.apple.com/apple-vision-pro/">Apple Vision Pro</a></li><li>Michael's 'Everything' pick: Adobe Photoshop on <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">Wikipedia</a></li><li>'Something': <a href="https://spectrum.ieee.org/first-digital-camera-history">'The First Digital Camera Was the Size of a Toaster'</a> - IEEE Spectrum</li><li>Interview with creator Steve Sasson: <a href="https://www.youtube.com/watch?v=tCd4i10nI14">Linda Hall Library on YouTube</a></li></ul> Contact the show</p> <p><p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p></p> <p>Follow us on Mastodon <ul><li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li><li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li></ul></p> <p>Follow us on Bluesky <ul><li><a href="https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li><li><a href="https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li></ul> <p>--- </p> <p>First, Last, Everything is a MacStories podcast. </p> <p>Check out other podcasts from <a href="https://www.macstories.net/podcasts/">MacStories</a>.</p></p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_2_Michael_Flarup.mp3?dest-id=5137590" length="85011850" type="audio/mpeg" />
-      <itunes:duration>01:23:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>2</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Tom Hitchins of Byte Review</title>
-      <itunes:title>Tom Hitchins of Byte Review</itunes:title>
-      <pubDate>Mon, 08 Sep 2025 14:30:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[f34c67f3-fcb8-4551-b797-3c08f9d1528b]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/tom-hitchins-of-byte-review]]></link>
-      <description><![CDATA[<p>In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom's passion for technology touches every aspect of his life.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> <h2><strong>This episode's links</strong></h2> <ul> <li>Byte Review on <a href= "http://youtube.com/c/bytereview">YouTube</a>.</li> <li>Byte Review on <a href= "http://instagram.com/bytereview">Instagram</a>.</li> <li>Byte Review on <a href= "https://www.tiktok.com/@bytereview">TikTok</a>.</li> </ul> <ul> <li>First Byte Review Video - <a href= "https://youtu.be/gqDjO9bkbos?si=F5mC5Cs6VHAR-NrZ">Lumia 435 Review</a></li> <li><a href="https://youtu.be/FfDmWCKgMn8?si=jTQYT4KMTRxeXtDR">Why I Left Teaching During COVID-19</a></li> <li><a href= "https://youtu.be/uvQi1Se4vcA?si=rOrVs08-gclqAKGj">Apple REBUILT my Desk Setup and Office with the M3 MacBook Air!</a></li> </ul> <ul> <li><a href="https://kirokustudio.co.uk/">Kiroku Studio</a>.</li> <li>Kiroku Studio on <a href= "https://www.instagram.com/kirokustudio/">Instagram</a>.</li> <li><a href="https://www.instagram.com/kirokustudio/">Kiroku Radio</a>.</li> </ul> <p>----</p> <ul> <li>Tom's 'First' pick: <a href= "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance-SP/Game-Boy-Advance-SP-627141.html"> Game Boy Advance SP</a></li> <li>Tom's 'Last' pick: <a href= "https://www.dji.com/uk/osmo-pocket-3">DJI Osmo Pocket 3</a></li> <li>Tom's 'Everything' pick: <a href= "https://en.wikipedia.org/wiki/BioShock">BioShock</a></li> <li>'Something': the Buick Riviera Graphic Control Centre: <a href= "https://www.youtube.com/watch?v=Lkaazk68iGE">MotorWeek | Retro Review: 1986 Buick Century T-Type & Riviera CRT</a></li> </ul> <hr /> <h2>Contact the show</h2> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <h3>Follow us on Mastodon</h3> <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> <h3>Follow us on Bluesky</h3> <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <p>---</p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom's passion for technology touches every aspect of his life.</p> <p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, each episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <p>----</p> This episode's links <ul> <li>Byte Review on <a href= "http://youtube.com/c/bytereview">YouTube</a>.</li> <li>Byte Review on <a href= "http://instagram.com/bytereview">Instagram</a>.</li> <li>Byte Review on <a href= "https://www.tiktok.com/@bytereview">TikTok</a>.</li> </ul> <ul> <li>First Byte Review Video - <a href= "https://youtu.be/gqDjO9bkbos?si=F5mC5Cs6VHAR-NrZ">Lumia 435 Review</a></li> <li><a href="https://youtu.be/FfDmWCKgMn8?si=jTQYT4KMTRxeXtDR">Why I Left Teaching During COVID-19</a></li> <li><a href= "https://youtu.be/uvQi1Se4vcA?si=rOrVs08-gclqAKGj">Apple REBUILT my Desk Setup and Office with the M3 MacBook Air!</a></li> </ul> <ul> <li><a href="https://kirokustudio.co.uk/">Kiroku Studio</a>.</li> <li>Kiroku Studio on <a href= "https://www.instagram.com/kirokustudio/">Instagram</a>.</li> <li><a href="https://www.instagram.com/kirokustudio/">Kiroku Radio</a>.</li> </ul> <p>----</p> <ul> <li>Tom's 'First' pick: <a href= "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance-SP/Game-Boy-Advance-SP-627141.html"> Game Boy Advance SP</a></li> <li>Tom's 'Last' pick: <a href= "https://www.dji.com/uk/osmo-pocket-3">DJI Osmo Pocket 3</a></li> <li>Tom's 'Everything' pick: <a href= "https://en.wikipedia.org/wiki/BioShock">BioShock</a></li> <li>'Something': the Buick Riviera Graphic Control Centre: <a href= "https://www.youtube.com/watch?v=Lkaazk68iGE">MotorWeek | Retro Review: 1986 Buick Century T-Type & Riviera CRT</a></li> </ul> Contact the show <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> Follow us on Mastodon <ul> <li><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></li> <li><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></li> </ul> Follow us on Bluesky <ul> <li><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></li> <li><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></li> </ul> <p>---</p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_1_Tom_Hitchins.mp3?dest-id=5137590" length="54257096" type="audio/mpeg" />
-      <itunes:duration>51:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      <itunes:season>1</itunes:season>
-      
-      
-      <itunes:episode>1</itunes:episode>
-      
-      
-      <itunes:episodeType>full</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-    <item>
-      <title>Welcome to First, Last, Everything</title>
-      <itunes:title>Welcome to First, Last, Everything</itunes:title>
-      <pubDate>Fri, 05 Sep 2025 20:57:00 +0000</pubDate>
-      <guid isPermaLink="false"><![CDATA[87ed7c65-b6b0-46da-9921-ba8d674928fb]]></guid>
-      <link><![CDATA[https://66e286a4-601f-4f6a-a646-3c7f25382d43.libsyn.com/welcome-to-first-last-everything]]></link>
-      <description><![CDATA[<p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, the episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> <h2>Contact the show</h2> <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <p>----</p> <p>Follow us on Mastodon</p> <p><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></p> <p><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></p> <p>----</p> <p>Follow us on Bluesky</p> <p><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></p> <p><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></p> <p>----</p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></description>
-      
-      <content:encoded><![CDATA[<p>First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p> <p>In addition, the episode features the 'Something' segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p> Contact the show <p><a href="https://forms.gle/Hizy8ygsKhGNDUz96">Leave Feedback for the show.</a></p> <p>----</p> <p>Follow us on Mastodon</p> <p><a href="https://techhub.social/@jonathanreed">Jonathan Reed</a></p> <p><a href="https://mastodon.macstories.net/@flepodcast">First, Last, Everything</a></p> <p>----</p> <p>Follow us on Bluesky</p> <p><a href= "https://bsky.app/profile/jonathan.macstories.net">Jonathan Reed</a></p> <p><a href= "https://bsky.app/profile/flepodcast.macstories.net">First, Last, Everything</a></p> <p>----</p> <p>First, Last, Everything is a MacStories podcast.</p> <p>Check out other podcasts from <a href= "https://www.macstories.net/podcasts/">MacStories</a>.</p>]]></content:encoded>
-      
-      
-      <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_Trailer.mp3?dest-id=5137590" length="3334529" type="audio/mpeg" />
-      <itunes:duration>02:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      
-      <itunes:keywords />
-      
-      
-      
-      <itunes:episodeType>trailer</itunes:episodeType>
-      
-      
-      
-    </item>
-    
-  </channel>
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[Becca Farsace is an Emmy and Webby award-winning tech creator. She was formerly the senior video producer at The Verge before going solo in 2024, primarily via her self-titled YouTube channel, where she aims to ‘take tech outside’. [[audio_player]] This episode’s links Becca’s videos: Why I left The Verge I built an e-bike with unlimited...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Becca Farsace is an Emmy and Webby award-winning tech creator. She was formerly the senior video producer at The Verge before going solo in 2024, primarily via her self-titled YouTube channel, where she aims to ‘take tech outside’. [[audio_player]] This episode’s links Becca’s videos: Why I left The Verge I built an e-bike with unlimited...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:05:57</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>2</itunes:season>
+
+                        <itunes:episode>1</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Brendon Bigley - Creator, Podcaster, and Blogger]]></title>
+            <description><![CDATA[This episode's guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/brendon-bigley-creator-podcaster-and-blogger/</link>
+            <guid isPermaLink="false">71f64fb4-1169-42b5-a173-96d896a02180</guid>
+            <pubDate>Sat, 25 Oct 2025 20:11:52 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_8_Brendon_Bigley.mp3?dest-id=5137590" length="79675885" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">This episode’s guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in general. He co-hosts the gaming podcasts Into the Aether and NPC, and he blogs and publishes videos under the Wavelengths banner.</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<ul id="ul6"><li>Spotify buys Gimlet and Anchor in podcast push, earmarks $500M for more deals -  <a href="https://techcrunch.com/2019/02/06/spotify-doubles-down-on-podcasts/" rel="noopener noreferrer">TechCrunch</a></li>
+<li>Diggnation on <a href="https://en.wikipedia.org/wiki/Diggnation" rel="noopener noreferrer">Wikipedia</a></li>
+<li>The Totally Rad Show on  <a href="https://en.wikipedia.org/wiki/The%3Cem%3ETotally%3C/em%3ERad_Show" rel="noopener noreferrer">Wikipedia</a></li>
+<li>iFanboy official <a href="https://ifanboy.com/" rel="noopener noreferrer">site</a></li>
+<li>The Terrace House on <a href="https://www.netflix.com/title/81077065" rel="noopener noreferrer">Netflix</a></li>
+<li><a href="https://rogueamoeba.com/audiohijack/" rel="noopener noreferrer">Audio Hijack</a></li>
+<li>Delta <a href="https://faq.deltaemulator.com/" rel="noopener noreferrer">User Guide</a></li>
+</ul><p id="p7"> </p>
+<ul id="ul8"><li>Brendon on <a href="https://mastodon.social/@brendonbigley" rel="noopener noreferrer">Mastodon</a></li>
+<li>Brendon on <a href="https://www.instagram.com/brendonbigley" rel="noopener noreferrer">Instagram</a></li>
+<li>Brendon on <a href="https://bsky.app/profile/bb.wavelengths.online" rel="noopener noreferrer">Bluesky</a></li>
+<li><a href="https://wavelengths.online/" rel="noopener noreferrer">Wavelengths.online</a></li>
+<li>Wavelengths on <a href="https://www.youtube.com/channel/UCrIIXXmVKMHocU1ZduZXezQ" rel="noopener noreferrer">YouTube</a></li>
+<li>Wavelengths <a href="https://pod.link/wavelengths" rel="noopener noreferrer">Podcast</a></li>
+<li>Into The Aether <a href="https://intothecast.online/" rel="noopener noreferrer">Podcast</a></li>
+<li>NPC Podcast on <a href="https://www.macstories.net/npc/" rel="noopener noreferrer">MacStories.net</a></li>
+</ul><hr id="hr9"><ul id="ul10"><li>Brendon’s ‘First’: MacBook Air on <a href="https://en.wikipedia.org/wiki/MacBook_Air" rel="noopener noreferrer">Wikipedia</a></li>
+<li>Brendon’s ‘Last’: Ayn Odin on Ayn <a href="https://www.ayntec.com/" rel="noopener noreferrer">official site</a></li>
+<li>Brendon’s ‘Everything’: Nintendo DS on <a href="https://en.wikipedia.org/wiki/Nintendo%3Cem%3EDS" rel="noopener noreferrer">Wikipedia</a>,  <a href="https://www.nintendo.com/en-gb/Nintendo-DS/Nintendo-DS/Nintendo-DS-116439.html" rel="noopener noreferrer">Nintendo.com</a>. Mario Kart DS on <a href="https://en.wikipedia.org/wiki/Mario%3C/em%3EKart_DS" rel="noopener noreferrer">Wikipedia</a></li>
+<li>‘Something’: Eliza chatbot on <a href="https://en.wikipedia.org/wiki/ELIZA" rel="noopener noreferrer">Wikipedia</a></li>
+</ul><hr id="hr11"><p id="p12"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul13"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+<li><a href="https://www.instagram.com/macstoriesnet/?hl=en" rel="noopener noreferrer">MacStories</a></li>
+</ul><hr id="hr14"><p id="p15">Music: <a href="https://ghostdown.online/" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p16">First, Last, Everything is a MacStories podcast.</p>
+<p id="p17">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[This episode's guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[This episode's guest, Brendon Bigley, is, in his words, extremely online. He helped build the podcasting platform Anchor, which was acquired by Spotify in 2019, and he worked for Marvel, overseeing its presence on YouTube and other platforms. But what most people know him for is his opinions and passion for gaming and tech in...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:17:46</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>8</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Joe Rosensteel, VFX Artist, Podcaster and writer]]></title>
+            <description><![CDATA[On this episode, we're joined by Joe Rosensteel. Joe is a VFX artist who's worked on big-name Hollywood productions as well as smaller commercial projects. He's a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused. [[audio_player]] First, Last, Everything is a...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/joe-rosensteel-vfx-artist-podcaster-and-writer/</link>
+            <guid isPermaLink="false">3c51e1ae-7e50-431a-93c5-73849b78058f</guid>
+            <pubDate>Tue, 21 Oct 2025 20:31:11 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_7_Joe_Rosensteel.mp3?dest-id=5137590" length="69732730" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">On this episode, we’re joined by Joe Rosensteel. Joe is a VFX artist who’s worked on big-name Hollywood productions as well as smaller commercial projects. He’s a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused.</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<ul id="ul6"><li>Shake it off: Remembering Apple’s Academy Award–winning failure -  <a href="https://sixcolors.com/member/2023/08/shake-it-off-remembering-apples-academy-award-winning-failure/" rel="noopener noreferrer">Six Colors</a></li>
+<li>Stunt Copter game - Nostalgic Mac on <a href="https://www.youtube.com/watch?v=1x0ZPaLBWKk" rel="noopener noreferrer">YouTube</a></li>
+<li>ClarisWorks on <a href="https://en.wikipedia.org/wiki/Claris" rel="noopener noreferrer">Wikipedia</a></li>
+<li>‘Cast Away’ and the story behind Imageworks’ in-house compositing software -  <a href="https://beforesandafters.com/2020/12/29/cast-away-and-the-story-behind-imageworks-in-house-compositing-software/" rel="noopener noreferrer">before and afters</a></li>
+</ul><p id="p7"> </p>
+<ul id="ul8"><li>Joe on <a href="https://duck.haus/@joesteel" rel="noopener noreferrer">Mastodon</a></li>
+<li>Joe’s blog, <a href="https://joe-steel.com/index.html" rel="noopener noreferrer">‘Unauthoritative Pronouncements’</a></li>
+<li>Defocused podcast on <a href="https://www.theincomparable.com/defocused/" rel="noopener noreferrer">The Incomparable</a></li>
+</ul><hr id="hr9"><ul id="ul10"><li>Joe’s ‘First’: Macintosh Plus on <a href="https://en.wikipedia.org/wiki/Macintosh_Plus" rel="noopener noreferrer">Wikipedia</a>, Official Apple tech specs <a href="https://support.apple.com/en-us/112183" rel="noopener noreferrer">page</a></li>
+<li>Joe’s ‘Last’: iPhone 16 Pro on <a href="https://en.wikipedia.org/wiki/IPhone%3Cem%3E16%3C/em%3EPro" rel="noopener noreferrer">Wikipedia</a></li>
+<li>Joe’s ‘Everything’: Twitter on <a href="https://en.wikipedia.org/wiki/Twitter" rel="noopener noreferrer">Wikipedia</a></li>
+<li>‘Something’: Apple Pippin on  <a href="https://en.wikipedia.org/wiki/Apple%3Cem%3EPippin#System%3C/em%3Eoverview" rel="noopener noreferrer">Wikipedia</a>, 512 Pixels: The Apple Pippin on <a href="https://www.youtube.com/watch?v=y9pwX-j6dfw" rel="noopener noreferrer">YouTube</a></li>
+</ul><hr id="hr11"><p id="p12"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul13"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+<li><a href="https://www.instagram.com/macstoriesnet/?hl=en" rel="noopener noreferrer">MacStories</a></li>
+</ul><hr id="hr14"><p id="p15">Music: <a href="https://ghostdown.online/" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p16">First, Last, Everything is a MacStories podcast.</p>
+<p id="p17">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[On this episode, we're joined by Joe Rosensteel. Joe is a VFX artist who's worked on big-name Hollywood productions as well as smaller commercial projects. He's a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused. [[audio_player]] First, Last, Everything is a...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[On this episode, we're joined by Joe Rosensteel. Joe is a VFX artist who's worked on big-name Hollywood productions as well as smaller commercial projects. He's a writer on his own blog and for the Six Colors website, and he also has a podcast with Dan Sturm called Defocused. [[audio_player]] First, Last, Everything is a...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:07:57</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>7</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Robin Kanatzar, App accessibility speaker and developer]]></title>
+            <description><![CDATA[Robin Kanatzar is this episode's guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled 'Appt...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/robin-kanatzar-app-accessibility-speaker-and-developer/</link>
+            <guid isPermaLink="false">e069fcd9-77d2-4157-b094-53c8e1b17cbe</guid>
+            <pubDate>Tue, 14 Oct 2025 19:09:11 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_6_Robin_Kanatzar.mp3?dest-id=5137590" length="58299030" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">Robin Kanatzar is this episode’s guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled ‘Appt News’.</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<ul id="ul6"><li>How to Navigate your iPhone or iPad with VoiceOver - <a href="https://www.youtube.com/watch?v=ROIe49kXOc8" rel="noopener noreferrer">YouTube</a></li>
+<li>This is how Apple Vision Pro works with VoiceOver for a blind geek - <a href="https://www.youtube.com/watch?v=3BLVxR_NiRk" rel="noopener noreferrer">YouTube</a></li>
+<li>Apple announces new accessibility features, including Eye Tracking -  <a href="https://www.apple.com/uk/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/" rel="noopener noreferrer">Press Release</a></li>
+<li><a href="https://www.w3.org/WAI/about/groups/task-forces/matf/" rel="noopener noreferrer">W3C Mobile Accessibility Task Force</a></li>
+<li>iOS 26 “Liquid Glass” Design Is A Low Vision Nightmare - <a href="https://www.youtube.com/watch?v=-tbUNQZsWO0" rel="noopener noreferrer">The Blind Life on YouTube</a> (made during the beta period)</li>
+<li><a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en" rel="noopener noreferrer">European accessibility act</a></li>
+<li>Robin Kanatzar <a href="https://www.robinkanatzar.com/" rel="noopener noreferrer">website.</a></li>
+<li><a href="https://www.appt.news/" rel="noopener noreferrer">Appt Newsletter</a></li>
+<li>Robin Kanatzar on <a href="https://mastodon.green/@Robinkanatzar" rel="noopener noreferrer">Mastodon</a></li>
+<li>Robin Kanatzar on <a href="https://www.linkedin.com/in/robin-kanatzar-63851a58/" rel="noopener noreferrer">LinkedIn</a></li>
+<li>Robin Kanatzar on <a href="https://robinkanatzar.blog/" rel="noopener noreferrer">Medium</a></li>
+<li>Robin Kanatzar on <a href="https://www.youtube.com/@robinkanatzar" rel="noopener noreferrer">YouTube</a></li>
+</ul><hr id="hr7"><ul id="ul8"><li>Robin’s ‘First’: Panda Guide on the  <a href="https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/edf-pulse/edf-pulse-start-up-awards/the-winners/panda-guide-the-first-virtual-assistant-for-people-with-impaired-vision#:~:text=PANDA%20Guide%2C%20an%20augmented%20reality%20audio%20headset%2C,is%20to%20restore%20the%20sight%20of%20visually" rel="noopener noreferrer">EDF website.</a></li>
+</ul><p id="p9">Panda Guide demo on <a href="https://www.youtube.com/watch?v=VZYq8cTrq0U" rel="noopener noreferrer">YouTube</a> (in French)</p>
+<ul id="ul10"><li>Robin’s ‘Last’: <a href="https://www.apple.com/apple-vision-pro/" rel="noopener noreferrer">Apple Vision Pro</a></li>
+<li>Robin’s ‘Everything’: <a href="https://www.garmin.com/en-GB/" rel="noopener noreferrer">Garmin Smart Watches</a></li>
+<li>‘Something’: Microsoft Zune on <a href="https://en.wikipedia.org/wiki/Zune" rel="noopener noreferrer">Wikipedia</a></li>
+</ul><hr id="hr11"><p id="p12"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul13"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+<li><a href="https://www.instagram.com/macstoriesnet/?hl=en" rel="noopener noreferrer">MacStories</a></li>
+</ul><hr id="hr14"><p id="p15">Music: <a href="https://www.peachmgzn.com/will-laporte" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p16">First, Last, Everything is a MacStories podcast.</p>
+<p id="p17">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[Robin Kanatzar is this episode's guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled 'Appt...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Robin Kanatzar is this episode's guest. Robin is a former industrial engineer who has been developing apps for iOS and Android since 2016, focusing on accessibility. She also gives talks on the subject, educating developers on how to make their apps more accessible, as well as publishing a weekly newsletter on the subject, titled 'Appt...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>00:55:29</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>6</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Andrew Fyfe, CTO of Neutone]]></title>
+            <description><![CDATA[Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/andrew-fyfe-cto-of-neutone/</link>
+            <guid isPermaLink="false">fd8da6a6-47b9-43f7-a406-fbcb5dbfea3f</guid>
+            <pubDate>Tue, 07 Oct 2025 16:00:29 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_5_Andrew_Fyfe.mp3?dest-id=5137590" length="72214245" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do so in a way that respects artists and doesn’t replace creativity.</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<p id="p6">Official Neutone <a href="https://neutone.ai/" rel="noopener noreferrer">website</a>.</p>
+<p id="p7">Neutone <a href="https://neutone.ai/blog" rel="noopener noreferrer">Blog</a>.</p>
+<p id="p8">Neutone on <a href="https://www.instagram.com/neutone_ai/" rel="noopener noreferrer">Instagram</a>.</p>
+<p id="p9">Neutone on <a href="https://www.tiktok.com/@neutone_ai" rel="noopener noreferrer">TikTok</a>.</p>
+<p id="p10">Neutone on <a href="https://www.youtube.com/@neutone_ai" rel="noopener noreferrer">YouTube</a>.</p>
+<p id="p11"><a href="https://www.youtube.com/watch?v=mOTUNL3XOqs" rel="noopener noreferrer">‘Introduction to Tone Morphing with Neutone Morpho’.</a> - YouTube</p>
+<p id="p12">Andrew on <a href="https://x.com/%3Cem%3EAndrew%3C/em%3EFyfe" rel="noopener noreferrer">X</a>.</p>
+<p id="p13">Andrew on <a href="https://www.linkedin.com/in/andrewfyfe93/" rel="noopener noreferrer">LinkedIn</a>.</p>
+<hr id="hr14"><p id="p15">Andrew’s ‘First’: The Electric Guitar on <a href="https://en.wikipedia.org/wiki/Electric_guitar" rel="noopener noreferrer">Wikipedia</a></p>
+<p id="p16">Andrew’s ‘Last’: <a href="https://lunacy.audio/products/beam/" rel="noopener noreferrer">BEAM by Lunacy Audio</a></p>
+<p id="p17">Andrew’s ‘Everything’: <a href="https://voxamps.com/en-gb/product/ac30-hand-wired-tube-amp-2/" rel="noopener noreferrer">VoxAC30 handwired</a></p>
+<p id="p18">‘Something’: <a href="https://en.wikipedia.org/wiki/JooJoo" rel="noopener noreferrer">The JooJoo Tablet</a></p>
+<p id="p19"><a href="https://www.wired.com/2010/04/pr-joojoo-tablet/" rel="noopener noreferrer">Wired Review of the JooJoo Tablet</a></p>
+<hr id="hr20"><p id="p21"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul22"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+</ul><hr id="hr23"><p id="p24">Music: <a href="https://www.peachmgzn.com/will-laporte" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p25">First, Last, Everything is a MacStories podcast.</p>
+<p id="p26">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a></p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[Andrew Fyfe is a musician originating from Scotland. After starting out gigging in bands and crossing paths with the likes of Biffy Clyro and Lewis Capaldi, Andrew started learning about artificial intelligence. Now living in Japan, Andrew is the CTO and co-founder of Neutone, a company introducing AI to the music-making process, aiming to do...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:10:35</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>5</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Esther Huybreghts, Co-Founder of Pok Pok]]></title>
+            <description><![CDATA[This time, we're joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it's won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME's list of...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/esther-huybreghts-co-founder-of-pok-pok/</link>
+            <guid isPermaLink="false">399a55f3-272e-42f8-850c-b93d460cbf66</guid>
+            <pubDate>Tue, 30 Sep 2025 23:27:38 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_4_Esther_Huybreghts.mp3?dest-id=5137590" length="76578184" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">This time, we’re joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it’s won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME’s list of the 100 Most Influential Companies of 2025. Pok Pok is a really special app, and Esther talked about its inception, plans for the future, and staying strong against negative – and sometimes hateful – feedback.</p>
+<p id="p2"><!--more--></p>
+<hr id="hr3"><p id="p4">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p5">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p6"><strong>This episode’s links</strong></p>
+<p id="p7">Get 25% off Pok Pok: <a href="https://my.playpokpok.com/checkout?promocode=MACSTORIES25" rel="noopener noreferrer">https://my.playpokpok.com/checkout?promocode=MACSTORIES25</a></p>
+<p id="p8"><a href="https://www.builtbysnowman.com/" rel="noopener noreferrer">Snowman Games</a></p>
+<p id="p9">Alto’s Odyssey on the  <a href="https://itunes.apple.com/us/app/altos-adventure/id950812012?ls=1&amp;mt=8&amp;at=11lrPB&amp;ct=web" rel="noopener noreferrer">App Store</a> and <a href="http://apple.co/-AltosAdventureTSM" rel="noopener noreferrer">Apple Arcade</a></p>
+<p id="p10">Pok Pok <a href="https://playpokpok.com/" rel="noopener noreferrer">Official Site</a></p>
+<p id="p11">Pok Pok on the  <a href="https://apps.apple.com/us/app/pok-pok-montessori-preschool/id1550204730" rel="noopener noreferrer">App Store</a></p>
+<p id="p12">Pok Pok — Calm Learning Videos for Kids on <a href="https://www.youtube.com/@studiopokpok" rel="noopener noreferrer">YouTube</a></p>
+<p id="p13">Pok Pok wins an Apple Design Award <a href="https://developer.apple.com/videos/play/wwdc2021/103/" rel="noopener noreferrer">in 2021</a></p>
+<p id="p14">Time’s 100 Most Influential Companies 2025:  <a href="https://time.com/collections/time100-companies-2025/7289651/pok-pok/" rel="noopener noreferrer">Pok Pok</a></p>
+<hr id="hr15"><ul id="ul16"><li>Esther’s ‘First’ pick: <a href="https://en.wikipedia.org/wiki/DIGITAL_Q1" rel="noopener noreferrer">FUJIFILM Digital Q1</a></li>
+<li>Esther’s ‘Last’ pick: <a href="https://uk.kobobooks.com/collections/ereaders" rel="noopener noreferrer">Kobo</a></li>
+<li>Esther’s’ Everything’ pick: Apple iPad Pro on <a href="https://en.wikipedia.org/wiki/IPad_Pro" rel="noopener noreferrer">Wikipedia</a></li>
+<li>‘Something’: Builder.ai - “How This A.I. Company Collapsed Amid Silicon Valley’s Biggest Boom” -  <a href="https://www.nytimes.com/2025/08/31/technology/builder-ai-collapse.html" rel="noopener noreferrer">The New York Times</a>(Gift Article)</li>
+</ul><hr id="hr17"><p id="p18"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul19"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+</ul><hr id="hr20"><p id="p21">Music: <a href="https://www.peachmgzn.com/will-laporte" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p22">First, Last, Everything is a MacStories podcast.</p>
+<p id="p23">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[This time, we're joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it's won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME's list of...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[This time, we're joined by Esther Huybreghts. Esther is the Co-founder and Chief Creative Officer for Pok Pok, producers of the multi-award-winning app, PokPok Playground. Since the app launched in 2021, it's won an App Store award, an Apple Design award, and many other commendations. Pok Pok was also recently included on TIME's list of...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:14:31</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>4</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[David X Cohen, Co-Creator of Futurama]]></title>
+            <description><![CDATA[This time, it's the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/david-x-cohen-co-creator-of-futurama/</link>
+            <guid isPermaLink="false">bcc9d5c5-b05a-453e-b414-a834c9248d0f</guid>
+            <pubDate>Tue, 23 Sep 2025 19:41:37 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_3_David_Cohen.mp3?dest-id=5137590" length="81825892" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">This time, it’s the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed Futurama, which recently dropped its 13th season on Hulu and Disney+.</p>
+<p id="p2">But David’s history is not just in television. He worked in the robotics lab while attending Harvard, studied theoretical computer science, and has a deep history with technology all the way back to the early days of home computers. As you can expect there was a lot for us to talk about.</p>
+<p id="p3"><!--more--></p>
+<hr id="hr4"><p id="p5">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p6">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p7"><strong>This episode’s links</strong></p>
+<p id="p8">David on <a href="https://en.wikipedia.org/wiki/David_X._Cohen" rel="noopener noreferrer">Wikipedia</a></p>
+<ul id="ul9"><li>Alan Yuille on <a href="https://en.wikipedia.org/wiki/Alan_Yuille" rel="noopener noreferrer">Wikipedia</a></li>
+<li>Ken Keeler on <a href="https://en.wikipedia.org/wiki/Ken_Keeler" rel="noopener noreferrer">Wikipedia</a></li>
+<li>Homer3 on <a href="https://www.youtube.com/watch?v=-cyf4RnjzTY" rel="noopener noreferrer">YouTube</a></li>
+<li>George Meyer on <a href="https://en.wikipedia.org/wiki/George_Meyer" rel="noopener noreferrer">Wikipedia</a></li>
+</ul><p id="p10">Futurama opening on  <a href="https://www.youtube.com/watch?v=ei9xrCykk_I&amp;pp=ygUQZnV0dXJhbWEgb3BlbmluZw%3D%3D" rel="noopener noreferrer">YouTube</a></p>
+<p id="p11">‘Futurama - Welcome to the World of Tomorrow’ BTS on  <a href="https://www.youtube.com/watch?v=pmkYYJboTPM&amp;pp=ygUZZnV0dXJhbWEgYmVoaW5kIHRoZSBzY2VuZQ%3D%3D" rel="noopener noreferrer">YouTube</a></p>
+<p id="p12"><strong>Futurama References on The Infosphere:</strong></p>
+<ul id="ul13"><li><a href="https://theinfosphere.org/Speed_of_light" rel="noopener noreferrer">The Speed of Light</a></li>
+<li><a href="https://theinfosphere.org/The_Prisoner_of_Benda" rel="noopener noreferrer">The Prisoner of Benda</a> and its <a href="https://theinfosphere.org/Futurama_theorem" rel="noopener noreferrer">theorem</a></li>
+<li><a href="https://theinfosphere.org/The_Impossible_Stream" rel="noopener noreferrer">The Impossible Stream</a></li>
+<li><a href="https://theinfosphere.org/EyePhone" rel="noopener noreferrer">eyePhone</a></li>
+<li><a href="https://theinfosphere.org/Hedonismbot" rel="noopener noreferrer">Hedonismbot</a></li>
+<li><a href="https://theinfosphere.org/Roberto" rel="noopener noreferrer">Roberto</a></li>
+<li><a href="https://theinfosphere.org/Enema-bot" rel="noopener noreferrer">Enema-bot</a></li>
+<li><a href="https://theinfosphere.org/Acting_Unit_0.8" rel="noopener noreferrer">Acting Unit 0.8</a></li>
+<li><a href="https://theinfosphere.org/Head_jars" rel="noopener noreferrer">Head Jars</a></li>
+</ul><p id="p14">Shut Up and Take My Money on <a href="https://knowyourmeme.com/memes/shut-up-and-take-my-money" rel="noopener noreferrer">Know Your Meme</a></p>
+<p id="p15">Victor Wembanyama on <a href="https://en.wikipedia.org/wiki/Victor_Wembanyama" rel="noopener noreferrer">Wikipedia</a></p>
+<p id="p16">‘How Hollywood writers triumphed over AI – and why it matters’ -  <a href="https://www.theguardian.com/culture/2023/oct/01/hollywood-writers-strike-artificial-intelligence" rel="noopener noreferrer">The Guardian</a></p>
+<hr id="hr17"><ul id="ul18"><li>David’s ‘First’ pick: Arcade Games: Playthroughs on YouTube -  <a href="https://www.youtube.com/watch?v=DFSQ0Pl4KDk" rel="noopener noreferrer">Berzerk</a>, <a href="https://www.youtube.com/watch?v=rni0X2G_yEA" rel="noopener noreferrer">Space Guerrilla</a>, <a href="https://www.youtube.com/watch?v=ymrYkbEbnEQ" rel="noopener noreferrer">Battle Zone</a>, <a href="https://www.youtube.com/watch?v=R8t1DpLFThQ" rel="noopener noreferrer">Qix</a>, <a href="https://www.youtube.com/watch?v=ssMtp46afcE" rel="noopener noreferrer">Gorf</a>.</li>
+<li>David’s ‘Last’ pick: <a href="https://waymo.com/" rel="noopener noreferrer">Waymo</a></li>
+<li>David’s ‘Everything’ pick: Apple II on <a href="https://en.wikipedia.org/wiki/Apple_II" rel="noopener noreferrer">Wikipedia</a></li>
+<li>Apple II Reference Manual  <a href="http://cini.classiccmp.org/pdf/Apple/Apple%20II%20Reference%20Manual%20-%20Woz.pdf" rel="noopener noreferrer">PDF</a></li>
+<li>‘Something’: TwitterPeek on <a href="https://museumoffailure.com/exhibition/twitter-peek" rel="noopener noreferrer">Museum of Failure</a></li>
+</ul><hr id="hr19"><p id="p20"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul21"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Instagram
+</li>
+<li>
+<p><a href="https://www.instagram.com/aylwardreed/" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+</ul><hr id="hr22"><p id="p23">Music: <a href="https://www.peachmgzn.com/will-laporte" rel="noopener noreferrer">Will LaPorte</a></p>
+<p id="p24">First, Last, Everything is a MacStories podcast.</p>
+<p id="p25">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[This time, it's the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[This time, it's the Emmy-award-winning writer David X Cohen. David started writing on Beavis and Butthead in the early 90s before joining The Simpsons, where he was responsible for many well-known episodes like Lisa the Vegetarian, The Itchy and Scratchy and Poochie Show, and Homer3. Then, in 1999, with Simpsons creator Matt Groening, David co-developed...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:18:58</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>3</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Michael Flarup, Designer and Founder of Northplay]]></title>
+            <description><![CDATA[This time we're talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He's most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/michael-flarup-designer-and-founder-of-northplay/</link>
+            <guid isPermaLink="false">d7338176-dec7-4216-972d-594a13f867b2</guid>
+            <pubDate>Tue, 16 Sep 2025 22:37:42 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_2_Michael_Flarup.mp3?dest-id=5137590" length="85011850" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">This time we’re talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He’s most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS and macOS under his Pixel Resort banner. He’s released two books on the history of the art form: first around iOS, then focusing on macOS. Now he runs a game studio, Northplay, where they’re hard at work on their next game, Dinolords!</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<ul id="ul6"><li><a href="https://www.pixelresort.com/" rel="noopener noreferrer">Pixel Resort</a>.</li>
+<li><a href="https://www.northplay.co/" rel="noopener noreferrer">Northplay</a>.</li>
+<li><a href="https://flarup.shop/" rel="noopener noreferrer">Buy</a> The iOS Icon Book and The macOS Icon Book.</li>
+<li><a href="https://www.flarup.email/" rel="noopener noreferrer">Sign up</a> for Michael’s newsletter.</li>
+<li><a href="https://pixelresort.gumroad.com/" rel="noopener noreferrer">Buy</a> Michael’s design tools and icons.</li>
+</ul><hr id="hr7"><ul id="ul8"><li>Michael’s ‘First’ pick: <a href="https://en.wikipedia.org/wiki/Amiga_2000" rel="noopener noreferrer">Amiga 2000</a></li>
+<li>Michael’s ‘Last’ pick: <a href="https://www.apple.com/apple-vision-pro/" rel="noopener noreferrer">Apple Vision Pro</a></li>
+<li>Michael’s ‘Everything’ pick: Adobe Photoshop on <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" rel="noopener noreferrer">Wikipedia</a></li>
+<li>‘Something’: <a href="https://spectrum.ieee.org/first-digital-camera-history" rel="noopener noreferrer">‘The First Digital Camera Was the Size of a Toaster’</a> - IEEE Spectrum</li>
+<li>Interview with creator Steve Sasson: <a href="https://www.youtube.com/watch?v=tCd4i10nI14" rel="noopener noreferrer">Linda Hall Library on YouTube</a></li>
+</ul><hr id="hr9"><p id="p10">Contact the show</p>
+<p id="p11"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul12"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a></li>
+</ul><hr id="hr13"><p id="p14">First, Last, Everything is a MacStories podcast.  </p>
+<p id="p15">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[This time we're talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He's most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[This time we're talking with Michael Flarup. Michael is many things: the head of a game studio, a speaker at Adobe Max, an author, and more. But most of all, Michael is a designer. He's most well-known for his decades of work as an icon designer on some of the most beloved apps on iOS...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>01:23:17</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>2</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Tom Hitchins of Byte Review]]></title>
+            <description><![CDATA[In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom's passion for technology touches every aspect...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/tom-hitchins-of-byte-review/</link>
+            <guid isPermaLink="false">f34c67f3-fcb8-4551-b797-3c08f9d1528b</guid>
+            <pubDate>Mon, 08 Sep 2025 18:30:43 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_1_Tom_Hitchins.mp3?dest-id=5137590" length="54257096" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom’s passion for technology touches every aspect of his life.</p>
+<p id="p2"><!--more--></p>
+<p id="p3">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p4">In addition, each episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p5"><strong>This episode’s links</strong></p>
+<ul id="ul6"><li>Byte Review on <a href="http://youtube.com/c/bytereview" rel="noopener noreferrer">YouTube</a>.</li>
+<li>Byte Review on <a href="http://instagram.com/bytereview" rel="noopener noreferrer">Instagram</a>.</li>
+<li>Byte Review on <a href="https://www.tiktok.com/@bytereview" rel="noopener noreferrer">TikTok</a>.
+</li>
+<li>First Byte Review Video - <a href="https://youtu.be/gqDjO9bkbos?si=F5mC5Cs6VHAR-NrZ" rel="noopener noreferrer">Lumia 435 Review</a>
+</li>
+<li><a href="https://youtu.be/FfDmWCKgMn8?si=jTQYT4KMTRxeXtDR" rel="noopener noreferrer">Why I Left Teaching During COVID-19</a></li>
+<li><a href="https://youtu.be/uvQi1Se4vcA?si=rOrVs08-gclqAKGj" rel="noopener noreferrer">Apple REBUILT my Desk Setup and Office with the M3 MacBook Air!</a>
+</li>
+<li>
+<p><a href="https://kirokustudio.co.uk/" rel="noopener noreferrer">Kiroku Studio</a>.</p>
+</li>
+<li>Kiroku Studio on <a href="https://www.instagram.com/kirokustudio/" rel="noopener noreferrer">Instagram</a>.</li>
+<li><a href="https://www.instagram.com/kirokustudio/" rel="noopener noreferrer">Kiroku Radio</a>.</li>
+</ul><hr id="hr7"><ul id="ul8"><li>Tom’s ‘First’ pick:  <a href="https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Advance-SP/Game-Boy-Advance-SP-627141.html" rel="noopener noreferrer">Game Boy Advance SP</a></li>
+<li>Tom’s ‘Last’ pick: <a href="https://www.dji.com/uk/osmo-pocket-3" rel="noopener noreferrer">DJI Osmo Pocket 3</a></li>
+<li>Tom’s ‘Everything’ pick: <a href="https://en.wikipedia.org/wiki/BioShock" rel="noopener noreferrer">BioShock</a></li>
+<li>‘Something’: the Buick Riviera Graphic Control Centre: <a href="https://www.youtube.com/watch?v=Lkaazk68iGE" rel="noopener noreferrer">MotorWeek | Retro Review: 1986 Buick Century T-Type &amp; Riviera CRT</a></li>
+</ul><hr id="hr9"><p id="p10">Contact the show</p>
+<p id="p11"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a><br>
+Follow us on Mastodon</p>
+<ul id="ul12"><li><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></li>
+<li><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a><br>
+Follow us on Bluesky
+</li>
+<li>
+<p><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a></p>
+</li>
+<li><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a></li>
+</ul><hr id="hr13"><p id="p14">First, Last, Everything is a MacStories podcast.</p>
+<p id="p15">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom's passion for technology touches every aspect...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[In this premiere episode, YouTuber Tom Hitchins, aka Byte Review, discusses his creative life that led to the creation of one of the most aesthetically pleasing tech channels on the site. From teaching Photoshop at a college to a lifelong love of Nintendo and Japanese design and entertainment, Tom's passion for technology touches every aspect...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>00:51:45</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+                        <itunes:episode>1</itunes:episode>
+            
+                        <itunes:episodeType>full</itunes:episodeType>
+                    </item>
+                        <item>
+            <title><![CDATA[Welcome to First, Last, Everything]]></title>
+            <description><![CDATA[First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first...]]></description>
+            <link>https://www.macstories.net/podcasts/first-last-everything/welcome-to-first-last-everything/</link>
+            <guid isPermaLink="false">87ed7c65-b6b0-46da-9921-ba8d674928fb</guid>
+            <pubDate>Sat, 06 Sep 2025 00:57:33 GMT</pubDate>
+
+                        <enclosure url="https://traffic.libsyn.com/secure/66e286a4-601f-4f6a-a646-3c7f25382d43/FLE_Trailer.mp3?dest-id=5137590" length="3334529" type="audio/mpeg" />
+            
+            <content:encoded><![CDATA[<p id="p1">First, Last, Everything is a podcast exploring people’s personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first camera. Pretty much anything goes.</p>
+<p id="p2">In addition, the episode features the ‘Something’ segment, a small dive into the past to talk about a piece of technology that you may not have heard of. Weird, ahead of its time, an abject failure or success, whatever it was, it was certainly… something.</p>
+<p id="p3"><!--more--></p>
+<p id="p4">Contact the show</p>
+<p id="p5"><a href="https://forms.gle/Hizy8ygsKhGNDUz96" rel="noopener noreferrer">Leave Feedback for the show.</a></p>
+<hr id="hr6"><p id="p7">Follow us on Mastodon</p>
+<p id="p8"><a href="https://techhub.social/@jonathanreed" rel="noopener noreferrer">Jonathan Reed</a></p>
+<p id="p9"><a href="https://mastodon.macstories.net/@flepodcast" rel="noopener noreferrer">First, Last, Everything</a></p>
+<hr id="hr10"><p id="p11">Follow us on Bluesky</p>
+<p id="p12"><a href="https://bsky.app/profile/jonathan.macstories.net" rel="noopener noreferrer">Jonathan Reed</a></p>
+<p id="p13"><a href="https://bsky.app/profile/flepodcast.macstories.net" rel="noopener noreferrer">First, Last, Everything</a></p>
+<hr id="hr14"><p id="p15">First, Last, Everything is a MacStories podcast.</p>
+<p id="p16">Check out other podcasts from <a href="https://www.macstories.net/podcasts/" rel="noopener noreferrer">MacStories</a>.</p>
+]]></content:encoded>
+
+            <itunes:author><![CDATA[Jonathan Reed]]></itunes:author>
+            <itunes:subtitle><![CDATA[First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first...]]></itunes:subtitle>
+            <itunes:summary><![CDATA[First, Last, Everything is a podcast exploring people's personal relationships with technology. In each episode, host Jonathan Reed gets to know a guest through three pieces of tech: their first inspiration, their last obsession, and the one that meant everything to them. From some software or a computer to a weird gadget or a first...]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+
+                        <itunes:duration>00:02:56</itunes:duration>
+            
+            <itunes:image href="https://cdn.macstories.net/fle_podcast_art_rounded_corners-1757095651698.png" />
+
+            <itunes:season>1</itunes:season>
+
+            
+                        <itunes:episodeType>trailer</itunes:episodeType>
+                    </item>
+                    </channel>
 </rss>

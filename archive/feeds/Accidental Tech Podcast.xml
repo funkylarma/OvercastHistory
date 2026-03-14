@@ -1,5 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Thu, 05 Mar 2026 23:55:16 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">bzzrslv3qwt0vhkw</guid><pubDate>Thu, 05 Mar 2026 23:55:16 +0000</pubDate><title>681: The Price of Your Nightmares</title><itunes:title>The Price of Your Nightmares</itunes:title><itunes:episode>681</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:46:54</itunes:duration><enclosure url="https://atp.fm/audio/bzzrslv3qwt0vhkw/atp681.mp3" length="160236299" type="audio/mpeg"/><link>https://atp.fm/681</link><description><![CDATA[<ul>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Accidental Tech Podcast</title><description>Three nerds discussing tech, Apple, programming, and loosely related matters.</description><itunes:author>Marco Arment, Casey Liss, John Siracusa</itunes:author><itunes:subtitle>Three nerds discussing tech, Apple, programming, and loosely related matters.</itunes:subtitle><link>https://atp.fm/</link><language>en</language><lastBuildDate>Thu, 12 Mar 2026 23:42:42 +0000</lastBuildDate><itunes:category text="Technology"/><itunes:image href="https://cdn.atp.fm/artwork"/><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>Marco Arment</itunes:name><itunes:email>atp@marco.org</itunes:email></itunes:owner><copyright>Copyright 2013–2026 Accidental Tech Podcast</copyright><itunes:copyright>Copyright 2013–2026 Accidental Tech Podcast</itunes:copyright><item><guid isPermaLink="false">czfnalruwu5mwfdp</guid><pubDate>Thu, 12 Mar 2026 23:15:48 +0000</pubDate><title>682: Medium Core</title><itunes:title>Medium Core</itunes:title><itunes:episode>682</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:16:48</itunes:duration><enclosure url="https://atp.fm/audio/czfnalruwu5mwfdp/atp682.mp3" length="131338567" type="audio/mpeg"/><link>https://atp.fm/682</link><description><![CDATA[<ul>
+<li>Pre-show: Casey <a href="https://xcancel.com/caseyliss/status/311240395612884992">brings us back</a> to Anniversary Corner
+
+<ul>
+<li><a href="http://atp.fm/4">Related episode of ATP</a></li>
+</ul></li>
+<li>Follow-up:
+
+<ul>
+<li>An explanation for John&#8217;s <a href="https://mastodon.social/@siracusa/116171778118888641">post that broke containment</a> (via Thomas Dickson)</li>
+<li>MacBook Neo
+
+<ul>
+<li>John&#8217;s theory about color &amp; clamshells</li>
+<li>The M1 MacBook Air was <em>American</em> Walmarts only. (via <a href="https://ludosphere.fr/@pl/116196092234861482">Pierre-Luc Gagné</a>)
+
+<ul>
+<li>Aside also via P-L: does the Neo run <a href="https://en.wikipedia.org/wiki/Rosetta_(software)#Rosetta_2">Rosetta 2</a>?</li>
+</ul></li>
+<li>MacBook Neo inputs 🤝 iPad Air inputs (via Andrew Larson)</li>
+<li>SSD speeds (via <a href="https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review">The Verge</a>)</li>
+<li>The  logo
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Nvqvialze1M&amp;t=327s">iPhone 5 intro video</a> is what John was thinking of (via <a href="https://mastodon.world/@peterpuleio/116199630063956093">Peter Puleio</a>)</li>
+<li><a href="https://sixcolors.com/post/2026/03/macbook-neo-review/">Jason&#8217;s review</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=h26FlWu7aDc">Dave2D&#8217;s review</a></li>
+<li><a href="https://www.youtube.com/watch?v=5k7Lv7f-5CQ">Teardown</a></li>
+<li><a href="https://www.youtube.com/watch?v=d-VOt9559Gk">Tyler Stalman on the Neo running &#8220;pro&#8221; apps</a></li>
+</ul></li>
+<li>Performance Cores vs. Super Cores
+
+<ul>
+<li>New in Xcode 24.6β3: <code>CPUFAMILY_ARM_SOTRA</code> (<code>H17S</code>) (via <a href="https://mastodon.social/@bshanks/116200679853105308">Brendan Shanks</a>)
+
+<ul>
+<li><code>H17S</code> is the missing M5 Pro identifier <a href="https://www.macrumors.com/2026/02/04/new-m5-chips-ios-26-3-beta/">from iOS 26.3 RC</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=GfKRbA6I0uw&amp;t=10m15s">Quinn&#8217;s review</a>
+
+<ul>
+<li>M5 Pro &amp; Max are on N3P; M5 is N3E</li>
+<li>Baidu leakers
+
+<ul>
+<li>Super cores (&#8220;P-Core&#8221;)
+
+<ul>
+<li>4.61&#160;GHz</li>
+<li>10-wide decoding</li>
+</ul></li>
+<li>Performance cores (&#8220;M-Core&#8221;)
+
+<ul>
+<li>4.38&#160;GHz</li>
+<li>7-wide decoding</li>
+<li>~70% the performance of a Super Core</li>
+<li>Dual operating mode from efficiency cores</li>
+</ul></li>
+<li>Efficiency cores (&#8220;E-Core&#8221;)
+
+<ul>
+<li>3.05&#160;GHz</li>
+<li>6-wide decoding</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/">Andrew Cunningham at Ars</a>
+
+<ul>
+<li>L2 cache
+
+<ul>
+<li>Super: 16&#160;MB</li>
+<li>Performance: 8&#160;MB</li>
+<li>Efficiency: 6MB</li>
+</ul></li>
+<li><em>Minimum</em> clock speed:
+
+<ul>
+<li>Super: 1,308&#160;MHz</li>
+<li>Performance: 1,344&#160;MHz</li>
+<li>Efficiency: 972&#160;MHz</li>
+</ul></li>
+</ul></li>
+<li>Fusion architecture (via <a href="https://xcancel.com/Frederic_Orange/status/2029160827190677695">Frederic_Orange</a>)</li>
+</ul></li>
+<li>MacBook Pro Storage pricing (via Richard Allen)</li>
+<li>MacBook keyboard glyphs (via <a href="https://zeppelin.flights/@dmoren/116195515837658175">Dan Moren</a>)</li>
+<li>Environmental progress (via <a href="https://esq.social/@andrew/116178492413160630">Andrew Leahey</a>)
+
+<ul>
+<li><a href="https://tostracker.app/entity/apple-inc/environment">TOSTracker</a></li>
+<li><a href="https://tostracker.app/entity/apple-inc/environment/compare?old=macbook-air-m1&amp;new=macbook-air-m5">Example individual comparison</a></li>
+</ul></li>
+<li>Third-party displays (via Dan Boyle)</li>
+<li>Pro Display XDR or Studio Display XDR? (asked by <a href="https://mastodon.social/@imthaz/116195938324468705">Imthaz</a>)</li>
+<li>Studio Display XDR
+
+<ul>
+<li><a href="https://www.testufo.com/">UFO Test</a></li>
+<li><a href="https://www.youtube.com/watch?v=yWI33R4xyIc">MKBHD&#8217;s review</a> states it has 12&#160;GB RAM 🤭</li>
+<li><a href="https://www.apple.com/studio-display-xdr/pdf/Studio_Display_XDR_Technology_Overview_White_Paper.pdf">Studio Display XDR white paper</a> (PDF) (via <a href="https://mastodon.social/@ksliech/116178861387071716">Kevin Sliech</a>)
+
+<ul>
+<li>Superwide viewing angle</li>
+<li>Timing controller (TCON)</li>
+<li>Calibration</li>
+<li>Display optimization modes</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/">Formula 1 news</a>
+
+<ul>
+<li><a href="https://tv.apple.com/us/show/formula-1-drive-to-survive/umc.cmc.4ym1omzf14f4jwcmb7lnu91o0">Drive to Survive</a> (Apple TV link)</li>
+<li><a href="https://tv.apple.com/us/clip/tim-meets-max-at-apple-park/umc.cmc.65gp1x1c1d9xeym8unf6urkjx?targetId=tvs.sbd.4000&amp;targetType=Brand">Dad jokey-est promo video</a> (Also <a href="https://youtu.be/7i_2TJv96Wk">on YouTube</a>)</li>
+<li><a href="https://tv.apple.com/us/clip/a-new-era-of-f1/umc.cmc.6l2cux7cimn1lk2a8ouv3vkk6?targetId=tvs.sbd.4000&amp;targetType=Brand">2026 season preview</a></li>
+<li><a href="https://f1tv.formula1.com">F1TV</a> vs. Apple TV
+
+<ul>
+<li><a href="https://www.formula1.com/en-us/subscribe-to-f1-tv">Link accounts</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=ZQ7_En2xEm4">Romain Grosjean&#8217;s </a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=SA93zbnoR4U&amp;t=1870s">Samsung Galaxy S26 Privacy Display</a>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=FRI78tq9Eik">MKBHD</a></li>
+<li><a href="https://www.youtube.com/watch?v=0ZTRxqVhXJo">The Verge</a></li>
+</ul></li>
+<li>Post-show: Marco&#8217;s <a href="https://www.garmin.com/en-US/c/wearables-smartwatches/">Garmin</a> adventures
+
+<ul>
+<li><a href="https://shorewalkers.org/great-saunter/">Great Saunter</a></li>
+<li><a href="https://www.injinji.com/">Injinji toe socks</a></li>
+<li><a href="https://www.altrarunning.com/en-us/road/mens-torin-8/AL0A85QE.html">Altra Torin 8 wide shoes</a></li>
+<li><a href="https://www.garmin.com/en-US/p/1613801/">Garmin Venu 4&#160;41mm</a></li>
+<li><a href="https://www.garmin.com/en-US/p/1464001/">Garmin Forerunner 570</a></li>
+<li><a href="https://www.garmin.com/en-US/p/1228171/">Garmin Fenix 8</a></li>
+<li><a href="https://www.suunto.com/Products/sports-watches/suunto-race-s/suunto-race-s-all-black/">Suunto Race S</a></li>
+<li><a href="http://www.workoutdoors.net">WorkOutDoors</a></li>
+<li><a href="https://pedometer.app/">Pedometer++</a></li>
+</ul></li>
+<li><a href="https://atp.fm/join">Members-only</a> ATP Overtime: The future of <code>x86_64</code> on macOS
+
+<ul>
+<li><a href="https://www.macrumors.com/2026/02/16/macos-tahoe-26-4-rosetta-2-warnings/">Tahoe 26.4 warnings</a></li>
+<li><a href="https://arstechnica.com/gadgets/2025/06/apple-details-the-end-of-intel-mac-support-and-a-phaseout-for-rosetta-2/">Slightly more detail from Ars Technica</a></li>
+</ul></li>
+</ul>
+
+<p>Sponsored by:</p>
+
+<ul>
+<li><a href="https://squarespace.com/atp">Squarespace</a>: Save 10% off your first purchase of a website or domain using code <strong>atp</strong>.</li>
+<li><a href="https://claude.ai/atp">Claude</a>: Get 50% off your first three months of Claude Pro.</li>
+<li><a href="https://quince.com/atp">Quince</a>: Elevated essentials and staples that last.</li>
+</ul>
+
+<p><a href="https://atp.fm/join">Become a member</a> for ATP Overtime, ad-free episodes, member specials, and our early-release, unedited “bootleg” feed!</p>
+]]></description><itunes:subtitle>MacBook Neo details, Studio Display XDR tech and impressions, Marco tries a Garmin, and Casey tries to watch F1.</itunes:subtitle></item><item><guid isPermaLink="false">bzzrslv3qwt0vhkw</guid><pubDate>Thu, 05 Mar 2026 23:55:16 +0000</pubDate><title>681: The Price of Your Nightmares</title><itunes:title>The Price of Your Nightmares</itunes:title><itunes:episode>681</itunes:episode><itunes:author>ATP</itunes:author><itunes:duration>02:46:54</itunes:duration><enclosure url="https://atp.fm/audio/bzzrslv3qwt0vhkw/atp681.mp3" length="160236299" type="audio/mpeg"/><link>https://atp.fm/681</link><description><![CDATA[<ul>
 <li>Pre-show: <a href="https://autocatalogarchive.com/">The best (but slowest) website on the internet</a>
 
 <ul>
