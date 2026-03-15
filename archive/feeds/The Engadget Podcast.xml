@@ -8,8 +8,8 @@
     <description>A weekly news show where your favorite Engadget editors tear themselves away from their crippling technology addiction, to discuss our collective crippling technology addiction.</description>
     <copyright>© All rights reserved</copyright>
     <language>en</language>
-    <pubDate>Fri, 6 Mar 2026 00:03:28 +0000</pubDate>
-    <lastBuildDate>Fri, 6 Mar 2026 00:03:38 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 23:08:22 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:49:39 +0000</lastBuildDate>
     <image>
       <link>https://art19.com/shows/engadget-pod</link>
       <title>The Engadget Podcast</title>
@@ -28,8 +28,44 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <item>
+      <guid isPermaLink="false">f7dbaec2-198e-4cea-8d42-57d679ceca27</guid>
+      <title>Apple&apos;s $599 MacBook Neo is astounding + EVs in a world of high gas prices</title>
+      <description><![CDATA[<p>Somehow, Apple made a $600 laptop that's actually a joy to use. In this episode, Devindra and Deputy Editor Nathan Ingraham chat about what makes the MacBook Neo so great. And they also dive into the new M4 iPad Air, M5 MacBook Air and M5 Pro/Max MacBook Pros. Also, Roberto Baldwin, SAE International's Sustainability Editor, joins us to chat about the state of EVs today as gas prices explode.</p>
+<p>MacBook Neo review: Apple puts $600 Windows PCs to shame – 1:47</p>
+<p>iPad Air M4 remains Apple’s best overall tablet – 18:05</p>
+<p>Whistleblower claims ex-DOGE employee illegally took social security info on 500 million Americans to their new job – 33:37</p>
+<p>Valve clarifies their outlook on the Steam Machine, it’ll launch in 2026, still no word on price – 36:08</p>
+<p>Grammerly hit with a class action lawsuit for using reporters’ names in an editing ‘expert’ tool – 40:29</p>
+<p>A new study claims every major AI chatbot will help users plan a hate attack or political assassination – 44:03</p>
+<p>What to look for in a used EV with SAE International sustainability editor Roberto Baldwin – 48:31</p>
+<p>Around Engadget – 1:21:04</p>
+]]></description>
+      <pubDate>Thu, 12 Mar 2026 23:08:22 +0000</pubDate>
+      <author>tips@engadget.com (Engadget)</author>
+      <link>https://art19.com/shows/engadget-pod</link>
+      <content:encoded><![CDATA[<p>Somehow, Apple made a $600 laptop that's actually a joy to use. In this episode, Devindra and Deputy Editor Nathan Ingraham chat about what makes the MacBook Neo so great. And they also dive into the new M4 iPad Air, M5 MacBook Air and M5 Pro/Max MacBook Pros. Also, Roberto Baldwin, SAE International's Sustainability Editor, joins us to chat about the state of EVs today as gas prices explode.</p>
+<p>MacBook Neo review: Apple puts $600 Windows PCs to shame – 1:47</p>
+<p>iPad Air M4 remains Apple’s best overall tablet – 18:05</p>
+<p>Whistleblower claims ex-DOGE employee illegally took social security info on 500 million Americans to their new job – 33:37</p>
+<p>Valve clarifies their outlook on the Steam Machine, it’ll launch in 2026, still no word on price – 36:08</p>
+<p>Grammerly hit with a class action lawsuit for using reporters’ names in an editing ‘expert’ tool – 40:29</p>
+<p>A new study claims every major AI chatbot will help users plan a hate attack or political assassination – 44:03</p>
+<p>What to look for in a used EV with SAE International sustainability editor Roberto Baldwin – 48:31</p>
+<p>Around Engadget – 1:21:04</p>
+]]></content:encoded>
+      <enclosure length="80096496" type="audio/mpeg" url="https://injector.simplecastaudio.com/d3dc597c-2303-4fd3-8d9f-9066bd1aaa52/episodes/c1cb67d0-ca13-4eea-a728-f78c75efcb6b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d3dc597c-2303-4fd3-8d9f-9066bd1aaa52&amp;awEpisodeId=c1cb67d0-ca13-4eea-a728-f78c75efcb6b&amp;feed=GyJnPUxL"/>
+      <itunes:title>Apple&apos;s $599 MacBook Neo is astounding + EVs in a world of high gas prices</itunes:title>
+      <itunes:author>Engadget</itunes:author>
+      <itunes:duration>01:22:55</itunes:duration>
+      <itunes:summary></itunes:summary>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>302</itunes:episode>
+    </item>
+    <item>
       <guid isPermaLink="false">0d34d2ef-02cb-40dd-9859-301c99582496</guid>
-      <title>Is the MacBook Neo the one? + Anthropic vs DoD</title>
+      <title>Is the MacBook Neo the one? + Anthropic vs. DoD with Spencer Ackerman</title>
       <description><![CDATA[<p>It's been a wild week for Apple. After announcing a slew of new hardware, the company capped things off with its cheapest laptop ever: the $599 MacBook Neo. It's low on specs, but high on character and value. In this episode, Devindra and Engadget Deputy Editor Nathan Ingraham dive into the MacBook Neo, as well as the refreshed MacBook Air M5, MacBook Pro M5 Pro/Max and iPad Air M4. </p>
 <p>Also, Devindra chats with Spencer Ackerman, author of The Forever Wars and recent Iron Man comics, about the ongoing battle between Anthropic and the Department of Defense. It turns out the DOD still used Claude for attacks on Iran, after banning Anthropic'/s AI last week. And really, what do these AI companies expect to happen when they jump at military contracts?</p>
 <p>Apple announces a the MacBook Neo priced at $599 and it’s shockingly great – 0:53</p>
@@ -60,7 +96,7 @@
 <p> </p>
 ]]></content:encoded>
       <enclosure length="84140557" type="audio/mpeg" url="https://injector.simplecastaudio.com/d3dc597c-2303-4fd3-8d9f-9066bd1aaa52/episodes/700789af-5258-4923-8854-f2428abcbb25/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=d3dc597c-2303-4fd3-8d9f-9066bd1aaa52&amp;awEpisodeId=700789af-5258-4923-8854-f2428abcbb25&amp;feed=GyJnPUxL"/>
-      <itunes:title>Is the MacBook Neo the one? + Anthropic vs DoD</itunes:title>
+      <itunes:title>Is the MacBook Neo the one? + Anthropic vs. DoD with Spencer Ackerman</itunes:title>
       <itunes:author>Engadget</itunes:author>
       <itunes:duration>01:27:08</itunes:duration>
       <itunes:summary></itunes:summary>

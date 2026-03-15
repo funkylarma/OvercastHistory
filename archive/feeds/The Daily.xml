@@ -10,8 +10,8 @@
 Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher.</description>
     <copyright>© 2020-2021 THE NEW YORK TIMES COMPANY; The New York Times encourages the use of RSS feeds for personal use in a news reader or as part of a non-commercial blog, subject to your agreement to our Terms of Service.</copyright>
     <language>en</language>
-    <pubDate>Fri, 13 Mar 2026 09:54:46 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Mar 2026 13:34:28 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Mar 2026 10:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Mar 2026 10:00:11 +0000</lastBuildDate>
     <image>
       <link>https://www.nytimes.com/the-daily</link>
       <title>The Daily</title>
@@ -33,6 +33,39 @@ Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You ca
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
+    <item>
+      <guid isPermaLink="false">65481821-2b66-4e61-bdfa-d1bc037156a1</guid>
+      <title>&apos;The Interview&apos;: How Tragedy, Wealth and Trump Shaped JB Pritzker</title>
+      <description><![CDATA[<p>The governor of Illinois and Trump antagonist has become a national figure for Democrats. Where will that lead?</p>
+<ul>
+ <li>Thoughts? Email us at <strong>theinterview@nytimes.com</strong></li>
+ <li>Watch our show on YouTube: <a href="https://www.youtube.com/@theinterviewpodcast" rel="noopener noreferrer"><strong>youtube.com/@TheInterviewPodcast</strong></a></li>
+ <li>For transcripts and more, visit: <a href="https://www.nytimes.com/column/the-interview" rel="noopener noreferrer"><strong>nytimes.com/theinterview</strong></a></li>
+</ul>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></description>
+      <pubDate>Sat, 14 Mar 2026 10:00:00 +0000</pubDate>
+      <author>thedaily@nytimes.com (The New York Times)</author>
+      <link>https://www.nytimes.com/the-daily</link>
+      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/34e5431c-f7f7-4edd-9b5d-0277e197a71b/ac55fb54-26bb-4ea6-84ef-dc62cd89d764/nyt-podcast-thedaily-ytthumbnail-20-28.jpg" width="1280"/>
+      <content:encoded><![CDATA[<p>The governor of Illinois and Trump antagonist has become a national figure for Democrats. Where will that lead?</p>
+<ul>
+ <li>Thoughts? Email us at <strong>theinterview@nytimes.com</strong></li>
+ <li>Watch our show on YouTube: <a href="https://www.youtube.com/@theinterviewpodcast" rel="noopener noreferrer"><strong>youtube.com/@TheInterviewPodcast</strong></a></li>
+ <li>For transcripts and more, visit: <a href="https://www.nytimes.com/column/the-interview" rel="noopener noreferrer"><strong>nytimes.com/theinterview</strong></a></li>
+</ul>
+<p><p>Subscribe today at <a href="http://nytimes.com/podcasts">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href="https://www.nytimes.com/activate-access/audio?source=podcatcher">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href="https://pcm.adswizz.com">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>]]></content:encoded>
+      <enclosure length="66242092" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/0fdbcb45-20e8-41a9-8121-19bc3009db1c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&amp;awEpisodeId=0fdbcb45-20e8-41a9-8121-19bc3009db1c&amp;feed=Sl5CSM3S"/>
+      <itunes:title>&apos;The Interview&apos;: How Tragedy, Wealth and Trump Shaped JB Pritzker</itunes:title>
+      <itunes:author>The New York Times</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/082bdd7f-2cfd-41ac-b245-e50a79e0e871/a737b463-2e77-4458-b312-d454ebe37189/3000x3000/14interview_pritzker_youtube.jpg?aid=rss_feed"/>
+      <itunes:duration>01:09:00</itunes:duration>
+      <itunes:summary>The governor of Illinois and Trump antagonist has become a national figure for Democrats. Where will that lead? 
+</itunes:summary>
+      <itunes:subtitle>The governor of Illinois and Trump antagonist has become a national figure for Democrats. Where will that lead? 
+</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <guid isPermaLink="false">1c00b847-477a-4f81-ae65-10aca00acbe2</guid>
       <title>The Case of Kristie Metcalfe</title>

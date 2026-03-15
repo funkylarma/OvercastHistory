@@ -6,7 +6,7 @@
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Domestique Cycling Podcast</title>
 
-  <lastBuildDate>Tue, 10 Mar 2026 10:33:08 -0400</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 19:54:48 +0100</lastBuildDate>
   <link>https://www.domestiquecycling.com/</link>
   <language>en-gb</language>
   <copyright>© 2026 Domestique Cycling Podcast</copyright>
@@ -36,6 +36,22 @@
   <itunes:category text="Sports">
     <itunes:category text="Fantasy Sports" />
   </itunes:category>
+  <item>
+    <itunes:title>Alex Carrera - The man behind Tadej Pogacar &amp; Isaac del Toro - Domestique Hotseat Podcast</itunes:title>
+    <title>Alex Carrera - The man behind Tadej Pogacar &amp; Isaac del Toro - Domestique Hotseat Podcast</title>
+    <itunes:summary><![CDATA[One of cycling’s most influential agents joins us on The Hotseat. Alex Carera, founder of the A&amp;J All Sports agency and long-time manager of some of the sport’s biggest stars, including Tadej Pogacar, opens up about talent scouting, guiding young riders through the chaos of the WorldTour, and the realities of managing more than 100 professional cyclists across the globe. From protecting riders during the pressure of the Tour de France to negotiating long contracts and navigating cycling’s...]]></itunes:summary>
+    <description><![CDATA[<p>One of cycling’s most influential agents joins us on The Hotseat. Alex Carera, founder of the A&amp;J All Sports agency and long-time manager of some of the sport’s biggest stars, including Tadej Pogacar, opens up about talent scouting, guiding young riders through the chaos of the WorldTour, and the realities of managing more than 100 professional cyclists across the globe.</p><p>From protecting riders during the pressure of the Tour de France to negotiating long contracts and navigating cycling’s evolving transfer market, Carera offers a rare look inside the business side of the peloton and the responsibilities that come with shaping a champion’s career.</p><p><b>Also in this episode:</b></p><ul><li>How Carera built one of cycling’s largest rider management agencies</li><li>What happened behind the scenes during Pogačar’s 2025 Tour de France</li><li>Why UAE Team Emirates is a long term home for GC talent like Isaac del Toro</li><li>The growing debate around long contracts and buyout clauses in cycling\\</li><li>Carera’s view on a possible transfer market in professional cycling</li><li>The story behind controversial crypto sponsorship deals in the sport</li><li>Why Pogačar uses personal sponsorship money to fund youth teams and charity</li><li>The growing safety concerns when pro riders train on public roads</li></ul>]]></description>
+    <content:encoded><![CDATA[<p>One of cycling’s most influential agents joins us on The Hotseat. Alex Carera, founder of the A&amp;J All Sports agency and long-time manager of some of the sport’s biggest stars, including Tadej Pogacar, opens up about talent scouting, guiding young riders through the chaos of the WorldTour, and the realities of managing more than 100 professional cyclists across the globe.</p><p>From protecting riders during the pressure of the Tour de France to negotiating long contracts and navigating cycling’s evolving transfer market, Carera offers a rare look inside the business side of the peloton and the responsibilities that come with shaping a champion’s career.</p><p><b>Also in this episode:</b></p><ul><li>How Carera built one of cycling’s largest rider management agencies</li><li>What happened behind the scenes during Pogačar’s 2025 Tour de France</li><li>Why UAE Team Emirates is a long term home for GC talent like Isaac del Toro</li><li>The growing debate around long contracts and buyout clauses in cycling\\</li><li>Carera’s view on a possible transfer market in professional cycling</li><li>The story behind controversial crypto sponsorship deals in the sport</li><li>Why Pogačar uses personal sponsorship money to fund youth teams and charity</li><li>The growing safety concerns when pro riders train on public roads</li></ul>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/2498436/episodes/18846129-alex-carrera-the-man-behind-tadej-pogacar-isaac-del-toro-domestique-hotseat-podcast.mp3" length="29863574" type="audio/mpeg" />
+    <itunes:image href="https://storage.buzzsprout.com/o17iyhk2p8dvooxcbai0msoejfqi?.jpg" />
+    <itunes:author>Domestique Cycling</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-18846129</guid>
+    <pubDate>Sat, 14 Mar 2026 06:00:00 +0100</pubDate>
+    <itunes:duration>2485</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <itunes:title>Ayuso vs. Vingegaard in France and del Toro vs. Roglic in Italy - Domestique Cycling Podcast</itunes:title>
     <title>Ayuso vs. Vingegaard in France and del Toro vs. Roglic in Italy - Domestique Cycling Podcast</title>
